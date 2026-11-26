@@ -92,7 +92,7 @@ $$
 **1. 校準**：下注看的是 $`\text{EV} = p \times \text{賠率} - 1`$，所以 $`p`$ 要準。原模型沒有主場優勢，因此再加一層邏輯斯校準：
 
 $$
-p_{\text{主}} = \sigma\!\left(a \cdot \operatorname{logit}\frac{\pi_{\text{主}}}{\pi_{\text{主}} + \pi_{\text{客}}} + b\right)
+p_{\text{主}} = \sigma\!\left(a \cdot \mathrm{logit}\,\frac{\pi_{\text{主}}}{\pi_{\text{主}} + \pi_{\text{客}}} + b\right)
 $$
 
 2016–2026 逐日滾動、留一球季交叉驗證（23,462 場）：
@@ -138,7 +138,7 @@ tsl_predict(檔案, false, 0.05)           % 不更新賽程、只標示 EV > 5%
 **回測**：`tsl_market_backtest` 回答三個問題：
 
 1. **誰比較準**：模型（留一季校準）與市場（去水後勝率中位數）的 log loss。
-2. **模型有沒有市場不知道的資訊**：$`y \sim \sigma(w_{\text{模型}}\operatorname{logit}p_{\text{模型}} + w_{\text{市場}}\operatorname{logit}p_{\text{市場}} + c)`$，$`w_{\text{模型}}`$ 顯著大於 0 才代表模型有額外資訊。
+2. **模型有沒有市場不知道的資訊**：$`y \sim \sigma(w_{\text{模型}}\mathrm{logit}\,p_{\text{模型}} + w_{\text{市場}}\mathrm{logit}\,p_{\text{市場}} + c)`$，$`w_{\text{模型}}`$ 顯著大於 0 才代表模型有額外資訊。
 3. **照模型下注賺不賺**：每場挑 EV 較大的一邊，EV 超過門檻就押 1 單位，計算 ROI 與 95% 信賴區間。
 
 目前賠率資料只完整下載了 2016 與 2026 兩季（2017 下載到一半），`tsl_market_backtest` 的多季回測尚未執行。以下是 2026 球季（2,277 場，DraftKings 收盤賠率，平均抽水 4.13%）的結果。
