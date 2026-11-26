@@ -1,0 +1,2431 @@
+gamePk,date,away_id,away_abbr,away_name,home_id,home_abbr,home_name,away_score,home_score
+490099,2017-04-02,112,CHC,Chicago Cubs,138,STL,St. Louis Cardinals,3,4
+490106,2017-04-02,147,NYY,New York Yankees,139,TB,Tampa Bay Rays,3,7
+490110,2017-04-02,137,SF,San Francisco Giants,109,AZ,Arizona Diamondbacks,5,6
+490098,2017-04-03,144,ATL,Atlanta Braves,121,NYM,New York Mets,0,6
+490100,2017-04-03,114,CLE,Cleveland Indians,140,TEX,Texas Rangers,8,5
+490101,2017-04-03,115,COL,Colorado Rockies,158,MIL,Milwaukee Brewers,7,5
+490103,2017-04-03,118,KC,Kansas City Royals,142,MIN,Minnesota Twins,1,7
+490104,2017-04-03,108,LAA,Los Angeles Angels,133,OAK,Oakland Athletics,2,4
+490105,2017-04-03,146,MIA,Miami Marlins,120,WSH,Washington Nationals,2,4
+490107,2017-04-03,143,PHI,Philadelphia Phillies,113,CIN,Cincinnati Reds,4,3
+490108,2017-04-03,134,PIT,Pittsburgh Pirates,111,BOS,Boston Red Sox,3,5
+490109,2017-04-03,135,SD,San Diego Padres,119,LAD,Los Angeles Dodgers,3,14
+490111,2017-04-03,136,SEA,Seattle Mariners,117,HOU,Houston Astros,0,3
+490112,2017-04-03,141,TOR,Toronto Blue Jays,110,BAL,Baltimore Orioles,2,3
+490102,2017-04-04,116,DET,Detroit Tigers,145,CWS,Chicago White Sox,6,3
+490113,2017-04-04,114,CLE,Cleveland Indians,140,TEX,Texas Rangers,4,3
+490114,2017-04-04,115,COL,Colorado Rockies,158,MIL,Milwaukee Brewers,6,5
+490115,2017-04-04,108,LAA,Los Angeles Angels,133,OAK,Oakland Athletics,7,6
+490116,2017-04-04,147,NYY,New York Yankees,139,TB,Tampa Bay Rays,5,0
+490117,2017-04-04,135,SD,San Diego Padres,119,LAD,Los Angeles Dodgers,4,0
+490118,2017-04-04,137,SF,San Francisco Giants,109,AZ,Arizona Diamondbacks,8,4
+490119,2017-04-04,136,SEA,Seattle Mariners,117,HOU,Houston Astros,1,2
+490136,2017-04-04,112,CHC,Chicago Cubs,138,STL,St. Louis Cardinals,2,1
+490120,2017-04-05,144,ATL,Atlanta Braves,121,NYM,New York Mets,3,1
+490122,2017-04-05,114,CLE,Cleveland Indians,140,TEX,Texas Rangers,9,6
+490123,2017-04-05,115,COL,Colorado Rockies,158,MIL,Milwaukee Brewers,1,6
+490125,2017-04-05,118,KC,Kansas City Royals,142,MIN,Minnesota Twins,1,9
+490126,2017-04-05,108,LAA,Los Angeles Angels,133,OAK,Oakland Athletics,5,0
+490127,2017-04-05,146,MIA,Miami Marlins,120,WSH,Washington Nationals,4,6
+490128,2017-04-05,147,NYY,New York Yankees,139,TB,Tampa Bay Rays,1,4
+490129,2017-04-05,143,PHI,Philadelphia Phillies,113,CIN,Cincinnati Reds,0,2
+490130,2017-04-05,134,PIT,Pittsburgh Pirates,111,BOS,Boston Red Sox,0,3
+490131,2017-04-05,135,SD,San Diego Padres,119,LAD,Los Angeles Dodgers,1,3
+490132,2017-04-05,137,SF,San Francisco Giants,109,AZ,Arizona Diamondbacks,6,8
+490133,2017-04-05,136,SEA,Seattle Mariners,117,HOU,Houston Astros,3,5
+490134,2017-04-05,141,TOR,Toronto Blue Jays,110,BAL,Baltimore Orioles,1,3
+490121,2017-04-06,112,CHC,Chicago Cubs,138,STL,St. Louis Cardinals,6,4
+490135,2017-04-06,144,ATL,Atlanta Braves,121,NYM,New York Mets,2,6
+490137,2017-04-06,115,COL,Colorado Rockies,158,MIL,Milwaukee Brewers,2,1
+490138,2017-04-06,116,DET,Detroit Tigers,145,CWS,Chicago White Sox,2,11
+490139,2017-04-06,118,KC,Kansas City Royals,142,MIN,Minnesota Twins,3,5
+490140,2017-04-06,108,LAA,Los Angeles Angels,133,OAK,Oakland Athletics,1,5
+490141,2017-04-06,146,MIA,Miami Marlins,120,WSH,Washington Nationals,4,3
+490142,2017-04-06,143,PHI,Philadelphia Phillies,113,CIN,Cincinnati Reds,4,7
+490144,2017-04-06,135,SD,San Diego Padres,119,LAD,Los Angeles Dodgers,2,10
+490145,2017-04-06,137,SF,San Francisco Giants,109,AZ,Arizona Diamondbacks,3,9
+490146,2017-04-06,136,SEA,Seattle Mariners,117,HOU,Houston Astros,4,2
+490147,2017-04-06,141,TOR,Toronto Blue Jays,139,TB,Tampa Bay Rays,5,2
+490148,2017-04-07,144,ATL,Atlanta Braves,134,PIT,Pittsburgh Pirates,4,5
+490149,2017-04-07,111,BOS,Boston Red Sox,116,DET,Detroit Tigers,5,6
+490150,2017-04-07,112,CHC,Chicago Cubs,158,MIL,Milwaukee Brewers,1,2
+490151,2017-04-07,113,CIN,Cincinnati Reds,138,STL,St. Louis Cardinals,2,0
+490152,2017-04-07,114,CLE,Cleveland Indians,109,AZ,Arizona Diamondbacks,3,7
+490153,2017-04-07,118,KC,Kansas City Royals,117,HOU,Houston Astros,5,1
+490154,2017-04-07,119,LAD,Los Angeles Dodgers,115,COL,Colorado Rockies,1,2
+490155,2017-04-07,146,MIA,Miami Marlins,121,NYM,New York Mets,7,2
+490156,2017-04-07,142,MIN,Minnesota Twins,145,CWS,Chicago White Sox,3,1
+490157,2017-04-07,147,NYY,New York Yankees,110,BAL,Baltimore Orioles,5,6
+490158,2017-04-07,133,OAK,Oakland Athletics,140,TEX,Texas Rangers,5,10
+490159,2017-04-07,137,SF,San Francisco Giants,135,SD,San Diego Padres,6,7
+490160,2017-04-07,136,SEA,Seattle Mariners,108,LAA,Los Angeles Angels,1,5
+490161,2017-04-07,141,TOR,Toronto Blue Jays,139,TB,Tampa Bay Rays,8,10
+490162,2017-04-07,120,WSH,Washington Nationals,143,PHI,Philadelphia Phillies,7,6
+490163,2017-04-08,144,ATL,Atlanta Braves,134,PIT,Pittsburgh Pirates,4,6
+490164,2017-04-08,111,BOS,Boston Red Sox,116,DET,Detroit Tigers,1,4
+490165,2017-04-08,112,CHC,Chicago Cubs,158,MIL,Milwaukee Brewers,11,6
+490166,2017-04-08,113,CIN,Cincinnati Reds,138,STL,St. Louis Cardinals,4,10
+490167,2017-04-08,114,CLE,Cleveland Indians,109,AZ,Arizona Diamondbacks,2,11
+490168,2017-04-08,118,KC,Kansas City Royals,117,HOU,Houston Astros,7,3
+490169,2017-04-08,119,LAD,Los Angeles Dodgers,115,COL,Colorado Rockies,2,4
+490170,2017-04-08,146,MIA,Miami Marlins,121,NYM,New York Mets,8,1
+490171,2017-04-08,142,MIN,Minnesota Twins,145,CWS,Chicago White Sox,2,6
+490172,2017-04-08,147,NYY,New York Yankees,110,BAL,Baltimore Orioles,4,5
+490173,2017-04-08,133,OAK,Oakland Athletics,140,TEX,Texas Rangers,6,1
+490174,2017-04-08,137,SF,San Francisco Giants,135,SD,San Diego Padres,1,2
+490175,2017-04-08,136,SEA,Seattle Mariners,108,LAA,Los Angeles Angels,4,5
+490176,2017-04-08,141,TOR,Toronto Blue Jays,139,TB,Tampa Bay Rays,2,3
+490177,2017-04-08,120,WSH,Washington Nationals,143,PHI,Philadelphia Phillies,3,17
+490178,2017-04-09,144,ATL,Atlanta Braves,134,PIT,Pittsburgh Pirates,5,6
+490179,2017-04-09,111,BOS,Boston Red Sox,116,DET,Detroit Tigers,7,5
+490180,2017-04-09,112,CHC,Chicago Cubs,158,MIL,Milwaukee Brewers,7,4
+490181,2017-04-09,113,CIN,Cincinnati Reds,138,STL,St. Louis Cardinals,8,0
+490182,2017-04-09,114,CLE,Cleveland Indians,109,AZ,Arizona Diamondbacks,2,3
+490183,2017-04-09,118,KC,Kansas City Royals,117,HOU,Houston Astros,4,5
+490184,2017-04-09,119,LAD,Los Angeles Dodgers,115,COL,Colorado Rockies,10,6
+490185,2017-04-09,146,MIA,Miami Marlins,121,NYM,New York Mets,2,5
+490186,2017-04-09,142,MIN,Minnesota Twins,145,CWS,Chicago White Sox,4,1
+490187,2017-04-09,147,NYY,New York Yankees,110,BAL,Baltimore Orioles,7,3
+490188,2017-04-09,133,OAK,Oakland Athletics,140,TEX,Texas Rangers,1,8
+490189,2017-04-09,137,SF,San Francisco Giants,135,SD,San Diego Padres,5,3
+490190,2017-04-09,136,SEA,Seattle Mariners,108,LAA,Los Angeles Angels,9,10
+490191,2017-04-09,141,TOR,Toronto Blue Jays,139,TB,Tampa Bay Rays,2,7
+490192,2017-04-09,120,WSH,Washington Nationals,143,PHI,Philadelphia Phillies,3,4
+490193,2017-04-10,109,AZ,Arizona Diamondbacks,137,SF,San Francisco Giants,1,4
+490194,2017-04-10,111,BOS,Boston Red Sox,116,DET,Detroit Tigers,1,2
+490195,2017-04-10,113,CIN,Cincinnati Reds,134,PIT,Pittsburgh Pirates,7,1
+490196,2017-04-10,117,HOU,Houston Astros,136,SEA,Seattle Mariners,0,6
+490197,2017-04-10,119,LAD,Los Angeles Dodgers,112,CHC,Chicago Cubs,2,3
+490198,2017-04-10,121,NYM,New York Mets,143,PHI,Philadelphia Phillies,4,3
+490199,2017-04-10,133,OAK,Oakland Athletics,118,KC,Kansas City Royals,2,0
+490200,2017-04-10,135,SD,San Diego Padres,115,COL,Colorado Rockies,5,3
+490201,2017-04-10,138,STL,St. Louis Cardinals,120,WSH,Washington Nationals,6,14
+490202,2017-04-10,139,TB,Tampa Bay Rays,147,NYY,New York Yankees,1,8
+490203,2017-04-11,109,AZ,Arizona Diamondbacks,137,SF,San Francisco Giants,4,3
+490204,2017-04-11,144,ATL,Atlanta Braves,146,MIA,Miami Marlins,4,8
+490205,2017-04-11,110,BAL,Baltimore Orioles,111,BOS,Boston Red Sox,1,8
+490206,2017-04-11,145,CWS,Chicago White Sox,114,CLE,Cleveland Indians,1,2
+490207,2017-04-11,113,CIN,Cincinnati Reds,134,PIT,Pittsburgh Pirates,6,2
+490208,2017-04-11,117,HOU,Houston Astros,136,SEA,Seattle Mariners,7,5
+490209,2017-04-11,158,MIL,Milwaukee Brewers,141,TOR,Toronto Blue Jays,4,3
+490210,2017-04-11,142,MIN,Minnesota Twins,116,DET,Detroit Tigers,1,2
+490211,2017-04-11,121,NYM,New York Mets,143,PHI,Philadelphia Phillies,14,4
+490212,2017-04-11,135,SD,San Diego Padres,115,COL,Colorado Rockies,2,3
+490213,2017-04-11,138,STL,St. Louis Cardinals,120,WSH,Washington Nationals,3,8
+490214,2017-04-11,140,TEX,Texas Rangers,108,LAA,Los Angeles Angels,5,6
+490215,2017-04-12,109,AZ,Arizona Diamondbacks,137,SF,San Francisco Giants,2,6
+490216,2017-04-12,144,ATL,Atlanta Braves,146,MIA,Miami Marlins,5,4
+490217,2017-04-12,110,BAL,Baltimore Orioles,111,BOS,Boston Red Sox,12,5
+490218,2017-04-12,145,CWS,Chicago White Sox,114,CLE,Cleveland Indians,2,1
+490219,2017-04-12,113,CIN,Cincinnati Reds,134,PIT,Pittsburgh Pirates,9,2
+490220,2017-04-12,117,HOU,Houston Astros,136,SEA,Seattle Mariners,10,5
+490221,2017-04-12,119,LAD,Los Angeles Dodgers,112,CHC,Chicago Cubs,2,0
+490222,2017-04-12,158,MIL,Milwaukee Brewers,141,TOR,Toronto Blue Jays,2,0
+490223,2017-04-12,142,MIN,Minnesota Twins,116,DET,Detroit Tigers,3,5
+490224,2017-04-12,121,NYM,New York Mets,143,PHI,Philadelphia Phillies,5,4
+490225,2017-04-12,133,OAK,Oakland Athletics,118,KC,Kansas City Royals,8,3
+490226,2017-04-12,135,SD,San Diego Padres,115,COL,Colorado Rockies,6,0
+490227,2017-04-12,138,STL,St. Louis Cardinals,120,WSH,Washington Nationals,6,1
+490228,2017-04-12,139,TB,Tampa Bay Rays,147,NYY,New York Yankees,4,8
+490229,2017-04-12,140,TEX,Texas Rangers,108,LAA,Los Angeles Angels,8,3
+490143,2017-04-13,134,PIT,Pittsburgh Pirates,111,BOS,Boston Red Sox,3,4
+490230,2017-04-13,110,BAL,Baltimore Orioles,141,TOR,Toronto Blue Jays,2,1
+490231,2017-04-13,145,CWS,Chicago White Sox,114,CLE,Cleveland Indians,10,4
+490232,2017-04-13,115,COL,Colorado Rockies,137,SF,San Francisco Giants,3,1
+490233,2017-04-13,119,LAD,Los Angeles Dodgers,112,CHC,Chicago Cubs,0,4
+490234,2017-04-13,158,MIL,Milwaukee Brewers,113,CIN,Cincinnati Reds,5,1
+490235,2017-04-13,142,MIN,Minnesota Twins,116,DET,Detroit Tigers,11,5
+490236,2017-04-13,121,NYM,New York Mets,146,MIA,Miami Marlins,9,8
+490237,2017-04-13,133,OAK,Oakland Athletics,118,KC,Kansas City Royals,1,3
+490238,2017-04-13,139,TB,Tampa Bay Rays,147,NYY,New York Yankees,2,3
+490239,2017-04-13,140,TEX,Texas Rangers,108,LAA,Los Angeles Angels,8,3
+490240,2017-04-14,109,AZ,Arizona Diamondbacks,119,LAD,Los Angeles Dodgers,1,7
+490241,2017-04-14,110,BAL,Baltimore Orioles,141,TOR,Toronto Blue Jays,6,4
+490242,2017-04-14,145,CWS,Chicago White Sox,142,MIN,Minnesota Twins,2,1
+490243,2017-04-14,115,COL,Colorado Rockies,137,SF,San Francisco Giants,2,8
+490244,2017-04-14,116,DET,Detroit Tigers,114,CLE,Cleveland Indians,7,6
+490245,2017-04-14,117,HOU,Houston Astros,133,OAK,Oakland Athletics,7,2
+490246,2017-04-14,108,LAA,Los Angeles Angels,118,KC,Kansas City Royals,1,7
+490247,2017-04-14,158,MIL,Milwaukee Brewers,113,CIN,Cincinnati Reds,10,4
+490248,2017-04-14,121,NYM,New York Mets,146,MIA,Miami Marlins,2,3
+490249,2017-04-14,143,PHI,Philadelphia Phillies,120,WSH,Washington Nationals,2,3
+490250,2017-04-14,134,PIT,Pittsburgh Pirates,112,CHC,Chicago Cubs,4,2
+490251,2017-04-14,135,SD,San Diego Padres,144,ATL,Atlanta Braves,2,5
+490252,2017-04-14,138,STL,St. Louis Cardinals,147,NYY,New York Yankees,3,4
+490253,2017-04-14,139,TB,Tampa Bay Rays,111,BOS,Boston Red Sox,10,5
+490254,2017-04-14,140,TEX,Texas Rangers,136,SEA,Seattle Mariners,1,2
+490255,2017-04-15,109,AZ,Arizona Diamondbacks,119,LAD,Los Angeles Dodgers,4,8
+490256,2017-04-15,110,BAL,Baltimore Orioles,141,TOR,Toronto Blue Jays,1,2
+490257,2017-04-15,145,CWS,Chicago White Sox,142,MIN,Minnesota Twins,0,6
+490258,2017-04-15,115,COL,Colorado Rockies,137,SF,San Francisco Giants,5,0
+490259,2017-04-15,116,DET,Detroit Tigers,114,CLE,Cleveland Indians,6,13
+490260,2017-04-15,117,HOU,Houston Astros,133,OAK,Oakland Athletics,10,6
+490261,2017-04-15,108,LAA,Los Angeles Angels,118,KC,Kansas City Royals,2,3
+490262,2017-04-15,158,MIL,Milwaukee Brewers,113,CIN,Cincinnati Reds,5,7
+490263,2017-04-15,121,NYM,New York Mets,146,MIA,Miami Marlins,4,5
+490264,2017-04-15,143,PHI,Philadelphia Phillies,120,WSH,Washington Nationals,4,2
+490265,2017-04-15,134,PIT,Pittsburgh Pirates,112,CHC,Chicago Cubs,8,7
+490266,2017-04-15,135,SD,San Diego Padres,144,ATL,Atlanta Braves,2,4
+490267,2017-04-15,138,STL,St. Louis Cardinals,147,NYY,New York Yankees,2,3
+490268,2017-04-15,139,TB,Tampa Bay Rays,111,BOS,Boston Red Sox,1,2
+490269,2017-04-15,140,TEX,Texas Rangers,136,SEA,Seattle Mariners,0,5
+490270,2017-04-16,109,AZ,Arizona Diamondbacks,119,LAD,Los Angeles Dodgers,3,1
+490271,2017-04-16,110,BAL,Baltimore Orioles,141,TOR,Toronto Blue Jays,11,4
+490272,2017-04-16,145,CWS,Chicago White Sox,142,MIN,Minnesota Twins,3,1
+490273,2017-04-16,115,COL,Colorado Rockies,137,SF,San Francisco Giants,4,3
+490274,2017-04-16,116,DET,Detroit Tigers,114,CLE,Cleveland Indians,4,1
+490276,2017-04-16,108,LAA,Los Angeles Angels,118,KC,Kansas City Royals,0,1
+490277,2017-04-16,158,MIL,Milwaukee Brewers,113,CIN,Cincinnati Reds,4,2
+490278,2017-04-16,121,NYM,New York Mets,146,MIA,Miami Marlins,2,4
+490279,2017-04-16,143,PHI,Philadelphia Phillies,120,WSH,Washington Nationals,4,6
+490280,2017-04-16,134,PIT,Pittsburgh Pirates,112,CHC,Chicago Cubs,6,1
+490281,2017-04-16,135,SD,San Diego Padres,144,ATL,Atlanta Braves,2,9
+490282,2017-04-16,138,STL,St. Louis Cardinals,147,NYY,New York Yankees,3,9
+490283,2017-04-16,139,TB,Tampa Bay Rays,111,BOS,Boston Red Sox,5,7
+490284,2017-04-16,140,TEX,Texas Rangers,136,SEA,Seattle Mariners,7,8
+490285,2017-04-17,109,AZ,Arizona Diamondbacks,119,LAD,Los Angeles Dodgers,4,2
+490286,2017-04-17,145,CWS,Chicago White Sox,147,NYY,New York Yankees,4,7
+490287,2017-04-17,114,CLE,Cleveland Indians,142,MIN,Minnesota Twins,3,1
+490288,2017-04-17,108,LAA,Los Angeles Angels,117,HOU,Houston Astros,0,3
+490289,2017-04-17,146,MIA,Miami Marlins,136,SEA,Seattle Mariners,1,6
+490290,2017-04-17,158,MIL,Milwaukee Brewers,112,CHC,Chicago Cubs,6,3
+490291,2017-04-17,134,PIT,Pittsburgh Pirates,138,STL,St. Louis Cardinals,1,2
+490292,2017-04-17,135,SD,San Diego Padres,144,ATL,Atlanta Braves,4,5
+490293,2017-04-17,139,TB,Tampa Bay Rays,111,BOS,Boston Red Sox,3,4
+490294,2017-04-17,140,TEX,Texas Rangers,133,OAK,Oakland Athletics,7,0
+490295,2017-04-18,109,AZ,Arizona Diamondbacks,135,SD,San Diego Padres,11,2
+490296,2017-04-18,110,BAL,Baltimore Orioles,113,CIN,Cincinnati Reds,3,9
+490297,2017-04-18,111,BOS,Boston Red Sox,141,TOR,Toronto Blue Jays,8,7
+490298,2017-04-18,145,CWS,Chicago White Sox,147,NYY,New York Yankees,4,1
+490299,2017-04-18,114,CLE,Cleveland Indians,142,MIN,Minnesota Twins,11,4
+490300,2017-04-18,115,COL,Colorado Rockies,119,LAD,Los Angeles Dodgers,4,3
+490301,2017-04-18,116,DET,Detroit Tigers,139,TB,Tampa Bay Rays,1,5
+490302,2017-04-18,108,LAA,Los Angeles Angels,117,HOU,Houston Astros,5,2
+490303,2017-04-18,146,MIA,Miami Marlins,136,SEA,Seattle Mariners,5,0
+490304,2017-04-18,158,MIL,Milwaukee Brewers,112,CHC,Chicago Cubs,7,9
+490305,2017-04-18,143,PHI,Philadelphia Phillies,121,NYM,New York Mets,6,2
+490306,2017-04-18,134,PIT,Pittsburgh Pirates,138,STL,St. Louis Cardinals,1,2
+490307,2017-04-18,137,SF,San Francisco Giants,118,KC,Kansas City Royals,2,1
+490308,2017-04-18,140,TEX,Texas Rangers,133,OAK,Oakland Athletics,2,4
+490309,2017-04-18,120,WSH,Washington Nationals,144,ATL,Atlanta Braves,3,1
+490310,2017-04-19,109,AZ,Arizona Diamondbacks,135,SD,San Diego Padres,0,1
+490311,2017-04-19,110,BAL,Baltimore Orioles,113,CIN,Cincinnati Reds,2,0
+490312,2017-04-19,111,BOS,Boston Red Sox,141,TOR,Toronto Blue Jays,0,3
+490313,2017-04-19,145,CWS,Chicago White Sox,147,NYY,New York Yankees,1,9
+490315,2017-04-19,115,COL,Colorado Rockies,119,LAD,Los Angeles Dodgers,2,4
+490316,2017-04-19,116,DET,Detroit Tigers,139,TB,Tampa Bay Rays,7,8
+490317,2017-04-19,108,LAA,Los Angeles Angels,117,HOU,Houston Astros,1,5
+490318,2017-04-19,146,MIA,Miami Marlins,136,SEA,Seattle Mariners,5,10
+490319,2017-04-19,158,MIL,Milwaukee Brewers,112,CHC,Chicago Cubs,4,7
+490320,2017-04-19,143,PHI,Philadelphia Phillies,121,NYM,New York Mets,4,5
+490321,2017-04-19,134,PIT,Pittsburgh Pirates,138,STL,St. Louis Cardinals,1,2
+490322,2017-04-19,137,SF,San Francisco Giants,118,KC,Kansas City Royals,0,2
+490323,2017-04-19,140,TEX,Texas Rangers,133,OAK,Oakland Athletics,1,9
+490324,2017-04-19,120,WSH,Washington Nationals,144,ATL,Atlanta Braves,14,4
+490325,2017-04-20,109,AZ,Arizona Diamondbacks,135,SD,San Diego Padres,1,4
+490326,2017-04-20,110,BAL,Baltimore Orioles,113,CIN,Cincinnati Reds,2,1
+490327,2017-04-20,111,BOS,Boston Red Sox,141,TOR,Toronto Blue Jays,4,1
+490328,2017-04-20,114,CLE,Cleveland Indians,142,MIN,Minnesota Twins,6,2
+490329,2017-04-20,116,DET,Detroit Tigers,139,TB,Tampa Bay Rays,1,8
+490330,2017-04-20,118,KC,Kansas City Royals,140,TEX,Texas Rangers,0,1
+490331,2017-04-20,108,LAA,Los Angeles Angels,117,HOU,Houston Astros,1,2
+490332,2017-04-20,143,PHI,Philadelphia Phillies,121,NYM,New York Mets,6,4
+490333,2017-04-20,136,SEA,Seattle Mariners,133,OAK,Oakland Athletics,6,9
+490334,2017-04-20,138,STL,St. Louis Cardinals,158,MIL,Milwaukee Brewers,5,7
+490335,2017-04-20,120,WSH,Washington Nationals,144,ATL,Atlanta Braves,3,2
+490336,2017-04-21,144,ATL,Atlanta Braves,143,PHI,Philadelphia Phillies,3,4
+490337,2017-04-21,111,BOS,Boston Red Sox,110,BAL,Baltimore Orioles,0,2
+490338,2017-04-21,112,CHC,Chicago Cubs,113,CIN,Cincinnati Reds,6,5
+490339,2017-04-21,114,CLE,Cleveland Indians,145,CWS,Chicago White Sox,3,0
+490340,2017-04-21,116,DET,Detroit Tigers,142,MIN,Minnesota Twins,3,6
+490341,2017-04-21,117,HOU,Houston Astros,139,TB,Tampa Bay Rays,6,3
+490342,2017-04-21,118,KC,Kansas City Royals,140,TEX,Texas Rangers,2,6
+490343,2017-04-21,119,LAD,Los Angeles Dodgers,109,AZ,Arizona Diamondbacks,5,13
+490344,2017-04-21,146,MIA,Miami Marlins,135,SD,San Diego Padres,3,5
+490345,2017-04-21,147,NYY,New York Yankees,134,PIT,Pittsburgh Pirates,3,6
+490346,2017-04-21,137,SF,San Francisco Giants,115,COL,Colorado Rockies,5,6
+490347,2017-04-21,136,SEA,Seattle Mariners,133,OAK,Oakland Athletics,1,3
+490348,2017-04-21,138,STL,St. Louis Cardinals,158,MIL,Milwaukee Brewers,6,3
+490349,2017-04-21,141,TOR,Toronto Blue Jays,108,LAA,Los Angeles Angels,8,7
+490350,2017-04-21,120,WSH,Washington Nationals,121,NYM,New York Mets,4,3
+490351,2017-04-22,144,ATL,Atlanta Braves,143,PHI,Philadelphia Phillies,3,4
+490352,2017-04-22,111,BOS,Boston Red Sox,110,BAL,Baltimore Orioles,2,4
+490353,2017-04-22,112,CHC,Chicago Cubs,113,CIN,Cincinnati Reds,12,8
+490354,2017-04-22,114,CLE,Cleveland Indians,145,CWS,Chicago White Sox,7,0
+490355,2017-04-22,116,DET,Detroit Tigers,142,MIN,Minnesota Twins,5,4
+490356,2017-04-22,117,HOU,Houston Astros,139,TB,Tampa Bay Rays,3,6
+490357,2017-04-22,118,KC,Kansas City Royals,140,TEX,Texas Rangers,1,2
+490358,2017-04-22,119,LAD,Los Angeles Dodgers,109,AZ,Arizona Diamondbacks,5,11
+490359,2017-04-22,146,MIA,Miami Marlins,135,SD,San Diego Padres,6,3
+490360,2017-04-22,147,NYY,New York Yankees,134,PIT,Pittsburgh Pirates,11,5
+490361,2017-04-22,137,SF,San Francisco Giants,115,COL,Colorado Rockies,3,12
+490362,2017-04-22,136,SEA,Seattle Mariners,133,OAK,Oakland Athletics,3,4
+490363,2017-04-22,138,STL,St. Louis Cardinals,158,MIL,Milwaukee Brewers,4,1
+490364,2017-04-22,141,TOR,Toronto Blue Jays,108,LAA,Los Angeles Angels,4,5
+490365,2017-04-22,120,WSH,Washington Nationals,121,NYM,New York Mets,3,1
+490366,2017-04-23,144,ATL,Atlanta Braves,143,PHI,Philadelphia Phillies,2,5
+490367,2017-04-23,111,BOS,Boston Red Sox,110,BAL,Baltimore Orioles,6,2
+490368,2017-04-23,112,CHC,Chicago Cubs,113,CIN,Cincinnati Reds,5,7
+490369,2017-04-23,114,CLE,Cleveland Indians,145,CWS,Chicago White Sox,2,6
+490370,2017-04-23,116,DET,Detroit Tigers,142,MIN,Minnesota Twins,13,4
+490371,2017-04-23,117,HOU,Houston Astros,139,TB,Tampa Bay Rays,6,4
+490372,2017-04-23,118,KC,Kansas City Royals,140,TEX,Texas Rangers,2,5
+490373,2017-04-23,119,LAD,Los Angeles Dodgers,109,AZ,Arizona Diamondbacks,6,2
+490374,2017-04-23,146,MIA,Miami Marlins,135,SD,San Diego Padres,7,3
+490375,2017-04-23,147,NYY,New York Yankees,134,PIT,Pittsburgh Pirates,1,2
+490376,2017-04-23,137,SF,San Francisco Giants,115,COL,Colorado Rockies,0,8
+490377,2017-04-23,136,SEA,Seattle Mariners,133,OAK,Oakland Athletics,11,1
+490378,2017-04-23,138,STL,St. Louis Cardinals,158,MIL,Milwaukee Brewers,6,4
+490379,2017-04-23,141,TOR,Toronto Blue Jays,108,LAA,Los Angeles Angels,6,2
+490380,2017-04-23,120,WSH,Washington Nationals,121,NYM,New York Mets,6,3
+490381,2017-04-24,112,CHC,Chicago Cubs,134,PIT,Pittsburgh Pirates,14,3
+490382,2017-04-24,113,CIN,Cincinnati Reds,158,MIL,Milwaukee Brewers,7,11
+490383,2017-04-24,118,KC,Kansas City Royals,145,CWS,Chicago White Sox,1,12
+490384,2017-04-24,119,LAD,Los Angeles Dodgers,137,SF,San Francisco Giants,1,2
+490385,2017-04-24,142,MIN,Minnesota Twins,140,TEX,Texas Rangers,3,2
+490386,2017-04-24,135,SD,San Diego Padres,109,AZ,Arizona Diamondbacks,6,7
+490387,2017-04-24,139,TB,Tampa Bay Rays,110,BAL,Baltimore Orioles,3,6
+490388,2017-04-24,141,TOR,Toronto Blue Jays,108,LAA,Los Angeles Angels,1,2
+490389,2017-04-24,120,WSH,Washington Nationals,115,COL,Colorado Rockies,4,8
+490391,2017-04-25,112,CHC,Chicago Cubs,134,PIT,Pittsburgh Pirates,1,0
+490392,2017-04-25,113,CIN,Cincinnati Reds,158,MIL,Milwaukee Brewers,1,9
+490393,2017-04-25,117,HOU,Houston Astros,114,CLE,Cleveland Indians,4,2
+490394,2017-04-25,118,KC,Kansas City Royals,145,CWS,Chicago White Sox,5,10
+490395,2017-04-25,119,LAD,Los Angeles Dodgers,137,SF,San Francisco Giants,2,1
+490397,2017-04-25,142,MIN,Minnesota Twins,140,TEX,Texas Rangers,8,1
+490399,2017-04-25,133,OAK,Oakland Athletics,108,LAA,Los Angeles Angels,1,2
+490400,2017-04-25,135,SD,San Diego Padres,109,AZ,Arizona Diamondbacks,3,9
+490401,2017-04-25,136,SEA,Seattle Mariners,116,DET,Detroit Tigers,9,19
+490402,2017-04-25,139,TB,Tampa Bay Rays,110,BAL,Baltimore Orioles,2,0
+490403,2017-04-25,141,TOR,Toronto Blue Jays,138,STL,St. Louis Cardinals,6,5
+490404,2017-04-25,120,WSH,Washington Nationals,115,COL,Colorado Rockies,15,12
+490405,2017-04-26,144,ATL,Atlanta Braves,121,NYM,New York Mets,8,2
+490406,2017-04-26,112,CHC,Chicago Cubs,134,PIT,Pittsburgh Pirates,5,6
+490407,2017-04-26,113,CIN,Cincinnati Reds,158,MIL,Milwaukee Brewers,4,9
+490408,2017-04-26,117,HOU,Houston Astros,114,CLE,Cleveland Indians,6,7
+490409,2017-04-26,118,KC,Kansas City Royals,145,CWS,Chicago White Sox,2,5
+490410,2017-04-26,119,LAD,Los Angeles Dodgers,137,SF,San Francisco Giants,3,4
+490411,2017-04-26,146,MIA,Miami Marlins,143,PHI,Philadelphia Phillies,4,7
+490412,2017-04-26,142,MIN,Minnesota Twins,140,TEX,Texas Rangers,3,14
+490413,2017-04-26,147,NYY,New York Yankees,111,BOS,Boston Red Sox,3,1
+490414,2017-04-26,133,OAK,Oakland Athletics,108,LAA,Los Angeles Angels,5,8
+490415,2017-04-26,135,SD,San Diego Padres,109,AZ,Arizona Diamondbacks,8,5
+490416,2017-04-26,136,SEA,Seattle Mariners,116,DET,Detroit Tigers,8,0
+490417,2017-04-26,139,TB,Tampa Bay Rays,110,BAL,Baltimore Orioles,4,5
+490419,2017-04-26,120,WSH,Washington Nationals,115,COL,Colorado Rockies,11,4
+490418,2017-04-27,141,TOR,Toronto Blue Jays,138,STL,St. Louis Cardinals,4,6
+490420,2017-04-27,144,ATL,Atlanta Braves,121,NYM,New York Mets,7,5
+490421,2017-04-27,117,HOU,Houston Astros,114,CLE,Cleveland Indians,3,4
+490422,2017-04-27,119,LAD,Los Angeles Dodgers,137,SF,San Francisco Giants,5,1
+490423,2017-04-27,146,MIA,Miami Marlins,143,PHI,Philadelphia Phillies,2,3
+490424,2017-04-27,147,NYY,New York Yankees,111,BOS,Boston Red Sox,3,0
+490425,2017-04-27,133,OAK,Oakland Athletics,108,LAA,Los Angeles Angels,1,2
+490426,2017-04-27,135,SD,San Diego Padres,109,AZ,Arizona Diamondbacks,2,6
+490427,2017-04-27,136,SEA,Seattle Mariners,116,DET,Detroit Tigers,2,1
+490428,2017-04-27,141,TOR,Toronto Blue Jays,138,STL,St. Louis Cardinals,4,8
+490429,2017-04-27,120,WSH,Washington Nationals,115,COL,Colorado Rockies,16,5
+490430,2017-04-28,144,ATL,Atlanta Braves,158,MIL,Milwaukee Brewers,10,8
+490431,2017-04-28,110,BAL,Baltimore Orioles,147,NYY,New York Yankees,11,14
+490432,2017-04-28,112,CHC,Chicago Cubs,111,BOS,Boston Red Sox,4,5
+490433,2017-04-28,145,CWS,Chicago White Sox,116,DET,Detroit Tigers,7,3
+490434,2017-04-28,113,CIN,Cincinnati Reds,138,STL,St. Louis Cardinals,5,7
+490435,2017-04-28,115,COL,Colorado Rockies,109,AZ,Arizona Diamondbacks,3,1
+490436,2017-04-28,108,LAA,Los Angeles Angels,140,TEX,Texas Rangers,6,3
+490437,2017-04-28,142,MIN,Minnesota Twins,118,KC,Kansas City Royals,6,4
+490438,2017-04-28,121,NYM,New York Mets,120,WSH,Washington Nationals,7,5
+490439,2017-04-28,133,OAK,Oakland Athletics,117,HOU,Houston Astros,4,9
+490440,2017-04-28,143,PHI,Philadelphia Phillies,119,LAD,Los Angeles Dodgers,3,5
+490441,2017-04-28,134,PIT,Pittsburgh Pirates,146,MIA,Miami Marlins,12,2
+490442,2017-04-28,135,SD,San Diego Padres,137,SF,San Francisco Giants,3,4
+490443,2017-04-28,136,SEA,Seattle Mariners,114,CLE,Cleveland Indians,3,1
+490444,2017-04-28,139,TB,Tampa Bay Rays,141,TOR,Toronto Blue Jays,7,4
+490445,2017-04-29,144,ATL,Atlanta Braves,158,MIL,Milwaukee Brewers,11,3
+490446,2017-04-29,110,BAL,Baltimore Orioles,147,NYY,New York Yankees,4,12
+490447,2017-04-29,112,CHC,Chicago Cubs,111,BOS,Boston Red Sox,7,4
+490448,2017-04-29,145,CWS,Chicago White Sox,116,DET,Detroit Tigers,6,4
+490450,2017-04-29,115,COL,Colorado Rockies,109,AZ,Arizona Diamondbacks,7,6
+490451,2017-04-29,108,LAA,Los Angeles Angels,140,TEX,Texas Rangers,3,6
+490453,2017-04-29,121,NYM,New York Mets,120,WSH,Washington Nationals,5,3
+490454,2017-04-29,133,OAK,Oakland Athletics,117,HOU,Houston Astros,2,1
+490455,2017-04-29,143,PHI,Philadelphia Phillies,119,LAD,Los Angeles Dodgers,5,6
+490456,2017-04-29,134,PIT,Pittsburgh Pirates,146,MIA,Miami Marlins,4,0
+490457,2017-04-29,135,SD,San Diego Padres,137,SF,San Francisco Giants,12,4
+490458,2017-04-29,136,SEA,Seattle Mariners,114,CLE,Cleveland Indians,3,4
+490459,2017-04-29,139,TB,Tampa Bay Rays,141,TOR,Toronto Blue Jays,1,4
+490460,2017-04-30,144,ATL,Atlanta Braves,158,MIL,Milwaukee Brewers,3,4
+490461,2017-04-30,110,BAL,Baltimore Orioles,147,NYY,New York Yankees,7,4
+490462,2017-04-30,112,CHC,Chicago Cubs,111,BOS,Boston Red Sox,2,6
+490463,2017-04-30,145,CWS,Chicago White Sox,116,DET,Detroit Tigers,3,7
+490464,2017-04-30,113,CIN,Cincinnati Reds,138,STL,St. Louis Cardinals,5,4
+490465,2017-04-30,115,COL,Colorado Rockies,109,AZ,Arizona Diamondbacks,0,2
+490466,2017-04-30,108,LAA,Los Angeles Angels,140,TEX,Texas Rangers,5,2
+490467,2017-04-30,142,MIN,Minnesota Twins,118,KC,Kansas City Royals,7,5
+490468,2017-04-30,121,NYM,New York Mets,120,WSH,Washington Nationals,5,23
+490469,2017-04-30,133,OAK,Oakland Athletics,117,HOU,Houston Astros,2,7
+490470,2017-04-30,143,PHI,Philadelphia Phillies,119,LAD,Los Angeles Dodgers,3,5
+490471,2017-04-30,134,PIT,Pittsburgh Pirates,146,MIA,Miami Marlins,3,10
+490472,2017-04-30,135,SD,San Diego Padres,137,SF,San Francisco Giants,5,2
+490473,2017-04-30,136,SEA,Seattle Mariners,114,CLE,Cleveland Indians,4,12
+490474,2017-04-30,139,TB,Tampa Bay Rays,141,TOR,Toronto Blue Jays,1,3
+490475,2017-05-01,110,BAL,Baltimore Orioles,111,BOS,Boston Red Sox,5,2
+490476,2017-05-01,145,CWS,Chicago White Sox,118,KC,Kansas City Royals,1,6
+490477,2017-05-01,114,CLE,Cleveland Indians,116,DET,Detroit Tigers,1,7
+490478,2017-05-01,158,MIL,Milwaukee Brewers,138,STL,St. Louis Cardinals,7,5
+490479,2017-05-01,121,NYM,New York Mets,144,ATL,Atlanta Braves,7,5
+490480,2017-05-01,143,PHI,Philadelphia Phillies,112,CHC,Chicago Cubs,10,2
+490481,2017-05-01,134,PIT,Pittsburgh Pirates,113,CIN,Cincinnati Reds,3,4
+490482,2017-05-01,137,SF,San Francisco Giants,119,LAD,Los Angeles Dodgers,4,3
+490483,2017-05-01,139,TB,Tampa Bay Rays,146,MIA,Miami Marlins,4,2
+490484,2017-05-01,140,TEX,Texas Rangers,117,HOU,Houston Astros,2,6
+490485,2017-05-01,141,TOR,Toronto Blue Jays,147,NYY,New York Yankees,7,1
+490486,2017-05-02,109,AZ,Arizona Diamondbacks,120,WSH,Washington Nationals,6,3
+490487,2017-05-02,110,BAL,Baltimore Orioles,111,BOS,Boston Red Sox,2,5
+490488,2017-05-02,145,CWS,Chicago White Sox,118,KC,Kansas City Royals,6,0
+490489,2017-05-02,114,CLE,Cleveland Indians,116,DET,Detroit Tigers,2,5
+490490,2017-05-02,115,COL,Colorado Rockies,135,SD,San Diego Padres,2,6
+490491,2017-05-02,108,LAA,Los Angeles Angels,136,SEA,Seattle Mariners,6,4
+490492,2017-05-02,158,MIL,Milwaukee Brewers,138,STL,St. Louis Cardinals,1,2
+490493,2017-05-02,121,NYM,New York Mets,144,ATL,Atlanta Braves,7,9
+490494,2017-05-02,133,OAK,Oakland Athletics,142,MIN,Minnesota Twins,1,9
+490495,2017-05-02,143,PHI,Philadelphia Phillies,112,CHC,Chicago Cubs,3,8
+490496,2017-05-02,134,PIT,Pittsburgh Pirates,113,CIN,Cincinnati Reds,12,3
+490497,2017-05-02,137,SF,San Francisco Giants,119,LAD,Los Angeles Dodgers,5,13
+490498,2017-05-02,139,TB,Tampa Bay Rays,146,MIA,Miami Marlins,3,1
+490499,2017-05-02,140,TEX,Texas Rangers,117,HOU,Houston Astros,7,8
+490500,2017-05-02,141,TOR,Toronto Blue Jays,147,NYY,New York Yankees,5,11
+490501,2017-05-03,109,AZ,Arizona Diamondbacks,120,WSH,Washington Nationals,1,2
+490502,2017-05-03,110,BAL,Baltimore Orioles,111,BOS,Boston Red Sox,2,4
+490503,2017-05-03,145,CWS,Chicago White Sox,118,KC,Kansas City Royals,1,6
+490504,2017-05-03,114,CLE,Cleveland Indians,116,DET,Detroit Tigers,3,2
+490505,2017-05-03,115,COL,Colorado Rockies,135,SD,San Diego Padres,11,3
+490506,2017-05-03,108,LAA,Los Angeles Angels,136,SEA,Seattle Mariners,7,8
+490507,2017-05-03,146,MIA,Miami Marlins,139,TB,Tampa Bay Rays,10,6
+490509,2017-05-03,121,NYM,New York Mets,144,ATL,Atlanta Braves,16,5
+490510,2017-05-03,133,OAK,Oakland Athletics,142,MIN,Minnesota Twins,4,7
+490511,2017-05-03,143,PHI,Philadelphia Phillies,112,CHC,Chicago Cubs,4,5
+490512,2017-05-03,134,PIT,Pittsburgh Pirates,113,CIN,Cincinnati Reds,2,7
+490513,2017-05-03,137,SF,San Francisco Giants,119,LAD,Los Angeles Dodgers,4,1
+490514,2017-05-03,140,TEX,Texas Rangers,117,HOU,Houston Astros,1,10
+490515,2017-05-03,141,TOR,Toronto Blue Jays,147,NYY,New York Yankees,6,8
+490516,2017-05-04,109,AZ,Arizona Diamondbacks,120,WSH,Washington Nationals,2,4
+490517,2017-05-04,110,BAL,Baltimore Orioles,111,BOS,Boston Red Sox,8,3
+490518,2017-05-04,145,CWS,Chicago White Sox,118,KC,Kansas City Royals,8,3
+490520,2017-05-04,115,COL,Colorado Rockies,135,SD,San Diego Padres,3,2
+490521,2017-05-04,108,LAA,Los Angeles Angels,136,SEA,Seattle Mariners,3,11
+490522,2017-05-04,146,MIA,Miami Marlins,139,TB,Tampa Bay Rays,1,5
+490523,2017-05-04,158,MIL,Milwaukee Brewers,138,STL,St. Louis Cardinals,5,4
+490525,2017-05-04,133,OAK,Oakland Athletics,142,MIN,Minnesota Twins,8,5
+490526,2017-05-04,143,PHI,Philadelphia Phillies,112,CHC,Chicago Cubs,4,5
+490527,2017-05-04,134,PIT,Pittsburgh Pirates,113,CIN,Cincinnati Reds,2,4
+490528,2017-05-04,140,TEX,Texas Rangers,117,HOU,Houston Astros,10,4
+490529,2017-05-05,109,AZ,Arizona Diamondbacks,115,COL,Colorado Rockies,6,3
+490530,2017-05-05,111,BOS,Boston Red Sox,142,MIN,Minnesota Twins,3,4
+490531,2017-05-05,145,CWS,Chicago White Sox,110,BAL,Baltimore Orioles,2,4
+490532,2017-05-05,114,CLE,Cleveland Indians,118,KC,Kansas City Royals,1,3
+490533,2017-05-05,116,DET,Detroit Tigers,133,OAK,Oakland Athletics,7,2
+490534,2017-05-05,117,HOU,Houston Astros,108,LAA,Los Angeles Angels,7,6
+490535,2017-05-05,119,LAD,Los Angeles Dodgers,135,SD,San Diego Padres,8,2
+490536,2017-05-05,146,MIA,Miami Marlins,121,NYM,New York Mets,7,8
+490537,2017-05-05,158,MIL,Milwaukee Brewers,134,PIT,Pittsburgh Pirates,0,4
+490538,2017-05-05,147,NYY,New York Yankees,112,CHC,Chicago Cubs,3,2
+490539,2017-05-05,137,SF,San Francisco Giants,113,CIN,Cincinnati Reds,3,13
+490540,2017-05-05,138,STL,St. Louis Cardinals,144,ATL,Atlanta Braves,10,0
+490541,2017-05-05,140,TEX,Texas Rangers,136,SEA,Seattle Mariners,3,1
+490542,2017-05-05,141,TOR,Toronto Blue Jays,139,TB,Tampa Bay Rays,8,4
+490543,2017-05-05,120,WSH,Washington Nationals,143,PHI,Philadelphia Phillies,4,2
+490544,2017-05-06,109,AZ,Arizona Diamondbacks,115,COL,Colorado Rockies,1,9
+490545,2017-05-06,111,BOS,Boston Red Sox,142,MIN,Minnesota Twins,11,1
+490546,2017-05-06,145,CWS,Chicago White Sox,110,BAL,Baltimore Orioles,5,6
+490547,2017-05-06,114,CLE,Cleveland Indians,118,KC,Kansas City Royals,3,1
+490548,2017-05-06,116,DET,Detroit Tigers,133,OAK,Oakland Athletics,5,6
+490549,2017-05-06,117,HOU,Houston Astros,108,LAA,Los Angeles Angels,1,2
+490550,2017-05-06,119,LAD,Los Angeles Dodgers,135,SD,San Diego Padres,10,2
+490551,2017-05-06,146,MIA,Miami Marlins,121,NYM,New York Mets,3,11
+490552,2017-05-06,158,MIL,Milwaukee Brewers,134,PIT,Pittsburgh Pirates,1,2
+490553,2017-05-06,147,NYY,New York Yankees,112,CHC,Chicago Cubs,11,6
+490554,2017-05-06,137,SF,San Francisco Giants,113,CIN,Cincinnati Reds,2,14
+490555,2017-05-06,138,STL,St. Louis Cardinals,144,ATL,Atlanta Braves,5,3
+490556,2017-05-06,140,TEX,Texas Rangers,136,SEA,Seattle Mariners,2,8
+490557,2017-05-06,141,TOR,Toronto Blue Jays,139,TB,Tampa Bay Rays,1,6
+490558,2017-05-06,120,WSH,Washington Nationals,143,PHI,Philadelphia Phillies,6,2
+490559,2017-05-07,109,AZ,Arizona Diamondbacks,115,COL,Colorado Rockies,2,5
+490560,2017-05-07,111,BOS,Boston Red Sox,142,MIN,Minnesota Twins,17,6
+490561,2017-05-07,145,CWS,Chicago White Sox,110,BAL,Baltimore Orioles,0,4
+490562,2017-05-07,114,CLE,Cleveland Indians,118,KC,Kansas City Royals,1,0
+490563,2017-05-07,116,DET,Detroit Tigers,133,OAK,Oakland Athletics,6,8
+490564,2017-05-07,117,HOU,Houston Astros,108,LAA,Los Angeles Angels,5,3
+490566,2017-05-07,146,MIA,Miami Marlins,121,NYM,New York Mets,7,0
+490567,2017-05-07,158,MIL,Milwaukee Brewers,134,PIT,Pittsburgh Pirates,6,2
+490568,2017-05-07,147,NYY,New York Yankees,112,CHC,Chicago Cubs,5,4
+490569,2017-05-07,137,SF,San Francisco Giants,113,CIN,Cincinnati Reds,0,4
+490570,2017-05-07,138,STL,St. Louis Cardinals,144,ATL,Atlanta Braves,6,4
+490571,2017-05-07,140,TEX,Texas Rangers,136,SEA,Seattle Mariners,3,4
+490572,2017-05-07,141,TOR,Toronto Blue Jays,139,TB,Tampa Bay Rays,2,1
+490573,2017-05-07,120,WSH,Washington Nationals,143,PHI,Philadelphia Phillies,5,6
+490575,2017-05-08,114,CLE,Cleveland Indians,141,TOR,Toronto Blue Jays,2,4
+490576,2017-05-08,118,KC,Kansas City Royals,139,TB,Tampa Bay Rays,7,3
+490577,2017-05-08,108,LAA,Los Angeles Angels,133,OAK,Oakland Athletics,2,3
+490578,2017-05-08,147,NYY,New York Yankees,113,CIN,Cincinnati Reds,10,4
+490579,2017-05-08,134,PIT,Pittsburgh Pirates,119,LAD,Los Angeles Dodgers,1,12
+490580,2017-05-08,137,SF,San Francisco Giants,121,NYM,New York Mets,3,4
+490581,2017-05-08,140,TEX,Texas Rangers,135,SD,San Diego Padres,1,5
+490582,2017-05-08,120,WSH,Washington Nationals,110,BAL,Baltimore Orioles,4,6
+490623,2017-05-08,138,STL,St. Louis Cardinals,146,MIA,Miami Marlins,9,4
+490574,2017-05-09,112,CHC,Chicago Cubs,115,COL,Colorado Rockies,4,10
+490583,2017-05-09,144,ATL,Atlanta Braves,117,HOU,Houston Astros,3,8
+490584,2017-05-09,111,BOS,Boston Red Sox,158,MIL,Milwaukee Brewers,7,11
+490585,2017-05-09,112,CHC,Chicago Cubs,115,COL,Colorado Rockies,8,1
+490586,2017-05-09,114,CLE,Cleveland Indians,141,TOR,Toronto Blue Jays,6,0
+490587,2017-05-09,116,DET,Detroit Tigers,109,AZ,Arizona Diamondbacks,7,3
+490588,2017-05-09,118,KC,Kansas City Royals,139,TB,Tampa Bay Rays,7,6
+490589,2017-05-09,108,LAA,Los Angeles Angels,133,OAK,Oakland Athletics,7,3
+490590,2017-05-09,142,MIN,Minnesota Twins,145,CWS,Chicago White Sox,7,2
+490591,2017-05-09,147,NYY,New York Yankees,113,CIN,Cincinnati Reds,3,5
+490592,2017-05-09,134,PIT,Pittsburgh Pirates,119,LAD,Los Angeles Dodgers,3,4
+490593,2017-05-09,137,SF,San Francisco Giants,121,NYM,New York Mets,1,6
+490594,2017-05-09,136,SEA,Seattle Mariners,143,PHI,Philadelphia Phillies,10,9
+490595,2017-05-09,138,STL,St. Louis Cardinals,146,MIA,Miami Marlins,6,5
+490596,2017-05-09,140,TEX,Texas Rangers,135,SD,San Diego Padres,11,0
+490597,2017-05-09,120,WSH,Washington Nationals,110,BAL,Baltimore Orioles,4,5
+490598,2017-05-10,144,ATL,Atlanta Braves,117,HOU,Houston Astros,2,4
+490599,2017-05-10,110,BAL,Baltimore Orioles,120,WSH,Washington Nationals,6,7
+490600,2017-05-10,111,BOS,Boston Red Sox,158,MIL,Milwaukee Brewers,4,7
+490601,2017-05-10,112,CHC,Chicago Cubs,115,COL,Colorado Rockies,0,3
+490602,2017-05-10,114,CLE,Cleveland Indians,141,TOR,Toronto Blue Jays,7,8
+490603,2017-05-10,116,DET,Detroit Tigers,109,AZ,Arizona Diamondbacks,1,7
+490604,2017-05-10,118,KC,Kansas City Royals,139,TB,Tampa Bay Rays,1,12
+490605,2017-05-10,108,LAA,Los Angeles Angels,133,OAK,Oakland Athletics,1,3
+490607,2017-05-10,134,PIT,Pittsburgh Pirates,119,LAD,Los Angeles Dodgers,2,5
+490608,2017-05-10,135,SD,San Diego Padres,140,TEX,Texas Rangers,3,4
+490609,2017-05-10,137,SF,San Francisco Giants,121,NYM,New York Mets,6,5
+490610,2017-05-10,136,SEA,Seattle Mariners,143,PHI,Philadelphia Phillies,11,6
+490611,2017-05-10,138,STL,St. Louis Cardinals,146,MIA,Miami Marlins,7,5
+490613,2017-05-11,111,BOS,Boston Red Sox,158,MIL,Milwaukee Brewers,4,1
+490614,2017-05-11,113,CIN,Cincinnati Reds,137,SF,San Francisco Giants,3,2
+490615,2017-05-11,116,DET,Detroit Tigers,108,LAA,Los Angeles Angels,7,1
+490616,2017-05-11,117,HOU,Houston Astros,147,NYY,New York Yankees,3,2
+490617,2017-05-11,118,KC,Kansas City Royals,139,TB,Tampa Bay Rays,6,0
+490618,2017-05-11,119,LAD,Los Angeles Dodgers,115,COL,Colorado Rockies,7,10
+490619,2017-05-11,142,MIN,Minnesota Twins,145,CWS,Chicago White Sox,7,6
+490620,2017-05-11,134,PIT,Pittsburgh Pirates,109,AZ,Arizona Diamondbacks,1,2
+490621,2017-05-11,135,SD,San Diego Padres,140,TEX,Texas Rangers,2,5
+490622,2017-05-11,136,SEA,Seattle Mariners,141,TOR,Toronto Blue Jays,2,7
+490624,2017-05-12,144,ATL,Atlanta Braves,146,MIA,Miami Marlins,8,4
+490625,2017-05-12,110,BAL,Baltimore Orioles,118,KC,Kansas City Royals,2,3
+490626,2017-05-12,112,CHC,Chicago Cubs,138,STL,St. Louis Cardinals,3,2
+490627,2017-05-12,113,CIN,Cincinnati Reds,137,SF,San Francisco Giants,2,3
+490628,2017-05-12,116,DET,Detroit Tigers,108,LAA,Los Angeles Angels,0,7
+490629,2017-05-12,117,HOU,Houston Astros,147,NYY,New York Yankees,5,1
+490630,2017-05-12,119,LAD,Los Angeles Dodgers,115,COL,Colorado Rockies,6,2
+490631,2017-05-12,142,MIN,Minnesota Twins,114,CLE,Cleveland Indians,1,0
+490632,2017-05-12,121,NYM,New York Mets,158,MIL,Milwaukee Brewers,4,7
+490633,2017-05-12,133,OAK,Oakland Athletics,140,TEX,Texas Rangers,2,5
+490635,2017-05-12,134,PIT,Pittsburgh Pirates,109,AZ,Arizona Diamondbacks,4,11
+490636,2017-05-12,135,SD,San Diego Padres,145,CWS,Chicago White Sox,6,3
+490637,2017-05-12,136,SEA,Seattle Mariners,141,TOR,Toronto Blue Jays,0,4
+490638,2017-05-12,139,TB,Tampa Bay Rays,111,BOS,Boston Red Sox,5,4
+490639,2017-05-13,144,ATL,Atlanta Braves,146,MIA,Miami Marlins,3,1
+490640,2017-05-13,110,BAL,Baltimore Orioles,118,KC,Kansas City Royals,3,4
+490641,2017-05-13,112,CHC,Chicago Cubs,138,STL,St. Louis Cardinals,3,5
+490642,2017-05-13,113,CIN,Cincinnati Reds,137,SF,San Francisco Giants,1,3
+490643,2017-05-13,116,DET,Detroit Tigers,108,LAA,Los Angeles Angels,4,3
+490645,2017-05-13,119,LAD,Los Angeles Dodgers,115,COL,Colorado Rockies,4,0
+490646,2017-05-13,142,MIN,Minnesota Twins,114,CLE,Cleveland Indians,4,1
+490647,2017-05-13,121,NYM,New York Mets,158,MIL,Milwaukee Brewers,4,11
+490648,2017-05-13,133,OAK,Oakland Athletics,140,TEX,Texas Rangers,5,6
+490649,2017-05-13,143,PHI,Philadelphia Phillies,120,WSH,Washington Nationals,4,6
+490650,2017-05-13,134,PIT,Pittsburgh Pirates,109,AZ,Arizona Diamondbacks,4,3
+490651,2017-05-13,135,SD,San Diego Padres,145,CWS,Chicago White Sox,4,5
+490652,2017-05-13,136,SEA,Seattle Mariners,141,TOR,Toronto Blue Jays,2,7
+490653,2017-05-13,139,TB,Tampa Bay Rays,111,BOS,Boston Red Sox,3,6
+490634,2017-05-14,143,PHI,Philadelphia Phillies,120,WSH,Washington Nationals,5,6
+490644,2017-05-14,117,HOU,Houston Astros,147,NYY,New York Yankees,10,7
+490654,2017-05-14,144,ATL,Atlanta Braves,146,MIA,Miami Marlins,1,3
+490655,2017-05-14,110,BAL,Baltimore Orioles,118,KC,Kansas City Royals,8,9
+490656,2017-05-14,112,CHC,Chicago Cubs,138,STL,St. Louis Cardinals,0,5
+490657,2017-05-14,113,CIN,Cincinnati Reds,137,SF,San Francisco Giants,3,8
+490658,2017-05-14,116,DET,Detroit Tigers,108,LAA,Los Angeles Angels,1,4
+490659,2017-05-14,117,HOU,Houston Astros,147,NYY,New York Yankees,6,11
+490660,2017-05-14,119,LAD,Los Angeles Dodgers,115,COL,Colorado Rockies,6,9
+490661,2017-05-14,142,MIN,Minnesota Twins,114,CLE,Cleveland Indians,3,8
+490662,2017-05-14,121,NYM,New York Mets,158,MIL,Milwaukee Brewers,9,11
+490663,2017-05-14,133,OAK,Oakland Athletics,140,TEX,Texas Rangers,4,6
+490664,2017-05-14,143,PHI,Philadelphia Phillies,120,WSH,Washington Nationals,4,3
+490665,2017-05-14,134,PIT,Pittsburgh Pirates,109,AZ,Arizona Diamondbacks,6,4
+490666,2017-05-14,135,SD,San Diego Padres,145,CWS,Chicago White Sox,3,9
+490667,2017-05-14,136,SEA,Seattle Mariners,141,TOR,Toronto Blue Jays,2,3
+490668,2017-05-14,139,TB,Tampa Bay Rays,111,BOS,Boston Red Sox,11,2
+490669,2017-05-15,144,ATL,Atlanta Braves,141,TOR,Toronto Blue Jays,10,6
+490670,2017-05-15,145,CWS,Chicago White Sox,108,LAA,Los Angeles Angels,3,5
+490671,2017-05-15,117,HOU,Houston Astros,146,MIA,Miami Marlins,7,2
+490672,2017-05-15,119,LAD,Los Angeles Dodgers,137,SF,San Francisco Giants,4,8
+490673,2017-05-15,158,MIL,Milwaukee Brewers,135,SD,San Diego Padres,5,6
+490674,2017-05-15,121,NYM,New York Mets,109,AZ,Arizona Diamondbacks,3,7
+490675,2017-05-15,133,OAK,Oakland Athletics,136,SEA,Seattle Mariners,5,6
+490676,2017-05-15,139,TB,Tampa Bay Rays,114,CLE,Cleveland Indians,7,8
+490677,2017-05-16,144,ATL,Atlanta Braves,141,TOR,Toronto Blue Jays,9,5
+490678,2017-05-16,110,BAL,Baltimore Orioles,116,DET,Detroit Tigers,13,11
+490679,2017-05-16,111,BOS,Boston Red Sox,138,STL,St. Louis Cardinals,6,3
+490680,2017-05-16,145,CWS,Chicago White Sox,108,LAA,Los Angeles Angels,6,7
+490681,2017-05-16,113,CIN,Cincinnati Reds,112,CHC,Chicago Cubs,5,9
+490682,2017-05-16,115,COL,Colorado Rockies,142,MIN,Minnesota Twins,7,3
+490683,2017-05-16,117,HOU,Houston Astros,146,MIA,Miami Marlins,12,2
+490684,2017-05-16,119,LAD,Los Angeles Dodgers,137,SF,San Francisco Giants,1,2
+490685,2017-05-16,158,MIL,Milwaukee Brewers,135,SD,San Diego Padres,6,2
+490686,2017-05-16,121,NYM,New York Mets,109,AZ,Arizona Diamondbacks,4,5
+490687,2017-05-16,147,NYY,New York Yankees,118,KC,Kansas City Royals,7,1
+490688,2017-05-16,133,OAK,Oakland Athletics,136,SEA,Seattle Mariners,9,6
+490689,2017-05-16,143,PHI,Philadelphia Phillies,140,TEX,Texas Rangers,1,5
+490690,2017-05-16,139,TB,Tampa Bay Rays,114,CLE,Cleveland Indians,6,4
+490691,2017-05-16,120,WSH,Washington Nationals,134,PIT,Pittsburgh Pirates,8,4
+490692,2017-05-17,110,BAL,Baltimore Orioles,116,DET,Detroit Tigers,4,5
+490693,2017-05-17,111,BOS,Boston Red Sox,138,STL,St. Louis Cardinals,5,4
+490694,2017-05-17,145,CWS,Chicago White Sox,108,LAA,Los Angeles Angels,8,12
+490695,2017-05-17,113,CIN,Cincinnati Reds,112,CHC,Chicago Cubs,5,7
+490697,2017-05-17,117,HOU,Houston Astros,146,MIA,Miami Marlins,3,0
+490698,2017-05-17,119,LAD,Los Angeles Dodgers,137,SF,San Francisco Giants,6,1
+490699,2017-05-17,158,MIL,Milwaukee Brewers,135,SD,San Diego Padres,3,1
+490700,2017-05-17,121,NYM,New York Mets,109,AZ,Arizona Diamondbacks,4,5
+490701,2017-05-17,147,NYY,New York Yankees,118,KC,Kansas City Royals,11,7
+490702,2017-05-17,133,OAK,Oakland Athletics,136,SEA,Seattle Mariners,0,4
+490703,2017-05-17,143,PHI,Philadelphia Phillies,140,TEX,Texas Rangers,3,9
+490704,2017-05-17,139,TB,Tampa Bay Rays,114,CLE,Cleveland Indians,7,4
+490705,2017-05-17,141,TOR,Toronto Blue Jays,144,ATL,Atlanta Braves,4,8
+490706,2017-05-17,120,WSH,Washington Nationals,134,PIT,Pittsburgh Pirates,1,6
+490696,2017-05-18,115,COL,Colorado Rockies,142,MIN,Minnesota Twins,0,2
+490707,2017-05-18,110,BAL,Baltimore Orioles,116,DET,Detroit Tigers,5,6
+490708,2017-05-18,111,BOS,Boston Red Sox,133,OAK,Oakland Athletics,3,8
+490709,2017-05-18,145,CWS,Chicago White Sox,136,SEA,Seattle Mariners,4,5
+490710,2017-05-18,113,CIN,Cincinnati Reds,112,CHC,Chicago Cubs,5,9
+490711,2017-05-18,115,COL,Colorado Rockies,142,MIN,Minnesota Twins,5,1
+490712,2017-05-18,146,MIA,Miami Marlins,119,LAD,Los Angeles Dodgers,2,7
+490713,2017-05-18,158,MIL,Milwaukee Brewers,135,SD,San Diego Padres,4,2
+490714,2017-05-18,147,NYY,New York Yankees,118,KC,Kansas City Royals,1,5
+490715,2017-05-18,143,PHI,Philadelphia Phillies,140,TEX,Texas Rangers,4,8
+490716,2017-05-18,141,TOR,Toronto Blue Jays,144,ATL,Atlanta Braves,9,0
+490717,2017-05-18,120,WSH,Washington Nationals,134,PIT,Pittsburgh Pirates,4,10
+490718,2017-05-19,109,AZ,Arizona Diamondbacks,135,SD,San Diego Padres,10,1
+490719,2017-05-19,111,BOS,Boston Red Sox,133,OAK,Oakland Athletics,2,3
+490720,2017-05-19,145,CWS,Chicago White Sox,136,SEA,Seattle Mariners,2,1
+490721,2017-05-19,114,CLE,Cleveland Indians,117,HOU,Houston Astros,5,3
+490722,2017-05-19,115,COL,Colorado Rockies,113,CIN,Cincinnati Reds,12,6
+490723,2017-05-19,118,KC,Kansas City Royals,142,MIN,Minnesota Twins,3,4
+490724,2017-05-19,108,LAA,Los Angeles Angels,121,NYM,New York Mets,0,3
+490725,2017-05-19,146,MIA,Miami Marlins,119,LAD,Los Angeles Dodgers,2,7
+490726,2017-05-19,158,MIL,Milwaukee Brewers,112,CHC,Chicago Cubs,6,3
+490727,2017-05-19,147,NYY,New York Yankees,139,TB,Tampa Bay Rays,4,5
+490728,2017-05-19,143,PHI,Philadelphia Phillies,134,PIT,Pittsburgh Pirates,7,2
+490729,2017-05-19,137,SF,San Francisco Giants,138,STL,St. Louis Cardinals,6,5
+490730,2017-05-19,140,TEX,Texas Rangers,116,DET,Detroit Tigers,5,3
+490731,2017-05-19,141,TOR,Toronto Blue Jays,110,BAL,Baltimore Orioles,3,5
+490732,2017-05-19,120,WSH,Washington Nationals,144,ATL,Atlanta Braves,4,7
+490733,2017-05-20,109,AZ,Arizona Diamondbacks,135,SD,San Diego Padres,9,1
+490734,2017-05-20,111,BOS,Boston Red Sox,133,OAK,Oakland Athletics,3,8
+490735,2017-05-20,145,CWS,Chicago White Sox,136,SEA,Seattle Mariners,16,1
+490736,2017-05-20,114,CLE,Cleveland Indians,117,HOU,Houston Astros,3,0
+490737,2017-05-20,115,COL,Colorado Rockies,113,CIN,Cincinnati Reds,8,12
+490739,2017-05-20,108,LAA,Los Angeles Angels,121,NYM,New York Mets,5,7
+490740,2017-05-20,146,MIA,Miami Marlins,119,LAD,Los Angeles Dodgers,10,6
+490742,2017-05-20,147,NYY,New York Yankees,139,TB,Tampa Bay Rays,5,9
+490743,2017-05-20,143,PHI,Philadelphia Phillies,134,PIT,Pittsburgh Pirates,3,6
+490744,2017-05-20,137,SF,San Francisco Giants,138,STL,St. Louis Cardinals,3,1
+490745,2017-05-20,140,TEX,Texas Rangers,116,DET,Detroit Tigers,3,9
+490746,2017-05-20,141,TOR,Toronto Blue Jays,110,BAL,Baltimore Orioles,5,7
+490747,2017-05-20,120,WSH,Washington Nationals,144,ATL,Atlanta Braves,2,5
+490738,2017-05-21,118,KC,Kansas City Royals,142,MIN,Minnesota Twins,4,8
+490748,2017-05-21,109,AZ,Arizona Diamondbacks,135,SD,San Diego Padres,1,5
+490749,2017-05-21,111,BOS,Boston Red Sox,133,OAK,Oakland Athletics,12,3
+490750,2017-05-21,145,CWS,Chicago White Sox,136,SEA,Seattle Mariners,8,1
+490751,2017-05-21,114,CLE,Cleveland Indians,117,HOU,Houston Astros,8,6
+490752,2017-05-21,115,COL,Colorado Rockies,113,CIN,Cincinnati Reds,6,4
+490753,2017-05-21,118,KC,Kansas City Royals,142,MIN,Minnesota Twins,6,4
+490754,2017-05-21,108,LAA,Los Angeles Angels,121,NYM,New York Mets,12,5
+490755,2017-05-21,146,MIA,Miami Marlins,119,LAD,Los Angeles Dodgers,3,6
+490756,2017-05-21,158,MIL,Milwaukee Brewers,112,CHC,Chicago Cubs,6,13
+490757,2017-05-21,147,NYY,New York Yankees,139,TB,Tampa Bay Rays,3,2
+490758,2017-05-21,143,PHI,Philadelphia Phillies,134,PIT,Pittsburgh Pirates,0,1
+490759,2017-05-21,137,SF,San Francisco Giants,138,STL,St. Louis Cardinals,3,8
+490760,2017-05-21,140,TEX,Texas Rangers,116,DET,Detroit Tigers,5,2
+490761,2017-05-21,141,TOR,Toronto Blue Jays,110,BAL,Baltimore Orioles,3,1
+490762,2017-05-21,120,WSH,Washington Nationals,144,ATL,Atlanta Braves,3,2
+490763,2017-05-22,145,CWS,Chicago White Sox,109,AZ,Arizona Diamondbacks,1,5
+490764,2017-05-22,114,CLE,Cleveland Indians,113,CIN,Cincinnati Reds,1,5
+490765,2017-05-22,115,COL,Colorado Rockies,143,PHI,Philadelphia Phillies,8,1
+490766,2017-05-22,116,DET,Detroit Tigers,117,HOU,Houston Astros,0,1
+490767,2017-05-22,118,KC,Kansas City Royals,147,NYY,New York Yankees,2,4
+490768,2017-05-22,108,LAA,Los Angeles Angels,139,TB,Tampa Bay Rays,3,2
+490769,2017-05-22,142,MIN,Minnesota Twins,110,BAL,Baltimore Orioles,14,7
+490770,2017-05-22,134,PIT,Pittsburgh Pirates,144,ATL,Atlanta Braves,2,5
+490771,2017-05-22,137,SF,San Francisco Giants,112,CHC,Chicago Cubs,6,4
+490772,2017-05-23,145,CWS,Chicago White Sox,109,AZ,Arizona Diamondbacks,4,5
+490773,2017-05-23,114,CLE,Cleveland Indians,113,CIN,Cincinnati Reds,8,7
+490774,2017-05-23,115,COL,Colorado Rockies,143,PHI,Philadelphia Phillies,8,2
+490775,2017-05-23,116,DET,Detroit Tigers,117,HOU,Houston Astros,2,6
+490776,2017-05-23,118,KC,Kansas City Royals,147,NYY,New York Yankees,6,2
+490777,2017-05-23,108,LAA,Los Angeles Angels,139,TB,Tampa Bay Rays,4,0
+490778,2017-05-23,146,MIA,Miami Marlins,133,OAK,Oakland Athletics,11,9
+490779,2017-05-23,142,MIN,Minnesota Twins,110,BAL,Baltimore Orioles,2,0
+490780,2017-05-23,134,PIT,Pittsburgh Pirates,144,ATL,Atlanta Braves,5,6
+490781,2017-05-23,135,SD,San Diego Padres,121,NYM,New York Mets,3,9
+490782,2017-05-23,137,SF,San Francisco Giants,112,CHC,Chicago Cubs,1,4
+490783,2017-05-23,136,SEA,Seattle Mariners,120,WSH,Washington Nationals,1,10
+490784,2017-05-23,138,STL,St. Louis Cardinals,119,LAD,Los Angeles Dodgers,1,2
+490785,2017-05-23,140,TEX,Texas Rangers,111,BOS,Boston Red Sox,6,11
+490786,2017-05-23,141,TOR,Toronto Blue Jays,158,MIL,Milwaukee Brewers,4,3
+490787,2017-05-24,145,CWS,Chicago White Sox,109,AZ,Arizona Diamondbacks,6,8
+490788,2017-05-24,113,CIN,Cincinnati Reds,114,CLE,Cleveland Indians,4,3
+490789,2017-05-24,115,COL,Colorado Rockies,143,PHI,Philadelphia Phillies,7,2
+490790,2017-05-24,116,DET,Detroit Tigers,117,HOU,Houston Astros,6,3
+490791,2017-05-24,118,KC,Kansas City Royals,147,NYY,New York Yankees,0,3
+490792,2017-05-24,108,LAA,Los Angeles Angels,139,TB,Tampa Bay Rays,2,5
+490793,2017-05-24,146,MIA,Miami Marlins,133,OAK,Oakland Athletics,1,4
+490794,2017-05-24,142,MIN,Minnesota Twins,110,BAL,Baltimore Orioles,4,3
+490795,2017-05-24,134,PIT,Pittsburgh Pirates,144,ATL,Atlanta Braves,12,5
+490796,2017-05-24,135,SD,San Diego Padres,121,NYM,New York Mets,6,5
+490797,2017-05-24,137,SF,San Francisco Giants,112,CHC,Chicago Cubs,4,5
+490798,2017-05-24,136,SEA,Seattle Mariners,120,WSH,Washington Nationals,1,5
+490799,2017-05-24,138,STL,St. Louis Cardinals,119,LAD,Los Angeles Dodgers,6,1
+490800,2017-05-24,140,TEX,Texas Rangers,111,BOS,Boston Red Sox,4,9
+490801,2017-05-24,141,TOR,Toronto Blue Jays,158,MIL,Milwaukee Brewers,8,4
+490802,2017-05-25,109,AZ,Arizona Diamondbacks,158,MIL,Milwaukee Brewers,4,0
+490804,2017-05-25,115,COL,Colorado Rockies,143,PHI,Philadelphia Phillies,1,2
+490805,2017-05-25,116,DET,Detroit Tigers,117,HOU,Houston Astros,6,7
+490807,2017-05-25,108,LAA,Los Angeles Angels,139,TB,Tampa Bay Rays,0,4
+490808,2017-05-25,134,PIT,Pittsburgh Pirates,144,ATL,Atlanta Braves,9,4
+490809,2017-05-25,135,SD,San Diego Padres,121,NYM,New York Mets,4,3
+490810,2017-05-25,137,SF,San Francisco Giants,112,CHC,Chicago Cubs,1,5
+490811,2017-05-25,136,SEA,Seattle Mariners,120,WSH,Washington Nationals,4,2
+490812,2017-05-25,138,STL,St. Louis Cardinals,119,LAD,Los Angeles Dodgers,3,7
+490813,2017-05-25,140,TEX,Texas Rangers,111,BOS,Boston Red Sox,2,6
+490814,2017-05-26,109,AZ,Arizona Diamondbacks,158,MIL,Milwaukee Brewers,4,2
+490815,2017-05-26,144,ATL,Atlanta Braves,137,SF,San Francisco Giants,2,0
+490816,2017-05-26,110,BAL,Baltimore Orioles,117,HOU,Houston Astros,0,2
+490817,2017-05-26,112,CHC,Chicago Cubs,119,LAD,Los Angeles Dodgers,0,4
+490818,2017-05-26,113,CIN,Cincinnati Reds,143,PHI,Philadelphia Phillies,5,2
+490819,2017-05-26,116,DET,Detroit Tigers,145,CWS,Chicago White Sox,2,8
+490820,2017-05-26,118,KC,Kansas City Royals,114,CLE,Cleveland Indians,6,4
+490821,2017-05-26,108,LAA,Los Angeles Angels,146,MIA,Miami Marlins,5,8
+490822,2017-05-26,121,NYM,New York Mets,134,PIT,Pittsburgh Pirates,8,1
+490823,2017-05-26,133,OAK,Oakland Athletics,147,NYY,New York Yankees,4,1
+490824,2017-05-26,135,SD,San Diego Padres,120,WSH,Washington Nationals,1,5
+490825,2017-05-26,136,SEA,Seattle Mariners,111,BOS,Boston Red Sox,0,3
+490826,2017-05-26,138,STL,St. Louis Cardinals,115,COL,Colorado Rockies,0,10
+490827,2017-05-26,139,TB,Tampa Bay Rays,142,MIN,Minnesota Twins,5,2
+490828,2017-05-26,140,TEX,Texas Rangers,141,TOR,Toronto Blue Jays,6,7
+490124,2017-05-27,116,DET,Detroit Tigers,145,CWS,Chicago White Sox,4,3
+490829,2017-05-27,109,AZ,Arizona Diamondbacks,158,MIL,Milwaukee Brewers,1,6
+490830,2017-05-27,144,ATL,Atlanta Braves,137,SF,San Francisco Giants,3,6
+490831,2017-05-27,110,BAL,Baltimore Orioles,117,HOU,Houston Astros,2,5
+490832,2017-05-27,112,CHC,Chicago Cubs,119,LAD,Los Angeles Dodgers,0,5
+490833,2017-05-27,113,CIN,Cincinnati Reds,143,PHI,Philadelphia Phillies,3,4
+490834,2017-05-27,116,DET,Detroit Tigers,145,CWS,Chicago White Sox,0,3
+490835,2017-05-27,118,KC,Kansas City Royals,114,CLE,Cleveland Indians,5,2
+490836,2017-05-27,108,LAA,Los Angeles Angels,146,MIA,Miami Marlins,5,2
+490837,2017-05-27,121,NYM,New York Mets,134,PIT,Pittsburgh Pirates,4,5
+490838,2017-05-27,133,OAK,Oakland Athletics,147,NYY,New York Yankees,2,3
+490839,2017-05-27,135,SD,San Diego Padres,120,WSH,Washington Nationals,0,3
+490840,2017-05-27,136,SEA,Seattle Mariners,111,BOS,Boston Red Sox,0,6
+490841,2017-05-27,138,STL,St. Louis Cardinals,115,COL,Colorado Rockies,3,0
+490842,2017-05-27,139,TB,Tampa Bay Rays,142,MIN,Minnesota Twins,3,5
+490843,2017-05-27,140,TEX,Texas Rangers,141,TOR,Toronto Blue Jays,1,3
+490844,2017-05-28,109,AZ,Arizona Diamondbacks,158,MIL,Milwaukee Brewers,5,9
+490845,2017-05-28,144,ATL,Atlanta Braves,137,SF,San Francisco Giants,1,7
+490846,2017-05-28,110,BAL,Baltimore Orioles,117,HOU,Houston Astros,4,8
+490847,2017-05-28,112,CHC,Chicago Cubs,119,LAD,Los Angeles Dodgers,4,9
+490848,2017-05-28,113,CIN,Cincinnati Reds,143,PHI,Philadelphia Phillies,8,4
+490849,2017-05-28,116,DET,Detroit Tigers,145,CWS,Chicago White Sox,3,7
+490850,2017-05-28,118,KC,Kansas City Royals,114,CLE,Cleveland Indians,1,10
+490851,2017-05-28,108,LAA,Los Angeles Angels,146,MIA,Miami Marlins,2,9
+490852,2017-05-28,121,NYM,New York Mets,134,PIT,Pittsburgh Pirates,7,2
+490853,2017-05-28,133,OAK,Oakland Athletics,147,NYY,New York Yankees,5,9
+490854,2017-05-28,135,SD,San Diego Padres,120,WSH,Washington Nationals,5,3
+490855,2017-05-28,136,SEA,Seattle Mariners,111,BOS,Boston Red Sox,5,0
+490856,2017-05-28,138,STL,St. Louis Cardinals,115,COL,Colorado Rockies,4,8
+490857,2017-05-28,139,TB,Tampa Bay Rays,142,MIN,Minnesota Twins,8,6
+490858,2017-05-28,140,TEX,Texas Rangers,141,TOR,Toronto Blue Jays,3,1
+490859,2017-05-29,109,AZ,Arizona Diamondbacks,134,PIT,Pittsburgh Pirates,3,4
+490860,2017-05-29,144,ATL,Atlanta Braves,108,LAA,Los Angeles Angels,6,3
+490861,2017-05-29,111,BOS,Boston Red Sox,145,CWS,Chicago White Sox,4,5
+490862,2017-05-29,112,CHC,Chicago Cubs,135,SD,San Diego Padres,2,5
+490863,2017-05-29,113,CIN,Cincinnati Reds,141,TOR,Toronto Blue Jays,2,17
+490864,2017-05-29,116,DET,Detroit Tigers,118,KC,Kansas City Royals,10,7
+490865,2017-05-29,117,HOU,Houston Astros,142,MIN,Minnesota Twins,16,8
+490866,2017-05-29,119,LAD,Los Angeles Dodgers,138,STL,St. Louis Cardinals,5,1
+490867,2017-05-29,158,MIL,Milwaukee Brewers,121,NYM,New York Mets,2,4
+490868,2017-05-29,147,NYY,New York Yankees,110,BAL,Baltimore Orioles,2,3
+490869,2017-05-29,133,OAK,Oakland Athletics,114,CLE,Cleveland Indians,3,5
+490870,2017-05-29,143,PHI,Philadelphia Phillies,146,MIA,Miami Marlins,1,4
+490871,2017-05-29,136,SEA,Seattle Mariners,115,COL,Colorado Rockies,6,5
+490872,2017-05-29,139,TB,Tampa Bay Rays,140,TEX,Texas Rangers,10,8
+490873,2017-05-29,120,WSH,Washington Nationals,137,SF,San Francisco Giants,3,0
+490874,2017-05-30,109,AZ,Arizona Diamondbacks,134,PIT,Pittsburgh Pirates,3,0
+490875,2017-05-30,144,ATL,Atlanta Braves,108,LAA,Los Angeles Angels,3,9
+490876,2017-05-30,111,BOS,Boston Red Sox,145,CWS,Chicago White Sox,13,7
+490877,2017-05-30,112,CHC,Chicago Cubs,135,SD,San Diego Padres,2,6
+490878,2017-05-30,113,CIN,Cincinnati Reds,141,TOR,Toronto Blue Jays,4,6
+490879,2017-05-30,116,DET,Detroit Tigers,118,KC,Kansas City Royals,0,1
+490880,2017-05-30,117,HOU,Houston Astros,142,MIN,Minnesota Twins,7,2
+490881,2017-05-30,119,LAD,Los Angeles Dodgers,138,STL,St. Louis Cardinals,9,4
+490882,2017-05-30,158,MIL,Milwaukee Brewers,121,NYM,New York Mets,4,5
+490883,2017-05-30,147,NYY,New York Yankees,110,BAL,Baltimore Orioles,8,3
+490884,2017-05-30,133,OAK,Oakland Athletics,114,CLE,Cleveland Indians,4,9
+490885,2017-05-30,143,PHI,Philadelphia Phillies,146,MIA,Miami Marlins,2,7
+490886,2017-05-30,136,SEA,Seattle Mariners,115,COL,Colorado Rockies,10,4
+490887,2017-05-30,139,TB,Tampa Bay Rays,140,TEX,Texas Rangers,5,9
+490888,2017-05-30,120,WSH,Washington Nationals,137,SF,San Francisco Giants,6,3
+490889,2017-05-31,109,AZ,Arizona Diamondbacks,134,PIT,Pittsburgh Pirates,6,5
+490890,2017-05-31,144,ATL,Atlanta Braves,108,LAA,Los Angeles Angels,1,2
+490891,2017-05-31,111,BOS,Boston Red Sox,145,CWS,Chicago White Sox,4,1
+490892,2017-05-31,112,CHC,Chicago Cubs,135,SD,San Diego Padres,1,2
+490893,2017-05-31,113,CIN,Cincinnati Reds,141,TOR,Toronto Blue Jays,4,5
+490894,2017-05-31,115,COL,Colorado Rockies,136,SEA,Seattle Mariners,0,5
+490895,2017-05-31,116,DET,Detroit Tigers,118,KC,Kansas City Royals,6,5
+490896,2017-05-31,117,HOU,Houston Astros,142,MIN,Minnesota Twins,17,6
+490897,2017-05-31,119,LAD,Los Angeles Dodgers,138,STL,St. Louis Cardinals,1,2
+490898,2017-05-31,158,MIL,Milwaukee Brewers,121,NYM,New York Mets,7,1
+490899,2017-05-31,147,NYY,New York Yankees,110,BAL,Baltimore Orioles,4,10
+490900,2017-05-31,133,OAK,Oakland Athletics,114,CLE,Cleveland Indians,3,1
+490901,2017-05-31,143,PHI,Philadelphia Phillies,146,MIA,Miami Marlins,2,10
+490902,2017-05-31,139,TB,Tampa Bay Rays,140,TEX,Texas Rangers,7,5
+490903,2017-05-31,120,WSH,Washington Nationals,137,SF,San Francisco Giants,3,1
+490904,2017-06-01,109,AZ,Arizona Diamondbacks,146,MIA,Miami Marlins,3,2
+490905,2017-06-01,111,BOS,Boston Red Sox,110,BAL,Baltimore Orioles,5,7
+490906,2017-06-01,115,COL,Colorado Rockies,136,SEA,Seattle Mariners,6,3
+490907,2017-06-01,119,LAD,Los Angeles Dodgers,138,STL,St. Louis Cardinals,0,2
+490908,2017-06-01,158,MIL,Milwaukee Brewers,121,NYM,New York Mets,2,1
+490909,2017-06-01,142,MIN,Minnesota Twins,108,LAA,Los Angeles Angels,4,2
+490910,2017-06-01,147,NYY,New York Yankees,141,TOR,Toronto Blue Jays,12,2
+490911,2017-06-01,133,OAK,Oakland Athletics,114,CLE,Cleveland Indians,0,8
+490912,2017-06-02,109,AZ,Arizona Diamondbacks,146,MIA,Miami Marlins,5,7
+490913,2017-06-02,144,ATL,Atlanta Braves,113,CIN,Cincinnati Reds,2,3
+490914,2017-06-02,111,BOS,Boston Red Sox,110,BAL,Baltimore Orioles,2,3
+490915,2017-06-02,145,CWS,Chicago White Sox,116,DET,Detroit Tigers,5,15
+490916,2017-06-02,114,CLE,Cleveland Indians,118,KC,Kansas City Royals,0,4
+490917,2017-06-02,115,COL,Colorado Rockies,135,SD,San Diego Padres,5,8
+490918,2017-06-02,117,HOU,Houston Astros,140,TEX,Texas Rangers,7,1
+490919,2017-06-02,119,LAD,Los Angeles Dodgers,158,MIL,Milwaukee Brewers,2,1
+490920,2017-06-02,142,MIN,Minnesota Twins,108,LAA,Los Angeles Angels,11,5
+490921,2017-06-02,147,NYY,New York Yankees,141,TOR,Toronto Blue Jays,5,7
+490922,2017-06-02,134,PIT,Pittsburgh Pirates,121,NYM,New York Mets,12,7
+490923,2017-06-02,137,SF,San Francisco Giants,143,PHI,Philadelphia Phillies,10,0
+490924,2017-06-02,138,STL,St. Louis Cardinals,112,CHC,Chicago Cubs,2,3
+490925,2017-06-02,139,TB,Tampa Bay Rays,136,SEA,Seattle Mariners,4,12
+490926,2017-06-02,120,WSH,Washington Nationals,133,OAK,Oakland Athletics,13,3
+490927,2017-06-03,109,AZ,Arizona Diamondbacks,146,MIA,Miami Marlins,0,3
+490928,2017-06-03,144,ATL,Atlanta Braves,113,CIN,Cincinnati Reds,6,5
+490929,2017-06-03,111,BOS,Boston Red Sox,110,BAL,Baltimore Orioles,5,2
+490930,2017-06-03,145,CWS,Chicago White Sox,116,DET,Detroit Tigers,1,10
+490931,2017-06-03,114,CLE,Cleveland Indians,118,KC,Kansas City Royals,5,12
+490932,2017-06-03,115,COL,Colorado Rockies,135,SD,San Diego Padres,10,1
+490933,2017-06-03,117,HOU,Houston Astros,140,TEX,Texas Rangers,6,5
+490934,2017-06-03,119,LAD,Los Angeles Dodgers,158,MIL,Milwaukee Brewers,10,8
+490935,2017-06-03,142,MIN,Minnesota Twins,108,LAA,Los Angeles Angels,2,7
+490936,2017-06-03,147,NYY,New York Yankees,141,TOR,Toronto Blue Jays,7,0
+490937,2017-06-03,134,PIT,Pittsburgh Pirates,121,NYM,New York Mets,2,4
+490938,2017-06-03,137,SF,San Francisco Giants,143,PHI,Philadelphia Phillies,3,5
+490939,2017-06-03,138,STL,St. Louis Cardinals,112,CHC,Chicago Cubs,3,5
+490940,2017-06-03,139,TB,Tampa Bay Rays,136,SEA,Seattle Mariners,2,9
+490941,2017-06-03,120,WSH,Washington Nationals,133,OAK,Oakland Athletics,4,10
+490942,2017-06-04,109,AZ,Arizona Diamondbacks,146,MIA,Miami Marlins,5,6
+490943,2017-06-04,144,ATL,Atlanta Braves,113,CIN,Cincinnati Reds,13,8
+490944,2017-06-04,111,BOS,Boston Red Sox,110,BAL,Baltimore Orioles,7,3
+490945,2017-06-04,145,CWS,Chicago White Sox,116,DET,Detroit Tigers,4,7
+490946,2017-06-04,114,CLE,Cleveland Indians,118,KC,Kansas City Royals,8,0
+490947,2017-06-04,115,COL,Colorado Rockies,135,SD,San Diego Padres,3,1
+490948,2017-06-04,117,HOU,Houston Astros,140,TEX,Texas Rangers,7,2
+490949,2017-06-04,119,LAD,Los Angeles Dodgers,158,MIL,Milwaukee Brewers,0,3
+490950,2017-06-04,142,MIN,Minnesota Twins,108,LAA,Los Angeles Angels,3,2
+490951,2017-06-04,147,NYY,New York Yankees,141,TOR,Toronto Blue Jays,2,3
+490952,2017-06-04,134,PIT,Pittsburgh Pirates,121,NYM,New York Mets,11,1
+490953,2017-06-04,137,SF,San Francisco Giants,143,PHI,Philadelphia Phillies,7,9
+490954,2017-06-04,138,STL,St. Louis Cardinals,112,CHC,Chicago Cubs,6,7
+490955,2017-06-04,139,TB,Tampa Bay Rays,136,SEA,Seattle Mariners,1,7
+490956,2017-06-04,120,WSH,Washington Nationals,133,OAK,Oakland Athletics,11,10
+490957,2017-06-05,117,HOU,Houston Astros,118,KC,Kansas City Royals,7,3
+490958,2017-06-05,146,MIA,Miami Marlins,112,CHC,Chicago Cubs,1,3
+490959,2017-06-05,143,PHI,Philadelphia Phillies,144,ATL,Atlanta Braves,11,4
+490960,2017-06-05,137,SF,San Francisco Giants,158,MIL,Milwaukee Brewers,7,2
+490961,2017-06-05,138,STL,St. Louis Cardinals,113,CIN,Cincinnati Reds,2,4
+490962,2017-06-05,141,TOR,Toronto Blue Jays,133,OAK,Oakland Athletics,3,5
+490963,2017-06-05,120,WSH,Washington Nationals,119,LAD,Los Angeles Dodgers,4,2
+490964,2017-06-06,111,BOS,Boston Red Sox,147,NYY,New York Yankees,5,4
+490965,2017-06-06,145,CWS,Chicago White Sox,139,TB,Tampa Bay Rays,4,2
+490966,2017-06-06,114,CLE,Cleveland Indians,115,COL,Colorado Rockies,3,11
+490967,2017-06-06,117,HOU,Houston Astros,118,KC,Kansas City Royals,7,9
+490968,2017-06-06,108,LAA,Los Angeles Angels,116,DET,Detroit Tigers,5,3
+490969,2017-06-06,146,MIA,Miami Marlins,112,CHC,Chicago Cubs,2,10
+490970,2017-06-06,142,MIN,Minnesota Twins,136,SEA,Seattle Mariners,3,12
+490971,2017-06-06,121,NYM,New York Mets,140,TEX,Texas Rangers,8,10
+490972,2017-06-06,143,PHI,Philadelphia Phillies,144,ATL,Atlanta Braves,3,1
+490973,2017-06-06,134,PIT,Pittsburgh Pirates,110,BAL,Baltimore Orioles,5,6
+490974,2017-06-06,135,SD,San Diego Padres,109,AZ,Arizona Diamondbacks,2,10
+490975,2017-06-06,137,SF,San Francisco Giants,158,MIL,Milwaukee Brewers,2,5
+490976,2017-06-06,138,STL,St. Louis Cardinals,113,CIN,Cincinnati Reds,1,13
+490977,2017-06-06,141,TOR,Toronto Blue Jays,133,OAK,Oakland Athletics,1,4
+490978,2017-06-06,120,WSH,Washington Nationals,119,LAD,Los Angeles Dodgers,2,1
+490979,2017-06-07,111,BOS,Boston Red Sox,147,NYY,New York Yankees,0,8
+490980,2017-06-07,145,CWS,Chicago White Sox,139,TB,Tampa Bay Rays,1,3
+490981,2017-06-07,114,CLE,Cleveland Indians,115,COL,Colorado Rockies,1,8
+490982,2017-06-07,117,HOU,Houston Astros,118,KC,Kansas City Royals,5,7
+490983,2017-06-07,108,LAA,Los Angeles Angels,116,DET,Detroit Tigers,0,4
+490984,2017-06-07,146,MIA,Miami Marlins,112,CHC,Chicago Cubs,6,5
+490985,2017-06-07,142,MIN,Minnesota Twins,136,SEA,Seattle Mariners,5,6
+490986,2017-06-07,121,NYM,New York Mets,140,TEX,Texas Rangers,4,3
+490987,2017-06-07,143,PHI,Philadelphia Phillies,144,ATL,Atlanta Braves,1,14
+490988,2017-06-07,134,PIT,Pittsburgh Pirates,110,BAL,Baltimore Orioles,6,9
+490989,2017-06-07,135,SD,San Diego Padres,109,AZ,Arizona Diamondbacks,4,7
+490990,2017-06-07,137,SF,San Francisco Giants,158,MIL,Milwaukee Brewers,3,6
+490991,2017-06-07,138,STL,St. Louis Cardinals,113,CIN,Cincinnati Reds,4,6
+490992,2017-06-07,141,TOR,Toronto Blue Jays,133,OAK,Oakland Athletics,7,5
+490993,2017-06-07,120,WSH,Washington Nationals,119,LAD,Los Angeles Dodgers,1,2
+490612,2017-06-08,110,BAL,Baltimore Orioles,120,WSH,Washington Nationals,1,6
+490994,2017-06-08,111,BOS,Boston Red Sox,147,NYY,New York Yankees,1,9
+490995,2017-06-08,145,CWS,Chicago White Sox,139,TB,Tampa Bay Rays,5,7
+490996,2017-06-08,115,COL,Colorado Rockies,112,CHC,Chicago Cubs,4,1
+490997,2017-06-08,117,HOU,Houston Astros,118,KC,Kansas City Royals,6,1
+490998,2017-06-08,108,LAA,Los Angeles Angels,116,DET,Detroit Tigers,11,4
+490999,2017-06-08,146,MIA,Miami Marlins,134,PIT,Pittsburgh Pirates,7,1
+491000,2017-06-08,142,MIN,Minnesota Twins,136,SEA,Seattle Mariners,2,1
+491001,2017-06-08,143,PHI,Philadelphia Phillies,144,ATL,Atlanta Braves,1,3
+491002,2017-06-08,135,SD,San Diego Padres,109,AZ,Arizona Diamondbacks,3,15
+491003,2017-06-08,137,SF,San Francisco Giants,158,MIL,Milwaukee Brewers,9,5
+491004,2017-06-08,138,STL,St. Louis Cardinals,113,CIN,Cincinnati Reds,2,5
+491005,2017-06-09,110,BAL,Baltimore Orioles,147,NYY,New York Yankees,2,8
+491006,2017-06-09,145,CWS,Chicago White Sox,114,CLE,Cleveland Indians,3,7
+491007,2017-06-09,113,CIN,Cincinnati Reds,119,LAD,Los Angeles Dodgers,2,7
+491008,2017-06-09,115,COL,Colorado Rockies,112,CHC,Chicago Cubs,5,3
+491009,2017-06-09,116,DET,Detroit Tigers,111,BOS,Boston Red Sox,3,5
+491010,2017-06-09,118,KC,Kansas City Royals,135,SD,San Diego Padres,3,6
+491011,2017-06-09,108,LAA,Los Angeles Angels,117,HOU,Houston Astros,9,4
+491012,2017-06-09,146,MIA,Miami Marlins,134,PIT,Pittsburgh Pirates,12,7
+491013,2017-06-09,158,MIL,Milwaukee Brewers,109,AZ,Arizona Diamondbacks,8,6
+491014,2017-06-09,142,MIN,Minnesota Twins,137,SF,San Francisco Giants,4,0
+491015,2017-06-09,121,NYM,New York Mets,144,ATL,Atlanta Braves,2,3
+491016,2017-06-09,133,OAK,Oakland Athletics,139,TB,Tampa Bay Rays,4,13
+491017,2017-06-09,143,PHI,Philadelphia Phillies,138,STL,St. Louis Cardinals,2,3
+491018,2017-06-09,140,TEX,Texas Rangers,120,WSH,Washington Nationals,5,2
+491019,2017-06-09,141,TOR,Toronto Blue Jays,136,SEA,Seattle Mariners,2,4
+490524,2017-06-10,121,NYM,New York Mets,144,ATL,Atlanta Braves,6,1
+491020,2017-06-10,110,BAL,Baltimore Orioles,147,NYY,New York Yankees,3,16
+491021,2017-06-10,145,CWS,Chicago White Sox,114,CLE,Cleveland Indians,5,3
+491022,2017-06-10,113,CIN,Cincinnati Reds,119,LAD,Los Angeles Dodgers,4,5
+491023,2017-06-10,115,COL,Colorado Rockies,112,CHC,Chicago Cubs,9,1
+491024,2017-06-10,116,DET,Detroit Tigers,111,BOS,Boston Red Sox,3,11
+491025,2017-06-10,118,KC,Kansas City Royals,135,SD,San Diego Padres,12,6
+491026,2017-06-10,108,LAA,Los Angeles Angels,117,HOU,Houston Astros,1,3
+491027,2017-06-10,146,MIA,Miami Marlins,134,PIT,Pittsburgh Pirates,6,7
+491028,2017-06-10,158,MIL,Milwaukee Brewers,109,AZ,Arizona Diamondbacks,2,3
+491029,2017-06-10,142,MIN,Minnesota Twins,137,SF,San Francisco Giants,3,2
+491030,2017-06-10,121,NYM,New York Mets,144,ATL,Atlanta Braves,8,1
+491031,2017-06-10,133,OAK,Oakland Athletics,139,TB,Tampa Bay Rays,5,6
+491032,2017-06-10,133,OAK,Oakland Athletics,139,TB,Tampa Bay Rays,7,2
+491033,2017-06-10,143,PHI,Philadelphia Phillies,138,STL,St. Louis Cardinals,0,7
+491034,2017-06-10,140,TEX,Texas Rangers,120,WSH,Washington Nationals,6,3
+491035,2017-06-10,141,TOR,Toronto Blue Jays,136,SEA,Seattle Mariners,4,2
+491036,2017-06-11,110,BAL,Baltimore Orioles,147,NYY,New York Yankees,3,14
+491037,2017-06-11,145,CWS,Chicago White Sox,114,CLE,Cleveland Indians,2,4
+491038,2017-06-11,113,CIN,Cincinnati Reds,119,LAD,Los Angeles Dodgers,7,9
+491039,2017-06-11,115,COL,Colorado Rockies,112,CHC,Chicago Cubs,5,7
+491040,2017-06-11,116,DET,Detroit Tigers,111,BOS,Boston Red Sox,8,3
+491041,2017-06-11,118,KC,Kansas City Royals,135,SD,San Diego Padres,8,3
+491042,2017-06-11,108,LAA,Los Angeles Angels,117,HOU,Houston Astros,12,6
+491043,2017-06-11,146,MIA,Miami Marlins,134,PIT,Pittsburgh Pirates,1,3
+491044,2017-06-11,158,MIL,Milwaukee Brewers,109,AZ,Arizona Diamondbacks,1,11
+491045,2017-06-11,142,MIN,Minnesota Twins,137,SF,San Francisco Giants,8,13
+491046,2017-06-11,121,NYM,New York Mets,144,ATL,Atlanta Braves,2,1
+491047,2017-06-11,133,OAK,Oakland Athletics,139,TB,Tampa Bay Rays,4,5
+491048,2017-06-11,143,PHI,Philadelphia Phillies,138,STL,St. Louis Cardinals,5,6
+491049,2017-06-11,140,TEX,Texas Rangers,120,WSH,Washington Nationals,5,1
+491050,2017-06-11,141,TOR,Toronto Blue Jays,136,SEA,Seattle Mariners,4,0
+491051,2017-06-12,144,ATL,Atlanta Braves,120,WSH,Washington Nationals,11,10
+491052,2017-06-12,110,BAL,Baltimore Orioles,145,CWS,Chicago White Sox,7,10
+491053,2017-06-12,112,CHC,Chicago Cubs,121,NYM,New York Mets,1,6
+491054,2017-06-12,113,CIN,Cincinnati Reds,135,SD,San Diego Padres,3,9
+491055,2017-06-12,115,COL,Colorado Rockies,134,PIT,Pittsburgh Pirates,2,7
+491056,2017-06-12,147,NYY,New York Yankees,108,LAA,Los Angeles Angels,5,3
+491057,2017-06-12,143,PHI,Philadelphia Phillies,111,BOS,Boston Red Sox,5,6
+491058,2017-06-12,136,SEA,Seattle Mariners,142,MIN,Minnesota Twins,14,3
+491059,2017-06-12,140,TEX,Texas Rangers,117,HOU,Houston Astros,6,1
+490508,2017-06-13,158,MIL,Milwaukee Brewers,138,STL,St. Louis Cardinals,0,6
+491060,2017-06-13,109,AZ,Arizona Diamondbacks,116,DET,Detroit Tigers,7,6
+491061,2017-06-13,144,ATL,Atlanta Braves,120,WSH,Washington Nationals,5,10
+491062,2017-06-13,110,BAL,Baltimore Orioles,145,CWS,Chicago White Sox,1,6
+491063,2017-06-13,112,CHC,Chicago Cubs,121,NYM,New York Mets,14,3
+491064,2017-06-13,113,CIN,Cincinnati Reds,135,SD,San Diego Padres,2,6
+491065,2017-06-13,115,COL,Colorado Rockies,134,PIT,Pittsburgh Pirates,2,5
+491066,2017-06-13,118,KC,Kansas City Royals,137,SF,San Francisco Giants,8,1
+491067,2017-06-13,119,LAD,Los Angeles Dodgers,114,CLE,Cleveland Indians,7,5
+491068,2017-06-13,158,MIL,Milwaukee Brewers,138,STL,St. Louis Cardinals,8,5
+491069,2017-06-13,147,NYY,New York Yankees,108,LAA,Los Angeles Angels,2,3
+491070,2017-06-13,133,OAK,Oakland Athletics,146,MIA,Miami Marlins,1,8
+491071,2017-06-13,143,PHI,Philadelphia Phillies,111,BOS,Boston Red Sox,3,4
+491072,2017-06-13,136,SEA,Seattle Mariners,142,MIN,Minnesota Twins,7,20
+491073,2017-06-13,139,TB,Tampa Bay Rays,141,TOR,Toronto Blue Jays,8,1
+491074,2017-06-13,140,TEX,Texas Rangers,117,HOU,Houston Astros,4,2
+491075,2017-06-14,109,AZ,Arizona Diamondbacks,116,DET,Detroit Tigers,2,1
+491076,2017-06-14,144,ATL,Atlanta Braves,120,WSH,Washington Nationals,13,2
+491077,2017-06-14,110,BAL,Baltimore Orioles,145,CWS,Chicago White Sox,10,6
+491078,2017-06-14,111,BOS,Boston Red Sox,143,PHI,Philadelphia Phillies,7,3
+491079,2017-06-14,112,CHC,Chicago Cubs,121,NYM,New York Mets,4,9
+491080,2017-06-14,113,CIN,Cincinnati Reds,135,SD,San Diego Padres,2,4
+491081,2017-06-14,115,COL,Colorado Rockies,134,PIT,Pittsburgh Pirates,5,1
+491082,2017-06-14,118,KC,Kansas City Royals,137,SF,San Francisco Giants,7,2
+491083,2017-06-14,119,LAD,Los Angeles Dodgers,114,CLE,Cleveland Indians,6,4
+491084,2017-06-14,158,MIL,Milwaukee Brewers,138,STL,St. Louis Cardinals,7,6
+491085,2017-06-14,147,NYY,New York Yankees,108,LAA,Los Angeles Angels,5,7
+491086,2017-06-14,133,OAK,Oakland Athletics,146,MIA,Miami Marlins,6,11
+491087,2017-06-14,136,SEA,Seattle Mariners,142,MIN,Minnesota Twins,6,4
+491088,2017-06-14,139,TB,Tampa Bay Rays,141,TOR,Toronto Blue Jays,6,7
+491089,2017-06-14,140,TEX,Texas Rangers,117,HOU,Houston Astros,2,13
+491090,2017-06-15,110,BAL,Baltimore Orioles,145,CWS,Chicago White Sox,2,5
+491091,2017-06-15,111,BOS,Boston Red Sox,143,PHI,Philadelphia Phillies,0,1
+491092,2017-06-15,118,KC,Kansas City Royals,108,LAA,Los Angeles Angels,7,2
+491093,2017-06-15,119,LAD,Los Angeles Dodgers,114,CLE,Cleveland Indians,5,12
+491094,2017-06-15,158,MIL,Milwaukee Brewers,138,STL,St. Louis Cardinals,6,4
+491095,2017-06-15,147,NYY,New York Yankees,133,OAK,Oakland Athletics,7,8
+491096,2017-06-15,137,SF,San Francisco Giants,115,COL,Colorado Rockies,9,10
+491097,2017-06-15,136,SEA,Seattle Mariners,142,MIN,Minnesota Twins,2,6
+491098,2017-06-15,139,TB,Tampa Bay Rays,116,DET,Detroit Tigers,3,5
+491099,2017-06-15,120,WSH,Washington Nationals,121,NYM,New York Mets,8,3
+491100,2017-06-16,109,AZ,Arizona Diamondbacks,143,PHI,Philadelphia Phillies,5,4
+491101,2017-06-16,111,BOS,Boston Red Sox,117,HOU,Houston Astros,2,1
+491102,2017-06-16,112,CHC,Chicago Cubs,134,PIT,Pittsburgh Pirates,9,5
+491103,2017-06-16,145,CWS,Chicago White Sox,141,TOR,Toronto Blue Jays,11,4
+491104,2017-06-16,114,CLE,Cleveland Indians,142,MIN,Minnesota Twins,8,1
+491105,2017-06-16,118,KC,Kansas City Royals,108,LAA,Los Angeles Angels,3,1
+491106,2017-06-16,119,LAD,Los Angeles Dodgers,113,CIN,Cincinnati Reds,3,1
+491107,2017-06-16,146,MIA,Miami Marlins,144,ATL,Atlanta Braves,5,0
+491108,2017-06-16,147,NYY,New York Yankees,133,OAK,Oakland Athletics,6,7
+491109,2017-06-16,135,SD,San Diego Padres,158,MIL,Milwaukee Brewers,5,6
+491110,2017-06-16,137,SF,San Francisco Giants,115,COL,Colorado Rockies,8,10
+491111,2017-06-16,136,SEA,Seattle Mariners,140,TEX,Texas Rangers,4,10
+491112,2017-06-16,138,STL,St. Louis Cardinals,110,BAL,Baltimore Orioles,11,2
+491113,2017-06-16,139,TB,Tampa Bay Rays,116,DET,Detroit Tigers,4,13
+491114,2017-06-16,120,WSH,Washington Nationals,121,NYM,New York Mets,7,2
+490314,2017-06-17,114,CLE,Cleveland Indians,142,MIN,Minnesota Twins,6,2
+491115,2017-06-17,109,AZ,Arizona Diamondbacks,143,PHI,Philadelphia Phillies,5,1
+491116,2017-06-17,111,BOS,Boston Red Sox,117,HOU,Houston Astros,1,7
+491117,2017-06-17,112,CHC,Chicago Cubs,134,PIT,Pittsburgh Pirates,3,4
+491118,2017-06-17,145,CWS,Chicago White Sox,141,TOR,Toronto Blue Jays,5,2
+491119,2017-06-17,114,CLE,Cleveland Indians,142,MIN,Minnesota Twins,9,3
+491120,2017-06-17,118,KC,Kansas City Royals,108,LAA,Los Angeles Angels,0,9
+491121,2017-06-17,119,LAD,Los Angeles Dodgers,113,CIN,Cincinnati Reds,10,2
+491122,2017-06-17,146,MIA,Miami Marlins,144,ATL,Atlanta Braves,7,8
+491123,2017-06-17,147,NYY,New York Yankees,133,OAK,Oakland Athletics,2,5
+491124,2017-06-17,135,SD,San Diego Padres,158,MIL,Milwaukee Brewers,7,5
+491125,2017-06-17,137,SF,San Francisco Giants,115,COL,Colorado Rockies,1,5
+491126,2017-06-17,136,SEA,Seattle Mariners,140,TEX,Texas Rangers,4,10
+491127,2017-06-17,138,STL,St. Louis Cardinals,110,BAL,Baltimore Orioles,7,15
+491128,2017-06-17,139,TB,Tampa Bay Rays,116,DET,Detroit Tigers,3,2
+491129,2017-06-17,120,WSH,Washington Nationals,121,NYM,New York Mets,7,4
+491130,2017-06-18,109,AZ,Arizona Diamondbacks,143,PHI,Philadelphia Phillies,5,4
+491131,2017-06-18,111,BOS,Boston Red Sox,117,HOU,Houston Astros,6,5
+491132,2017-06-18,112,CHC,Chicago Cubs,134,PIT,Pittsburgh Pirates,7,1
+491133,2017-06-18,145,CWS,Chicago White Sox,141,TOR,Toronto Blue Jays,3,7
+491134,2017-06-18,114,CLE,Cleveland Indians,142,MIN,Minnesota Twins,5,2
+491135,2017-06-18,118,KC,Kansas City Royals,108,LAA,Los Angeles Angels,7,3
+491136,2017-06-18,119,LAD,Los Angeles Dodgers,113,CIN,Cincinnati Reds,8,7
+491137,2017-06-18,146,MIA,Miami Marlins,144,ATL,Atlanta Braves,4,5
+491138,2017-06-18,147,NYY,New York Yankees,133,OAK,Oakland Athletics,3,4
+491139,2017-06-18,135,SD,San Diego Padres,158,MIL,Milwaukee Brewers,1,2
+491140,2017-06-18,137,SF,San Francisco Giants,115,COL,Colorado Rockies,5,7
+491141,2017-06-18,136,SEA,Seattle Mariners,140,TEX,Texas Rangers,7,3
+491142,2017-06-18,138,STL,St. Louis Cardinals,110,BAL,Baltimore Orioles,5,8
+491143,2017-06-18,139,TB,Tampa Bay Rays,116,DET,Detroit Tigers,9,1
+491144,2017-06-18,120,WSH,Washington Nationals,121,NYM,New York Mets,1,5
+491145,2017-06-19,111,BOS,Boston Red Sox,118,KC,Kansas City Royals,2,4
+491146,2017-06-19,113,CIN,Cincinnati Reds,139,TB,Tampa Bay Rays,7,3
+491147,2017-06-19,114,CLE,Cleveland Indians,110,BAL,Baltimore Orioles,12,0
+491148,2017-06-19,116,DET,Detroit Tigers,136,SEA,Seattle Mariners,2,6
+491149,2017-06-19,117,HOU,Houston Astros,133,OAK,Oakland Athletics,4,1
+491150,2017-06-19,121,NYM,New York Mets,119,LAD,Los Angeles Dodgers,6,10
+491151,2017-06-19,134,PIT,Pittsburgh Pirates,158,MIL,Milwaukee Brewers,8,1
+491152,2017-06-19,135,SD,San Diego Padres,112,CHC,Chicago Cubs,2,3
+491153,2017-06-19,137,SF,San Francisco Giants,144,ATL,Atlanta Braves,0,9
+491154,2017-06-19,141,TOR,Toronto Blue Jays,140,TEX,Texas Rangers,7,6
+491155,2017-06-19,120,WSH,Washington Nationals,146,MIA,Miami Marlins,7,8
+491156,2017-06-20,109,AZ,Arizona Diamondbacks,115,COL,Colorado Rockies,3,4
+491157,2017-06-20,111,BOS,Boston Red Sox,118,KC,Kansas City Royals,8,3
+491158,2017-06-20,145,CWS,Chicago White Sox,142,MIN,Minnesota Twins,7,9
+491159,2017-06-20,113,CIN,Cincinnati Reds,139,TB,Tampa Bay Rays,5,6
+491160,2017-06-20,114,CLE,Cleveland Indians,110,BAL,Baltimore Orioles,5,6
+491161,2017-06-20,116,DET,Detroit Tigers,136,SEA,Seattle Mariners,4,5
+491162,2017-06-20,117,HOU,Houston Astros,133,OAK,Oakland Athletics,8,4
+491163,2017-06-20,108,LAA,Los Angeles Angels,147,NYY,New York Yankees,8,3
+491164,2017-06-20,121,NYM,New York Mets,119,LAD,Los Angeles Dodgers,0,12
+491165,2017-06-20,134,PIT,Pittsburgh Pirates,158,MIL,Milwaukee Brewers,7,3
+491166,2017-06-20,135,SD,San Diego Padres,112,CHC,Chicago Cubs,0,4
+491167,2017-06-20,137,SF,San Francisco Giants,144,ATL,Atlanta Braves,6,3
+491168,2017-06-20,138,STL,St. Louis Cardinals,143,PHI,Philadelphia Phillies,8,1
+491169,2017-06-20,141,TOR,Toronto Blue Jays,140,TEX,Texas Rangers,1,6
+491170,2017-06-20,120,WSH,Washington Nationals,146,MIA,Miami Marlins,12,3
+491171,2017-06-21,109,AZ,Arizona Diamondbacks,115,COL,Colorado Rockies,16,5
+491172,2017-06-21,111,BOS,Boston Red Sox,118,KC,Kansas City Royals,4,6
+491173,2017-06-21,145,CWS,Chicago White Sox,142,MIN,Minnesota Twins,2,4
+491174,2017-06-21,113,CIN,Cincinnati Reds,139,TB,Tampa Bay Rays,3,8
+491175,2017-06-21,114,CLE,Cleveland Indians,110,BAL,Baltimore Orioles,5,1
+491176,2017-06-21,116,DET,Detroit Tigers,136,SEA,Seattle Mariners,5,7
+491177,2017-06-21,117,HOU,Houston Astros,133,OAK,Oakland Athletics,5,1
+491178,2017-06-21,108,LAA,Los Angeles Angels,147,NYY,New York Yankees,4,8
+491179,2017-06-21,121,NYM,New York Mets,119,LAD,Los Angeles Dodgers,2,8
+491180,2017-06-21,134,PIT,Pittsburgh Pirates,158,MIL,Milwaukee Brewers,3,4
+491181,2017-06-21,135,SD,San Diego Padres,112,CHC,Chicago Cubs,3,2
+491182,2017-06-21,137,SF,San Francisco Giants,144,ATL,Atlanta Braves,3,5
+491183,2017-06-21,138,STL,St. Louis Cardinals,143,PHI,Philadelphia Phillies,7,6
+491184,2017-06-21,141,TOR,Toronto Blue Jays,140,TEX,Texas Rangers,7,5
+491185,2017-06-21,120,WSH,Washington Nationals,146,MIA,Miami Marlins,1,2
+491186,2017-06-22,109,AZ,Arizona Diamondbacks,115,COL,Colorado Rockies,10,3
+491187,2017-06-22,112,CHC,Chicago Cubs,146,MIA,Miami Marlins,11,1
+491188,2017-06-22,145,CWS,Chicago White Sox,142,MIN,Minnesota Twins,9,0
+491189,2017-06-22,114,CLE,Cleveland Indians,110,BAL,Baltimore Orioles,6,3
+491190,2017-06-22,116,DET,Detroit Tigers,136,SEA,Seattle Mariners,6,9
+491191,2017-06-22,117,HOU,Houston Astros,133,OAK,Oakland Athletics,12,9
+491192,2017-06-22,108,LAA,Los Angeles Angels,147,NYY,New York Yankees,10,5
+491193,2017-06-22,121,NYM,New York Mets,119,LAD,Los Angeles Dodgers,3,6
+491194,2017-06-22,134,PIT,Pittsburgh Pirates,158,MIL,Milwaukee Brewers,2,4
+491195,2017-06-22,137,SF,San Francisco Giants,144,ATL,Atlanta Braves,11,12
+491196,2017-06-22,138,STL,St. Louis Cardinals,143,PHI,Philadelphia Phillies,1,5
+491197,2017-06-22,141,TOR,Toronto Blue Jays,140,TEX,Texas Rangers,4,11
+491198,2017-06-23,110,BAL,Baltimore Orioles,139,TB,Tampa Bay Rays,5,15
+491199,2017-06-23,112,CHC,Chicago Cubs,146,MIA,Miami Marlins,0,2
+491200,2017-06-23,113,CIN,Cincinnati Reds,120,WSH,Washington Nationals,5,6
+491201,2017-06-23,115,COL,Colorado Rockies,119,LAD,Los Angeles Dodgers,1,6
+491202,2017-06-23,116,DET,Detroit Tigers,135,SD,San Diego Padres,0,1
+491203,2017-06-23,117,HOU,Houston Astros,136,SEA,Seattle Mariners,3,13
+491204,2017-06-23,108,LAA,Los Angeles Angels,111,BOS,Boston Red Sox,4,9
+491205,2017-06-23,158,MIL,Milwaukee Brewers,144,ATL,Atlanta Braves,4,5
+491206,2017-06-23,142,MIN,Minnesota Twins,114,CLE,Cleveland Indians,5,0
+491207,2017-06-23,121,NYM,New York Mets,137,SF,San Francisco Giants,11,4
+491208,2017-06-23,133,OAK,Oakland Athletics,145,CWS,Chicago White Sox,3,0
+491209,2017-06-23,143,PHI,Philadelphia Phillies,109,AZ,Arizona Diamondbacks,6,1
+491210,2017-06-23,134,PIT,Pittsburgh Pirates,138,STL,St. Louis Cardinals,4,3
+491211,2017-06-23,140,TEX,Texas Rangers,147,NYY,New York Yankees,1,2
+491212,2017-06-23,141,TOR,Toronto Blue Jays,118,KC,Kansas City Royals,4,5
+491213,2017-06-24,110,BAL,Baltimore Orioles,139,TB,Tampa Bay Rays,8,3
+491214,2017-06-24,112,CHC,Chicago Cubs,146,MIA,Miami Marlins,5,3
+491215,2017-06-24,113,CIN,Cincinnati Reds,120,WSH,Washington Nationals,3,18
+491216,2017-06-24,115,COL,Colorado Rockies,119,LAD,Los Angeles Dodgers,0,4
+491217,2017-06-24,116,DET,Detroit Tigers,135,SD,San Diego Padres,3,7
+491218,2017-06-24,117,HOU,Houston Astros,136,SEA,Seattle Mariners,5,2
+491219,2017-06-24,108,LAA,Los Angeles Angels,111,BOS,Boston Red Sox,6,3
+491220,2017-06-24,158,MIL,Milwaukee Brewers,144,ATL,Atlanta Braves,1,3
+491221,2017-06-24,142,MIN,Minnesota Twins,114,CLE,Cleveland Indians,4,2
+491222,2017-06-24,121,NYM,New York Mets,137,SF,San Francisco Giants,5,2
+491223,2017-06-24,133,OAK,Oakland Athletics,145,CWS,Chicago White Sox,10,2
+491224,2017-06-24,143,PHI,Philadelphia Phillies,109,AZ,Arizona Diamondbacks,2,9
+491225,2017-06-24,134,PIT,Pittsburgh Pirates,138,STL,St. Louis Cardinals,7,3
+491226,2017-06-24,140,TEX,Texas Rangers,147,NYY,New York Yankees,8,1
+491227,2017-06-24,141,TOR,Toronto Blue Jays,118,KC,Kansas City Royals,2,3
+491228,2017-06-25,110,BAL,Baltimore Orioles,139,TB,Tampa Bay Rays,8,5
+491229,2017-06-25,112,CHC,Chicago Cubs,146,MIA,Miami Marlins,2,4
+491230,2017-06-25,113,CIN,Cincinnati Reds,120,WSH,Washington Nationals,6,2
+491231,2017-06-25,115,COL,Colorado Rockies,119,LAD,Los Angeles Dodgers,6,12
+491232,2017-06-25,116,DET,Detroit Tigers,135,SD,San Diego Padres,7,5
+491233,2017-06-25,117,HOU,Houston Astros,136,SEA,Seattle Mariners,8,2
+491234,2017-06-25,108,LAA,Los Angeles Angels,111,BOS,Boston Red Sox,4,2
+491235,2017-06-25,158,MIL,Milwaukee Brewers,144,ATL,Atlanta Braves,7,0
+491236,2017-06-25,142,MIN,Minnesota Twins,114,CLE,Cleveland Indians,4,0
+491237,2017-06-25,121,NYM,New York Mets,137,SF,San Francisco Giants,8,2
+491238,2017-06-25,133,OAK,Oakland Athletics,145,CWS,Chicago White Sox,5,3
+491239,2017-06-25,143,PHI,Philadelphia Phillies,109,AZ,Arizona Diamondbacks,1,2
+491240,2017-06-25,134,PIT,Pittsburgh Pirates,138,STL,St. Louis Cardinals,4,8
+491241,2017-06-25,140,TEX,Texas Rangers,147,NYY,New York Yankees,7,6
+491242,2017-06-25,141,TOR,Toronto Blue Jays,118,KC,Kansas City Royals,8,2
+490449,2017-06-26,113,CIN,Cincinnati Reds,138,STL,St. Louis Cardinals,2,8
+491243,2017-06-26,112,CHC,Chicago Cubs,120,WSH,Washington Nationals,5,4
+491244,2017-06-26,115,COL,Colorado Rockies,137,SF,San Francisco Giants,2,9
+491245,2017-06-26,108,LAA,Los Angeles Angels,119,LAD,Los Angeles Dodgers,4,0
+491246,2017-06-26,142,MIN,Minnesota Twins,111,BOS,Boston Red Sox,1,4
+491247,2017-06-26,147,NYY,New York Yankees,145,CWS,Chicago White Sox,6,5
+491248,2017-06-26,143,PHI,Philadelphia Phillies,109,AZ,Arizona Diamondbacks,1,6
+491249,2017-06-26,140,TEX,Texas Rangers,114,CLE,Cleveland Indians,9,15
+491250,2017-06-27,144,ATL,Atlanta Braves,135,SD,San Diego Padres,3,0
+491251,2017-06-27,110,BAL,Baltimore Orioles,141,TOR,Toronto Blue Jays,3,1
+491252,2017-06-27,112,CHC,Chicago Cubs,120,WSH,Washington Nationals,1,6
+491253,2017-06-27,115,COL,Colorado Rockies,137,SF,San Francisco Giants,3,4
+491254,2017-06-27,118,KC,Kansas City Royals,116,DET,Detroit Tigers,3,5
+491255,2017-06-27,108,LAA,Los Angeles Angels,119,LAD,Los Angeles Dodgers,0,4
+491256,2017-06-27,158,MIL,Milwaukee Brewers,113,CIN,Cincinnati Reds,6,8
+491257,2017-06-27,142,MIN,Minnesota Twins,111,BOS,Boston Red Sox,2,9
+491258,2017-06-27,121,NYM,New York Mets,146,MIA,Miami Marlins,3,6
+491259,2017-06-27,147,NYY,New York Yankees,145,CWS,Chicago White Sox,3,4
+491260,2017-06-27,133,OAK,Oakland Athletics,117,HOU,Houston Astros,6,4
+491261,2017-06-27,143,PHI,Philadelphia Phillies,136,SEA,Seattle Mariners,8,2
+491262,2017-06-27,138,STL,St. Louis Cardinals,109,AZ,Arizona Diamondbacks,5,6
+491263,2017-06-27,139,TB,Tampa Bay Rays,134,PIT,Pittsburgh Pirates,4,2
+491264,2017-06-27,140,TEX,Texas Rangers,114,CLE,Cleveland Indians,2,1
+491265,2017-06-28,144,ATL,Atlanta Braves,135,SD,San Diego Padres,4,7
+491266,2017-06-28,110,BAL,Baltimore Orioles,141,TOR,Toronto Blue Jays,0,4
+491267,2017-06-28,112,CHC,Chicago Cubs,120,WSH,Washington Nationals,4,8
+491268,2017-06-28,115,COL,Colorado Rockies,137,SF,San Francisco Giants,3,5
+491269,2017-06-28,118,KC,Kansas City Royals,116,DET,Detroit Tigers,8,2
+491270,2017-06-28,119,LAD,Los Angeles Dodgers,108,LAA,Los Angeles Angels,2,3
+491271,2017-06-28,158,MIL,Milwaukee Brewers,113,CIN,Cincinnati Reds,3,4
+491272,2017-06-28,142,MIN,Minnesota Twins,111,BOS,Boston Red Sox,4,1
+491273,2017-06-28,121,NYM,New York Mets,146,MIA,Miami Marlins,8,0
+491274,2017-06-28,147,NYY,New York Yankees,145,CWS,Chicago White Sox,12,3
+491275,2017-06-28,133,OAK,Oakland Athletics,117,HOU,Houston Astros,8,11
+491276,2017-06-28,143,PHI,Philadelphia Phillies,136,SEA,Seattle Mariners,5,4
+491277,2017-06-28,138,STL,St. Louis Cardinals,109,AZ,Arizona Diamondbacks,4,3
+491278,2017-06-28,139,TB,Tampa Bay Rays,134,PIT,Pittsburgh Pirates,2,6
+491279,2017-06-28,140,TEX,Texas Rangers,114,CLE,Cleveland Indians,3,5
+491280,2017-06-29,144,ATL,Atlanta Braves,135,SD,San Diego Padres,0,6
+491281,2017-06-29,110,BAL,Baltimore Orioles,141,TOR,Toronto Blue Jays,2,0
+491282,2017-06-29,112,CHC,Chicago Cubs,120,WSH,Washington Nationals,5,4
+491283,2017-06-29,118,KC,Kansas City Royals,116,DET,Detroit Tigers,3,7
+491284,2017-06-29,119,LAD,Los Angeles Dodgers,108,LAA,Los Angeles Angels,6,2
+491285,2017-06-29,158,MIL,Milwaukee Brewers,113,CIN,Cincinnati Reds,11,3
+491286,2017-06-29,142,MIN,Minnesota Twins,111,BOS,Boston Red Sox,3,6
+491287,2017-06-29,121,NYM,New York Mets,146,MIA,Miami Marlins,6,3
+491288,2017-06-29,147,NYY,New York Yankees,145,CWS,Chicago White Sox,3,4
+491289,2017-06-29,133,OAK,Oakland Athletics,117,HOU,Houston Astros,1,6
+491290,2017-06-29,138,STL,St. Louis Cardinals,109,AZ,Arizona Diamondbacks,10,4
+491291,2017-06-29,139,TB,Tampa Bay Rays,134,PIT,Pittsburgh Pirates,0,4
+491292,2017-06-29,140,TEX,Texas Rangers,114,CLE,Cleveland Indians,1,5
+491293,2017-06-30,144,ATL,Atlanta Braves,133,OAK,Oakland Athletics,3,1
+491294,2017-06-30,111,BOS,Boston Red Sox,141,TOR,Toronto Blue Jays,7,4
+491295,2017-06-30,112,CHC,Chicago Cubs,113,CIN,Cincinnati Reds,0,5
+491297,2017-06-30,115,COL,Colorado Rockies,109,AZ,Arizona Diamondbacks,6,3
+491298,2017-06-30,119,LAD,Los Angeles Dodgers,135,SD,San Diego Padres,10,4
+491299,2017-06-30,146,MIA,Miami Marlins,158,MIL,Milwaukee Brewers,2,3
+491300,2017-06-30,142,MIN,Minnesota Twins,118,KC,Kansas City Royals,1,8
+491301,2017-06-30,147,NYY,New York Yankees,117,HOU,Houston Astros,13,4
+491302,2017-06-30,143,PHI,Philadelphia Phillies,121,NYM,New York Mets,1,2
+491303,2017-06-30,137,SF,San Francisco Giants,134,PIT,Pittsburgh Pirates,13,5
+491304,2017-06-30,136,SEA,Seattle Mariners,108,LAA,Los Angeles Angels,10,0
+491305,2017-06-30,139,TB,Tampa Bay Rays,110,BAL,Baltimore Orioles,6,4
+491306,2017-06-30,140,TEX,Texas Rangers,145,CWS,Chicago White Sox,7,8
+491307,2017-06-30,120,WSH,Washington Nationals,138,STL,St. Louis Cardinals,1,8
+490452,2017-07-01,142,MIN,Minnesota Twins,118,KC,Kansas City Royals,10,5
+490519,2017-07-01,114,CLE,Cleveland Indians,116,DET,Detroit Tigers,4,7
+491308,2017-07-01,144,ATL,Atlanta Braves,133,OAK,Oakland Athletics,4,3
+491309,2017-07-01,111,BOS,Boston Red Sox,141,TOR,Toronto Blue Jays,7,1
+491310,2017-07-01,112,CHC,Chicago Cubs,113,CIN,Cincinnati Reds,3,5
+491311,2017-07-01,114,CLE,Cleveland Indians,116,DET,Detroit Tigers,4,1
+491312,2017-07-01,115,COL,Colorado Rockies,109,AZ,Arizona Diamondbacks,2,6
+491313,2017-07-01,119,LAD,Los Angeles Dodgers,135,SD,San Diego Padres,8,0
+491314,2017-07-01,146,MIA,Miami Marlins,158,MIL,Milwaukee Brewers,4,8
+491315,2017-07-01,142,MIN,Minnesota Twins,118,KC,Kansas City Royals,6,11
+491316,2017-07-01,147,NYY,New York Yankees,117,HOU,Houston Astros,6,7
+491317,2017-07-01,143,PHI,Philadelphia Phillies,121,NYM,New York Mets,6,7
+491318,2017-07-01,137,SF,San Francisco Giants,134,PIT,Pittsburgh Pirates,2,1
+491319,2017-07-01,136,SEA,Seattle Mariners,108,LAA,Los Angeles Angels,0,4
+491320,2017-07-01,139,TB,Tampa Bay Rays,110,BAL,Baltimore Orioles,10,3
+491321,2017-07-01,140,TEX,Texas Rangers,145,CWS,Chicago White Sox,10,4
+491322,2017-07-01,120,WSH,Washington Nationals,138,STL,St. Louis Cardinals,1,2
+491323,2017-07-02,144,ATL,Atlanta Braves,133,OAK,Oakland Athletics,4,3
+491324,2017-07-02,111,BOS,Boston Red Sox,141,TOR,Toronto Blue Jays,15,1
+491325,2017-07-02,112,CHC,Chicago Cubs,113,CIN,Cincinnati Reds,6,2
+491326,2017-07-02,114,CLE,Cleveland Indians,116,DET,Detroit Tigers,11,8
+491327,2017-07-02,115,COL,Colorado Rockies,109,AZ,Arizona Diamondbacks,3,4
+491328,2017-07-02,119,LAD,Los Angeles Dodgers,135,SD,San Diego Padres,3,5
+491329,2017-07-02,146,MIA,Miami Marlins,158,MIL,Milwaukee Brewers,10,3
+491330,2017-07-02,142,MIN,Minnesota Twins,118,KC,Kansas City Royals,2,6
+491331,2017-07-02,147,NYY,New York Yankees,117,HOU,Houston Astros,1,8
+491332,2017-07-02,143,PHI,Philadelphia Phillies,121,NYM,New York Mets,7,1
+491333,2017-07-02,137,SF,San Francisco Giants,134,PIT,Pittsburgh Pirates,5,3
+491334,2017-07-02,136,SEA,Seattle Mariners,108,LAA,Los Angeles Angels,5,3
+491335,2017-07-02,139,TB,Tampa Bay Rays,110,BAL,Baltimore Orioles,1,7
+491336,2017-07-02,140,TEX,Texas Rangers,145,CWS,Chicago White Sox,5,6
+491337,2017-07-02,120,WSH,Washington Nationals,138,STL,St. Louis Cardinals,7,2
+491338,2017-07-03,110,BAL,Baltimore Orioles,158,MIL,Milwaukee Brewers,1,8
+491339,2017-07-03,111,BOS,Boston Red Sox,140,TEX,Texas Rangers,7,5
+491340,2017-07-03,145,CWS,Chicago White Sox,133,OAK,Oakland Athletics,7,2
+491341,2017-07-03,113,CIN,Cincinnati Reds,115,COL,Colorado Rockies,3,5
+491342,2017-07-03,118,KC,Kansas City Royals,136,SEA,Seattle Mariners,3,1
+491343,2017-07-03,108,LAA,Los Angeles Angels,142,MIN,Minnesota Twins,5,9
+491344,2017-07-03,146,MIA,Miami Marlins,138,STL,St. Louis Cardinals,6,14
+491345,2017-07-03,121,NYM,New York Mets,120,WSH,Washington Nationals,2,3
+491346,2017-07-03,134,PIT,Pittsburgh Pirates,143,PHI,Philadelphia Phillies,0,4
+491347,2017-07-03,141,TOR,Toronto Blue Jays,147,NYY,New York Yankees,3,6
+491348,2017-07-04,109,AZ,Arizona Diamondbacks,119,LAD,Los Angeles Dodgers,3,4
+491349,2017-07-04,110,BAL,Baltimore Orioles,158,MIL,Milwaukee Brewers,2,6
+491350,2017-07-04,111,BOS,Boston Red Sox,140,TEX,Texas Rangers,11,4
+491351,2017-07-04,145,CWS,Chicago White Sox,133,OAK,Oakland Athletics,6,7
+491352,2017-07-04,113,CIN,Cincinnati Reds,115,COL,Colorado Rockies,8,1
+491353,2017-07-04,117,HOU,Houston Astros,144,ATL,Atlanta Braves,16,4
+491354,2017-07-04,118,KC,Kansas City Royals,136,SEA,Seattle Mariners,7,3
+491355,2017-07-04,108,LAA,Los Angeles Angels,142,MIN,Minnesota Twins,4,5
+491356,2017-07-04,146,MIA,Miami Marlins,138,STL,St. Louis Cardinals,5,2
+491357,2017-07-04,121,NYM,New York Mets,120,WSH,Washington Nationals,4,11
+491358,2017-07-04,134,PIT,Pittsburgh Pirates,143,PHI,Philadelphia Phillies,3,0
+491359,2017-07-04,135,SD,San Diego Padres,114,CLE,Cleveland Indians,1,0
+491360,2017-07-04,137,SF,San Francisco Giants,116,DET,Detroit Tigers,3,5
+491361,2017-07-04,139,TB,Tampa Bay Rays,112,CHC,Chicago Cubs,6,5
+491362,2017-07-04,141,TOR,Toronto Blue Jays,147,NYY,New York Yankees,4,1
+491363,2017-07-05,109,AZ,Arizona Diamondbacks,119,LAD,Los Angeles Dodgers,0,1
+491364,2017-07-05,110,BAL,Baltimore Orioles,158,MIL,Milwaukee Brewers,0,4
+491365,2017-07-05,111,BOS,Boston Red Sox,140,TEX,Texas Rangers,2,8
+491366,2017-07-05,145,CWS,Chicago White Sox,133,OAK,Oakland Athletics,4,7
+491367,2017-07-05,113,CIN,Cincinnati Reds,115,COL,Colorado Rockies,3,5
+491368,2017-07-05,117,HOU,Houston Astros,144,ATL,Atlanta Braves,10,4
+491369,2017-07-05,118,KC,Kansas City Royals,136,SEA,Seattle Mariners,9,6
+491370,2017-07-05,108,LAA,Los Angeles Angels,142,MIN,Minnesota Twins,2,1
+491371,2017-07-05,146,MIA,Miami Marlins,138,STL,St. Louis Cardinals,9,6
+491373,2017-07-05,134,PIT,Pittsburgh Pirates,143,PHI,Philadelphia Phillies,5,2
+491374,2017-07-05,135,SD,San Diego Padres,114,CLE,Cleveland Indians,6,2
+491375,2017-07-05,137,SF,San Francisco Giants,116,DET,Detroit Tigers,5,4
+491376,2017-07-05,139,TB,Tampa Bay Rays,112,CHC,Chicago Cubs,3,7
+491377,2017-07-05,141,TOR,Toronto Blue Jays,147,NYY,New York Yankees,7,6
+490741,2017-07-06,158,MIL,Milwaukee Brewers,112,CHC,Chicago Cubs,11,2
+491378,2017-07-06,109,AZ,Arizona Diamondbacks,119,LAD,Los Angeles Dodgers,4,5
+491379,2017-07-06,144,ATL,Atlanta Braves,120,WSH,Washington Nationals,5,2
+491380,2017-07-06,110,BAL,Baltimore Orioles,142,MIN,Minnesota Twins,4,6
+491381,2017-07-06,111,BOS,Boston Red Sox,139,TB,Tampa Bay Rays,1,4
+491382,2017-07-06,113,CIN,Cincinnati Reds,115,COL,Colorado Rockies,6,3
+491383,2017-07-06,117,HOU,Houston Astros,141,TOR,Toronto Blue Jays,4,7
+491384,2017-07-06,146,MIA,Miami Marlins,138,STL,St. Louis Cardinals,3,4
+491385,2017-07-06,133,OAK,Oakland Athletics,136,SEA,Seattle Mariners,7,4
+491386,2017-07-06,134,PIT,Pittsburgh Pirates,143,PHI,Philadelphia Phillies,6,3
+491387,2017-07-06,135,SD,San Diego Padres,114,CLE,Cleveland Indians,2,11
+491388,2017-07-06,137,SF,San Francisco Giants,116,DET,Detroit Tigers,2,6
+491389,2017-07-07,144,ATL,Atlanta Braves,120,WSH,Washington Nationals,4,5
+491390,2017-07-07,110,BAL,Baltimore Orioles,142,MIN,Minnesota Twins,6,9
+491391,2017-07-07,111,BOS,Boston Red Sox,139,TB,Tampa Bay Rays,8,3
+491392,2017-07-07,145,CWS,Chicago White Sox,115,COL,Colorado Rockies,4,12
+491393,2017-07-07,113,CIN,Cincinnati Reds,109,AZ,Arizona Diamondbacks,3,6
+491394,2017-07-07,116,DET,Detroit Tigers,114,CLE,Cleveland Indians,2,11
+491395,2017-07-07,117,HOU,Houston Astros,141,TOR,Toronto Blue Jays,12,2
+491396,2017-07-07,118,KC,Kansas City Royals,119,LAD,Los Angeles Dodgers,1,4
+491397,2017-07-07,108,LAA,Los Angeles Angels,140,TEX,Texas Rangers,0,10
+491398,2017-07-07,146,MIA,Miami Marlins,137,SF,San Francisco Giants,6,1
+491399,2017-07-07,158,MIL,Milwaukee Brewers,147,NYY,New York Yankees,9,4
+491400,2017-07-07,121,NYM,New York Mets,138,STL,St. Louis Cardinals,6,5
+491401,2017-07-07,133,OAK,Oakland Athletics,136,SEA,Seattle Mariners,2,7
+491402,2017-07-07,134,PIT,Pittsburgh Pirates,112,CHC,Chicago Cubs,1,6
+491403,2017-07-07,135,SD,San Diego Padres,143,PHI,Philadelphia Phillies,4,3
+491404,2017-07-08,144,ATL,Atlanta Braves,120,WSH,Washington Nationals,13,0
+491405,2017-07-08,110,BAL,Baltimore Orioles,142,MIN,Minnesota Twins,5,1
+491406,2017-07-08,111,BOS,Boston Red Sox,139,TB,Tampa Bay Rays,0,1
+491407,2017-07-08,145,CWS,Chicago White Sox,115,COL,Colorado Rockies,5,4
+491408,2017-07-08,113,CIN,Cincinnati Reds,109,AZ,Arizona Diamondbacks,7,0
+491409,2017-07-08,116,DET,Detroit Tigers,114,CLE,Cleveland Indians,0,4
+491410,2017-07-08,117,HOU,Houston Astros,141,TOR,Toronto Blue Jays,2,7
+491411,2017-07-08,118,KC,Kansas City Royals,119,LAD,Los Angeles Dodgers,4,5
+491412,2017-07-08,108,LAA,Los Angeles Angels,140,TEX,Texas Rangers,2,5
+491413,2017-07-08,146,MIA,Miami Marlins,137,SF,San Francisco Giants,5,4
+491414,2017-07-08,158,MIL,Milwaukee Brewers,147,NYY,New York Yankees,3,5
+491415,2017-07-08,121,NYM,New York Mets,138,STL,St. Louis Cardinals,1,4
+491416,2017-07-08,133,OAK,Oakland Athletics,136,SEA,Seattle Mariners,4,3
+491417,2017-07-08,134,PIT,Pittsburgh Pirates,112,CHC,Chicago Cubs,4,2
+491418,2017-07-08,135,SD,San Diego Padres,143,PHI,Philadelphia Phillies,2,1
+491419,2017-07-09,144,ATL,Atlanta Braves,120,WSH,Washington Nationals,5,10
+491420,2017-07-09,110,BAL,Baltimore Orioles,142,MIN,Minnesota Twins,11,5
+491421,2017-07-09,111,BOS,Boston Red Sox,139,TB,Tampa Bay Rays,3,5
+491422,2017-07-09,145,CWS,Chicago White Sox,115,COL,Colorado Rockies,0,10
+491423,2017-07-09,113,CIN,Cincinnati Reds,109,AZ,Arizona Diamondbacks,2,1
+491424,2017-07-09,116,DET,Detroit Tigers,114,CLE,Cleveland Indians,5,3
+491425,2017-07-09,117,HOU,Houston Astros,141,TOR,Toronto Blue Jays,19,1
+491426,2017-07-09,118,KC,Kansas City Royals,119,LAD,Los Angeles Dodgers,2,5
+491427,2017-07-09,108,LAA,Los Angeles Angels,140,TEX,Texas Rangers,3,0
+491428,2017-07-09,146,MIA,Miami Marlins,137,SF,San Francisco Giants,10,8
+491429,2017-07-09,158,MIL,Milwaukee Brewers,147,NYY,New York Yankees,5,3
+491430,2017-07-09,121,NYM,New York Mets,138,STL,St. Louis Cardinals,0,6
+491431,2017-07-09,133,OAK,Oakland Athletics,136,SEA,Seattle Mariners,0,4
+491432,2017-07-09,134,PIT,Pittsburgh Pirates,112,CHC,Chicago Cubs,14,3
+491433,2017-07-09,135,SD,San Diego Padres,143,PHI,Philadelphia Phillies,1,7
+491435,2017-07-14,109,AZ,Arizona Diamondbacks,144,ATL,Atlanta Braves,3,4
+491436,2017-07-14,112,CHC,Chicago Cubs,110,BAL,Baltimore Orioles,9,8
+491437,2017-07-14,114,CLE,Cleveland Indians,133,OAK,Oakland Athletics,0,5
+491438,2017-07-14,115,COL,Colorado Rockies,121,NYM,New York Mets,2,14
+491439,2017-07-14,119,LAD,Los Angeles Dodgers,146,MIA,Miami Marlins,6,4
+491440,2017-07-14,142,MIN,Minnesota Twins,117,HOU,Houston Astros,5,10
+491441,2017-07-14,147,NYY,New York Yankees,111,BOS,Boston Red Sox,4,5
+491442,2017-07-14,143,PHI,Philadelphia Phillies,158,MIL,Milwaukee Brewers,6,9
+491443,2017-07-14,137,SF,San Francisco Giants,135,SD,San Diego Padres,5,4
+491444,2017-07-14,136,SEA,Seattle Mariners,145,CWS,Chicago White Sox,4,2
+491445,2017-07-14,138,STL,St. Louis Cardinals,134,PIT,Pittsburgh Pirates,2,5
+491446,2017-07-14,139,TB,Tampa Bay Rays,108,LAA,Los Angeles Angels,2,1
+491447,2017-07-14,140,TEX,Texas Rangers,118,KC,Kansas City Royals,5,3
+491448,2017-07-14,141,TOR,Toronto Blue Jays,116,DET,Detroit Tigers,7,2
+491449,2017-07-14,120,WSH,Washington Nationals,113,CIN,Cincinnati Reds,5,0
+491450,2017-07-15,109,AZ,Arizona Diamondbacks,144,ATL,Atlanta Braves,5,8
+491451,2017-07-15,112,CHC,Chicago Cubs,110,BAL,Baltimore Orioles,10,3
+491452,2017-07-15,114,CLE,Cleveland Indians,133,OAK,Oakland Athletics,3,5
+491453,2017-07-15,115,COL,Colorado Rockies,121,NYM,New York Mets,3,9
+491454,2017-07-15,119,LAD,Los Angeles Dodgers,146,MIA,Miami Marlins,7,1
+491455,2017-07-15,142,MIN,Minnesota Twins,117,HOU,Houston Astros,4,2
+491456,2017-07-15,147,NYY,New York Yankees,111,BOS,Boston Red Sox,4,1
+491457,2017-07-15,143,PHI,Philadelphia Phillies,158,MIL,Milwaukee Brewers,2,3
+491458,2017-07-15,137,SF,San Francisco Giants,135,SD,San Diego Padres,3,5
+491459,2017-07-15,136,SEA,Seattle Mariners,145,CWS,Chicago White Sox,4,3
+491460,2017-07-15,138,STL,St. Louis Cardinals,134,PIT,Pittsburgh Pirates,4,0
+491461,2017-07-15,139,TB,Tampa Bay Rays,108,LAA,Los Angeles Angels,6,3
+491462,2017-07-15,140,TEX,Texas Rangers,118,KC,Kansas City Royals,1,0
+491463,2017-07-15,141,TOR,Toronto Blue Jays,116,DET,Detroit Tigers,1,11
+491464,2017-07-15,120,WSH,Washington Nationals,113,CIN,Cincinnati Reds,10,7
+490398,2017-07-16,147,NYY,New York Yankees,111,BOS,Boston Red Sox,3,0
+491465,2017-07-16,109,AZ,Arizona Diamondbacks,144,ATL,Atlanta Braves,1,7
+491466,2017-07-16,112,CHC,Chicago Cubs,110,BAL,Baltimore Orioles,8,0
+491467,2017-07-16,114,CLE,Cleveland Indians,133,OAK,Oakland Athletics,3,7
+491468,2017-07-16,115,COL,Colorado Rockies,121,NYM,New York Mets,13,4
+491469,2017-07-16,119,LAD,Los Angeles Dodgers,146,MIA,Miami Marlins,3,2
+491470,2017-07-16,142,MIN,Minnesota Twins,117,HOU,Houston Astros,3,5
+491471,2017-07-16,147,NYY,New York Yankees,111,BOS,Boston Red Sox,0,3
+491472,2017-07-16,143,PHI,Philadelphia Phillies,158,MIL,Milwaukee Brewers,5,2
+491473,2017-07-16,137,SF,San Francisco Giants,135,SD,San Diego Padres,1,7
+491474,2017-07-16,136,SEA,Seattle Mariners,145,CWS,Chicago White Sox,7,6
+491475,2017-07-16,138,STL,St. Louis Cardinals,134,PIT,Pittsburgh Pirates,3,4
+491476,2017-07-16,139,TB,Tampa Bay Rays,108,LAA,Los Angeles Angels,3,4
+491477,2017-07-16,140,TEX,Texas Rangers,118,KC,Kansas City Royals,3,4
+491478,2017-07-16,141,TOR,Toronto Blue Jays,116,DET,Detroit Tigers,5,6
+491479,2017-07-16,120,WSH,Washington Nationals,113,CIN,Cincinnati Reds,14,4
+491480,2017-07-17,112,CHC,Chicago Cubs,144,ATL,Atlanta Braves,4,3
+491481,2017-07-17,114,CLE,Cleveland Indians,137,SF,San Francisco Giants,5,3
+491482,2017-07-17,116,DET,Detroit Tigers,118,KC,Kansas City Royals,10,2
+491483,2017-07-17,158,MIL,Milwaukee Brewers,134,PIT,Pittsburgh Pirates,2,4
+491484,2017-07-17,147,NYY,New York Yankees,142,MIN,Minnesota Twins,2,4
+491485,2017-07-17,143,PHI,Philadelphia Phillies,146,MIA,Miami Marlins,5,6
+491486,2017-07-17,135,SD,San Diego Padres,115,COL,Colorado Rockies,6,9
+491487,2017-07-17,136,SEA,Seattle Mariners,117,HOU,Houston Astros,9,7
+491488,2017-07-17,138,STL,St. Louis Cardinals,121,NYM,New York Mets,6,3
+491489,2017-07-17,139,TB,Tampa Bay Rays,133,OAK,Oakland Athletics,3,2
+491490,2017-07-17,140,TEX,Texas Rangers,110,BAL,Baltimore Orioles,1,3
+491491,2017-07-17,141,TOR,Toronto Blue Jays,111,BOS,Boston Red Sox,4,3
+491492,2017-07-17,120,WSH,Washington Nationals,113,CIN,Cincinnati Reds,6,1
+491493,2017-07-18,109,AZ,Arizona Diamondbacks,113,CIN,Cincinnati Reds,11,2
+491494,2017-07-18,112,CHC,Chicago Cubs,144,ATL,Atlanta Braves,5,1
+491495,2017-07-18,114,CLE,Cleveland Indians,137,SF,San Francisco Giants,1,2
+491496,2017-07-18,116,DET,Detroit Tigers,118,KC,Kansas City Royals,9,3
+491497,2017-07-18,119,LAD,Los Angeles Dodgers,145,CWS,Chicago White Sox,1,0
+491498,2017-07-18,158,MIL,Milwaukee Brewers,134,PIT,Pittsburgh Pirates,3,4
+491499,2017-07-18,147,NYY,New York Yankees,142,MIN,Minnesota Twins,6,3
+491500,2017-07-18,143,PHI,Philadelphia Phillies,146,MIA,Miami Marlins,5,2
+491501,2017-07-18,135,SD,San Diego Padres,115,COL,Colorado Rockies,7,9
+491502,2017-07-18,136,SEA,Seattle Mariners,117,HOU,Houston Astros,2,6
+491503,2017-07-18,138,STL,St. Louis Cardinals,121,NYM,New York Mets,5,0
+491504,2017-07-18,139,TB,Tampa Bay Rays,133,OAK,Oakland Athletics,4,3
+491505,2017-07-18,140,TEX,Texas Rangers,110,BAL,Baltimore Orioles,1,12
+491506,2017-07-18,141,TOR,Toronto Blue Jays,111,BOS,Boston Red Sox,4,5
+491507,2017-07-18,120,WSH,Washington Nationals,108,LAA,Los Angeles Angels,4,3
+491508,2017-07-19,109,AZ,Arizona Diamondbacks,113,CIN,Cincinnati Reds,3,4
+491509,2017-07-19,112,CHC,Chicago Cubs,144,ATL,Atlanta Braves,8,2
+491510,2017-07-19,114,CLE,Cleveland Indians,137,SF,San Francisco Giants,4,5
+491511,2017-07-19,116,DET,Detroit Tigers,118,KC,Kansas City Royals,3,4
+491512,2017-07-19,119,LAD,Los Angeles Dodgers,145,CWS,Chicago White Sox,9,1
+491513,2017-07-19,158,MIL,Milwaukee Brewers,134,PIT,Pittsburgh Pirates,2,3
+491514,2017-07-19,147,NYY,New York Yankees,142,MIN,Minnesota Twins,1,6
+491515,2017-07-19,143,PHI,Philadelphia Phillies,146,MIA,Miami Marlins,10,3
+491516,2017-07-19,135,SD,San Diego Padres,115,COL,Colorado Rockies,4,18
+491517,2017-07-19,136,SEA,Seattle Mariners,117,HOU,Houston Astros,4,1
+491518,2017-07-19,138,STL,St. Louis Cardinals,121,NYM,New York Mets,3,7
+491519,2017-07-19,139,TB,Tampa Bay Rays,133,OAK,Oakland Athletics,2,7
+491520,2017-07-19,140,TEX,Texas Rangers,110,BAL,Baltimore Orioles,2,10
+491521,2017-07-19,141,TOR,Toronto Blue Jays,111,BOS,Boston Red Sox,1,5
+491522,2017-07-19,120,WSH,Washington Nationals,108,LAA,Los Angeles Angels,0,7
+491523,2017-07-20,109,AZ,Arizona Diamondbacks,113,CIN,Cincinnati Reds,12,2
+491524,2017-07-20,144,ATL,Atlanta Braves,119,LAD,Los Angeles Dodgers,6,3
+491525,2017-07-20,116,DET,Detroit Tigers,118,KC,Kansas City Royals,4,16
+491526,2017-07-20,158,MIL,Milwaukee Brewers,134,PIT,Pittsburgh Pirates,2,4
+491527,2017-07-20,147,NYY,New York Yankees,136,SEA,Seattle Mariners,4,1
+491528,2017-07-20,135,SD,San Diego Padres,137,SF,San Francisco Giants,5,2
+491529,2017-07-20,138,STL,St. Louis Cardinals,121,NYM,New York Mets,2,3
+491530,2017-07-20,140,TEX,Texas Rangers,110,BAL,Baltimore Orioles,7,9
+491531,2017-07-20,141,TOR,Toronto Blue Jays,111,BOS,Boston Red Sox,8,6
+491532,2017-07-21,144,ATL,Atlanta Braves,119,LAD,Los Angeles Dodgers,12,3
+491533,2017-07-21,111,BOS,Boston Red Sox,108,LAA,Los Angeles Angels,6,2
+491534,2017-07-21,145,CWS,Chicago White Sox,118,KC,Kansas City Royals,6,7
+491535,2017-07-21,116,DET,Detroit Tigers,142,MIN,Minnesota Twins,6,3
+491536,2017-07-21,117,HOU,Houston Astros,110,BAL,Baltimore Orioles,8,7
+491537,2017-07-21,146,MIA,Miami Marlins,113,CIN,Cincinnati Reds,3,1
+491538,2017-07-21,158,MIL,Milwaukee Brewers,143,PHI,Philadelphia Phillies,1,6
+491539,2017-07-21,147,NYY,New York Yankees,136,SEA,Seattle Mariners,5,1
+491540,2017-07-21,133,OAK,Oakland Athletics,121,NYM,New York Mets,5,7
+491541,2017-07-21,134,PIT,Pittsburgh Pirates,115,COL,Colorado Rockies,13,5
+491542,2017-07-21,135,SD,San Diego Padres,137,SF,San Francisco Giants,12,9
+491543,2017-07-21,138,STL,St. Louis Cardinals,112,CHC,Chicago Cubs,11,4
+491544,2017-07-21,140,TEX,Texas Rangers,139,TB,Tampa Bay Rays,4,3
+491545,2017-07-21,141,TOR,Toronto Blue Jays,114,CLE,Cleveland Indians,3,13
+491546,2017-07-21,120,WSH,Washington Nationals,109,AZ,Arizona Diamondbacks,5,6
+491547,2017-07-22,144,ATL,Atlanta Braves,119,LAD,Los Angeles Dodgers,2,6
+491548,2017-07-22,111,BOS,Boston Red Sox,108,LAA,Los Angeles Angels,3,7
+491549,2017-07-22,145,CWS,Chicago White Sox,118,KC,Kansas City Royals,2,7
+491550,2017-07-22,116,DET,Detroit Tigers,142,MIN,Minnesota Twins,5,6
+491551,2017-07-22,117,HOU,Houston Astros,110,BAL,Baltimore Orioles,8,4
+491552,2017-07-22,146,MIA,Miami Marlins,113,CIN,Cincinnati Reds,5,4
+491553,2017-07-22,158,MIL,Milwaukee Brewers,143,PHI,Philadelphia Phillies,9,8
+491554,2017-07-22,147,NYY,New York Yankees,136,SEA,Seattle Mariners,5,6
+491555,2017-07-22,133,OAK,Oakland Athletics,121,NYM,New York Mets,5,6
+491556,2017-07-22,134,PIT,Pittsburgh Pirates,115,COL,Colorado Rockies,3,7
+491557,2017-07-22,135,SD,San Diego Padres,137,SF,San Francisco Giants,4,5
+491558,2017-07-22,138,STL,St. Louis Cardinals,112,CHC,Chicago Cubs,2,3
+491559,2017-07-22,140,TEX,Texas Rangers,139,TB,Tampa Bay Rays,4,3
+491560,2017-07-22,141,TOR,Toronto Blue Jays,114,CLE,Cleveland Indians,1,2
+491561,2017-07-22,120,WSH,Washington Nationals,109,AZ,Arizona Diamondbacks,4,3
+491562,2017-07-23,144,ATL,Atlanta Braves,119,LAD,Los Angeles Dodgers,4,5
+491563,2017-07-23,111,BOS,Boston Red Sox,108,LAA,Los Angeles Angels,2,3
+491564,2017-07-23,145,CWS,Chicago White Sox,118,KC,Kansas City Royals,4,5
+491565,2017-07-23,116,DET,Detroit Tigers,142,MIN,Minnesota Twins,9,6
+491566,2017-07-23,117,HOU,Houston Astros,110,BAL,Baltimore Orioles,7,9
+491567,2017-07-23,146,MIA,Miami Marlins,113,CIN,Cincinnati Reds,3,6
+491568,2017-07-23,158,MIL,Milwaukee Brewers,143,PHI,Philadelphia Phillies,3,6
+491569,2017-07-23,147,NYY,New York Yankees,136,SEA,Seattle Mariners,6,4
+491570,2017-07-23,133,OAK,Oakland Athletics,121,NYM,New York Mets,3,2
+491571,2017-07-23,134,PIT,Pittsburgh Pirates,115,COL,Colorado Rockies,3,13
+491572,2017-07-23,135,SD,San Diego Padres,137,SF,San Francisco Giants,5,2
+491573,2017-07-23,138,STL,St. Louis Cardinals,112,CHC,Chicago Cubs,3,5
+491574,2017-07-23,140,TEX,Texas Rangers,139,TB,Tampa Bay Rays,6,5
+491575,2017-07-23,141,TOR,Toronto Blue Jays,114,CLE,Cleveland Indians,1,8
+491576,2017-07-23,120,WSH,Washington Nationals,109,AZ,Arizona Diamondbacks,6,2
+490803,2017-07-24,113,CIN,Cincinnati Reds,114,CLE,Cleveland Indians,2,6
+491577,2017-07-24,144,ATL,Atlanta Braves,109,AZ,Arizona Diamondbacks,2,10
+491578,2017-07-24,110,BAL,Baltimore Orioles,139,TB,Tampa Bay Rays,5,0
+491579,2017-07-24,111,BOS,Boston Red Sox,136,SEA,Seattle Mariners,0,4
+491580,2017-07-24,145,CWS,Chicago White Sox,112,CHC,Chicago Cubs,3,1
+491581,2017-07-24,115,COL,Colorado Rockies,138,STL,St. Louis Cardinals,2,8
+491582,2017-07-24,117,HOU,Houston Astros,143,PHI,Philadelphia Phillies,13,4
+491583,2017-07-24,118,KC,Kansas City Royals,116,DET,Detroit Tigers,5,3
+491584,2017-07-24,146,MIA,Miami Marlins,140,TEX,Texas Rangers,4,0
+491585,2017-07-24,142,MIN,Minnesota Twins,119,LAD,Los Angeles Dodgers,4,6
+491586,2017-07-24,121,NYM,New York Mets,135,SD,San Diego Padres,5,3
+491587,2017-07-24,133,OAK,Oakland Athletics,141,TOR,Toronto Blue Jays,2,4
+491588,2017-07-24,134,PIT,Pittsburgh Pirates,137,SF,San Francisco Giants,10,3
+491589,2017-07-25,144,ATL,Atlanta Braves,109,AZ,Arizona Diamondbacks,8,3
+491590,2017-07-25,110,BAL,Baltimore Orioles,139,TB,Tampa Bay Rays,4,5
+491591,2017-07-25,111,BOS,Boston Red Sox,136,SEA,Seattle Mariners,5,6
+491592,2017-07-25,145,CWS,Chicago White Sox,112,CHC,Chicago Cubs,2,7
+491593,2017-07-25,113,CIN,Cincinnati Reds,147,NYY,New York Yankees,2,4
+491594,2017-07-25,115,COL,Colorado Rockies,138,STL,St. Louis Cardinals,2,3
+491595,2017-07-25,117,HOU,Houston Astros,143,PHI,Philadelphia Phillies,5,0
+491596,2017-07-25,118,KC,Kansas City Royals,116,DET,Detroit Tigers,3,1
+491597,2017-07-25,108,LAA,Los Angeles Angels,114,CLE,Cleveland Indians,7,11
+491598,2017-07-25,146,MIA,Miami Marlins,140,TEX,Texas Rangers,4,10
+491599,2017-07-25,158,MIL,Milwaukee Brewers,120,WSH,Washington Nationals,8,0
+491600,2017-07-25,142,MIN,Minnesota Twins,119,LAD,Los Angeles Dodgers,2,6
+491601,2017-07-25,121,NYM,New York Mets,135,SD,San Diego Padres,6,5
+491602,2017-07-25,133,OAK,Oakland Athletics,141,TOR,Toronto Blue Jays,1,4
+491603,2017-07-25,134,PIT,Pittsburgh Pirates,137,SF,San Francisco Giants,3,11
+491604,2017-07-26,144,ATL,Atlanta Braves,109,AZ,Arizona Diamondbacks,3,10
+491605,2017-07-26,110,BAL,Baltimore Orioles,139,TB,Tampa Bay Rays,1,5
+491606,2017-07-26,111,BOS,Boston Red Sox,136,SEA,Seattle Mariners,4,0
+491607,2017-07-26,112,CHC,Chicago Cubs,145,CWS,Chicago White Sox,8,3
+491608,2017-07-26,113,CIN,Cincinnati Reds,147,NYY,New York Yankees,5,9
+491609,2017-07-26,115,COL,Colorado Rockies,138,STL,St. Louis Cardinals,5,10
+491610,2017-07-26,117,HOU,Houston Astros,143,PHI,Philadelphia Phillies,0,9
+491611,2017-07-26,118,KC,Kansas City Royals,116,DET,Detroit Tigers,16,2
+491612,2017-07-26,108,LAA,Los Angeles Angels,114,CLE,Cleveland Indians,4,10
+491613,2017-07-26,146,MIA,Miami Marlins,140,TEX,Texas Rangers,22,10
+491614,2017-07-26,158,MIL,Milwaukee Brewers,120,WSH,Washington Nationals,5,8
+491615,2017-07-26,142,MIN,Minnesota Twins,119,LAD,Los Angeles Dodgers,5,6
+491616,2017-07-26,121,NYM,New York Mets,135,SD,San Diego Padres,3,6
+491617,2017-07-26,133,OAK,Oakland Athletics,141,TOR,Toronto Blue Jays,2,3
+491618,2017-07-26,134,PIT,Pittsburgh Pirates,137,SF,San Francisco Giants,1,2
+491619,2017-07-27,109,AZ,Arizona Diamondbacks,138,STL,St. Louis Cardinals,4,0
+491620,2017-07-27,112,CHC,Chicago Cubs,145,CWS,Chicago White Sox,6,3
+491621,2017-07-27,113,CIN,Cincinnati Reds,146,MIA,Miami Marlins,1,4
+491622,2017-07-27,108,LAA,Los Angeles Angels,114,CLE,Cleveland Indians,1,2
+491623,2017-07-27,158,MIL,Milwaukee Brewers,120,WSH,Washington Nationals,2,15
+491624,2017-07-27,121,NYM,New York Mets,135,SD,San Diego Padres,5,7
+491625,2017-07-27,133,OAK,Oakland Athletics,141,TOR,Toronto Blue Jays,4,8
+491626,2017-07-27,139,TB,Tampa Bay Rays,147,NYY,New York Yankees,5,6
+491627,2017-07-28,109,AZ,Arizona Diamondbacks,138,STL,St. Louis Cardinals,0,1
+491628,2017-07-28,144,ATL,Atlanta Braves,143,PHI,Philadelphia Phillies,3,10
+491629,2017-07-28,110,BAL,Baltimore Orioles,140,TEX,Texas Rangers,2,8
+491630,2017-07-28,112,CHC,Chicago Cubs,158,MIL,Milwaukee Brewers,1,2
+491631,2017-07-28,113,CIN,Cincinnati Reds,146,MIA,Miami Marlins,4,7
+491632,2017-07-28,114,CLE,Cleveland Indians,145,CWS,Chicago White Sox,9,3
+491634,2017-07-28,117,HOU,Houston Astros,116,DET,Detroit Tigers,6,5
+491635,2017-07-28,118,KC,Kansas City Royals,111,BOS,Boston Red Sox,4,2
+491636,2017-07-28,108,LAA,Los Angeles Angels,141,TOR,Toronto Blue Jays,7,2
+491637,2017-07-28,142,MIN,Minnesota Twins,133,OAK,Oakland Athletics,6,3
+491638,2017-07-28,121,NYM,New York Mets,136,SEA,Seattle Mariners,7,5
+491639,2017-07-28,134,PIT,Pittsburgh Pirates,135,SD,San Diego Padres,2,3
+491640,2017-07-28,137,SF,San Francisco Giants,119,LAD,Los Angeles Dodgers,4,6
+491641,2017-07-28,139,TB,Tampa Bay Rays,147,NYY,New York Yankees,1,6
+491642,2017-07-29,109,AZ,Arizona Diamondbacks,138,STL,St. Louis Cardinals,7,1
+491643,2017-07-29,144,ATL,Atlanta Braves,143,PHI,Philadelphia Phillies,3,4
+491644,2017-07-29,110,BAL,Baltimore Orioles,140,TEX,Texas Rangers,4,0
+491645,2017-07-29,112,CHC,Chicago Cubs,158,MIL,Milwaukee Brewers,2,1
+491646,2017-07-29,113,CIN,Cincinnati Reds,146,MIA,Miami Marlins,3,7
+491647,2017-07-29,114,CLE,Cleveland Indians,145,CWS,Chicago White Sox,5,4
+491648,2017-07-29,115,COL,Colorado Rockies,120,WSH,Washington Nationals,4,2
+491649,2017-07-29,117,HOU,Houston Astros,116,DET,Detroit Tigers,3,5
+491650,2017-07-29,118,KC,Kansas City Royals,111,BOS,Boston Red Sox,8,9
+491651,2017-07-29,108,LAA,Los Angeles Angels,141,TOR,Toronto Blue Jays,6,5
+491652,2017-07-29,142,MIN,Minnesota Twins,133,OAK,Oakland Athletics,4,5
+491653,2017-07-29,121,NYM,New York Mets,136,SEA,Seattle Mariners,2,3
+491654,2017-07-29,134,PIT,Pittsburgh Pirates,135,SD,San Diego Padres,2,4
+491655,2017-07-29,137,SF,San Francisco Giants,119,LAD,Los Angeles Dodgers,1,2
+491656,2017-07-29,139,TB,Tampa Bay Rays,147,NYY,New York Yankees,4,5
+491633,2017-07-30,115,COL,Colorado Rockies,120,WSH,Washington Nationals,1,3
+491657,2017-07-30,109,AZ,Arizona Diamondbacks,138,STL,St. Louis Cardinals,2,3
+491658,2017-07-30,144,ATL,Atlanta Braves,143,PHI,Philadelphia Phillies,1,2
+491659,2017-07-30,110,BAL,Baltimore Orioles,140,TEX,Texas Rangers,10,6
+491660,2017-07-30,112,CHC,Chicago Cubs,158,MIL,Milwaukee Brewers,4,2
+491661,2017-07-30,113,CIN,Cincinnati Reds,146,MIA,Miami Marlins,6,4
+491662,2017-07-30,114,CLE,Cleveland Indians,145,CWS,Chicago White Sox,1,3
+491663,2017-07-30,115,COL,Colorado Rockies,120,WSH,Washington Nationals,10,6
+491664,2017-07-30,117,HOU,Houston Astros,116,DET,Detroit Tigers,1,13
+491665,2017-07-30,118,KC,Kansas City Royals,111,BOS,Boston Red Sox,5,3
+491666,2017-07-30,108,LAA,Los Angeles Angels,141,TOR,Toronto Blue Jays,10,11
+491667,2017-07-30,142,MIN,Minnesota Twins,133,OAK,Oakland Athletics,5,6
+491668,2017-07-30,121,NYM,New York Mets,136,SEA,Seattle Mariners,1,9
+491669,2017-07-30,134,PIT,Pittsburgh Pirates,135,SD,San Diego Padres,7,1
+491670,2017-07-30,137,SF,San Francisco Giants,119,LAD,Los Angeles Dodgers,2,3
+491671,2017-07-30,139,TB,Tampa Bay Rays,147,NYY,New York Yankees,5,3
+491672,2017-07-31,144,ATL,Atlanta Braves,143,PHI,Philadelphia Phillies,6,7
+491673,2017-07-31,114,CLE,Cleveland Indians,111,BOS,Boston Red Sox,2,6
+491674,2017-07-31,116,DET,Detroit Tigers,147,NYY,New York Yankees,3,7
+491675,2017-07-31,118,KC,Kansas City Royals,110,BAL,Baltimore Orioles,1,2
+491676,2017-07-31,137,SF,San Francisco Giants,133,OAK,Oakland Athletics,5,8
+491677,2017-07-31,136,SEA,Seattle Mariners,140,TEX,Texas Rangers,6,4
+491678,2017-07-31,139,TB,Tampa Bay Rays,117,HOU,Houston Astros,7,14
+491679,2017-07-31,141,TOR,Toronto Blue Jays,145,CWS,Chicago White Sox,6,7
+491680,2017-07-31,120,WSH,Washington Nationals,146,MIA,Miami Marlins,1,0
+491681,2017-08-01,109,AZ,Arizona Diamondbacks,112,CHC,Chicago Cubs,4,16
+491682,2017-08-01,113,CIN,Cincinnati Reds,134,PIT,Pittsburgh Pirates,9,1
+491683,2017-08-01,114,CLE,Cleveland Indians,111,BOS,Boston Red Sox,10,12
+491684,2017-08-01,116,DET,Detroit Tigers,147,NYY,New York Yankees,4,3
+491685,2017-08-01,118,KC,Kansas City Royals,110,BAL,Baltimore Orioles,2,7
+491686,2017-08-01,119,LAD,Los Angeles Dodgers,144,ATL,Atlanta Braves,3,2
+491687,2017-08-01,142,MIN,Minnesota Twins,135,SD,San Diego Padres,0,3
+491688,2017-08-01,121,NYM,New York Mets,115,COL,Colorado Rockies,4,5
+491689,2017-08-01,143,PHI,Philadelphia Phillies,108,LAA,Los Angeles Angels,1,7
+491690,2017-08-01,137,SF,San Francisco Giants,133,OAK,Oakland Athletics,10,4
+491691,2017-08-01,136,SEA,Seattle Mariners,140,TEX,Texas Rangers,8,7
+491692,2017-08-01,138,STL,St. Louis Cardinals,158,MIL,Milwaukee Brewers,2,3
+491693,2017-08-01,139,TB,Tampa Bay Rays,117,HOU,Houston Astros,6,4
+491694,2017-08-01,141,TOR,Toronto Blue Jays,145,CWS,Chicago White Sox,8,4
+491695,2017-08-01,120,WSH,Washington Nationals,146,MIA,Miami Marlins,6,7
+491696,2017-08-02,109,AZ,Arizona Diamondbacks,112,CHC,Chicago Cubs,3,0
+491697,2017-08-02,113,CIN,Cincinnati Reds,134,PIT,Pittsburgh Pirates,5,2
+491699,2017-08-02,116,DET,Detroit Tigers,147,NYY,New York Yankees,2,0
+491700,2017-08-02,118,KC,Kansas City Royals,110,BAL,Baltimore Orioles,0,6
+491701,2017-08-02,119,LAD,Los Angeles Dodgers,144,ATL,Atlanta Braves,3,5
+491702,2017-08-02,142,MIN,Minnesota Twins,135,SD,San Diego Padres,5,2
+491703,2017-08-02,121,NYM,New York Mets,115,COL,Colorado Rockies,10,5
+491704,2017-08-02,133,OAK,Oakland Athletics,137,SF,San Francisco Giants,6,1
+491705,2017-08-02,143,PHI,Philadelphia Phillies,108,LAA,Los Angeles Angels,0,7
+491706,2017-08-02,136,SEA,Seattle Mariners,140,TEX,Texas Rangers,1,5
+491707,2017-08-02,138,STL,St. Louis Cardinals,158,MIL,Milwaukee Brewers,5,4
+491708,2017-08-02,139,TB,Tampa Bay Rays,117,HOU,Houston Astros,3,0
+491709,2017-08-02,141,TOR,Toronto Blue Jays,145,CWS,Chicago White Sox,5,1
+491710,2017-08-02,120,WSH,Washington Nationals,146,MIA,Miami Marlins,0,7
+491711,2017-08-03,109,AZ,Arizona Diamondbacks,112,CHC,Chicago Cubs,10,8
+491712,2017-08-03,145,CWS,Chicago White Sox,111,BOS,Boston Red Sox,5,9
+491713,2017-08-03,113,CIN,Cincinnati Reds,134,PIT,Pittsburgh Pirates,0,6
+491714,2017-08-03,116,DET,Detroit Tigers,110,BAL,Baltimore Orioles,7,5
+491715,2017-08-03,119,LAD,Los Angeles Dodgers,144,ATL,Atlanta Braves,7,4
+491716,2017-08-03,121,NYM,New York Mets,115,COL,Colorado Rockies,4,5
+491717,2017-08-03,147,NYY,New York Yankees,114,CLE,Cleveland Indians,1,5
+491718,2017-08-03,133,OAK,Oakland Athletics,137,SF,San Francisco Giants,2,11
+491719,2017-08-03,143,PHI,Philadelphia Phillies,108,LAA,Los Angeles Angels,4,5
+491720,2017-08-03,136,SEA,Seattle Mariners,118,KC,Kansas City Royals,4,6
+491721,2017-08-03,138,STL,St. Louis Cardinals,158,MIL,Milwaukee Brewers,1,2
+491722,2017-08-03,139,TB,Tampa Bay Rays,117,HOU,Houston Astros,5,3
+491723,2017-08-03,140,TEX,Texas Rangers,142,MIN,Minnesota Twins,4,1
+491724,2017-08-04,109,AZ,Arizona Diamondbacks,137,SF,San Francisco Giants,2,1
+491725,2017-08-04,145,CWS,Chicago White Sox,111,BOS,Boston Red Sox,2,3
+491726,2017-08-04,116,DET,Detroit Tigers,110,BAL,Baltimore Orioles,5,2
+491727,2017-08-04,119,LAD,Los Angeles Dodgers,121,NYM,New York Mets,6,0
+491728,2017-08-04,146,MIA,Miami Marlins,144,ATL,Atlanta Braves,3,5
+491729,2017-08-04,158,MIL,Milwaukee Brewers,139,TB,Tampa Bay Rays,2,0
+491730,2017-08-04,147,NYY,New York Yankees,114,CLE,Cleveland Indians,2,7
+491731,2017-08-04,133,OAK,Oakland Athletics,108,LAA,Los Angeles Angels,6,8
+491732,2017-08-04,143,PHI,Philadelphia Phillies,115,COL,Colorado Rockies,3,4
+491733,2017-08-04,135,SD,San Diego Padres,134,PIT,Pittsburgh Pirates,6,10
+491734,2017-08-04,136,SEA,Seattle Mariners,118,KC,Kansas City Royals,5,2
+491735,2017-08-04,138,STL,St. Louis Cardinals,113,CIN,Cincinnati Reds,2,3
+491736,2017-08-04,140,TEX,Texas Rangers,142,MIN,Minnesota Twins,4,8
+491737,2017-08-04,141,TOR,Toronto Blue Jays,117,HOU,Houston Astros,7,16
+491738,2017-08-04,120,WSH,Washington Nationals,112,CHC,Chicago Cubs,4,2
+491739,2017-08-05,109,AZ,Arizona Diamondbacks,137,SF,San Francisco Giants,4,5
+491740,2017-08-05,145,CWS,Chicago White Sox,111,BOS,Boston Red Sox,1,4
+491741,2017-08-05,116,DET,Detroit Tigers,110,BAL,Baltimore Orioles,2,5
+491742,2017-08-05,119,LAD,Los Angeles Dodgers,121,NYM,New York Mets,7,4
+491743,2017-08-05,146,MIA,Miami Marlins,144,ATL,Atlanta Braves,2,7
+491744,2017-08-05,158,MIL,Milwaukee Brewers,139,TB,Tampa Bay Rays,3,0
+491745,2017-08-05,147,NYY,New York Yankees,114,CLE,Cleveland Indians,2,1
+491746,2017-08-05,133,OAK,Oakland Athletics,108,LAA,Los Angeles Angels,5,0
+491747,2017-08-05,143,PHI,Philadelphia Phillies,115,COL,Colorado Rockies,5,8
+491748,2017-08-05,135,SD,San Diego Padres,134,PIT,Pittsburgh Pirates,5,2
+491750,2017-08-05,138,STL,St. Louis Cardinals,113,CIN,Cincinnati Reds,4,1
+491751,2017-08-05,140,TEX,Texas Rangers,142,MIN,Minnesota Twins,4,1
+491752,2017-08-05,141,TOR,Toronto Blue Jays,117,HOU,Houston Astros,4,3
+491753,2017-08-05,120,WSH,Washington Nationals,112,CHC,Chicago Cubs,4,7
+491749,2017-08-06,136,SEA,Seattle Mariners,118,KC,Kansas City Royals,1,9
+491754,2017-08-06,109,AZ,Arizona Diamondbacks,137,SF,San Francisco Giants,3,6
+491755,2017-08-06,145,CWS,Chicago White Sox,111,BOS,Boston Red Sox,3,6
+491756,2017-08-06,116,DET,Detroit Tigers,110,BAL,Baltimore Orioles,3,12
+491757,2017-08-06,119,LAD,Los Angeles Dodgers,121,NYM,New York Mets,8,0
+491758,2017-08-06,146,MIA,Miami Marlins,144,ATL,Atlanta Braves,4,1
+491759,2017-08-06,158,MIL,Milwaukee Brewers,139,TB,Tampa Bay Rays,1,2
+491760,2017-08-06,147,NYY,New York Yankees,114,CLE,Cleveland Indians,8,1
+491761,2017-08-06,133,OAK,Oakland Athletics,108,LAA,Los Angeles Angels,11,10
+491762,2017-08-06,143,PHI,Philadelphia Phillies,115,COL,Colorado Rockies,3,2
+491763,2017-08-06,135,SD,San Diego Padres,134,PIT,Pittsburgh Pirates,4,5
+491764,2017-08-06,136,SEA,Seattle Mariners,118,KC,Kansas City Royals,8,7
+491765,2017-08-06,138,STL,St. Louis Cardinals,113,CIN,Cincinnati Reds,13,4
+491766,2017-08-06,140,TEX,Texas Rangers,142,MIN,Minnesota Twins,5,6
+491767,2017-08-06,141,TOR,Toronto Blue Jays,117,HOU,Houston Astros,6,7
+491768,2017-08-06,120,WSH,Washington Nationals,112,CHC,Chicago Cubs,9,4
+491769,2017-08-07,110,BAL,Baltimore Orioles,108,LAA,Los Angeles Angels,6,2
+491770,2017-08-07,112,CHC,Chicago Cubs,137,SF,San Francisco Giants,5,3
+491771,2017-08-07,116,DET,Detroit Tigers,134,PIT,Pittsburgh Pirates,0,3
+491772,2017-08-07,146,MIA,Miami Marlins,120,WSH,Washington Nationals,2,3
+491773,2017-08-07,158,MIL,Milwaukee Brewers,142,MIN,Minnesota Twins,4,5
+491774,2017-08-07,135,SD,San Diego Padres,113,CIN,Cincinnati Reds,3,11
+491775,2017-08-07,138,STL,St. Louis Cardinals,118,KC,Kansas City Royals,11,3
+491776,2017-08-08,110,BAL,Baltimore Orioles,108,LAA,Los Angeles Angels,2,3
+491777,2017-08-08,111,BOS,Boston Red Sox,139,TB,Tampa Bay Rays,2,0
+491778,2017-08-08,112,CHC,Chicago Cubs,137,SF,San Francisco Giants,3,6
+491779,2017-08-08,115,COL,Colorado Rockies,114,CLE,Cleveland Indians,1,4
+491780,2017-08-08,116,DET,Detroit Tigers,134,PIT,Pittsburgh Pirates,3,6
+491781,2017-08-08,117,HOU,Houston Astros,145,CWS,Chicago White Sox,5,8
+491782,2017-08-08,119,LAD,Los Angeles Dodgers,109,AZ,Arizona Diamondbacks,3,6
+491783,2017-08-08,146,MIA,Miami Marlins,120,WSH,Washington Nationals,7,3
+491784,2017-08-08,158,MIL,Milwaukee Brewers,142,MIN,Minnesota Twins,4,11
+491785,2017-08-08,147,NYY,New York Yankees,141,TOR,Toronto Blue Jays,2,4
+491786,2017-08-08,143,PHI,Philadelphia Phillies,144,ATL,Atlanta Braves,5,2
+491787,2017-08-08,135,SD,San Diego Padres,113,CIN,Cincinnati Reds,7,3
+491788,2017-08-08,136,SEA,Seattle Mariners,133,OAK,Oakland Athletics,7,6
+491789,2017-08-08,138,STL,St. Louis Cardinals,118,KC,Kansas City Royals,10,3
+491790,2017-08-08,140,TEX,Texas Rangers,121,NYM,New York Mets,4,5
+491791,2017-08-09,110,BAL,Baltimore Orioles,108,LAA,Los Angeles Angels,1,5
+491792,2017-08-09,111,BOS,Boston Red Sox,139,TB,Tampa Bay Rays,8,2
+491793,2017-08-09,112,CHC,Chicago Cubs,137,SF,San Francisco Giants,1,3
+491794,2017-08-09,115,COL,Colorado Rockies,114,CLE,Cleveland Indians,3,2
+491795,2017-08-09,117,HOU,Houston Astros,145,CWS,Chicago White Sox,1,7
+491796,2017-08-09,118,KC,Kansas City Royals,138,STL,St. Louis Cardinals,5,8
+491797,2017-08-09,119,LAD,Los Angeles Dodgers,109,AZ,Arizona Diamondbacks,3,2
+491798,2017-08-09,146,MIA,Miami Marlins,120,WSH,Washington Nationals,1,10
+491799,2017-08-09,142,MIN,Minnesota Twins,158,MIL,Milwaukee Brewers,4,0
+491800,2017-08-09,147,NYY,New York Yankees,141,TOR,Toronto Blue Jays,11,5
+491801,2017-08-09,143,PHI,Philadelphia Phillies,144,ATL,Atlanta Braves,3,2
+491802,2017-08-09,134,PIT,Pittsburgh Pirates,116,DET,Detroit Tigers,0,10
+491803,2017-08-09,135,SD,San Diego Padres,113,CIN,Cincinnati Reds,3,8
+491804,2017-08-09,136,SEA,Seattle Mariners,133,OAK,Oakland Athletics,6,3
+491805,2017-08-09,140,TEX,Texas Rangers,121,NYM,New York Mets,5,1
+491806,2017-08-10,110,BAL,Baltimore Orioles,133,OAK,Oakland Athletics,7,2
+491807,2017-08-10,114,CLE,Cleveland Indians,139,TB,Tampa Bay Rays,1,4
+491808,2017-08-10,117,HOU,Houston Astros,145,CWS,Chicago White Sox,2,3
+491809,2017-08-10,118,KC,Kansas City Royals,138,STL,St. Louis Cardinals,6,8
+491810,2017-08-10,108,LAA,Los Angeles Angels,136,SEA,Seattle Mariners,6,3
+491811,2017-08-10,119,LAD,Los Angeles Dodgers,109,AZ,Arizona Diamondbacks,8,6
+491812,2017-08-10,146,MIA,Miami Marlins,120,WSH,Washington Nationals,2,3
+491813,2017-08-10,142,MIN,Minnesota Twins,158,MIL,Milwaukee Brewers,7,2
+491814,2017-08-10,121,NYM,New York Mets,143,PHI,Philadelphia Phillies,10,0
+491815,2017-08-10,147,NYY,New York Yankees,141,TOR,Toronto Blue Jays,0,4
+491816,2017-08-10,134,PIT,Pittsburgh Pirates,116,DET,Detroit Tigers,7,5
+491817,2017-08-10,135,SD,San Diego Padres,113,CIN,Cincinnati Reds,3,10
+491818,2017-08-11,144,ATL,Atlanta Braves,138,STL,St. Louis Cardinals,5,8
+491819,2017-08-11,110,BAL,Baltimore Orioles,133,OAK,Oakland Athletics,4,5
+491820,2017-08-11,111,BOS,Boston Red Sox,147,NYY,New York Yankees,4,5
+491821,2017-08-11,112,CHC,Chicago Cubs,109,AZ,Arizona Diamondbacks,8,3
+491822,2017-08-11,113,CIN,Cincinnati Reds,158,MIL,Milwaukee Brewers,11,10
+491823,2017-08-11,114,CLE,Cleveland Indians,139,TB,Tampa Bay Rays,5,0
+491824,2017-08-11,115,COL,Colorado Rockies,146,MIA,Miami Marlins,3,6
+491825,2017-08-11,117,HOU,Houston Astros,140,TEX,Texas Rangers,4,6
+491826,2017-08-11,118,KC,Kansas City Royals,145,CWS,Chicago White Sox,3,6
+491827,2017-08-11,108,LAA,Los Angeles Angels,136,SEA,Seattle Mariners,6,5
+491828,2017-08-11,142,MIN,Minnesota Twins,116,DET,Detroit Tigers,9,4
+491829,2017-08-11,121,NYM,New York Mets,143,PHI,Philadelphia Phillies,7,6
+491830,2017-08-11,134,PIT,Pittsburgh Pirates,141,TOR,Toronto Blue Jays,4,2
+491831,2017-08-11,135,SD,San Diego Padres,119,LAD,Los Angeles Dodgers,4,3
+491833,2017-08-12,144,ATL,Atlanta Braves,138,STL,St. Louis Cardinals,5,6
+491834,2017-08-12,110,BAL,Baltimore Orioles,133,OAK,Oakland Athletics,12,5
+491835,2017-08-12,111,BOS,Boston Red Sox,147,NYY,New York Yankees,10,5
+491836,2017-08-12,112,CHC,Chicago Cubs,109,AZ,Arizona Diamondbacks,2,6
+491837,2017-08-12,113,CIN,Cincinnati Reds,158,MIL,Milwaukee Brewers,5,6
+491838,2017-08-12,114,CLE,Cleveland Indians,139,TB,Tampa Bay Rays,3,0
+491839,2017-08-12,115,COL,Colorado Rockies,146,MIA,Miami Marlins,3,4
+491840,2017-08-12,117,HOU,Houston Astros,140,TEX,Texas Rangers,3,8
+491841,2017-08-12,118,KC,Kansas City Royals,145,CWS,Chicago White Sox,5,4
+491842,2017-08-12,108,LAA,Los Angeles Angels,136,SEA,Seattle Mariners,6,3
+491843,2017-08-12,142,MIN,Minnesota Twins,116,DET,Detroit Tigers,11,12
+491844,2017-08-12,121,NYM,New York Mets,143,PHI,Philadelphia Phillies,1,3
+491845,2017-08-12,134,PIT,Pittsburgh Pirates,141,TOR,Toronto Blue Jays,2,7
+491846,2017-08-12,135,SD,San Diego Padres,119,LAD,Los Angeles Dodgers,3,6
+491847,2017-08-12,137,SF,San Francisco Giants,120,WSH,Washington Nationals,1,3
+491832,2017-08-13,137,SF,San Francisco Giants,120,WSH,Washington Nationals,2,6
+491848,2017-08-13,144,ATL,Atlanta Braves,138,STL,St. Louis Cardinals,6,3
+491849,2017-08-13,110,BAL,Baltimore Orioles,133,OAK,Oakland Athletics,3,9
+491850,2017-08-13,111,BOS,Boston Red Sox,147,NYY,New York Yankees,3,2
+491851,2017-08-13,112,CHC,Chicago Cubs,109,AZ,Arizona Diamondbacks,7,2
+491852,2017-08-13,113,CIN,Cincinnati Reds,158,MIL,Milwaukee Brewers,4,7
+491853,2017-08-13,114,CLE,Cleveland Indians,139,TB,Tampa Bay Rays,4,3
+491854,2017-08-13,115,COL,Colorado Rockies,146,MIA,Miami Marlins,3,5
+491855,2017-08-13,117,HOU,Houston Astros,140,TEX,Texas Rangers,2,1
+491856,2017-08-13,118,KC,Kansas City Royals,145,CWS,Chicago White Sox,14,6
+491857,2017-08-13,108,LAA,Los Angeles Angels,136,SEA,Seattle Mariners,4,2
+491858,2017-08-13,142,MIN,Minnesota Twins,116,DET,Detroit Tigers,6,4
+491859,2017-08-13,121,NYM,New York Mets,143,PHI,Philadelphia Phillies,6,2
+491860,2017-08-13,134,PIT,Pittsburgh Pirates,141,TOR,Toronto Blue Jays,1,7
+491861,2017-08-13,135,SD,San Diego Padres,119,LAD,Los Angeles Dodgers,4,6
+491862,2017-08-13,137,SF,San Francisco Giants,120,WSH,Washington Nationals,4,2
+491698,2017-08-14,114,CLE,Cleveland Indians,111,BOS,Boston Red Sox,7,3
+491863,2017-08-14,144,ATL,Atlanta Braves,115,COL,Colorado Rockies,0,3
+491864,2017-08-14,110,BAL,Baltimore Orioles,136,SEA,Seattle Mariners,11,3
+491865,2017-08-14,113,CIN,Cincinnati Reds,112,CHC,Chicago Cubs,5,15
+491866,2017-08-14,116,DET,Detroit Tigers,140,TEX,Texas Rangers,2,6
+491867,2017-08-14,117,HOU,Houston Astros,109,AZ,Arizona Diamondbacks,0,2
+491868,2017-08-14,118,KC,Kansas City Royals,133,OAK,Oakland Athletics,6,2
+491869,2017-08-14,121,NYM,New York Mets,147,NYY,New York Yankees,2,4
+491870,2017-08-14,143,PHI,Philadelphia Phillies,135,SD,San Diego Padres,4,7
+491871,2017-08-14,137,SF,San Francisco Giants,146,MIA,Miami Marlins,3,8
+491872,2017-08-14,139,TB,Tampa Bay Rays,141,TOR,Toronto Blue Jays,1,2
+491873,2017-08-15,144,ATL,Atlanta Braves,115,COL,Colorado Rockies,4,3
+491874,2017-08-15,110,BAL,Baltimore Orioles,136,SEA,Seattle Mariners,1,3
+491875,2017-08-15,145,CWS,Chicago White Sox,119,LAD,Los Angeles Dodgers,1,6
+491876,2017-08-15,113,CIN,Cincinnati Reds,112,CHC,Chicago Cubs,2,1
+491877,2017-08-15,114,CLE,Cleveland Indians,142,MIN,Minnesota Twins,8,1
+491878,2017-08-15,116,DET,Detroit Tigers,140,TEX,Texas Rangers,4,10
+491879,2017-08-15,117,HOU,Houston Astros,109,AZ,Arizona Diamondbacks,9,4
+491880,2017-08-15,118,KC,Kansas City Royals,133,OAK,Oakland Athletics,8,10
+491881,2017-08-15,108,LAA,Los Angeles Angels,120,WSH,Washington Nationals,1,3
+491882,2017-08-15,121,NYM,New York Mets,147,NYY,New York Yankees,4,5
+491883,2017-08-15,143,PHI,Philadelphia Phillies,135,SD,San Diego Padres,4,8
+491884,2017-08-15,134,PIT,Pittsburgh Pirates,158,MIL,Milwaukee Brewers,1,3
+491885,2017-08-15,137,SF,San Francisco Giants,146,MIA,Miami Marlins,9,4
+491886,2017-08-15,138,STL,St. Louis Cardinals,111,BOS,Boston Red Sox,4,10
+491887,2017-08-15,139,TB,Tampa Bay Rays,141,TOR,Toronto Blue Jays,6,4
+491888,2017-08-16,109,AZ,Arizona Diamondbacks,117,HOU,Houston Astros,5,9
+491889,2017-08-16,144,ATL,Atlanta Braves,115,COL,Colorado Rockies,2,17
+491890,2017-08-16,110,BAL,Baltimore Orioles,136,SEA,Seattle Mariners,6,7
+491891,2017-08-16,145,CWS,Chicago White Sox,119,LAD,Los Angeles Dodgers,4,5
+491892,2017-08-16,113,CIN,Cincinnati Reds,112,CHC,Chicago Cubs,6,7
+491894,2017-08-16,116,DET,Detroit Tigers,140,TEX,Texas Rangers,6,12
+491895,2017-08-16,118,KC,Kansas City Royals,133,OAK,Oakland Athletics,7,6
+491896,2017-08-16,108,LAA,Los Angeles Angels,120,WSH,Washington Nationals,3,2
+491897,2017-08-16,147,NYY,New York Yankees,121,NYM,New York Mets,5,3
+491898,2017-08-16,143,PHI,Philadelphia Phillies,135,SD,San Diego Padres,0,3
+491899,2017-08-16,134,PIT,Pittsburgh Pirates,158,MIL,Milwaukee Brewers,6,7
+491900,2017-08-16,137,SF,San Francisco Giants,146,MIA,Miami Marlins,1,8
+491901,2017-08-16,138,STL,St. Louis Cardinals,111,BOS,Boston Red Sox,4,5
+491902,2017-08-16,139,TB,Tampa Bay Rays,141,TOR,Toronto Blue Jays,2,3
+491893,2017-08-17,114,CLE,Cleveland Indians,142,MIN,Minnesota Twins,2,4
+491903,2017-08-17,109,AZ,Arizona Diamondbacks,117,HOU,Houston Astros,4,0
+491904,2017-08-17,144,ATL,Atlanta Braves,115,COL,Colorado Rockies,10,4
+491905,2017-08-17,145,CWS,Chicago White Sox,140,TEX,Texas Rangers,8,9
+491906,2017-08-17,113,CIN,Cincinnati Reds,112,CHC,Chicago Cubs,13,10
+491907,2017-08-17,114,CLE,Cleveland Indians,142,MIN,Minnesota Twins,9,3
+491908,2017-08-17,147,NYY,New York Yankees,121,NYM,New York Mets,7,5
+491909,2017-08-17,143,PHI,Philadelphia Phillies,137,SF,San Francisco Giants,4,5
+491910,2017-08-17,138,STL,St. Louis Cardinals,134,PIT,Pittsburgh Pirates,11,7
+491911,2017-08-17,139,TB,Tampa Bay Rays,141,TOR,Toronto Blue Jays,3,5
+491912,2017-08-17,120,WSH,Washington Nationals,135,SD,San Diego Padres,2,1
+491913,2017-08-18,109,AZ,Arizona Diamondbacks,142,MIN,Minnesota Twins,3,10
+491914,2017-08-18,145,CWS,Chicago White Sox,140,TEX,Texas Rangers,4,3
+491915,2017-08-18,113,CIN,Cincinnati Reds,144,ATL,Atlanta Braves,5,3
+491916,2017-08-18,114,CLE,Cleveland Indians,118,KC,Kansas City Royals,10,1
+491917,2017-08-18,108,LAA,Los Angeles Angels,110,BAL,Baltimore Orioles,7,9
+491918,2017-08-18,119,LAD,Los Angeles Dodgers,116,DET,Detroit Tigers,8,5
+491919,2017-08-18,146,MIA,Miami Marlins,121,NYM,New York Mets,3,1
+491920,2017-08-18,158,MIL,Milwaukee Brewers,115,COL,Colorado Rockies,4,8
+491921,2017-08-18,147,NYY,New York Yankees,111,BOS,Boston Red Sox,6,9
+491922,2017-08-18,133,OAK,Oakland Athletics,117,HOU,Houston Astros,1,3
+491923,2017-08-18,143,PHI,Philadelphia Phillies,137,SF,San Francisco Giants,2,10
+491924,2017-08-18,136,SEA,Seattle Mariners,139,TB,Tampa Bay Rays,7,1
+491925,2017-08-18,138,STL,St. Louis Cardinals,134,PIT,Pittsburgh Pirates,11,10
+491926,2017-08-18,141,TOR,Toronto Blue Jays,112,CHC,Chicago Cubs,4,7
+491927,2017-08-18,120,WSH,Washington Nationals,135,SD,San Diego Padres,7,1
+491928,2017-08-19,109,AZ,Arizona Diamondbacks,142,MIN,Minnesota Twins,0,5
+491929,2017-08-19,145,CWS,Chicago White Sox,140,TEX,Texas Rangers,7,17
+491930,2017-08-19,113,CIN,Cincinnati Reds,144,ATL,Atlanta Braves,11,8
+491931,2017-08-19,114,CLE,Cleveland Indians,118,KC,Kansas City Royals,5,0
+491932,2017-08-19,108,LAA,Los Angeles Angels,110,BAL,Baltimore Orioles,5,1
+491933,2017-08-19,119,LAD,Los Angeles Dodgers,116,DET,Detroit Tigers,3,0
+491934,2017-08-19,146,MIA,Miami Marlins,121,NYM,New York Mets,1,8
+491935,2017-08-19,158,MIL,Milwaukee Brewers,115,COL,Colorado Rockies,6,3
+491936,2017-08-19,147,NYY,New York Yankees,111,BOS,Boston Red Sox,4,3
+491937,2017-08-19,133,OAK,Oakland Athletics,117,HOU,Houston Astros,0,3
+491938,2017-08-19,143,PHI,Philadelphia Phillies,137,SF,San Francisco Giants,12,9
+491939,2017-08-19,136,SEA,Seattle Mariners,139,TB,Tampa Bay Rays,7,6
+491940,2017-08-19,138,STL,St. Louis Cardinals,134,PIT,Pittsburgh Pirates,4,6
+491941,2017-08-19,141,TOR,Toronto Blue Jays,112,CHC,Chicago Cubs,3,4
+491942,2017-08-19,120,WSH,Washington Nationals,135,SD,San Diego Padres,1,3
+491943,2017-08-20,109,AZ,Arizona Diamondbacks,142,MIN,Minnesota Twins,5,12
+491944,2017-08-20,145,CWS,Chicago White Sox,140,TEX,Texas Rangers,3,2
+491945,2017-08-20,113,CIN,Cincinnati Reds,144,ATL,Atlanta Braves,1,8
+491946,2017-08-20,114,CLE,Cleveland Indians,118,KC,Kansas City Royals,4,7
+491947,2017-08-20,108,LAA,Los Angeles Angels,110,BAL,Baltimore Orioles,5,4
+491948,2017-08-20,119,LAD,Los Angeles Dodgers,116,DET,Detroit Tigers,1,6
+491949,2017-08-20,146,MIA,Miami Marlins,121,NYM,New York Mets,6,4
+491950,2017-08-20,158,MIL,Milwaukee Brewers,115,COL,Colorado Rockies,8,4
+491951,2017-08-20,147,NYY,New York Yankees,111,BOS,Boston Red Sox,1,5
+491952,2017-08-20,133,OAK,Oakland Athletics,117,HOU,Houston Astros,3,2
+491953,2017-08-20,143,PHI,Philadelphia Phillies,137,SF,San Francisco Giants,5,2
+491954,2017-08-20,136,SEA,Seattle Mariners,139,TB,Tampa Bay Rays,0,3
+491955,2017-08-20,138,STL,St. Louis Cardinals,134,PIT,Pittsburgh Pirates,3,6
+491956,2017-08-20,141,TOR,Toronto Blue Jays,112,CHC,Chicago Cubs,5,6
+491957,2017-08-20,120,WSH,Washington Nationals,135,SD,San Diego Padres,4,1
+490606,2017-08-21,142,MIN,Minnesota Twins,145,CWS,Chicago White Sox,10,2
+491958,2017-08-21,109,AZ,Arizona Diamondbacks,121,NYM,New York Mets,3,2
+491959,2017-08-21,111,BOS,Boston Red Sox,114,CLE,Cleveland Indians,4,5
+491960,2017-08-21,119,LAD,Los Angeles Dodgers,134,PIT,Pittsburgh Pirates,6,5
+491961,2017-08-21,158,MIL,Milwaukee Brewers,137,SF,San Francisco Giants,0,2
+491962,2017-08-21,142,MIN,Minnesota Twins,145,CWS,Chicago White Sox,6,7
+491963,2017-08-21,133,OAK,Oakland Athletics,110,BAL,Baltimore Orioles,3,7
+491964,2017-08-21,136,SEA,Seattle Mariners,144,ATL,Atlanta Braves,6,5
+491965,2017-08-21,140,TEX,Texas Rangers,108,LAA,Los Angeles Angels,5,3
+490396,2017-08-22,146,MIA,Miami Marlins,143,PHI,Philadelphia Phillies,7,4
+491966,2017-08-22,109,AZ,Arizona Diamondbacks,121,NYM,New York Mets,7,4
+491967,2017-08-22,111,BOS,Boston Red Sox,114,CLE,Cleveland Indians,9,1
+491968,2017-08-22,112,CHC,Chicago Cubs,113,CIN,Cincinnati Reds,13,9
+491969,2017-08-22,115,COL,Colorado Rockies,118,KC,Kansas City Royals,2,3
+491970,2017-08-22,119,LAD,Los Angeles Dodgers,134,PIT,Pittsburgh Pirates,8,5
+491971,2017-08-22,146,MIA,Miami Marlins,143,PHI,Philadelphia Phillies,12,8
+491972,2017-08-22,158,MIL,Milwaukee Brewers,137,SF,San Francisco Giants,4,3
+491973,2017-08-22,142,MIN,Minnesota Twins,145,CWS,Chicago White Sox,4,1
+491974,2017-08-22,147,NYY,New York Yankees,116,DET,Detroit Tigers,13,4
+491975,2017-08-22,133,OAK,Oakland Athletics,110,BAL,Baltimore Orioles,6,4
+491976,2017-08-22,135,SD,San Diego Padres,138,STL,St. Louis Cardinals,12,4
+491977,2017-08-22,136,SEA,Seattle Mariners,144,ATL,Atlanta Braves,0,4
+491978,2017-08-22,140,TEX,Texas Rangers,108,LAA,Los Angeles Angels,1,10
+491979,2017-08-22,141,TOR,Toronto Blue Jays,139,TB,Tampa Bay Rays,5,6
+491980,2017-08-22,120,WSH,Washington Nationals,117,HOU,Houston Astros,4,3
+491981,2017-08-23,109,AZ,Arizona Diamondbacks,121,NYM,New York Mets,2,4
+491982,2017-08-23,111,BOS,Boston Red Sox,114,CLE,Cleveland Indians,6,1
+491983,2017-08-23,112,CHC,Chicago Cubs,113,CIN,Cincinnati Reds,9,3
+491984,2017-08-23,115,COL,Colorado Rockies,118,KC,Kansas City Royals,4,6
+491985,2017-08-23,119,LAD,Los Angeles Dodgers,134,PIT,Pittsburgh Pirates,0,1
+491986,2017-08-23,146,MIA,Miami Marlins,143,PHI,Philadelphia Phillies,0,8
+491987,2017-08-23,158,MIL,Milwaukee Brewers,137,SF,San Francisco Giants,2,4
+491988,2017-08-23,142,MIN,Minnesota Twins,145,CWS,Chicago White Sox,3,4
+491989,2017-08-23,147,NYY,New York Yankees,116,DET,Detroit Tigers,10,2
+491990,2017-08-23,133,OAK,Oakland Athletics,110,BAL,Baltimore Orioles,7,8
+491991,2017-08-23,135,SD,San Diego Padres,138,STL,St. Louis Cardinals,2,6
+491992,2017-08-23,136,SEA,Seattle Mariners,144,ATL,Atlanta Braves,9,6
+491993,2017-08-23,140,TEX,Texas Rangers,108,LAA,Los Angeles Angels,7,5
+491994,2017-08-23,141,TOR,Toronto Blue Jays,139,TB,Tampa Bay Rays,7,6
+491995,2017-08-23,120,WSH,Washington Nationals,117,HOU,Houston Astros,1,6
+491996,2017-08-24,109,AZ,Arizona Diamondbacks,121,NYM,New York Mets,3,2
+491997,2017-08-24,111,BOS,Boston Red Sox,114,CLE,Cleveland Indians,6,13
+491998,2017-08-24,112,CHC,Chicago Cubs,113,CIN,Cincinnati Reds,2,4
+491999,2017-08-24,115,COL,Colorado Rockies,118,KC,Kansas City Royals,3,2
+492000,2017-08-24,119,LAD,Los Angeles Dodgers,134,PIT,Pittsburgh Pirates,5,2
+492001,2017-08-24,146,MIA,Miami Marlins,143,PHI,Philadelphia Phillies,9,8
+492002,2017-08-24,142,MIN,Minnesota Twins,145,CWS,Chicago White Sox,1,5
+492003,2017-08-24,147,NYY,New York Yankees,116,DET,Detroit Tigers,6,10
+492004,2017-08-24,135,SD,San Diego Padres,138,STL,St. Louis Cardinals,4,3
+492005,2017-08-24,140,TEX,Texas Rangers,108,LAA,Los Angeles Angels,3,0
+492006,2017-08-24,141,TOR,Toronto Blue Jays,139,TB,Tampa Bay Rays,0,2
+492007,2017-08-24,120,WSH,Washington Nationals,117,HOU,Houston Astros,5,4
+492008,2017-08-25,110,BAL,Baltimore Orioles,111,BOS,Boston Red Sox,16,3
+492009,2017-08-25,112,CHC,Chicago Cubs,143,PHI,Philadelphia Phillies,1,7
+492010,2017-08-25,115,COL,Colorado Rockies,144,ATL,Atlanta Braves,2,5
+492011,2017-08-25,116,DET,Detroit Tigers,145,CWS,Chicago White Sox,2,3
+492012,2017-08-25,117,HOU,Houston Astros,108,LAA,Los Angeles Angels,2,1
+492013,2017-08-25,118,KC,Kansas City Royals,114,CLE,Cleveland Indians,0,4
+492014,2017-08-25,158,MIL,Milwaukee Brewers,119,LAD,Los Angeles Dodgers,1,3
+492015,2017-08-25,142,MIN,Minnesota Twins,141,TOR,Toronto Blue Jays,6,1
+492016,2017-08-25,121,NYM,New York Mets,120,WSH,Washington Nationals,4,2
+492017,2017-08-25,134,PIT,Pittsburgh Pirates,113,CIN,Cincinnati Reds,5,9
+492018,2017-08-25,135,SD,San Diego Padres,146,MIA,Miami Marlins,6,8
+492019,2017-08-25,137,SF,San Francisco Giants,109,AZ,Arizona Diamondbacks,3,4
+492020,2017-08-25,136,SEA,Seattle Mariners,147,NYY,New York Yankees,2,1
+492021,2017-08-25,139,TB,Tampa Bay Rays,138,STL,St. Louis Cardinals,7,3
+492022,2017-08-25,140,TEX,Texas Rangers,133,OAK,Oakland Athletics,1,3
+492023,2017-08-26,110,BAL,Baltimore Orioles,111,BOS,Boston Red Sox,7,0
+492024,2017-08-26,112,CHC,Chicago Cubs,143,PHI,Philadelphia Phillies,17,2
+492025,2017-08-26,115,COL,Colorado Rockies,144,ATL,Atlanta Braves,7,6
+492026,2017-08-26,116,DET,Detroit Tigers,145,CWS,Chicago White Sox,6,3
+492027,2017-08-26,117,HOU,Houston Astros,108,LAA,Los Angeles Angels,6,7
+492028,2017-08-26,118,KC,Kansas City Royals,114,CLE,Cleveland Indians,0,4
+492029,2017-08-26,158,MIL,Milwaukee Brewers,119,LAD,Los Angeles Dodgers,3,0
+492030,2017-08-26,142,MIN,Minnesota Twins,141,TOR,Toronto Blue Jays,9,10
+492031,2017-08-26,121,NYM,New York Mets,120,WSH,Washington Nationals,4,9
+492032,2017-08-26,134,PIT,Pittsburgh Pirates,113,CIN,Cincinnati Reds,1,0
+492033,2017-08-26,135,SD,San Diego Padres,146,MIA,Miami Marlins,1,2
+492034,2017-08-26,137,SF,San Francisco Giants,109,AZ,Arizona Diamondbacks,1,2
+492035,2017-08-26,136,SEA,Seattle Mariners,147,NYY,New York Yankees,3,6
+492036,2017-08-26,139,TB,Tampa Bay Rays,138,STL,St. Louis Cardinals,4,6
+492037,2017-08-26,140,TEX,Texas Rangers,133,OAK,Oakland Athletics,3,8
+491372,2017-08-27,121,NYM,New York Mets,120,WSH,Washington Nationals,4,5
+492038,2017-08-27,110,BAL,Baltimore Orioles,111,BOS,Boston Red Sox,2,1
+492039,2017-08-27,112,CHC,Chicago Cubs,143,PHI,Philadelphia Phillies,3,6
+492040,2017-08-27,115,COL,Colorado Rockies,144,ATL,Atlanta Braves,3,0
+492041,2017-08-27,116,DET,Detroit Tigers,145,CWS,Chicago White Sox,1,7
+492042,2017-08-27,117,HOU,Houston Astros,108,LAA,Los Angeles Angels,7,5
+492043,2017-08-27,118,KC,Kansas City Royals,114,CLE,Cleveland Indians,0,12
+492044,2017-08-27,158,MIL,Milwaukee Brewers,119,LAD,Los Angeles Dodgers,3,2
+492045,2017-08-27,142,MIN,Minnesota Twins,141,TOR,Toronto Blue Jays,7,2
+492046,2017-08-27,121,NYM,New York Mets,120,WSH,Washington Nationals,6,5
+492047,2017-08-27,134,PIT,Pittsburgh Pirates,113,CIN,Cincinnati Reds,5,2
+492048,2017-08-27,135,SD,San Diego Padres,146,MIA,Miami Marlins,2,6
+492049,2017-08-27,137,SF,San Francisco Giants,109,AZ,Arizona Diamondbacks,0,11
+492050,2017-08-27,136,SEA,Seattle Mariners,147,NYY,New York Yankees,1,10
+492051,2017-08-27,139,TB,Tampa Bay Rays,138,STL,St. Louis Cardinals,3,2
+492052,2017-08-27,140,TEX,Texas Rangers,133,OAK,Oakland Athletics,3,8
+492053,2017-08-28,144,ATL,Atlanta Braves,143,PHI,Philadelphia Phillies,1,6
+492054,2017-08-28,111,BOS,Boston Red Sox,141,TOR,Toronto Blue Jays,6,5
+492055,2017-08-28,114,CLE,Cleveland Indians,147,NYY,New York Yankees,6,2
+492056,2017-08-28,116,DET,Detroit Tigers,115,COL,Colorado Rockies,4,3
+492057,2017-08-28,146,MIA,Miami Marlins,120,WSH,Washington Nationals,2,11
+492058,2017-08-28,133,OAK,Oakland Athletics,108,LAA,Los Angeles Angels,1,3
+492059,2017-08-28,134,PIT,Pittsburgh Pirates,112,CHC,Chicago Cubs,1,6
+492060,2017-08-28,137,SF,San Francisco Giants,135,SD,San Diego Padres,3,0
+492061,2017-08-28,136,SEA,Seattle Mariners,110,BAL,Baltimore Orioles,6,7
+492062,2017-08-28,139,TB,Tampa Bay Rays,118,KC,Kansas City Royals,12,0
+492064,2017-08-29,111,BOS,Boston Red Sox,141,TOR,Toronto Blue Jays,3,0
+492065,2017-08-29,145,CWS,Chicago White Sox,142,MIN,Minnesota Twins,4,6
+492067,2017-08-29,116,DET,Detroit Tigers,115,COL,Colorado Rockies,3,7
+492068,2017-08-29,119,LAD,Los Angeles Dodgers,109,AZ,Arizona Diamondbacks,6,7
+492069,2017-08-29,146,MIA,Miami Marlins,120,WSH,Washington Nationals,3,8
+492070,2017-08-29,121,NYM,New York Mets,113,CIN,Cincinnati Reds,4,14
+492071,2017-08-29,133,OAK,Oakland Athletics,108,LAA,Los Angeles Angels,2,8
+492072,2017-08-29,134,PIT,Pittsburgh Pirates,112,CHC,Chicago Cubs,1,4
+492073,2017-08-29,137,SF,San Francisco Giants,135,SD,San Diego Padres,3,6
+492074,2017-08-29,136,SEA,Seattle Mariners,110,BAL,Baltimore Orioles,0,4
+492075,2017-08-29,138,STL,St. Louis Cardinals,158,MIL,Milwaukee Brewers,10,2
+492076,2017-08-29,139,TB,Tampa Bay Rays,118,KC,Kansas City Royals,2,6
+492077,2017-08-29,140,TEX,Texas Rangers,117,HOU,Houston Astros,12,2
+492063,2017-08-30,144,ATL,Atlanta Braves,143,PHI,Philadelphia Phillies,5,2
+492066,2017-08-30,114,CLE,Cleveland Indians,147,NYY,New York Yankees,9,4
+492078,2017-08-30,144,ATL,Atlanta Braves,143,PHI,Philadelphia Phillies,9,1
+492079,2017-08-30,111,BOS,Boston Red Sox,141,TOR,Toronto Blue Jays,7,1
+492080,2017-08-30,145,CWS,Chicago White Sox,142,MIN,Minnesota Twins,1,11
+492081,2017-08-30,114,CLE,Cleveland Indians,147,NYY,New York Yankees,2,1
+492082,2017-08-30,116,DET,Detroit Tigers,115,COL,Colorado Rockies,6,2
+492083,2017-08-30,119,LAD,Los Angeles Dodgers,109,AZ,Arizona Diamondbacks,4,6
+492084,2017-08-30,146,MIA,Miami Marlins,120,WSH,Washington Nationals,0,4
+492085,2017-08-30,121,NYM,New York Mets,113,CIN,Cincinnati Reds,2,0
+492086,2017-08-30,133,OAK,Oakland Athletics,108,LAA,Los Angeles Angels,8,10
+492087,2017-08-30,134,PIT,Pittsburgh Pirates,112,CHC,Chicago Cubs,3,17
+492088,2017-08-30,137,SF,San Francisco Giants,135,SD,San Diego Padres,0,5
+492089,2017-08-30,136,SEA,Seattle Mariners,110,BAL,Baltimore Orioles,7,8
+492090,2017-08-30,138,STL,St. Louis Cardinals,158,MIL,Milwaukee Brewers,5,6
+492091,2017-08-30,139,TB,Tampa Bay Rays,118,KC,Kansas City Royals,5,3
+492092,2017-08-30,140,TEX,Texas Rangers,117,HOU,Houston Astros,8,1
+492093,2017-08-31,144,ATL,Atlanta Braves,112,CHC,Chicago Cubs,2,6
+492094,2017-08-31,111,BOS,Boston Red Sox,147,NYY,New York Yankees,2,6
+492095,2017-08-31,145,CWS,Chicago White Sox,142,MIN,Minnesota Twins,4,5
+492096,2017-08-31,119,LAD,Los Angeles Dodgers,109,AZ,Arizona Diamondbacks,1,8
+492097,2017-08-31,121,NYM,New York Mets,113,CIN,Cincinnati Reds,2,7
+492098,2017-08-31,143,PHI,Philadelphia Phillies,146,MIA,Miami Marlins,3,2
+492099,2017-08-31,138,STL,St. Louis Cardinals,137,SF,San Francisco Giants,5,2
+492100,2017-08-31,140,TEX,Texas Rangers,117,HOU,Houston Astros,1,5
+492101,2017-08-31,141,TOR,Toronto Blue Jays,110,BAL,Baltimore Orioles,11,8
+492102,2017-08-31,120,WSH,Washington Nationals,158,MIL,Milwaukee Brewers,3,6
+491296,2017-09-01,114,CLE,Cleveland Indians,116,DET,Detroit Tigers,3,2
+492103,2017-09-01,109,AZ,Arizona Diamondbacks,115,COL,Colorado Rockies,9,5
+492104,2017-09-01,144,ATL,Atlanta Braves,112,CHC,Chicago Cubs,0,2
+492105,2017-09-01,111,BOS,Boston Red Sox,147,NYY,New York Yankees,4,1
+492106,2017-09-01,113,CIN,Cincinnati Reds,134,PIT,Pittsburgh Pirates,7,3
+492107,2017-09-01,114,CLE,Cleveland Indians,116,DET,Detroit Tigers,10,0
+492108,2017-09-01,118,KC,Kansas City Royals,142,MIN,Minnesota Twins,7,6
+492109,2017-09-01,108,LAA,Los Angeles Angels,140,TEX,Texas Rangers,9,10
+492110,2017-09-01,119,LAD,Los Angeles Dodgers,135,SD,San Diego Padres,1,0
+492112,2017-09-01,133,OAK,Oakland Athletics,136,SEA,Seattle Mariners,2,3
+492113,2017-09-01,143,PHI,Philadelphia Phillies,146,MIA,Miami Marlins,2,1
+492114,2017-09-01,138,STL,St. Louis Cardinals,137,SF,San Francisco Giants,11,6
+492115,2017-09-01,139,TB,Tampa Bay Rays,145,CWS,Chicago White Sox,3,1
+492116,2017-09-01,141,TOR,Toronto Blue Jays,110,BAL,Baltimore Orioles,0,1
+492117,2017-09-01,120,WSH,Washington Nationals,158,MIL,Milwaukee Brewers,0,1
+490565,2017-09-02,119,LAD,Los Angeles Dodgers,135,SD,San Diego Padres,5,6
+492111,2017-09-02,121,NYM,New York Mets,117,HOU,Houston Astros,8,12
+492118,2017-09-02,109,AZ,Arizona Diamondbacks,115,COL,Colorado Rockies,6,2
+492119,2017-09-02,144,ATL,Atlanta Braves,112,CHC,Chicago Cubs,12,14
+492120,2017-09-02,111,BOS,Boston Red Sox,147,NYY,New York Yankees,1,5
+492121,2017-09-02,113,CIN,Cincinnati Reds,134,PIT,Pittsburgh Pirates,0,5
+492122,2017-09-02,114,CLE,Cleveland Indians,116,DET,Detroit Tigers,5,2
+492123,2017-09-02,118,KC,Kansas City Royals,142,MIN,Minnesota Twins,0,17
+492124,2017-09-02,108,LAA,Los Angeles Angels,140,TEX,Texas Rangers,7,4
+492125,2017-09-02,119,LAD,Los Angeles Dodgers,135,SD,San Diego Padres,2,7
+492126,2017-09-02,121,NYM,New York Mets,117,HOU,Houston Astros,1,4
+492127,2017-09-02,133,OAK,Oakland Athletics,136,SEA,Seattle Mariners,6,7
+492128,2017-09-02,143,PHI,Philadelphia Phillies,146,MIA,Miami Marlins,9,10
+492129,2017-09-02,138,STL,St. Louis Cardinals,137,SF,San Francisco Giants,1,2
+492130,2017-09-02,139,TB,Tampa Bay Rays,145,CWS,Chicago White Sox,4,5
+492131,2017-09-02,141,TOR,Toronto Blue Jays,110,BAL,Baltimore Orioles,7,2
+492132,2017-09-02,120,WSH,Washington Nationals,158,MIL,Milwaukee Brewers,3,2
+492133,2017-09-03,109,AZ,Arizona Diamondbacks,115,COL,Colorado Rockies,5,1
+492134,2017-09-03,144,ATL,Atlanta Braves,112,CHC,Chicago Cubs,5,1
+492135,2017-09-03,111,BOS,Boston Red Sox,147,NYY,New York Yankees,2,9
+492136,2017-09-03,113,CIN,Cincinnati Reds,134,PIT,Pittsburgh Pirates,1,3
+492137,2017-09-03,114,CLE,Cleveland Indians,116,DET,Detroit Tigers,11,1
+492138,2017-09-03,118,KC,Kansas City Royals,142,MIN,Minnesota Twins,5,4
+492139,2017-09-03,108,LAA,Los Angeles Angels,140,TEX,Texas Rangers,6,7
+492140,2017-09-03,119,LAD,Los Angeles Dodgers,135,SD,San Diego Padres,4,6
+492141,2017-09-03,121,NYM,New York Mets,117,HOU,Houston Astros,6,8
+492142,2017-09-03,133,OAK,Oakland Athletics,136,SEA,Seattle Mariners,2,10
+492143,2017-09-03,143,PHI,Philadelphia Phillies,146,MIA,Miami Marlins,3,1
+492144,2017-09-03,138,STL,St. Louis Cardinals,137,SF,San Francisco Giants,7,3
+492145,2017-09-03,139,TB,Tampa Bay Rays,145,CWS,Chicago White Sox,2,6
+492146,2017-09-03,141,TOR,Toronto Blue Jays,110,BAL,Baltimore Orioles,4,5
+492147,2017-09-03,120,WSH,Washington Nationals,158,MIL,Milwaukee Brewers,2,7
+492148,2017-09-04,109,AZ,Arizona Diamondbacks,119,LAD,Los Angeles Dodgers,13,0
+492149,2017-09-04,112,CHC,Chicago Cubs,134,PIT,Pittsburgh Pirates,0,12
+492150,2017-09-04,114,CLE,Cleveland Indians,145,CWS,Chicago White Sox,5,3
+492151,2017-09-04,117,HOU,Houston Astros,136,SEA,Seattle Mariners,6,2
+492152,2017-09-04,118,KC,Kansas City Royals,116,DET,Detroit Tigers,7,6
+492153,2017-09-04,108,LAA,Los Angeles Angels,133,OAK,Oakland Athletics,11,9
+492154,2017-09-04,158,MIL,Milwaukee Brewers,113,CIN,Cincinnati Reds,4,5
+492155,2017-09-04,142,MIN,Minnesota Twins,139,TB,Tampa Bay Rays,4,11
+492156,2017-09-04,147,NYY,New York Yankees,110,BAL,Baltimore Orioles,7,4
+492157,2017-09-04,143,PHI,Philadelphia Phillies,121,NYM,New York Mets,7,11
+492158,2017-09-04,137,SF,San Francisco Giants,115,COL,Colorado Rockies,3,4
+492159,2017-09-04,138,STL,St. Louis Cardinals,135,SD,San Diego Padres,2,0
+492160,2017-09-04,140,TEX,Texas Rangers,144,ATL,Atlanta Braves,8,2
+492161,2017-09-04,141,TOR,Toronto Blue Jays,111,BOS,Boston Red Sox,10,4
+492162,2017-09-04,120,WSH,Washington Nationals,146,MIA,Miami Marlins,7,2
+492163,2017-09-05,109,AZ,Arizona Diamondbacks,119,LAD,Los Angeles Dodgers,3,1
+492164,2017-09-05,112,CHC,Chicago Cubs,134,PIT,Pittsburgh Pirates,3,4
+492165,2017-09-05,114,CLE,Cleveland Indians,145,CWS,Chicago White Sox,9,4
+492166,2017-09-05,117,HOU,Houston Astros,136,SEA,Seattle Mariners,3,1
+492167,2017-09-05,118,KC,Kansas City Royals,116,DET,Detroit Tigers,2,13
+492168,2017-09-05,108,LAA,Los Angeles Angels,133,OAK,Oakland Athletics,8,7
+492169,2017-09-05,158,MIL,Milwaukee Brewers,113,CIN,Cincinnati Reds,3,9
+492170,2017-09-05,142,MIN,Minnesota Twins,139,TB,Tampa Bay Rays,1,2
+492171,2017-09-05,147,NYY,New York Yankees,110,BAL,Baltimore Orioles,6,7
+492172,2017-09-05,143,PHI,Philadelphia Phillies,121,NYM,New York Mets,9,1
+492173,2017-09-05,137,SF,San Francisco Giants,115,COL,Colorado Rockies,6,9
+492174,2017-09-05,138,STL,St. Louis Cardinals,135,SD,San Diego Padres,8,4
+492176,2017-09-05,141,TOR,Toronto Blue Jays,111,BOS,Boston Red Sox,2,3
+492177,2017-09-05,120,WSH,Washington Nationals,146,MIA,Miami Marlins,2,1
+492175,2017-09-06,140,TEX,Texas Rangers,144,ATL,Atlanta Braves,12,8
+492178,2017-09-06,109,AZ,Arizona Diamondbacks,119,LAD,Los Angeles Dodgers,3,1
+492179,2017-09-06,112,CHC,Chicago Cubs,134,PIT,Pittsburgh Pirates,1,0
+492180,2017-09-06,114,CLE,Cleveland Indians,145,CWS,Chicago White Sox,5,1
+492181,2017-09-06,117,HOU,Houston Astros,136,SEA,Seattle Mariners,5,3
+492182,2017-09-06,118,KC,Kansas City Royals,116,DET,Detroit Tigers,13,2
+492183,2017-09-06,108,LAA,Los Angeles Angels,133,OAK,Oakland Athletics,1,3
+492184,2017-09-06,158,MIL,Milwaukee Brewers,113,CIN,Cincinnati Reds,1,7
+492185,2017-09-06,142,MIN,Minnesota Twins,139,TB,Tampa Bay Rays,10,6
+492187,2017-09-06,143,PHI,Philadelphia Phillies,121,NYM,New York Mets,3,6
+492188,2017-09-06,137,SF,San Francisco Giants,115,COL,Colorado Rockies,11,3
+492189,2017-09-06,138,STL,St. Louis Cardinals,135,SD,San Diego Padres,3,1
+492190,2017-09-06,140,TEX,Texas Rangers,144,ATL,Atlanta Braves,4,5
+492191,2017-09-06,141,TOR,Toronto Blue Jays,111,BOS,Boston Red Sox,1,6
+492192,2017-09-06,120,WSH,Washington Nationals,146,MIA,Miami Marlins,8,1
+492186,2017-09-07,147,NYY,New York Yankees,110,BAL,Baltimore Orioles,9,1
+492193,2017-09-07,112,CHC,Chicago Cubs,134,PIT,Pittsburgh Pirates,8,2
+492194,2017-09-07,113,CIN,Cincinnati Reds,121,NYM,New York Mets,2,7
+492195,2017-09-07,114,CLE,Cleveland Indians,145,CWS,Chicago White Sox,11,2
+492196,2017-09-07,115,COL,Colorado Rockies,119,LAD,Los Angeles Dodgers,9,1
+492197,2017-09-07,146,MIA,Miami Marlins,144,ATL,Atlanta Braves,5,6
+492198,2017-09-07,142,MIN,Minnesota Twins,118,KC,Kansas City Royals,4,2
+492199,2017-09-07,143,PHI,Philadelphia Phillies,120,WSH,Washington Nationals,3,4
+492200,2017-09-07,138,STL,St. Louis Cardinals,135,SD,San Diego Padres,0,3
+492201,2017-09-08,110,BAL,Baltimore Orioles,114,CLE,Cleveland Indians,0,5
+492202,2017-09-08,113,CIN,Cincinnati Reds,121,NYM,New York Mets,1,5
+492203,2017-09-08,115,COL,Colorado Rockies,119,LAD,Los Angeles Dodgers,5,4
+492204,2017-09-08,116,DET,Detroit Tigers,141,TOR,Toronto Blue Jays,5,4
+492205,2017-09-08,117,HOU,Houston Astros,133,OAK,Oakland Athletics,8,9
+492206,2017-09-08,108,LAA,Los Angeles Angels,136,SEA,Seattle Mariners,3,4
+492207,2017-09-08,146,MIA,Miami Marlins,144,ATL,Atlanta Braves,7,1
+492208,2017-09-08,158,MIL,Milwaukee Brewers,112,CHC,Chicago Cubs,2,0
+492209,2017-09-08,142,MIN,Minnesota Twins,118,KC,Kansas City Royals,8,5
+492210,2017-09-08,147,NYY,New York Yankees,140,TEX,Texas Rangers,5,11
+492211,2017-09-08,143,PHI,Philadelphia Phillies,120,WSH,Washington Nationals,10,11
+492212,2017-09-08,134,PIT,Pittsburgh Pirates,138,STL,St. Louis Cardinals,1,4
+492213,2017-09-08,135,SD,San Diego Padres,109,AZ,Arizona Diamondbacks,10,6
+492214,2017-09-08,137,SF,San Francisco Giants,145,CWS,Chicago White Sox,9,2
+492215,2017-09-08,139,TB,Tampa Bay Rays,111,BOS,Boston Red Sox,3,9
+490275,2017-09-09,117,HOU,Houston Astros,133,OAK,Oakland Athletics,4,11
+492216,2017-09-09,110,BAL,Baltimore Orioles,114,CLE,Cleveland Indians,2,4
+492217,2017-09-09,113,CIN,Cincinnati Reds,121,NYM,New York Mets,1,6
+492218,2017-09-09,115,COL,Colorado Rockies,119,LAD,Los Angeles Dodgers,6,5
+492219,2017-09-09,116,DET,Detroit Tigers,141,TOR,Toronto Blue Jays,4,5
+492220,2017-09-09,117,HOU,Houston Astros,133,OAK,Oakland Athletics,1,11
+492221,2017-09-09,108,LAA,Los Angeles Angels,136,SEA,Seattle Mariners,1,8
+492222,2017-09-09,146,MIA,Miami Marlins,144,ATL,Atlanta Braves,5,6
+492223,2017-09-09,158,MIL,Milwaukee Brewers,112,CHC,Chicago Cubs,15,2
+492224,2017-09-09,142,MIN,Minnesota Twins,118,KC,Kansas City Royals,2,5
+492225,2017-09-09,147,NYY,New York Yankees,140,TEX,Texas Rangers,3,1
+492226,2017-09-09,143,PHI,Philadelphia Phillies,120,WSH,Washington Nationals,5,4
+492227,2017-09-09,134,PIT,Pittsburgh Pirates,138,STL,St. Louis Cardinals,3,4
+492228,2017-09-09,135,SD,San Diego Padres,109,AZ,Arizona Diamondbacks,8,7
+492229,2017-09-09,137,SF,San Francisco Giants,145,CWS,Chicago White Sox,1,13
+492230,2017-09-09,139,TB,Tampa Bay Rays,111,BOS,Boston Red Sox,0,9
+492231,2017-09-10,110,BAL,Baltimore Orioles,114,CLE,Cleveland Indians,2,3
+492232,2017-09-10,113,CIN,Cincinnati Reds,121,NYM,New York Mets,10,5
+492233,2017-09-10,115,COL,Colorado Rockies,119,LAD,Los Angeles Dodgers,8,1
+492234,2017-09-10,116,DET,Detroit Tigers,141,TOR,Toronto Blue Jays,2,8
+492235,2017-09-10,117,HOU,Houston Astros,133,OAK,Oakland Athletics,2,10
+492236,2017-09-10,108,LAA,Los Angeles Angels,136,SEA,Seattle Mariners,5,3
+492237,2017-09-10,146,MIA,Miami Marlins,144,ATL,Atlanta Braves,8,10
+492238,2017-09-10,158,MIL,Milwaukee Brewers,112,CHC,Chicago Cubs,3,1
+492239,2017-09-10,142,MIN,Minnesota Twins,118,KC,Kansas City Royals,3,11
+492240,2017-09-10,147,NYY,New York Yankees,140,TEX,Texas Rangers,16,7
+492241,2017-09-10,143,PHI,Philadelphia Phillies,120,WSH,Washington Nationals,2,3
+492242,2017-09-10,134,PIT,Pittsburgh Pirates,138,STL,St. Louis Cardinals,0,7
+492243,2017-09-10,135,SD,San Diego Padres,109,AZ,Arizona Diamondbacks,2,3
+492244,2017-09-10,137,SF,San Francisco Giants,145,CWS,Chicago White Sox,1,8
+492245,2017-09-10,139,TB,Tampa Bay Rays,111,BOS,Boston Red Sox,4,1
+492246,2017-09-11,110,BAL,Baltimore Orioles,141,TOR,Toronto Blue Jays,3,4
+492247,2017-09-11,145,CWS,Chicago White Sox,118,KC,Kansas City Royals,11,3
+492248,2017-09-11,115,COL,Colorado Rockies,109,AZ,Arizona Diamondbacks,5,4
+492249,2017-09-11,116,DET,Detroit Tigers,114,CLE,Cleveland Indians,0,11
+492250,2017-09-11,119,LAD,Los Angeles Dodgers,137,SF,San Francisco Giants,6,8
+492251,2017-09-11,147,NYY,New York Yankees,139,TB,Tampa Bay Rays,5,1
+492252,2017-09-11,134,PIT,Pittsburgh Pirates,158,MIL,Milwaukee Brewers,7,0
+492253,2017-09-11,136,SEA,Seattle Mariners,140,TEX,Texas Rangers,3,5
+492254,2017-09-12,144,ATL,Atlanta Braves,120,WSH,Washington Nationals,8,0
+492255,2017-09-12,110,BAL,Baltimore Orioles,141,TOR,Toronto Blue Jays,2,3
+492256,2017-09-12,145,CWS,Chicago White Sox,118,KC,Kansas City Royals,3,4
+492257,2017-09-12,113,CIN,Cincinnati Reds,138,STL,St. Louis Cardinals,4,13
+492258,2017-09-12,115,COL,Colorado Rockies,109,AZ,Arizona Diamondbacks,4,2
+492259,2017-09-12,116,DET,Detroit Tigers,114,CLE,Cleveland Indians,0,2
+492260,2017-09-12,117,HOU,Houston Astros,108,LAA,Los Angeles Angels,1,0
+492261,2017-09-12,119,LAD,Los Angeles Dodgers,137,SF,San Francisco Giants,5,3
+492262,2017-09-12,146,MIA,Miami Marlins,143,PHI,Philadelphia Phillies,8,9
+492263,2017-09-12,121,NYM,New York Mets,112,CHC,Chicago Cubs,3,8
+492264,2017-09-12,147,NYY,New York Yankees,139,TB,Tampa Bay Rays,1,2
+492265,2017-09-12,133,OAK,Oakland Athletics,111,BOS,Boston Red Sox,1,11
+492266,2017-09-12,134,PIT,Pittsburgh Pirates,158,MIL,Milwaukee Brewers,2,5
+492267,2017-09-12,135,SD,San Diego Padres,142,MIN,Minnesota Twins,0,16
+492268,2017-09-12,136,SEA,Seattle Mariners,140,TEX,Texas Rangers,10,3
+492269,2017-09-13,144,ATL,Atlanta Braves,120,WSH,Washington Nationals,8,2
+492270,2017-09-13,110,BAL,Baltimore Orioles,141,TOR,Toronto Blue Jays,2,1
+492271,2017-09-13,145,CWS,Chicago White Sox,118,KC,Kansas City Royals,5,3
+492272,2017-09-13,113,CIN,Cincinnati Reds,138,STL,St. Louis Cardinals,6,0
+492273,2017-09-13,115,COL,Colorado Rockies,109,AZ,Arizona Diamondbacks,2,8
+492274,2017-09-13,116,DET,Detroit Tigers,114,CLE,Cleveland Indians,3,5
+492275,2017-09-13,117,HOU,Houston Astros,108,LAA,Los Angeles Angels,1,9
+492276,2017-09-13,119,LAD,Los Angeles Dodgers,137,SF,San Francisco Giants,4,1
+492277,2017-09-13,146,MIA,Miami Marlins,143,PHI,Philadelphia Phillies,1,8
+492278,2017-09-13,121,NYM,New York Mets,112,CHC,Chicago Cubs,5,17
+492279,2017-09-13,147,NYY,New York Yankees,139,TB,Tampa Bay Rays,3,2
+492280,2017-09-13,133,OAK,Oakland Athletics,111,BOS,Boston Red Sox,7,3
+492281,2017-09-13,134,PIT,Pittsburgh Pirates,158,MIL,Milwaukee Brewers,2,8
+492282,2017-09-13,135,SD,San Diego Padres,142,MIN,Minnesota Twins,1,3
+492283,2017-09-13,136,SEA,Seattle Mariners,140,TEX,Texas Rangers,8,1
+492284,2017-09-14,144,ATL,Atlanta Braves,120,WSH,Washington Nationals,2,5
+492285,2017-09-14,110,BAL,Baltimore Orioles,147,NYY,New York Yankees,5,13
+492286,2017-09-14,145,CWS,Chicago White Sox,116,DET,Detroit Tigers,17,7
+492287,2017-09-14,113,CIN,Cincinnati Reds,138,STL,St. Louis Cardinals,2,5
+492288,2017-09-14,115,COL,Colorado Rockies,109,AZ,Arizona Diamondbacks,0,7
+492289,2017-09-14,117,HOU,Houston Astros,108,LAA,Los Angeles Angels,5,2
+492290,2017-09-14,118,KC,Kansas City Royals,114,CLE,Cleveland Indians,2,3
+492291,2017-09-14,146,MIA,Miami Marlins,143,PHI,Philadelphia Phillies,0,10
+492292,2017-09-14,121,NYM,New York Mets,112,CHC,Chicago Cubs,6,14
+492293,2017-09-14,133,OAK,Oakland Athletics,111,BOS,Boston Red Sox,2,6
+492294,2017-09-14,136,SEA,Seattle Mariners,140,TEX,Texas Rangers,10,4
+492295,2017-09-14,141,TOR,Toronto Blue Jays,142,MIN,Minnesota Twins,2,3
+492296,2017-09-15,109,AZ,Arizona Diamondbacks,137,SF,San Francisco Giants,3,2
+492297,2017-09-15,110,BAL,Baltimore Orioles,147,NYY,New York Yankees,2,8
+492298,2017-09-15,111,BOS,Boston Red Sox,139,TB,Tampa Bay Rays,13,6
+492299,2017-09-15,145,CWS,Chicago White Sox,116,DET,Detroit Tigers,2,3
+492300,2017-09-15,118,KC,Kansas City Royals,114,CLE,Cleveland Indians,4,3
+492301,2017-09-15,119,LAD,Los Angeles Dodgers,120,WSH,Washington Nationals,7,0
+492302,2017-09-15,158,MIL,Milwaukee Brewers,146,MIA,Miami Marlins,10,2
+492303,2017-09-15,121,NYM,New York Mets,144,ATL,Atlanta Braves,2,3
+492304,2017-09-15,133,OAK,Oakland Athletics,143,PHI,Philadelphia Phillies,4,0
+492305,2017-09-15,134,PIT,Pittsburgh Pirates,113,CIN,Cincinnati Reds,2,4
+492306,2017-09-15,135,SD,San Diego Padres,115,COL,Colorado Rockies,1,6
+492307,2017-09-15,136,SEA,Seattle Mariners,117,HOU,Houston Astros,2,5
+492308,2017-09-15,138,STL,St. Louis Cardinals,112,CHC,Chicago Cubs,2,8
+492309,2017-09-15,140,TEX,Texas Rangers,108,LAA,Los Angeles Angels,6,7
+492310,2017-09-15,141,TOR,Toronto Blue Jays,142,MIN,Minnesota Twins,4,3
+492311,2017-09-16,109,AZ,Arizona Diamondbacks,137,SF,San Francisco Giants,2,0
+492312,2017-09-16,110,BAL,Baltimore Orioles,147,NYY,New York Yankees,3,9
+492313,2017-09-16,111,BOS,Boston Red Sox,139,TB,Tampa Bay Rays,3,1
+492314,2017-09-16,145,CWS,Chicago White Sox,116,DET,Detroit Tigers,10,4
+492315,2017-09-16,118,KC,Kansas City Royals,114,CLE,Cleveland Indians,4,8
+492316,2017-09-16,119,LAD,Los Angeles Dodgers,120,WSH,Washington Nationals,3,2
+492317,2017-09-16,158,MIL,Milwaukee Brewers,146,MIA,Miami Marlins,4,7
+492318,2017-09-16,121,NYM,New York Mets,144,ATL,Atlanta Braves,7,3
+492319,2017-09-16,133,OAK,Oakland Athletics,143,PHI,Philadelphia Phillies,3,5
+492320,2017-09-16,134,PIT,Pittsburgh Pirates,113,CIN,Cincinnati Reds,1,2
+492321,2017-09-16,135,SD,San Diego Padres,115,COL,Colorado Rockies,0,16
+492322,2017-09-16,136,SEA,Seattle Mariners,117,HOU,Houston Astros,6,8
+492323,2017-09-16,138,STL,St. Louis Cardinals,112,CHC,Chicago Cubs,1,4
+492324,2017-09-16,140,TEX,Texas Rangers,108,LAA,Los Angeles Angels,0,2
+492325,2017-09-16,141,TOR,Toronto Blue Jays,142,MIN,Minnesota Twins,7,2
+492326,2017-09-17,109,AZ,Arizona Diamondbacks,137,SF,San Francisco Giants,2,7
+492327,2017-09-17,110,BAL,Baltimore Orioles,147,NYY,New York Yankees,6,4
+492328,2017-09-17,111,BOS,Boston Red Sox,139,TB,Tampa Bay Rays,2,3
+492329,2017-09-17,145,CWS,Chicago White Sox,116,DET,Detroit Tigers,0,12
+492330,2017-09-17,118,KC,Kansas City Royals,114,CLE,Cleveland Indians,2,3
+492331,2017-09-17,119,LAD,Los Angeles Dodgers,120,WSH,Washington Nationals,1,7
+492332,2017-09-17,158,MIL,Milwaukee Brewers,146,MIA,Miami Marlins,10,3
+492333,2017-09-17,121,NYM,New York Mets,144,ATL,Atlanta Braves,5,1
+492334,2017-09-17,133,OAK,Oakland Athletics,143,PHI,Philadelphia Phillies,6,3
+492335,2017-09-17,134,PIT,Pittsburgh Pirates,113,CIN,Cincinnati Reds,2,5
+492336,2017-09-17,135,SD,San Diego Padres,115,COL,Colorado Rockies,4,3
+492337,2017-09-17,136,SEA,Seattle Mariners,117,HOU,Houston Astros,1,7
+492338,2017-09-17,138,STL,St. Louis Cardinals,112,CHC,Chicago Cubs,3,4
+492339,2017-09-17,140,TEX,Texas Rangers,108,LAA,Los Angeles Angels,4,2
+492340,2017-09-17,141,TOR,Toronto Blue Jays,142,MIN,Minnesota Twins,7,13
+492341,2017-09-18,109,AZ,Arizona Diamondbacks,135,SD,San Diego Padres,2,4
+492342,2017-09-18,111,BOS,Boston Red Sox,110,BAL,Baltimore Orioles,10,8
+492343,2017-09-18,119,LAD,Los Angeles Dodgers,143,PHI,Philadelphia Phillies,3,4
+492344,2017-09-18,158,MIL,Milwaukee Brewers,134,PIT,Pittsburgh Pirates,3,0
+492345,2017-09-18,142,MIN,Minnesota Twins,147,NYY,New York Yankees,1,2
+492346,2017-09-18,121,NYM,New York Mets,146,MIA,Miami Marlins,1,13
+492347,2017-09-18,133,OAK,Oakland Athletics,116,DET,Detroit Tigers,8,3
+492348,2017-09-19,109,AZ,Arizona Diamondbacks,135,SD,San Diego Padres,2,6
+492349,2017-09-19,111,BOS,Boston Red Sox,110,BAL,Baltimore Orioles,1,0
+492350,2017-09-19,112,CHC,Chicago Cubs,139,TB,Tampa Bay Rays,2,1
+492351,2017-09-19,145,CWS,Chicago White Sox,117,HOU,Houston Astros,1,3
+492352,2017-09-19,114,CLE,Cleveland Indians,108,LAA,Los Angeles Angels,6,3
+492353,2017-09-19,115,COL,Colorado Rockies,137,SF,San Francisco Giants,3,4
+492354,2017-09-19,118,KC,Kansas City Royals,141,TOR,Toronto Blue Jays,2,5
+492355,2017-09-19,119,LAD,Los Angeles Dodgers,143,PHI,Philadelphia Phillies,2,6
+492356,2017-09-19,158,MIL,Milwaukee Brewers,134,PIT,Pittsburgh Pirates,1,0
+492357,2017-09-19,142,MIN,Minnesota Twins,147,NYY,New York Yankees,2,5
+492358,2017-09-19,121,NYM,New York Mets,146,MIA,Miami Marlins,4,5
+492359,2017-09-19,133,OAK,Oakland Athletics,116,DET,Detroit Tigers,9,8
+492360,2017-09-19,138,STL,St. Louis Cardinals,113,CIN,Cincinnati Reds,8,7
+492361,2017-09-19,140,TEX,Texas Rangers,136,SEA,Seattle Mariners,3,1
+492362,2017-09-19,120,WSH,Washington Nationals,144,ATL,Atlanta Braves,4,2
+492363,2017-09-20,109,AZ,Arizona Diamondbacks,135,SD,San Diego Padres,13,7
+492364,2017-09-20,111,BOS,Boston Red Sox,110,BAL,Baltimore Orioles,9,0
+492365,2017-09-20,112,CHC,Chicago Cubs,139,TB,Tampa Bay Rays,1,8
+492366,2017-09-20,145,CWS,Chicago White Sox,117,HOU,Houston Astros,3,4
+492367,2017-09-20,114,CLE,Cleveland Indians,108,LAA,Los Angeles Angels,6,5
+492368,2017-09-20,115,COL,Colorado Rockies,137,SF,San Francisco Giants,0,4
+492369,2017-09-20,118,KC,Kansas City Royals,141,TOR,Toronto Blue Jays,15,5
+492370,2017-09-20,119,LAD,Los Angeles Dodgers,143,PHI,Philadelphia Phillies,5,7
+492371,2017-09-20,158,MIL,Milwaukee Brewers,134,PIT,Pittsburgh Pirates,4,6
+492372,2017-09-20,142,MIN,Minnesota Twins,147,NYY,New York Yankees,3,11
+492373,2017-09-20,121,NYM,New York Mets,146,MIA,Miami Marlins,2,9
+492374,2017-09-20,133,OAK,Oakland Athletics,116,DET,Detroit Tigers,3,2
+492375,2017-09-20,138,STL,St. Louis Cardinals,113,CIN,Cincinnati Reds,9,2
+492376,2017-09-20,140,TEX,Texas Rangers,136,SEA,Seattle Mariners,8,6
+492377,2017-09-20,120,WSH,Washington Nationals,144,ATL,Atlanta Braves,7,3
+492378,2017-09-21,112,CHC,Chicago Cubs,158,MIL,Milwaukee Brewers,5,3
+492379,2017-09-21,145,CWS,Chicago White Sox,117,HOU,Houston Astros,3,1
+492380,2017-09-21,114,CLE,Cleveland Indians,108,LAA,Los Angeles Angels,4,1
+492381,2017-09-21,115,COL,Colorado Rockies,135,SD,San Diego Padres,0,3
+492382,2017-09-21,118,KC,Kansas City Royals,141,TOR,Toronto Blue Jays,1,0
+492383,2017-09-21,119,LAD,Los Angeles Dodgers,143,PHI,Philadelphia Phillies,5,4
+492384,2017-09-21,142,MIN,Minnesota Twins,116,DET,Detroit Tigers,12,1
+492385,2017-09-21,138,STL,St. Louis Cardinals,113,CIN,Cincinnati Reds,8,5
+492386,2017-09-21,139,TB,Tampa Bay Rays,110,BAL,Baltimore Orioles,1,3
+492387,2017-09-21,140,TEX,Texas Rangers,136,SEA,Seattle Mariners,4,2
+492388,2017-09-21,120,WSH,Washington Nationals,144,ATL,Atlanta Braves,2,3
+492389,2017-09-22,111,BOS,Boston Red Sox,113,CIN,Cincinnati Reds,5,4
+492390,2017-09-22,112,CHC,Chicago Cubs,158,MIL,Milwaukee Brewers,5,4
+492391,2017-09-22,114,CLE,Cleveland Indians,136,SEA,Seattle Mariners,1,3
+492392,2017-09-22,115,COL,Colorado Rockies,135,SD,San Diego Padres,4,1
+492393,2017-09-22,118,KC,Kansas City Royals,145,CWS,Chicago White Sox,6,7
+492394,2017-09-22,108,LAA,Los Angeles Angels,117,HOU,Houston Astros,0,3
+492395,2017-09-22,146,MIA,Miami Marlins,109,AZ,Arizona Diamondbacks,11,13
+492396,2017-09-22,142,MIN,Minnesota Twins,116,DET,Detroit Tigers,7,3
+492397,2017-09-22,147,NYY,New York Yankees,141,TOR,Toronto Blue Jays,1,8
+492398,2017-09-22,143,PHI,Philadelphia Phillies,144,ATL,Atlanta Braves,2,7
+492399,2017-09-22,137,SF,San Francisco Giants,119,LAD,Los Angeles Dodgers,2,4
+492400,2017-09-22,138,STL,St. Louis Cardinals,134,PIT,Pittsburgh Pirates,4,3
+492401,2017-09-22,139,TB,Tampa Bay Rays,110,BAL,Baltimore Orioles,8,3
+492402,2017-09-22,140,TEX,Texas Rangers,133,OAK,Oakland Athletics,1,4
+492403,2017-09-22,120,WSH,Washington Nationals,121,NYM,New York Mets,6,7
+492404,2017-09-23,111,BOS,Boston Red Sox,113,CIN,Cincinnati Reds,5,0
+492405,2017-09-23,112,CHC,Chicago Cubs,158,MIL,Milwaukee Brewers,3,4
+492406,2017-09-23,114,CLE,Cleveland Indians,136,SEA,Seattle Mariners,11,4
+492407,2017-09-23,115,COL,Colorado Rockies,135,SD,San Diego Padres,0,5
+492408,2017-09-23,118,KC,Kansas City Royals,145,CWS,Chicago White Sox,8,2
+492409,2017-09-23,108,LAA,Los Angeles Angels,117,HOU,Houston Astros,2,6
+492410,2017-09-23,146,MIA,Miami Marlins,109,AZ,Arizona Diamondbacks,12,6
+492411,2017-09-23,142,MIN,Minnesota Twins,116,DET,Detroit Tigers,10,4
+492412,2017-09-23,147,NYY,New York Yankees,141,TOR,Toronto Blue Jays,5,1
+492413,2017-09-23,143,PHI,Philadelphia Phillies,144,ATL,Atlanta Braves,2,4
+492414,2017-09-23,137,SF,San Francisco Giants,119,LAD,Los Angeles Dodgers,2,1
+492415,2017-09-23,138,STL,St. Louis Cardinals,134,PIT,Pittsburgh Pirates,6,11
+492416,2017-09-23,139,TB,Tampa Bay Rays,110,BAL,Baltimore Orioles,9,6
+492417,2017-09-23,140,TEX,Texas Rangers,133,OAK,Oakland Athletics,0,1
+492418,2017-09-23,120,WSH,Washington Nationals,121,NYM,New York Mets,4,3
+492419,2017-09-24,111,BOS,Boston Red Sox,113,CIN,Cincinnati Reds,5,4
+492420,2017-09-24,112,CHC,Chicago Cubs,158,MIL,Milwaukee Brewers,5,0
+492421,2017-09-24,114,CLE,Cleveland Indians,136,SEA,Seattle Mariners,4,2
+492422,2017-09-24,115,COL,Colorado Rockies,135,SD,San Diego Padres,8,4
+492423,2017-09-24,118,KC,Kansas City Royals,145,CWS,Chicago White Sox,1,8
+492424,2017-09-24,108,LAA,Los Angeles Angels,117,HOU,Houston Astros,7,5
+492425,2017-09-24,146,MIA,Miami Marlins,109,AZ,Arizona Diamondbacks,2,3
+492426,2017-09-24,142,MIN,Minnesota Twins,116,DET,Detroit Tigers,10,4
+492427,2017-09-24,147,NYY,New York Yankees,141,TOR,Toronto Blue Jays,5,9
+492428,2017-09-24,143,PHI,Philadelphia Phillies,144,ATL,Atlanta Braves,2,0
+492429,2017-09-24,137,SF,San Francisco Giants,119,LAD,Los Angeles Dodgers,1,3
+492430,2017-09-24,138,STL,St. Louis Cardinals,134,PIT,Pittsburgh Pirates,1,4
+492431,2017-09-24,139,TB,Tampa Bay Rays,110,BAL,Baltimore Orioles,4,9
+492432,2017-09-24,140,TEX,Texas Rangers,133,OAK,Oakland Athletics,1,8
+492433,2017-09-24,120,WSH,Washington Nationals,121,NYM,New York Mets,3,2
+490390,2017-09-25,144,ATL,Atlanta Braves,121,NYM,New York Mets,2,3
+490806,2017-09-25,118,KC,Kansas City Royals,147,NYY,New York Yankees,3,11
+492434,2017-09-25,144,ATL,Atlanta Braves,121,NYM,New York Mets,9,2
+492435,2017-09-25,112,CHC,Chicago Cubs,138,STL,St. Louis Cardinals,10,2
+492436,2017-09-25,117,HOU,Houston Astros,140,TEX,Texas Rangers,11,2
+492437,2017-09-25,108,LAA,Los Angeles Angels,145,CWS,Chicago White Sox,2,4
+492438,2017-09-25,146,MIA,Miami Marlins,115,COL,Colorado Rockies,5,4
+492439,2017-09-25,135,SD,San Diego Padres,119,LAD,Los Angeles Dodgers,3,9
+492440,2017-09-25,137,SF,San Francisco Giants,109,AZ,Arizona Diamondbacks,9,2
+492441,2017-09-25,136,SEA,Seattle Mariners,133,OAK,Oakland Athletics,7,1
+492442,2017-09-25,141,TOR,Toronto Blue Jays,111,BOS,Boston Red Sox,6,4
+492443,2017-09-25,120,WSH,Washington Nationals,143,PHI,Philadelphia Phillies,3,1
+492444,2017-09-26,144,ATL,Atlanta Braves,121,NYM,New York Mets,3,4
+492445,2017-09-26,110,BAL,Baltimore Orioles,134,PIT,Pittsburgh Pirates,1,10
+492446,2017-09-26,112,CHC,Chicago Cubs,138,STL,St. Louis Cardinals,7,8
+492447,2017-09-26,113,CIN,Cincinnati Reds,158,MIL,Milwaukee Brewers,6,7
+492448,2017-09-26,116,DET,Detroit Tigers,118,KC,Kansas City Royals,1,2
+492449,2017-09-26,117,HOU,Houston Astros,140,TEX,Texas Rangers,14,3
+492450,2017-09-26,108,LAA,Los Angeles Angels,145,CWS,Chicago White Sox,9,3
+492451,2017-09-26,146,MIA,Miami Marlins,115,COL,Colorado Rockies,0,6
+492452,2017-09-26,142,MIN,Minnesota Twins,114,CLE,Cleveland Indians,8,6
+492453,2017-09-26,135,SD,San Diego Padres,119,LAD,Los Angeles Dodgers,2,9
+492454,2017-09-26,137,SF,San Francisco Giants,109,AZ,Arizona Diamondbacks,4,11
+492455,2017-09-26,136,SEA,Seattle Mariners,133,OAK,Oakland Athletics,6,3
+492456,2017-09-26,139,TB,Tampa Bay Rays,147,NYY,New York Yankees,1,6
+492457,2017-09-26,141,TOR,Toronto Blue Jays,111,BOS,Boston Red Sox,9,4
+492458,2017-09-26,120,WSH,Washington Nationals,143,PHI,Philadelphia Phillies,1,4
+492459,2017-09-27,144,ATL,Atlanta Braves,121,NYM,New York Mets,1,7
+492460,2017-09-27,110,BAL,Baltimore Orioles,134,PIT,Pittsburgh Pirates,3,5
+492461,2017-09-27,112,CHC,Chicago Cubs,138,STL,St. Louis Cardinals,5,1
+492462,2017-09-27,113,CIN,Cincinnati Reds,158,MIL,Milwaukee Brewers,6,0
+492463,2017-09-27,116,DET,Detroit Tigers,118,KC,Kansas City Royals,4,7
+492464,2017-09-27,117,HOU,Houston Astros,140,TEX,Texas Rangers,12,2
+492465,2017-09-27,108,LAA,Los Angeles Angels,145,CWS,Chicago White Sox,4,6
+492466,2017-09-27,146,MIA,Miami Marlins,115,COL,Colorado Rockies,9,15
+492467,2017-09-27,142,MIN,Minnesota Twins,114,CLE,Cleveland Indians,2,4
+492468,2017-09-27,135,SD,San Diego Padres,119,LAD,Los Angeles Dodgers,0,10
+492469,2017-09-27,137,SF,San Francisco Giants,109,AZ,Arizona Diamondbacks,3,4
+492470,2017-09-27,136,SEA,Seattle Mariners,133,OAK,Oakland Athletics,5,6
+492471,2017-09-27,139,TB,Tampa Bay Rays,147,NYY,New York Yankees,1,6
+492472,2017-09-27,141,TOR,Toronto Blue Jays,111,BOS,Boston Red Sox,7,10
+492473,2017-09-27,120,WSH,Washington Nationals,143,PHI,Philadelphia Phillies,5,7
+492474,2017-09-28,144,ATL,Atlanta Braves,146,MIA,Miami Marlins,1,7
+492475,2017-09-28,112,CHC,Chicago Cubs,138,STL,St. Louis Cardinals,2,1
+492476,2017-09-28,113,CIN,Cincinnati Reds,158,MIL,Milwaukee Brewers,3,4
+492477,2017-09-28,116,DET,Detroit Tigers,118,KC,Kansas City Royals,4,1
+492478,2017-09-28,117,HOU,Houston Astros,111,BOS,Boston Red Sox,12,2
+492479,2017-09-28,108,LAA,Los Angeles Angels,145,CWS,Chicago White Sox,4,5
+492480,2017-09-28,142,MIN,Minnesota Twins,114,CLE,Cleveland Indians,2,5
+492481,2017-09-28,133,OAK,Oakland Athletics,140,TEX,Texas Rangers,4,1
+492482,2017-09-28,134,PIT,Pittsburgh Pirates,120,WSH,Washington Nationals,4,5
+492483,2017-09-28,139,TB,Tampa Bay Rays,147,NYY,New York Yankees,9,6
+492484,2017-09-29,109,AZ,Arizona Diamondbacks,118,KC,Kansas City Royals,1,2
+492485,2017-09-29,144,ATL,Atlanta Braves,146,MIA,Miami Marlins,5,6
+492486,2017-09-29,110,BAL,Baltimore Orioles,139,TB,Tampa Bay Rays,0,7
+492487,2017-09-29,145,CWS,Chicago White Sox,114,CLE,Cleveland Indians,1,10
+492488,2017-09-29,113,CIN,Cincinnati Reds,112,CHC,Chicago Cubs,4,5
+492489,2017-09-29,116,DET,Detroit Tigers,142,MIN,Minnesota Twins,3,6
+492490,2017-09-29,117,HOU,Houston Astros,111,BOS,Boston Red Sox,3,2
+492491,2017-09-29,119,LAD,Los Angeles Dodgers,115,COL,Colorado Rockies,1,9
+492492,2017-09-29,158,MIL,Milwaukee Brewers,138,STL,St. Louis Cardinals,5,3
+492493,2017-09-29,121,NYM,New York Mets,143,PHI,Philadelphia Phillies,2,6
+492494,2017-09-29,133,OAK,Oakland Athletics,140,TEX,Texas Rangers,3,5
+492495,2017-09-29,134,PIT,Pittsburgh Pirates,120,WSH,Washington Nationals,1,6
+492496,2017-09-29,135,SD,San Diego Padres,137,SF,San Francisco Giants,0,8
+492497,2017-09-29,136,SEA,Seattle Mariners,108,LAA,Los Angeles Angels,5,6
+492498,2017-09-29,141,TOR,Toronto Blue Jays,147,NYY,New York Yankees,0,4
+492499,2017-09-30,109,AZ,Arizona Diamondbacks,118,KC,Kansas City Royals,3,4
+492500,2017-09-30,144,ATL,Atlanta Braves,146,MIA,Miami Marlins,2,10
+492501,2017-09-30,110,BAL,Baltimore Orioles,139,TB,Tampa Bay Rays,3,4
+492502,2017-09-30,145,CWS,Chicago White Sox,114,CLE,Cleveland Indians,2,1
+492503,2017-09-30,113,CIN,Cincinnati Reds,112,CHC,Chicago Cubs,0,9
+492504,2017-09-30,116,DET,Detroit Tigers,142,MIN,Minnesota Twins,3,2
+492505,2017-09-30,117,HOU,Houston Astros,111,BOS,Boston Red Sox,3,6
+492506,2017-09-30,119,LAD,Los Angeles Dodgers,115,COL,Colorado Rockies,5,3
+492507,2017-09-30,158,MIL,Milwaukee Brewers,138,STL,St. Louis Cardinals,6,7
+492508,2017-09-30,121,NYM,New York Mets,143,PHI,Philadelphia Phillies,7,4
+492509,2017-09-30,133,OAK,Oakland Athletics,140,TEX,Texas Rangers,4,8
+492510,2017-09-30,134,PIT,Pittsburgh Pirates,120,WSH,Washington Nationals,4,1
+492511,2017-09-30,135,SD,San Diego Padres,137,SF,San Francisco Giants,3,2
+492512,2017-09-30,136,SEA,Seattle Mariners,108,LAA,Los Angeles Angels,6,4
+492513,2017-09-30,141,TOR,Toronto Blue Jays,147,NYY,New York Yankees,1,2
+492514,2017-10-01,109,AZ,Arizona Diamondbacks,118,KC,Kansas City Royals,14,2
+492515,2017-10-01,144,ATL,Atlanta Braves,146,MIA,Miami Marlins,8,5
+492516,2017-10-01,110,BAL,Baltimore Orioles,139,TB,Tampa Bay Rays,0,6
+492517,2017-10-01,145,CWS,Chicago White Sox,114,CLE,Cleveland Indians,1,3
+492518,2017-10-01,113,CIN,Cincinnati Reds,112,CHC,Chicago Cubs,3,1
+492519,2017-10-01,116,DET,Detroit Tigers,142,MIN,Minnesota Twins,1,5
+492520,2017-10-01,117,HOU,Houston Astros,111,BOS,Boston Red Sox,4,3
+492521,2017-10-01,119,LAD,Los Angeles Dodgers,115,COL,Colorado Rockies,6,3
+492522,2017-10-01,158,MIL,Milwaukee Brewers,138,STL,St. Louis Cardinals,6,1
+492523,2017-10-01,121,NYM,New York Mets,143,PHI,Philadelphia Phillies,0,11
+492524,2017-10-01,133,OAK,Oakland Athletics,140,TEX,Texas Rangers,5,2
+492525,2017-10-01,134,PIT,Pittsburgh Pirates,120,WSH,Washington Nationals,11,8
+492526,2017-10-01,135,SD,San Diego Padres,137,SF,San Francisco Giants,4,5
+492527,2017-10-01,136,SEA,Seattle Mariners,108,LAA,Los Angeles Angels,2,6
+492528,2017-10-01,141,TOR,Toronto Blue Jays,147,NYY,New York Yankees,2,1

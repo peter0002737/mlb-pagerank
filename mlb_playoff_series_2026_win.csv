@@ -1,0 +1,12 @@
+series,team_a,team_b,best_of,game_prob_a_pagerank,series_prob_a_pagerank,pred_pagerank,series_prob_a_winpct,pred_winpct,actual,pagerank_winner_hit,winpct_winner_hit,pagerank_score_hit,winpct_score_hit
+AL Wild Card Series,BOS,NYY,3,0.4943,0.4914,NYY 2-0,0.4385,NYY 2-0,NYY 2-0,1,1,1,1
+NL Wild Card Series,CHC,SD,3,0.5021,0.5032,CHC 2-0,0.4813,SD 2-0,SD 2-0,0,1,0,1
+AL Wild Card Series,HOU,CWS,3,0.4956,0.4935,CWS 2-0,0.4722,CWS 2-0,CWS 2-0,1,1,1,1
+NL Wild Card Series,PHI,ATL,3,0.4891,0.4837,ATL 2-0,0.4438,ATL 2-0,ATL 2-1,1,1,0,0
+AL Division Series,CLE,CWS,5,0.5002,0.5005,CLE 3-1,0.5116,CLE 3-1,CLE 3-2,1,1,0,0
+NL Division Series,LAD,ATL,5,0.5031,0.5058,LAD 3-1,0.5719,LAD 3-1,LAD 3-1,1,1,1,1
+NL Division Series,SD,MIL,5,0.4798,0.4621,MIL 3-1,0.3585,MIL 3-1,MIL 3-1,1,1,1,1
+AL Division Series,TB,NYY,5,0.5070,0.5130,TB 3-1,0.5528,TB 3-1,TB 3-0,1,1,0,0
+AL Championship Series,CLE,TB,7,0.4782,0.4524,TB 4-2,0.3272,TB 4-2,TB 4-2,1,1,1,1
+NL Championship Series,LAD,MIL,7,0.4911,0.4806,MIL 4-2,0.4568,MIL 4-2,MIL 4-0,1,1,0,0
+World Series,TB,MIL,7,0.4906,0.4795,MIL 4-2,0.4287,MIL 4-2,MIL 4-1,1,1,0,0

@@ -1,0 +1,41 @@
+gamePk,date,game_type,series,games_in_series,away_id,away_name,home_id,home_name,away_score,home_score
+715761,2022-10-07,F,NL Wild Card Series,3,135,San Diego Padres,121,New York Mets,7,1
+715764,2022-10-07,F,NL Wild Card Series,3,143,Philadelphia Phillies,138,St. Louis Cardinals,6,3
+715767,2022-10-07,F,AL Wild Card Series,3,136,Seattle Mariners,141,Toronto Blue Jays,4,0
+715770,2022-10-07,F,AL Wild Card Series,3,139,Tampa Bay Rays,114,Cleveland Guardians,1,2
+715760,2022-10-08,F,NL Wild Card Series,3,135,San Diego Padres,121,New York Mets,3,7
+715763,2022-10-08,F,NL Wild Card Series,3,143,Philadelphia Phillies,138,St. Louis Cardinals,2,0
+715766,2022-10-08,F,AL Wild Card Series,3,136,Seattle Mariners,141,Toronto Blue Jays,10,9
+715769,2022-10-08,F,AL Wild Card Series,3,139,Tampa Bay Rays,114,Cleveland Guardians,0,1
+715759,2022-10-09,F,NL Wild Card Series,3,135,San Diego Padres,121,New York Mets,6,0
+715743,2022-10-11,D,NL Division Series,5,143,Philadelphia Phillies,144,Atlanta Braves,7,6
+715748,2022-10-11,D,NL Division Series,5,135,San Diego Padres,119,Los Angeles Dodgers,3,5
+715753,2022-10-11,D,AL Division Series,5,114,Cleveland Guardians,147,New York Yankees,1,4
+715758,2022-10-11,D,AL Division Series,5,136,Seattle Mariners,117,Houston Astros,7,8
+715742,2022-10-12,D,NL Division Series,5,143,Philadelphia Phillies,144,Atlanta Braves,0,3
+715747,2022-10-12,D,NL Division Series,5,135,San Diego Padres,119,Los Angeles Dodgers,5,3
+715757,2022-10-13,D,AL Division Series,5,136,Seattle Mariners,117,Houston Astros,2,4
+715741,2022-10-14,D,NL Division Series,5,144,Atlanta Braves,143,Philadelphia Phillies,1,9
+715746,2022-10-14,D,NL Division Series,5,119,Los Angeles Dodgers,135,San Diego Padres,1,2
+715752,2022-10-14,D,AL Division Series,5,114,Cleveland Guardians,147,New York Yankees,4,2
+715740,2022-10-15,D,NL Division Series,5,144,Atlanta Braves,143,Philadelphia Phillies,3,8
+715745,2022-10-15,D,NL Division Series,5,119,Los Angeles Dodgers,135,San Diego Padres,3,5
+715751,2022-10-15,D,AL Division Series,5,147,New York Yankees,114,Cleveland Guardians,5,6
+715756,2022-10-15,D,AL Division Series,5,117,Houston Astros,136,Seattle Mariners,1,0
+715750,2022-10-16,D,AL Division Series,5,147,New York Yankees,114,Cleveland Guardians,4,2
+715731,2022-10-18,L,NL Championship Series,7,143,Philadelphia Phillies,135,San Diego Padres,2,0
+715749,2022-10-18,D,AL Division Series,5,114,Cleveland Guardians,147,New York Yankees,1,5
+715730,2022-10-19,L,NL Championship Series,7,143,Philadelphia Phillies,135,San Diego Padres,5,8
+715738,2022-10-19,L,AL Championship Series,7,147,New York Yankees,117,Houston Astros,2,4
+715737,2022-10-20,L,AL Championship Series,7,147,New York Yankees,117,Houston Astros,2,3
+715729,2022-10-21,L,NL Championship Series,7,135,San Diego Padres,143,Philadelphia Phillies,2,4
+715728,2022-10-22,L,NL Championship Series,7,135,San Diego Padres,143,Philadelphia Phillies,6,10
+715736,2022-10-22,L,AL Championship Series,7,117,Houston Astros,147,New York Yankees,5,0
+715727,2022-10-23,L,NL Championship Series,7,135,San Diego Padres,143,Philadelphia Phillies,3,4
+715735,2022-10-23,L,AL Championship Series,7,117,Houston Astros,147,New York Yankees,6,5
+715724,2022-10-28,W,World Series,7,143,Philadelphia Phillies,117,Houston Astros,6,5
+715723,2022-10-29,W,World Series,7,143,Philadelphia Phillies,117,Houston Astros,2,5
+715722,2022-11-01,W,World Series,7,117,Houston Astros,143,Philadelphia Phillies,0,7
+715721,2022-11-02,W,World Series,7,117,Houston Astros,143,Philadelphia Phillies,5,0
+715720,2022-11-03,W,World Series,7,117,Houston Astros,143,Philadelphia Phillies,3,2
+715719,2022-11-05,W,World Series,7,143,Philadelphia Phillies,117,Houston Astros,1,4

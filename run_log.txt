@@ -1,0 +1,138 @@
+讀取快取：/MATLAB Drive/Pagerank/mlb_games_2026.csv
+完賽場數（去重、去平手後）：2429
+球隊數：30
+場數檢查：以下球隊不是 162 場（球季未結束或有未補賽）：
+    Baltimore Orioles         161 場
+    New York Yankees          161 場
+
+邊權重：模式 = win；全聯盟主場勝率 h = 0.5286；主場勝 × 0.9459，客場勝 × 1.0607
+
+阻尼矩陣 D = diag(d_i)，d_i = L_i / (L_i + 1 × mean(L))，mean(L) = 80.97
+    d_i 範圍 0.4215 ~ 0.5623，平均 0.4977
+
+權重設定 = win+home，阻尼矩陣 c = 1
+冪迭代：16 次收斂，最後一步 L1 變化量 = 2.52e-13，sum(pr) = 1.000000000000
+特徵向量驗證：max|冪迭代 - eig| = 2.73e-15  → 一致 ✓
+
+馬可夫鏈檢查（狀態數 = 30）：
+    P 列和與 1 的最大偏差 = 6.66e-16，G 列和與 1 的最大偏差 = 6.66e-16
+    沒有出邊（全勝）的球隊數 = 0
+    G 的最小元素 = 0.01459 > 0  → 不可約且非週期，穩態分布唯一
+    P 本身（不加跳轉）不可約：是
+    G = D·P + (I-D)·E 與逐列公式的最大差 = 0.00e+00
+    最大特徵值 = 1.000000000000，第二大 |λ2| = 0.1955（理論上 ≤ max(d_i) = 0.5623，決定收斂速度）
+    穩態驗證 max|πG - π| = 2.18e-15
+矩陣已存檔（列 = 來源/輸家，欄 = 目的/贏家）：/MATLAB Drive/Pagerank/mlb_matrix_A|P|D|G_2026_win_home.csv
+
+PR#  Team                        W    L    Pct     d_i  PageRank    PR名次    勝率名次     差
+------------------------------------------------------------------------------------------
+1    Milwaukee Brewers         103   59  0.636  0.4215   0.03803       1        1     +0
+2    Los Angeles Dodgers       100   62  0.617  0.4337   0.03678       2        2     +0
+3    Tampa Bay Rays             98   64  0.605  0.4415   0.03657       3        3     +0
+4    Atlanta Braves             94   68  0.580  0.4565   0.03621       4        4     +0
+5    New York Yankees           93   68  0.578  0.4565   0.03572       5        5     +0
+6    Chicago Cubs               89   73  0.549  0.4741   0.03543       6        7     +1
+7    San Diego Padres           91   71  0.562  0.4672   0.03503       7        6     -1
+8    Boston Red Sox             87   75  0.537  0.4809   0.03494       8        9     +1
+9    Philadelphia Phillies      88   74  0.543  0.4775   0.03482       9        8     -1
+10   Arizona Diamondbacks       86   76  0.531  0.4842   0.03426      10       10     +0
+11   Pittsburgh Pirates         82   80  0.506  0.4970   0.03389      11       13     +2
+12   Cleveland Guardians        85   77  0.525  0.4874   0.03370      12       11     -1
+13   Chicago White Sox          84   78  0.519  0.4907   0.03350      13       12     -1
+14   Toronto Blue Jays          79   83  0.488  0.5062   0.03315      14       18     +4
+15   Baltimore Orioles          79   82  0.491  0.5032   0.03312      15       17     +2
+16   St. Louis Cardinals        77   85  0.475  0.5122   0.03309      16       19     +3
+17   Houston Astros             81   81  0.500  0.5001   0.03307      17       14     -3
+18   Miami Marlins              80   82  0.494  0.5032   0.03305      18       15     -3
+19   Texas Rangers              80   82  0.494  0.5032   0.03286      19       15     -4
+20   Washington Nationals       77   85  0.475  0.5122   0.03265      20       19     -1
+21   Cincinnati Reds            75   87  0.463  0.5180   0.03253      21       24     +3
+22   New York Mets              74   88  0.457  0.5208   0.03242      22       25     +3
+23   Minnesota Twins            77   85  0.475  0.5122   0.03241      23       19     -4
+24   Detroit Tigers             76   86  0.469  0.5151   0.03223      24       22     -2
+25   Seattle Mariners           76   86  0.469  0.5151   0.03196      25       22     -3
+26   Kansas City Royals         69   93  0.426  0.5346   0.03047      26       26     +0
+27   San Francisco Giants       65   97  0.401  0.5450   0.03035      27       27     +0
+28   Athletics                  64   98  0.395  0.5476   0.02971      28       28     +0
+29   Los Angeles Angels         62  100  0.383  0.5526   0.02948      29       29     +0
+30   Colorado Rockies           58  104  0.358  0.5623   0.02856      30       30     +0
+
+PageRank 與勝率的 Spearman 等級相關 ρ = 0.9757
+排名表已存檔：/MATLAB Drive/Pagerank/mlb_pagerank_2026_win_home.csv
+
+加權方式比較（阻尼矩陣相同，只換邊權重）：
+Setting            rho     vs win   Top 5
+------------------------------------------------------------------
+win             0.9811     1.0000   MIL LAD TB ATL NYY
+margin          0.7740     0.7922   CHC MIL LAD NYY BOS
+log             0.9036     0.9097   MIL CHC LAD NYY TB
+win+home        0.9757     0.9951   MIL LAD TB ATL NYY
+margin+home     0.7747     0.7927   CHC MIL LAD NYY BOS
+log+home        0.9065     0.9132   MIL CHC LAD NYY TB
+（rho = 與勝率的 Spearman 相關；vs win = 與「每勝 1、不分主客場」排名的 Spearman 相關）
+加權方式比較已存檔：/MATLAB Drive/Pagerank/mlb_pagerank_2026_compare.csv
+
+阻尼矩陣敏感度（Spearman ρ 對勝率）：
+    c = 0.25   平均 d = 0.7976   ρ = 0.9439
+    c = 0.5    平均 d = 0.6640   ρ = 0.9711
+    c = 0.75   平均 d = 0.5689   ρ = 0.9737
+    c = 1      平均 d = 0.4977   ρ = 0.9757
+    c = 1.25   平均 d = 0.4425   ρ = 0.9840
+    c = 1.5    平均 d = 0.3983   ρ = 0.9866
+    c = 2      平均 d = 0.3320   ρ = 0.9909
+    c = 3      平均 d = 0.2492   ρ = 0.9929
+    c = 4      平均 d = 0.1994   ρ = 0.9944
+敏感度分析圖已存檔：/MATLAB Drive/Pagerank/mlb_pagerank_2026_win_home_damping.png
+散佈圖已存檔：/MATLAB Drive/Pagerank/mlb_pagerank_2026_win_home_scatter.png
+矩陣熱圖已存檔：/MATLAB Drive/Pagerank/mlb_pagerank_2026_win_home_matrix.png
+馬可夫鏈圖已存檔：/MATLAB Drive/Pagerank/mlb_pagerank_2026_win_home_markov.png
+
+讀取季後賽快取：/MATLAB Drive/Pagerank/mlb_postseason_2026.csv
+
+季後賽系列賽回測（模型只用例行賽資料；阻尼矩陣 c = 1，權重 = win+home）
+Series                   A vs B       P1(A)   PS(A)  PageRank   WinPct     Actual     PR / Pct
+--------------------------------------------------------------------------------------------------
+AL Wild Card Series      BOS-NYY      0.494   0.492  NYY 2-0    NYY 2-0    NYY 2-0    o / o
+NL Wild Card Series      CHC-SD       0.503   0.504  CHC 2-0    SD 2-0     SD 2-0     x / o
+AL Wild Card Series      HOU-CWS      0.497   0.495  CWS 2-0    CWS 2-0    CWS 2-0    o / o
+NL Wild Card Series      PHI-ATL      0.490   0.485  ATL 2-0    ATL 2-0    ATL 2-1    o / o
+AL Division Series       CLE-CWS      0.502   0.503  CLE 3-1    CLE 3-1    CLE 3-2    o / o
+NL Division Series       LAD-ATL      0.504   0.507  LAD 3-1    LAD 3-1    LAD 3-1    o / o
+NL Division Series       SD-MIL       0.479   0.462  MIL 3-1    MIL 3-1    MIL 3-1    o / o
+AL Division Series       TB-NYY       0.506   0.511  TB 3-1     TB 3-1     TB 3-0     o / o
+AL Championship Series   CLE-TB       0.480   0.455  TB 4-2     TB 4-2     TB 4-2     o / o
+NL Championship Series   LAD-MIL      0.492   0.482  MIL 4-2    MIL 4-2    MIL 4-0    o / o
+World Series             TB-MIL       0.490   0.479  MIL 4-2    MIL 4-2    MIL 4-1    o / o
+（P1(A) = A 隊單場勝率，PS(A) = A 隊贏下系列賽的機率，皆為 PageRank 模型；o = 猜中晉級隊）
+晉級隊命中：PageRank 10 / 11，勝率模型 11 / 11
+場數比分也命中：PageRank 5 / 11，勝率模型 6 / 11
+系列賽預測已存檔：/MATLAB Drive/Pagerank/mlb_playoff_series_2026_win_home.csv
+
+各種加權設定的季後賽晉級隊命中數：
+    win           10 / 11
+    margin        8 / 11
+    log           8 / 11
+    win+home      10 / 11
+    margin+home   8 / 11
+    log+home      8 / 11
+
+奪冠機率回測（季後賽開打前、依實際對戰樹計算；機率總和 = 1.000000）
+Team                        W    L    PR#   PageRank     WinPct       Coin
+----------------------------------------------------------------------------
+Milwaukee Brewers         103   59      1      15.5%      25.1%      12.5%  <== 實際冠軍
+Tampa Bay Rays             98   64      3      14.2%      19.8%      12.5%
+Los Angeles Dodgers       100   62      2      13.7%      19.2%      12.5%
+Cleveland Guardians        85   77     12      10.7%       6.2%      12.5%
+Atlanta Braves             94   68      4       6.5%       5.6%       6.2%
+New York Yankees           93   68      5       6.5%       6.8%       6.2%
+Boston Red Sox             87   75      8       5.9%       3.1%       6.2%
+Chicago Cubs               89   73      6       5.9%       3.0%       6.2%
+San Diego Padres           91   71      7       5.6%       3.9%       6.2%
+Philadelphia Phillies      88   74      9       5.4%       2.6%       6.2%
+Chicago White Sox          84   78     13       5.3%       2.8%       6.2%
+Houston Astros             81   81     17       4.9%       1.9%       6.2%
+實際冠軍 MIL：PageRank 模型給的奪冠機率 15.5%，在 12 支季後賽球隊中排第 1
+實際冠軍 MIL：WinPct 模型給的奪冠機率 25.1%，在 12 支季後賽球隊中排第 1
+實際冠軍 MIL：Coin 模型給的奪冠機率 12.5%，在 12 支季後賽球隊中排第 1
+奪冠機率已存檔：/MATLAB Drive/Pagerank/mlb_playoff_champion_2026_win_home.csv
+奪冠機率圖已存檔：/MATLAB Drive/Pagerank/mlb_pagerank_2026_win_home_playoff.png

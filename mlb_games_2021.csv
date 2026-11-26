@@ -1,0 +1,2430 @@
+gamePk,date,away_id,away_abbr,away_name,home_id,home_abbr,home_name,away_score,home_score
+634615,2021-04-01,119,LAD,Los Angeles Dodgers,115,COL,Colorado Rockies,5,8
+634618,2021-04-01,109,AZ,Arizona Diamondbacks,135,SD,San Diego Padres,7,8
+634622,2021-04-01,144,ATL,Atlanta Braves,143,PHI,Philadelphia Phillies,2,3
+634625,2021-04-01,137,SF,San Francisco Giants,136,SEA,Seattle Mariners,7,8
+634630,2021-04-01,140,TEX,Texas Rangers,118,KC,Kansas City Royals,10,14
+634634,2021-04-01,134,PIT,Pittsburgh Pirates,112,CHC,Chicago Cubs,5,3
+634636,2021-04-01,138,STL,St. Louis Cardinals,113,CIN,Cincinnati Reds,11,6
+634638,2021-04-01,142,MIN,Minnesota Twins,158,MIL,Milwaukee Brewers,5,6
+634640,2021-04-01,117,HOU,Houston Astros,133,OAK,Oakland Athletics,8,1
+634642,2021-04-01,141,TOR,Toronto Blue Jays,147,NYY,New York Yankees,3,2
+634645,2021-04-01,114,CLE,Cleveland Indians,116,DET,Detroit Tigers,2,3
+634652,2021-04-01,139,TB,Tampa Bay Rays,146,MIA,Miami Marlins,1,0
+634655,2021-04-01,145,CWS,Chicago White Sox,108,LAA,Los Angeles Angels,3,4
+634576,2021-04-02,109,AZ,Arizona Diamondbacks,135,SD,San Diego Padres,2,4
+634578,2021-04-02,137,SF,San Francisco Giants,136,SEA,Seattle Mariners,6,3
+634602,2021-04-02,139,TB,Tampa Bay Rays,146,MIA,Miami Marlins,6,4
+634605,2021-04-02,117,HOU,Houston Astros,133,OAK,Oakland Athletics,9,5
+634627,2021-04-02,110,BAL,Baltimore Orioles,111,BOS,Boston Red Sox,3,0
+634631,2021-04-02,145,CWS,Chicago White Sox,108,LAA,Los Angeles Angels,12,8
+634653,2021-04-02,119,LAD,Los Angeles Dodgers,115,COL,Colorado Rockies,11,6
+634573,2021-04-03,114,CLE,Cleveland Indians,116,DET,Detroit Tigers,2,5
+634575,2021-04-03,142,MIN,Minnesota Twins,158,MIL,Milwaukee Brewers,2,0
+634577,2021-04-03,110,BAL,Baltimore Orioles,111,BOS,Boston Red Sox,4,2
+634580,2021-04-03,144,ATL,Atlanta Braves,143,PHI,Philadelphia Phillies,0,4
+634596,2021-04-03,139,TB,Tampa Bay Rays,146,MIA,Miami Marlins,7,12
+634604,2021-04-03,140,TEX,Texas Rangers,118,KC,Kansas City Royals,4,11
+634623,2021-04-03,109,AZ,Arizona Diamondbacks,135,SD,San Diego Padres,0,7
+634629,2021-04-03,117,HOU,Houston Astros,133,OAK,Oakland Athletics,9,1
+634633,2021-04-03,119,LAD,Los Angeles Dodgers,115,COL,Colorado Rockies,6,5
+634639,2021-04-03,137,SF,San Francisco Giants,136,SEA,Seattle Mariners,0,4
+634643,2021-04-03,134,PIT,Pittsburgh Pirates,112,CHC,Chicago Cubs,1,5
+634644,2021-04-03,141,TOR,Toronto Blue Jays,147,NYY,New York Yankees,3,5
+634646,2021-04-03,145,CWS,Chicago White Sox,108,LAA,Los Angeles Angels,3,5
+634654,2021-04-03,138,STL,St. Louis Cardinals,113,CIN,Cincinnati Reds,6,9
+634557,2021-04-04,119,LAD,Los Angeles Dodgers,115,COL,Colorado Rockies,4,2
+634560,2021-04-04,138,STL,St. Louis Cardinals,113,CIN,Cincinnati Reds,1,12
+634572,2021-04-04,109,AZ,Arizona Diamondbacks,135,SD,San Diego Padres,3,1
+634593,2021-04-04,140,TEX,Texas Rangers,118,KC,Kansas City Royals,7,3
+634597,2021-04-04,142,MIN,Minnesota Twins,158,MIL,Milwaukee Brewers,8,2
+634607,2021-04-04,141,TOR,Toronto Blue Jays,147,NYY,New York Yankees,3,1
+634610,2021-04-04,110,BAL,Baltimore Orioles,111,BOS,Boston Red Sox,11,3
+634611,2021-04-04,114,CLE,Cleveland Indians,116,DET,Detroit Tigers,9,3
+634613,2021-04-04,134,PIT,Pittsburgh Pirates,112,CHC,Chicago Cubs,3,4
+634617,2021-04-04,144,ATL,Atlanta Braves,143,PHI,Philadelphia Phillies,1,2
+634637,2021-04-04,145,CWS,Chicago White Sox,108,LAA,Los Angeles Angels,4,7
+634651,2021-04-04,117,HOU,Houston Astros,133,OAK,Oakland Athletics,9,2
+634551,2021-04-05,145,CWS,Chicago White Sox,136,SEA,Seattle Mariners,6,0
+634552,2021-04-05,117,HOU,Houston Astros,108,LAA,Los Angeles Angels,6,7
+634558,2021-04-05,134,PIT,Pittsburgh Pirates,113,CIN,Cincinnati Reds,3,5
+634562,2021-04-05,138,STL,St. Louis Cardinals,146,MIA,Miami Marlins,4,1
+634566,2021-04-05,158,MIL,Milwaukee Brewers,112,CHC,Chicago Cubs,3,5
+634587,2021-04-05,110,BAL,Baltimore Orioles,147,NYY,New York Yankees,0,7
+634588,2021-04-05,142,MIN,Minnesota Twins,116,DET,Detroit Tigers,15,6
+634591,2021-04-05,137,SF,San Francisco Giants,135,SD,San Diego Padres,3,2
+634600,2021-04-05,119,LAD,Los Angeles Dodgers,133,OAK,Oakland Athletics,10,3
+634601,2021-04-05,139,TB,Tampa Bay Rays,111,BOS,Boston Red Sox,2,11
+634606,2021-04-05,121,NYM,New York Mets,143,PHI,Philadelphia Phillies,3,5
+634612,2021-04-05,141,TOR,Toronto Blue Jays,140,TEX,Texas Rangers,6,2
+634616,2021-04-05,118,KC,Kansas City Royals,114,CLE,Cleveland Indians,3,0
+634529,2021-04-06,137,SF,San Francisco Giants,135,SD,San Diego Padres,1,3
+634530,2021-04-06,134,PIT,Pittsburgh Pirates,113,CIN,Cincinnati Reds,1,14
+634559,2021-04-06,158,MIL,Milwaukee Brewers,112,CHC,Chicago Cubs,4,0
+634586,2021-04-06,117,HOU,Houston Astros,108,LAA,Los Angeles Angels,4,2
+634590,2021-04-06,139,TB,Tampa Bay Rays,111,BOS,Boston Red Sox,5,6
+634594,2021-04-06,138,STL,St. Louis Cardinals,146,MIA,Miami Marlins,4,2
+634599,2021-04-06,110,BAL,Baltimore Orioles,147,NYY,New York Yankees,2,7
+634603,2021-04-06,142,MIN,Minnesota Twins,116,DET,Detroit Tigers,3,4
+634608,2021-04-06,121,NYM,New York Mets,143,PHI,Philadelphia Phillies,8,4
+634609,2021-04-06,145,CWS,Chicago White Sox,136,SEA,Seattle Mariners,10,4
+634619,2021-04-06,109,AZ,Arizona Diamondbacks,115,COL,Colorado Rockies,10,8
+634624,2021-04-06,144,ATL,Atlanta Braves,120,WSH,Washington Nationals,5,6
+634628,2021-04-06,119,LAD,Los Angeles Dodgers,133,OAK,Oakland Athletics,5,1
+634635,2021-04-06,141,TOR,Toronto Blue Jays,140,TEX,Texas Rangers,4,7
+634527,2021-04-07,144,ATL,Atlanta Braves,120,WSH,Washington Nationals,7,6
+634539,2021-04-07,110,BAL,Baltimore Orioles,147,NYY,New York Yankees,4,3
+634542,2021-04-07,109,AZ,Arizona Diamondbacks,115,COL,Colorado Rockies,0,8
+634549,2021-04-07,158,MIL,Milwaukee Brewers,112,CHC,Chicago Cubs,4,2
+634563,2021-04-07,137,SF,San Francisco Giants,135,SD,San Diego Padres,3,2
+634567,2021-04-07,119,LAD,Los Angeles Dodgers,133,OAK,Oakland Athletics,3,4
+634570,2021-04-07,134,PIT,Pittsburgh Pirates,113,CIN,Cincinnati Reds,4,11
+634583,2021-04-07,141,TOR,Toronto Blue Jays,140,TEX,Texas Rangers,1,2
+634585,2021-04-07,138,STL,St. Louis Cardinals,146,MIA,Miami Marlins,7,0
+634589,2021-04-07,118,KC,Kansas City Royals,114,CLE,Cleveland Indians,2,4
+634592,2021-04-07,145,CWS,Chicago White Sox,136,SEA,Seattle Mariners,4,8
+634595,2021-04-07,144,ATL,Atlanta Braves,120,WSH,Washington Nationals,2,0
+634598,2021-04-07,142,MIN,Minnesota Twins,116,DET,Detroit Tigers,3,2
+634626,2021-04-07,121,NYM,New York Mets,143,PHI,Philadelphia Phillies,2,8
+634641,2021-04-07,139,TB,Tampa Bay Rays,111,BOS,Boston Red Sox,2,9
+634544,2021-04-08,111,BOS,Boston Red Sox,110,BAL,Baltimore Orioles,7,3
+634545,2021-04-08,108,LAA,Los Angeles Angels,141,TOR,Toronto Blue Jays,7,5
+634546,2021-04-08,133,OAK,Oakland Athletics,117,HOU,Houston Astros,2,6
+634550,2021-04-08,136,SEA,Seattle Mariners,142,MIN,Minnesota Twins,2,10
+634555,2021-04-08,112,CHC,Chicago Cubs,134,PIT,Pittsburgh Pirates,4,2
+634564,2021-04-08,109,AZ,Arizona Diamondbacks,115,COL,Colorado Rockies,3,7
+634565,2021-04-08,118,KC,Kansas City Royals,145,CWS,Chicago White Sox,0,6
+634568,2021-04-08,158,MIL,Milwaukee Brewers,138,STL,St. Louis Cardinals,1,3
+634584,2021-04-08,146,MIA,Miami Marlins,121,NYM,New York Mets,2,3
+634478,2021-04-09,135,SD,San Diego Padres,140,TEX,Texas Rangers,3,0
+634494,2021-04-09,115,COL,Colorado Rockies,137,SF,San Francisco Giants,1,3
+634499,2021-04-09,147,NYY,New York Yankees,139,TB,Tampa Bay Rays,5,10
+634505,2021-04-09,116,DET,Detroit Tigers,114,CLE,Cleveland Indians,1,4
+634512,2021-04-09,108,LAA,Los Angeles Angels,141,TOR,Toronto Blue Jays,7,1
+634533,2021-04-09,120,WSH,Washington Nationals,119,LAD,Los Angeles Dodgers,0,1
+634534,2021-04-09,143,PHI,Philadelphia Phillies,144,ATL,Atlanta Braves,1,8
+634537,2021-04-09,133,OAK,Oakland Athletics,117,HOU,Houston Astros,6,2
+634540,2021-04-09,113,CIN,Cincinnati Reds,109,AZ,Arizona Diamondbacks,6,5
+632169,2021-04-10,115,COL,Colorado Rockies,137,SF,San Francisco Giants,3,4
+632191,2021-04-10,120,WSH,Washington Nationals,119,LAD,Los Angeles Dodgers,5,9
+632193,2021-04-10,135,SD,San Diego Padres,140,TEX,Texas Rangers,7,4
+632195,2021-04-10,112,CHC,Chicago Cubs,134,PIT,Pittsburgh Pirates,2,8
+632201,2021-04-10,146,MIA,Miami Marlins,121,NYM,New York Mets,3,0
+632202,2021-04-10,133,OAK,Oakland Athletics,117,HOU,Houston Astros,7,3
+632205,2021-04-10,136,SEA,Seattle Mariners,142,MIN,Minnesota Twins,4,3
+632217,2021-04-10,147,NYY,New York Yankees,139,TB,Tampa Bay Rays,0,4
+632218,2021-04-10,116,DET,Detroit Tigers,114,CLE,Cleveland Indians,3,11
+632222,2021-04-10,158,MIL,Milwaukee Brewers,138,STL,St. Louis Cardinals,9,5
+632227,2021-04-10,108,LAA,Los Angeles Angels,141,TOR,Toronto Blue Jays,1,15
+634484,2021-04-10,113,CIN,Cincinnati Reds,109,AZ,Arizona Diamondbacks,3,8
+634491,2021-04-10,111,BOS,Boston Red Sox,110,BAL,Baltimore Orioles,6,4
+634524,2021-04-10,143,PHI,Philadelphia Phillies,144,ATL,Atlanta Braves,4,5
+632170,2021-04-11,118,KC,Kansas City Royals,145,CWS,Chicago White Sox,4,3
+632188,2021-04-11,115,COL,Colorado Rockies,137,SF,San Francisco Giants,0,4
+632192,2021-04-11,146,MIA,Miami Marlins,121,NYM,New York Mets,5,6
+632196,2021-04-11,158,MIL,Milwaukee Brewers,138,STL,St. Louis Cardinals,9,3
+632200,2021-04-11,111,BOS,Boston Red Sox,110,BAL,Baltimore Orioles,14,9
+632207,2021-04-11,143,PHI,Philadelphia Phillies,144,ATL,Atlanta Braves,7,6
+632209,2021-04-11,113,CIN,Cincinnati Reds,109,AZ,Arizona Diamondbacks,0,7
+632214,2021-04-11,120,WSH,Washington Nationals,119,LAD,Los Angeles Dodgers,0,3
+632215,2021-04-11,136,SEA,Seattle Mariners,142,MIN,Minnesota Twins,8,6
+632225,2021-04-11,112,CHC,Chicago Cubs,134,PIT,Pittsburgh Pirates,1,7
+632228,2021-04-11,116,DET,Detroit Tigers,114,CLE,Cleveland Indians,2,5
+632232,2021-04-11,147,NYY,New York Yankees,139,TB,Tampa Bay Rays,8,4
+632233,2021-04-11,135,SD,San Diego Padres,140,TEX,Texas Rangers,2,0
+632197,2021-04-12,108,LAA,Los Angeles Angels,118,KC,Kansas City Royals,10,3
+632198,2021-04-12,135,SD,San Diego Padres,134,PIT,Pittsburgh Pirates,6,2
+632203,2021-04-12,147,NYY,New York Yankees,141,TOR,Toronto Blue Jays,3,1
+632204,2021-04-12,140,TEX,Texas Rangers,139,TB,Tampa Bay Rays,0,1
+632216,2021-04-12,114,CLE,Cleveland Indians,145,CWS,Chicago White Sox,3,4
+632219,2021-04-12,146,MIA,Miami Marlins,144,ATL,Atlanta Braves,5,3
+632220,2021-04-12,116,DET,Detroit Tigers,117,HOU,Houston Astros,6,2
+632221,2021-04-12,112,CHC,Chicago Cubs,158,MIL,Milwaukee Brewers,3,6
+632230,2021-04-12,120,WSH,Washington Nationals,138,STL,St. Louis Cardinals,5,2
+632231,2021-04-12,133,OAK,Oakland Athletics,109,AZ,Arizona Diamondbacks,9,5
+634648,2021-04-12,113,CIN,Cincinnati Reds,137,SF,San Francisco Giants,3,0
+632189,2021-04-13,143,PHI,Philadelphia Phillies,121,NYM,New York Mets,3,4
+632190,2021-04-13,111,BOS,Boston Red Sox,142,MIN,Minnesota Twins,4,2
+632194,2021-04-13,112,CHC,Chicago Cubs,158,MIL,Milwaukee Brewers,3,2
+632199,2021-04-13,114,CLE,Cleveland Indians,145,CWS,Chicago White Sox,2,0
+632206,2021-04-13,133,OAK,Oakland Athletics,109,AZ,Arizona Diamondbacks,7,5
+632210,2021-04-13,108,LAA,Los Angeles Angels,118,KC,Kansas City Royals,2,3
+632211,2021-04-13,146,MIA,Miami Marlins,144,ATL,Atlanta Braves,14,8
+632212,2021-04-13,115,COL,Colorado Rockies,119,LAD,Los Angeles Dodgers,0,7
+632213,2021-04-13,136,SEA,Seattle Mariners,110,BAL,Baltimore Orioles,4,3
+632224,2021-04-13,136,SEA,Seattle Mariners,110,BAL,Baltimore Orioles,6,7
+632226,2021-04-13,143,PHI,Philadelphia Phillies,121,NYM,New York Mets,0,4
+632229,2021-04-13,116,DET,Detroit Tigers,117,HOU,Houston Astros,8,2
+634489,2021-04-13,140,TEX,Texas Rangers,139,TB,Tampa Bay Rays,8,3
+634502,2021-04-13,120,WSH,Washington Nationals,138,STL,St. Louis Cardinals,3,14
+634510,2021-04-13,113,CIN,Cincinnati Reds,137,SF,San Francisco Giants,6,7
+634535,2021-04-13,135,SD,San Diego Padres,134,PIT,Pittsburgh Pirates,4,8
+634569,2021-04-13,147,NYY,New York Yankees,141,TOR,Toronto Blue Jays,3,7
+632223,2021-04-14,111,BOS,Boston Red Sox,142,MIN,Minnesota Twins,7,1
+634495,2021-04-14,108,LAA,Los Angeles Angels,118,KC,Kansas City Royals,1,6
+634496,2021-04-14,140,TEX,Texas Rangers,139,TB,Tampa Bay Rays,5,1
+634513,2021-04-14,147,NYY,New York Yankees,141,TOR,Toronto Blue Jays,4,5
+634516,2021-04-14,114,CLE,Cleveland Indians,145,CWS,Chicago White Sox,0,8
+634521,2021-04-14,116,DET,Detroit Tigers,117,HOU,Houston Astros,6,4
+634523,2021-04-14,135,SD,San Diego Padres,134,PIT,Pittsburgh Pirates,1,5
+634528,2021-04-14,143,PHI,Philadelphia Phillies,121,NYM,New York Mets,1,5
+634541,2021-04-14,120,WSH,Washington Nationals,138,STL,St. Louis Cardinals,6,0
+634553,2021-04-14,112,CHC,Chicago Cubs,158,MIL,Milwaukee Brewers,0,7
+634574,2021-04-14,111,BOS,Boston Red Sox,142,MIN,Minnesota Twins,3,2
+634581,2021-04-14,146,MIA,Miami Marlins,144,ATL,Atlanta Braves,6,5
+634582,2021-04-14,113,CIN,Cincinnati Reds,137,SF,San Francisco Giants,0,3
+634614,2021-04-14,115,COL,Colorado Rockies,119,LAD,Los Angeles Dodgers,2,4
+634472,2021-04-15,136,SEA,Seattle Mariners,110,BAL,Baltimore Orioles,2,1
+634475,2021-04-15,141,TOR,Toronto Blue Jays,118,KC,Kansas City Royals,5,7
+634481,2021-04-15,109,AZ,Arizona Diamondbacks,120,WSH,Washington Nationals,11,6
+634501,2021-04-15,114,CLE,Cleveland Indians,145,CWS,Chicago White Sox,4,2
+634522,2021-04-15,140,TEX,Texas Rangers,139,TB,Tampa Bay Rays,6,4
+634547,2021-04-15,115,COL,Colorado Rockies,119,LAD,Los Angeles Dodgers,5,7
+634554,2021-04-15,111,BOS,Boston Red Sox,142,MIN,Minnesota Twins,3,4
+634571,2021-04-15,136,SEA,Seattle Mariners,110,BAL,Baltimore Orioles,4,2
+634579,2021-04-15,146,MIA,Miami Marlins,144,ATL,Atlanta Braves,6,7
+634621,2021-04-15,135,SD,San Diego Padres,134,PIT,Pittsburgh Pirates,8,3
+634632,2021-04-15,116,DET,Detroit Tigers,133,OAK,Oakland Athletics,4,8
+634463,2021-04-16,110,BAL,Baltimore Orioles,140,TEX,Texas Rangers,5,2
+634464,2021-04-16,139,TB,Tampa Bay Rays,147,NYY,New York Yankees,8,2
+634469,2021-04-16,109,AZ,Arizona Diamondbacks,120,WSH,Washington Nationals,0,1
+634474,2021-04-16,138,STL,St. Louis Cardinals,143,PHI,Philadelphia Phillies,2,9
+634482,2021-04-16,114,CLE,Cleveland Indians,113,CIN,Cincinnati Reds,3,10
+634483,2021-04-16,134,PIT,Pittsburgh Pirates,158,MIL,Milwaukee Brewers,6,1
+634517,2021-04-16,117,HOU,Houston Astros,136,SEA,Seattle Mariners,5,6
+634519,2021-04-16,137,SF,San Francisco Giants,146,MIA,Miami Marlins,1,4
+634525,2021-04-16,116,DET,Detroit Tigers,133,OAK,Oakland Athletics,0,3
+634526,2021-04-16,142,MIN,Minnesota Twins,108,LAA,Los Angeles Angels,3,10
+634531,2021-04-16,119,LAD,Los Angeles Dodgers,135,SD,San Diego Padres,11,6
+634548,2021-04-16,144,ATL,Atlanta Braves,112,CHC,Chicago Cubs,5,2
+634447,2021-04-17,117,HOU,Houston Astros,136,SEA,Seattle Mariners,1,0
+634449,2021-04-17,119,LAD,Los Angeles Dodgers,135,SD,San Diego Padres,2,0
+634450,2021-04-17,137,SF,San Francisco Giants,146,MIA,Miami Marlins,6,7
+634460,2021-04-17,114,CLE,Cleveland Indians,113,CIN,Cincinnati Reds,2,3
+634462,2021-04-17,144,ATL,Atlanta Braves,112,CHC,Chicago Cubs,4,13
+634470,2021-04-17,138,STL,St. Louis Cardinals,143,PHI,Philadelphia Phillies,9,4
+634471,2021-04-17,145,CWS,Chicago White Sox,111,BOS,Boston Red Sox,4,7
+634473,2021-04-17,134,PIT,Pittsburgh Pirates,158,MIL,Milwaukee Brewers,1,7
+634477,2021-04-17,141,TOR,Toronto Blue Jays,118,KC,Kansas City Royals,5,1
+634479,2021-04-17,116,DET,Detroit Tigers,133,OAK,Oakland Athletics,0,7
+634485,2021-04-17,121,NYM,New York Mets,115,COL,Colorado Rockies,4,3
+634500,2021-04-17,139,TB,Tampa Bay Rays,147,NYY,New York Yankees,6,3
+634507,2021-04-17,109,AZ,Arizona Diamondbacks,120,WSH,Washington Nationals,2,6
+634520,2021-04-17,141,TOR,Toronto Blue Jays,118,KC,Kansas City Royals,2,3
+634543,2021-04-17,110,BAL,Baltimore Orioles,140,TEX,Texas Rangers,6,1
+634561,2021-04-17,121,NYM,New York Mets,115,COL,Colorado Rockies,2,7
+634425,2021-04-18,137,SF,San Francisco Giants,146,MIA,Miami Marlins,1,0
+634442,2021-04-18,141,TOR,Toronto Blue Jays,118,KC,Kansas City Royals,0,2
+634455,2021-04-18,134,PIT,Pittsburgh Pirates,158,MIL,Milwaukee Brewers,6,5
+634458,2021-04-18,139,TB,Tampa Bay Rays,147,NYY,New York Yankees,4,2
+634468,2021-04-18,121,NYM,New York Mets,115,COL,Colorado Rockies,2,1
+634480,2021-04-18,116,DET,Detroit Tigers,133,OAK,Oakland Athletics,2,3
+634487,2021-04-18,114,CLE,Cleveland Indians,113,CIN,Cincinnati Reds,6,3
+634488,2021-04-18,119,LAD,Los Angeles Dodgers,135,SD,San Diego Padres,2,5
+634493,2021-04-18,109,AZ,Arizona Diamondbacks,120,WSH,Washington Nationals,5,2
+634498,2021-04-18,138,STL,St. Louis Cardinals,143,PHI,Philadelphia Phillies,0,2
+634506,2021-04-18,144,ATL,Atlanta Braves,112,CHC,Chicago Cubs,13,4
+634511,2021-04-18,110,BAL,Baltimore Orioles,140,TEX,Texas Rangers,0,1
+634518,2021-04-18,145,CWS,Chicago White Sox,111,BOS,Boston Red Sox,5,1
+634532,2021-04-18,145,CWS,Chicago White Sox,111,BOS,Boston Red Sox,3,2
+634538,2021-04-18,117,HOU,Houston Astros,136,SEA,Seattle Mariners,2,7
+634396,2021-04-19,139,TB,Tampa Bay Rays,118,KC,Kansas City Royals,4,1
+634399,2021-04-19,158,MIL,Milwaukee Brewers,135,SD,San Diego Padres,3,1
+634421,2021-04-19,119,LAD,Los Angeles Dodgers,136,SEA,Seattle Mariners,3,4
+634431,2021-04-19,138,STL,St. Louis Cardinals,120,WSH,Washington Nationals,12,5
+634445,2021-04-19,145,CWS,Chicago White Sox,111,BOS,Boston Red Sox,4,11
+634457,2021-04-19,137,SF,San Francisco Giants,143,PHI,Philadelphia Phillies,2,0
+634536,2021-04-19,140,TEX,Texas Rangers,108,LAA,Los Angeles Angels,6,4
+634392,2021-04-20,158,MIL,Milwaukee Brewers,135,SD,San Diego Padres,6,0
+634397,2021-04-20,145,CWS,Chicago White Sox,114,CLE,Cleveland Indians,8,5
+634398,2021-04-20,140,TEX,Texas Rangers,108,LAA,Los Angeles Angels,2,6
+634406,2021-04-20,117,HOU,Houston Astros,115,COL,Colorado Rockies,2,6
+634407,2021-04-20,139,TB,Tampa Bay Rays,118,KC,Kansas City Royals,14,7
+634408,2021-04-20,109,AZ,Arizona Diamondbacks,113,CIN,Cincinnati Reds,5,4
+634409,2021-04-20,141,TOR,Toronto Blue Jays,111,BOS,Boston Red Sox,2,4
+634411,2021-04-20,121,NYM,New York Mets,112,CHC,Chicago Cubs,1,3
+634417,2021-04-20,119,LAD,Los Angeles Dodgers,136,SEA,Seattle Mariners,1,0
+634422,2021-04-20,144,ATL,Atlanta Braves,147,NYY,New York Yankees,1,3
+634427,2021-04-20,110,BAL,Baltimore Orioles,146,MIA,Miami Marlins,7,5
+634439,2021-04-20,137,SF,San Francisco Giants,143,PHI,Philadelphia Phillies,10,7
+634466,2021-04-20,142,MIN,Minnesota Twins,133,OAK,Oakland Athletics,0,1
+634490,2021-04-20,142,MIN,Minnesota Twins,133,OAK,Oakland Athletics,0,7
+634509,2021-04-20,138,STL,St. Louis Cardinals,120,WSH,Washington Nationals,2,3
+634390,2021-04-21,134,PIT,Pittsburgh Pirates,116,DET,Detroit Tigers,3,2
+634405,2021-04-21,138,STL,St. Louis Cardinals,120,WSH,Washington Nationals,0,1
+634423,2021-04-21,134,PIT,Pittsburgh Pirates,116,DET,Detroit Tigers,2,5
+634424,2021-04-21,117,HOU,Houston Astros,115,COL,Colorado Rockies,3,6
+634428,2021-04-21,137,SF,San Francisco Giants,143,PHI,Philadelphia Phillies,5,6
+634430,2021-04-21,140,TEX,Texas Rangers,108,LAA,Los Angeles Angels,7,4
+634440,2021-04-21,142,MIN,Minnesota Twins,133,OAK,Oakland Athletics,12,13
+634444,2021-04-21,109,AZ,Arizona Diamondbacks,113,CIN,Cincinnati Reds,8,5
+634446,2021-04-21,139,TB,Tampa Bay Rays,118,KC,Kansas City Royals,8,9
+634453,2021-04-21,121,NYM,New York Mets,112,CHC,Chicago Cubs,4,16
+634459,2021-04-21,141,TOR,Toronto Blue Jays,111,BOS,Boston Red Sox,6,3
+634476,2021-04-21,158,MIL,Milwaukee Brewers,135,SD,San Diego Padres,4,2
+634497,2021-04-21,110,BAL,Baltimore Orioles,146,MIA,Miami Marlins,0,3
+634504,2021-04-21,144,ATL,Atlanta Braves,147,NYY,New York Yankees,4,1
+634419,2021-04-22,121,NYM,New York Mets,112,CHC,Chicago Cubs,3,4
+634420,2021-04-22,135,SD,San Diego Padres,119,LAD,Los Angeles Dodgers,3,2
+634432,2021-04-22,146,MIA,Miami Marlins,137,SF,San Francisco Giants,0,3
+634436,2021-04-22,147,NYY,New York Yankees,114,CLE,Cleveland Indians,6,3
+634438,2021-04-22,108,LAA,Los Angeles Angels,117,HOU,Houston Astros,2,8
+634492,2021-04-22,134,PIT,Pittsburgh Pirates,116,DET,Detroit Tigers,4,2
+634508,2021-04-22,136,SEA,Seattle Mariners,111,BOS,Boston Red Sox,7,3
+634514,2021-04-22,109,AZ,Arizona Diamondbacks,113,CIN,Cincinnati Reds,14,11
+634369,2021-04-23,146,MIA,Miami Marlins,137,SF,San Francisco Giants,3,5
+634370,2021-04-23,135,SD,San Diego Padres,119,LAD,Los Angeles Dodgers,6,1
+634378,2021-04-23,113,CIN,Cincinnati Reds,138,STL,St. Louis Cardinals,4,5
+634383,2021-04-23,108,LAA,Los Angeles Angels,117,HOU,Houston Astros,4,5
+634386,2021-04-23,136,SEA,Seattle Mariners,111,BOS,Boston Red Sox,5,6
+634389,2021-04-23,133,OAK,Oakland Athletics,110,BAL,Baltimore Orioles,3,1
+634401,2021-04-23,143,PHI,Philadelphia Phillies,115,COL,Colorado Rockies,4,5
+634412,2021-04-23,118,KC,Kansas City Royals,116,DET,Detroit Tigers,6,2
+634413,2021-04-23,141,TOR,Toronto Blue Jays,139,TB,Tampa Bay Rays,5,3
+634415,2021-04-23,109,AZ,Arizona Diamondbacks,144,ATL,Atlanta Braves,4,5
+634426,2021-04-23,158,MIL,Milwaukee Brewers,112,CHC,Chicago Cubs,2,15
+634429,2021-04-23,120,WSH,Washington Nationals,121,NYM,New York Mets,0,6
+634434,2021-04-23,134,PIT,Pittsburgh Pirates,142,MIN,Minnesota Twins,0,2
+634435,2021-04-23,140,TEX,Texas Rangers,145,CWS,Chicago White Sox,7,9
+634437,2021-04-23,147,NYY,New York Yankees,114,CLE,Cleveland Indians,5,3
+634358,2021-04-24,141,TOR,Toronto Blue Jays,139,TB,Tampa Bay Rays,3,5
+634361,2021-04-24,135,SD,San Diego Padres,119,LAD,Los Angeles Dodgers,4,5
+634366,2021-04-24,108,LAA,Los Angeles Angels,117,HOU,Houston Astros,2,16
+634367,2021-04-24,133,OAK,Oakland Athletics,110,BAL,Baltimore Orioles,7,2
+634373,2021-04-24,136,SEA,Seattle Mariners,111,BOS,Boston Red Sox,8,2
+634375,2021-04-24,118,KC,Kansas City Royals,116,DET,Detroit Tigers,2,1
+634384,2021-04-24,140,TEX,Texas Rangers,145,CWS,Chicago White Sox,1,2
+634395,2021-04-24,113,CIN,Cincinnati Reds,138,STL,St. Louis Cardinals,0,2
+634416,2021-04-24,158,MIL,Milwaukee Brewers,112,CHC,Chicago Cubs,4,3
+634418,2021-04-24,143,PHI,Philadelphia Phillies,115,COL,Colorado Rockies,7,5
+634443,2021-04-24,120,WSH,Washington Nationals,121,NYM,New York Mets,7,1
+634467,2021-04-24,134,PIT,Pittsburgh Pirates,142,MIN,Minnesota Twins,6,2
+634486,2021-04-24,147,NYY,New York Yankees,114,CLE,Cleveland Indians,2,1
+634503,2021-04-24,146,MIA,Miami Marlins,137,SF,San Francisco Giants,5,2
+634342,2021-04-25,146,MIA,Miami Marlins,137,SF,San Francisco Giants,3,4
+634344,2021-04-25,120,WSH,Washington Nationals,121,NYM,New York Mets,0,4
+634349,2021-04-25,134,PIT,Pittsburgh Pirates,142,MIN,Minnesota Twins,6,2
+634355,2021-04-25,136,SEA,Seattle Mariners,111,BOS,Boston Red Sox,3,5
+634356,2021-04-25,135,SD,San Diego Padres,119,LAD,Los Angeles Dodgers,8,7
+634372,2021-04-25,147,NYY,New York Yankees,114,CLE,Cleveland Indians,3,7
+634376,2021-04-25,141,TOR,Toronto Blue Jays,139,TB,Tampa Bay Rays,1,0
+634380,2021-04-25,109,AZ,Arizona Diamondbacks,144,ATL,Atlanta Braves,7,0
+634388,2021-04-25,143,PHI,Philadelphia Phillies,115,COL,Colorado Rockies,2,12
+634393,2021-04-25,140,TEX,Texas Rangers,145,CWS,Chicago White Sox,4,8
+634400,2021-04-25,158,MIL,Milwaukee Brewers,112,CHC,Chicago Cubs,6,0
+634403,2021-04-25,108,LAA,Los Angeles Angels,117,HOU,Houston Astros,4,2
+634404,2021-04-25,109,AZ,Arizona Diamondbacks,144,ATL,Atlanta Braves,5,0
+634448,2021-04-25,118,KC,Kansas City Royals,116,DET,Detroit Tigers,4,0
+634454,2021-04-25,133,OAK,Oakland Athletics,110,BAL,Baltimore Orioles,1,8
+634456,2021-04-25,113,CIN,Cincinnati Reds,138,STL,St. Louis Cardinals,2,5
+634343,2021-04-26,133,OAK,Oakland Athletics,139,TB,Tampa Bay Rays,2,1
+634345,2021-04-26,143,PHI,Philadelphia Phillies,138,STL,St. Louis Cardinals,2,1
+634363,2021-04-26,113,CIN,Cincinnati Reds,119,LAD,Los Angeles Dodgers,5,3
+634374,2021-04-26,115,COL,Colorado Rockies,137,SF,San Francisco Giants,0,12
+634377,2021-04-26,108,LAA,Los Angeles Angels,140,TEX,Texas Rangers,9,4
+634382,2021-04-26,136,SEA,Seattle Mariners,117,HOU,Houston Astros,2,5
+634394,2021-04-26,142,MIN,Minnesota Twins,114,CLE,Cleveland Indians,3,5
+634402,2021-04-26,112,CHC,Chicago Cubs,144,ATL,Atlanta Braves,7,8
+634433,2021-04-26,147,NYY,New York Yankees,110,BAL,Baltimore Orioles,2,4
+634451,2021-04-26,118,KC,Kansas City Royals,116,DET,Detroit Tigers,3,2
+634461,2021-04-26,146,MIA,Miami Marlins,158,MIL,Milwaukee Brewers,8,0
+634318,2021-04-27,143,PHI,Philadelphia Phillies,138,STL,St. Louis Cardinals,2,5
+634320,2021-04-27,146,MIA,Miami Marlins,158,MIL,Milwaukee Brewers,4,5
+634331,2021-04-27,118,KC,Kansas City Royals,134,PIT,Pittsburgh Pirates,1,2
+634332,2021-04-27,116,DET,Detroit Tigers,145,CWS,Chicago White Sox,5,2
+634333,2021-04-27,136,SEA,Seattle Mariners,117,HOU,Houston Astros,0,2
+634335,2021-04-27,120,WSH,Washington Nationals,141,TOR,Toronto Blue Jays,5,9
+634339,2021-04-27,142,MIN,Minnesota Twins,114,CLE,Cleveland Indians,4,7
+634351,2021-04-27,112,CHC,Chicago Cubs,144,ATL,Atlanta Braves,0,5
+634354,2021-04-27,115,COL,Colorado Rockies,137,SF,San Francisco Giants,7,5
+634359,2021-04-27,108,LAA,Los Angeles Angels,140,TEX,Texas Rangers,1,6
+634364,2021-04-27,135,SD,San Diego Padres,109,AZ,Arizona Diamondbacks,1,5
+634368,2021-04-27,133,OAK,Oakland Athletics,139,TB,Tampa Bay Rays,3,4
+634379,2021-04-27,113,CIN,Cincinnati Reds,119,LAD,Los Angeles Dodgers,6,5
+634387,2021-04-27,147,NYY,New York Yankees,110,BAL,Baltimore Orioles,5,1
+634410,2021-04-27,111,BOS,Boston Red Sox,121,NYM,New York Mets,2,1
+634308,2021-04-28,133,OAK,Oakland Athletics,139,TB,Tampa Bay Rays,0,2
+634309,2021-04-28,115,COL,Colorado Rockies,137,SF,San Francisco Giants,3,7
+634310,2021-04-28,111,BOS,Boston Red Sox,121,NYM,New York Mets,1,0
+634314,2021-04-28,143,PHI,Philadelphia Phillies,138,STL,St. Louis Cardinals,5,3
+634315,2021-04-28,118,KC,Kansas City Royals,134,PIT,Pittsburgh Pirates,9,6
+634317,2021-04-28,146,MIA,Miami Marlins,158,MIL,Milwaukee Brewers,6,2
+634322,2021-04-28,135,SD,San Diego Padres,109,AZ,Arizona Diamondbacks,12,3
+634348,2021-04-28,120,WSH,Washington Nationals,141,TOR,Toronto Blue Jays,8,2
+634350,2021-04-28,108,LAA,Los Angeles Angels,140,TEX,Texas Rangers,4,3
+634360,2021-04-28,136,SEA,Seattle Mariners,117,HOU,Houston Astros,5,7
+634362,2021-04-28,147,NYY,New York Yankees,110,BAL,Baltimore Orioles,7,0
+634365,2021-04-28,113,CIN,Cincinnati Reds,119,LAD,Los Angeles Dodgers,0,8
+634371,2021-04-28,142,MIN,Minnesota Twins,114,CLE,Cleveland Indians,10,2
+634414,2021-04-28,112,CHC,Chicago Cubs,144,ATL,Atlanta Braves,0,10
+634289,2021-04-29,111,BOS,Boston Red Sox,140,TEX,Texas Rangers,1,4
+634296,2021-04-29,133,OAK,Oakland Athletics,139,TB,Tampa Bay Rays,3,2
+634300,2021-04-29,147,NYY,New York Yankees,110,BAL,Baltimore Orioles,3,4
+634330,2021-04-29,116,DET,Detroit Tigers,145,CWS,Chicago White Sox,1,3
+634346,2021-04-29,119,LAD,Los Angeles Dodgers,158,MIL,Milwaukee Brewers,1,2
+634347,2021-04-29,112,CHC,Chicago Cubs,144,ATL,Atlanta Braves,9,3
+634352,2021-04-29,143,PHI,Philadelphia Phillies,138,STL,St. Louis Cardinals,3,4
+634353,2021-04-29,136,SEA,Seattle Mariners,117,HOU,Houston Astros,1,0
+634357,2021-04-29,116,DET,Detroit Tigers,145,CWS,Chicago White Sox,0,11
+634385,2021-04-29,115,COL,Colorado Rockies,109,AZ,Arizona Diamondbacks,3,5
+634274,2021-04-30,146,MIA,Miami Marlins,120,WSH,Washington Nationals,1,2
+634275,2021-04-30,117,HOU,Houston Astros,139,TB,Tampa Bay Rays,9,2
+634280,2021-04-30,144,ATL,Atlanta Braves,141,TOR,Toronto Blue Jays,5,13
+634287,2021-04-30,108,LAA,Los Angeles Angels,136,SEA,Seattle Mariners,4,7
+634288,2021-04-30,114,CLE,Cleveland Indians,145,CWS,Chicago White Sox,5,3
+634290,2021-04-30,119,LAD,Los Angeles Dodgers,158,MIL,Milwaukee Brewers,1,3
+634303,2021-04-30,137,SF,San Francisco Giants,135,SD,San Diego Padres,2,3
+634305,2021-04-30,112,CHC,Chicago Cubs,113,CIN,Cincinnati Reds,6,8
+634325,2021-04-30,138,STL,St. Louis Cardinals,134,PIT,Pittsburgh Pirates,7,3
+634327,2021-04-30,116,DET,Detroit Tigers,147,NYY,New York Yankees,0,10
+634328,2021-04-30,115,COL,Colorado Rockies,109,AZ,Arizona Diamondbacks,2,7
+634336,2021-04-30,121,NYM,New York Mets,143,PHI,Philadelphia Phillies,1,2
+634337,2021-04-30,111,BOS,Boston Red Sox,140,TEX,Texas Rangers,6,1
+634381,2021-04-30,110,BAL,Baltimore Orioles,133,OAK,Oakland Athletics,3,2
+634391,2021-04-30,118,KC,Kansas City Royals,142,MIN,Minnesota Twins,1,9
+634271,2021-05-01,111,BOS,Boston Red Sox,140,TEX,Texas Rangers,6,8
+634272,2021-05-01,108,LAA,Los Angeles Angels,136,SEA,Seattle Mariners,10,5
+634273,2021-05-01,112,CHC,Chicago Cubs,113,CIN,Cincinnati Reds,3,2
+634276,2021-05-01,121,NYM,New York Mets,143,PHI,Philadelphia Phillies,5,4
+634284,2021-05-01,138,STL,St. Louis Cardinals,134,PIT,Pittsburgh Pirates,12,5
+634286,2021-05-01,115,COL,Colorado Rockies,109,AZ,Arizona Diamondbacks,14,6
+634295,2021-05-01,116,DET,Detroit Tigers,147,NYY,New York Yankees,4,6
+634304,2021-05-01,146,MIA,Miami Marlins,120,WSH,Washington Nationals,2,7
+634307,2021-05-01,117,HOU,Houston Astros,139,TB,Tampa Bay Rays,3,1
+634312,2021-05-01,144,ATL,Atlanta Braves,141,TOR,Toronto Blue Jays,5,6
+634316,2021-05-01,137,SF,San Francisco Giants,135,SD,San Diego Padres,2,6
+634319,2021-05-01,110,BAL,Baltimore Orioles,133,OAK,Oakland Athletics,8,4
+634326,2021-05-01,114,CLE,Cleveland Indians,145,CWS,Chicago White Sox,3,7
+634329,2021-05-01,118,KC,Kansas City Royals,142,MIN,Minnesota Twins,11,3
+634338,2021-05-01,119,LAD,Los Angeles Dodgers,158,MIL,Milwaukee Brewers,5,6
+634256,2021-05-02,144,ATL,Atlanta Braves,141,TOR,Toronto Blue Jays,2,7
+634257,2021-05-02,121,NYM,New York Mets,143,PHI,Philadelphia Phillies,8,7
+634259,2021-05-02,146,MIA,Miami Marlins,120,WSH,Washington Nationals,1,3
+634260,2021-05-02,138,STL,St. Louis Cardinals,134,PIT,Pittsburgh Pirates,3,0
+634268,2021-05-02,111,BOS,Boston Red Sox,140,TEX,Texas Rangers,3,5
+634282,2021-05-02,119,LAD,Los Angeles Dodgers,158,MIL,Milwaukee Brewers,16,4
+634298,2021-05-02,112,CHC,Chicago Cubs,113,CIN,Cincinnati Reds,12,13
+634299,2021-05-02,115,COL,Colorado Rockies,109,AZ,Arizona Diamondbacks,4,8
+634301,2021-05-02,137,SF,San Francisco Giants,135,SD,San Diego Padres,7,1
+634302,2021-05-02,114,CLE,Cleveland Indians,145,CWS,Chicago White Sox,5,0
+634306,2021-05-02,110,BAL,Baltimore Orioles,133,OAK,Oakland Athletics,5,7
+634311,2021-05-02,116,DET,Detroit Tigers,147,NYY,New York Yankees,0,2
+634323,2021-05-02,117,HOU,Houston Astros,139,TB,Tampa Bay Rays,4,5
+634340,2021-05-02,108,LAA,Los Angeles Angels,136,SEA,Seattle Mariners,0,2
+634341,2021-05-02,118,KC,Kansas City Royals,142,MIN,Minnesota Twins,4,13
+634242,2021-05-03,110,BAL,Baltimore Orioles,136,SEA,Seattle Mariners,5,3
+634243,2021-05-03,134,PIT,Pittsburgh Pirates,135,SD,San Diego Padres,0,2
+634244,2021-05-03,158,MIL,Milwaukee Brewers,143,PHI,Philadelphia Phillies,3,4
+634258,2021-05-03,114,CLE,Cleveland Indians,118,KC,Kansas City Royals,8,6
+634285,2021-05-03,140,TEX,Texas Rangers,142,MIN,Minnesota Twins,5,6
+634292,2021-05-03,121,NYM,New York Mets,138,STL,St. Louis Cardinals,5,6
+634293,2021-05-03,141,TOR,Toronto Blue Jays,133,OAK,Oakland Athletics,4,5
+634334,2021-05-03,139,TB,Tampa Bay Rays,108,LAA,Los Angeles Angels,7,3
+634229,2021-05-04,140,TEX,Texas Rangers,142,MIN,Minnesota Twins,6,3
+634241,2021-05-04,116,DET,Detroit Tigers,111,BOS,Boston Red Sox,7,11
+634245,2021-05-04,109,AZ,Arizona Diamondbacks,146,MIA,Miami Marlins,3,9
+634246,2021-05-04,137,SF,San Francisco Giants,115,COL,Colorado Rockies,12,4
+634251,2021-05-04,145,CWS,Chicago White Sox,113,CIN,Cincinnati Reds,9,0
+634254,2021-05-04,137,SF,San Francisco Giants,115,COL,Colorado Rockies,6,8
+634264,2021-05-04,119,LAD,Los Angeles Dodgers,112,CHC,Chicago Cubs,1,7
+634265,2021-05-04,110,BAL,Baltimore Orioles,136,SEA,Seattle Mariners,2,5
+634267,2021-05-04,139,TB,Tampa Bay Rays,108,LAA,Los Angeles Angels,8,3
+634269,2021-05-04,117,HOU,Houston Astros,147,NYY,New York Yankees,3,7
+634277,2021-05-04,114,CLE,Cleveland Indians,118,KC,Kansas City Royals,7,3
+634278,2021-05-04,141,TOR,Toronto Blue Jays,133,OAK,Oakland Athletics,1,4
+634297,2021-05-04,144,ATL,Atlanta Braves,120,WSH,Washington Nationals,6,1
+634313,2021-05-04,134,PIT,Pittsburgh Pirates,135,SD,San Diego Padres,2,1
+634321,2021-05-04,119,LAD,Los Angeles Dodgers,112,CHC,Chicago Cubs,3,4
+634324,2021-05-04,158,MIL,Milwaukee Brewers,143,PHI,Philadelphia Phillies,5,6
+634217,2021-05-05,117,HOU,Houston Astros,147,NYY,New York Yankees,3,6
+634220,2021-05-05,110,BAL,Baltimore Orioles,136,SEA,Seattle Mariners,6,0
+634225,2021-05-05,137,SF,San Francisco Giants,115,COL,Colorado Rockies,5,6
+634226,2021-05-05,114,CLE,Cleveland Indians,118,KC,Kansas City Royals,5,4
+634227,2021-05-05,134,PIT,Pittsburgh Pirates,135,SD,San Diego Padres,2,4
+634228,2021-05-05,116,DET,Detroit Tigers,111,BOS,Boston Red Sox,6,5
+634230,2021-05-05,119,LAD,Los Angeles Dodgers,112,CHC,Chicago Cubs,5,6
+634239,2021-05-05,121,NYM,New York Mets,138,STL,St. Louis Cardinals,7,2
+634248,2021-05-05,141,TOR,Toronto Blue Jays,133,OAK,Oakland Athletics,9,4
+634249,2021-05-05,109,AZ,Arizona Diamondbacks,146,MIA,Miami Marlins,0,8
+634250,2021-05-05,121,NYM,New York Mets,138,STL,St. Louis Cardinals,1,4
+634266,2021-05-05,144,ATL,Atlanta Braves,120,WSH,Washington Nationals,5,3
+634270,2021-05-05,145,CWS,Chicago White Sox,113,CIN,Cincinnati Reds,0,1
+634279,2021-05-05,140,TEX,Texas Rangers,142,MIN,Minnesota Twins,3,1
+634281,2021-05-05,139,TB,Tampa Bay Rays,108,LAA,Los Angeles Angels,3,1
+634294,2021-05-05,158,MIL,Milwaukee Brewers,143,PHI,Philadelphia Phillies,4,5
+634223,2021-05-06,121,NYM,New York Mets,138,STL,St. Louis Cardinals,4,1
+634224,2021-05-06,117,HOU,Houston Astros,147,NYY,New York Yankees,7,4
+634231,2021-05-06,141,TOR,Toronto Blue Jays,133,OAK,Oakland Athletics,10,4
+634232,2021-05-06,144,ATL,Atlanta Braves,120,WSH,Washington Nationals,3,2
+634233,2021-05-06,114,CLE,Cleveland Indians,118,KC,Kansas City Royals,4,0
+634247,2021-05-06,139,TB,Tampa Bay Rays,108,LAA,Los Angeles Angels,8,3
+634255,2021-05-06,116,DET,Detroit Tigers,111,BOS,Boston Red Sox,9,12
+634261,2021-05-06,140,TEX,Texas Rangers,142,MIN,Minnesota Twins,4,3
+634283,2021-05-06,158,MIL,Milwaukee Brewers,143,PHI,Philadelphia Phillies,0,2
+634291,2021-05-06,109,AZ,Arizona Diamondbacks,146,MIA,Miami Marlins,1,3
+634195,2021-05-07,158,MIL,Milwaukee Brewers,146,MIA,Miami Marlins,1,6
+634200,2021-05-07,115,COL,Colorado Rockies,138,STL,St. Louis Cardinals,0,5
+634201,2021-05-07,141,TOR,Toronto Blue Jays,117,HOU,Houston Astros,4,10
+634203,2021-05-07,113,CIN,Cincinnati Reds,114,CLE,Cleveland Indians,3,0
+634204,2021-05-07,142,MIN,Minnesota Twins,116,DET,Detroit Tigers,7,3
+634209,2021-05-07,111,BOS,Boston Red Sox,110,BAL,Baltimore Orioles,6,2
+634213,2021-05-07,119,LAD,Los Angeles Dodgers,108,LAA,Los Angeles Angels,2,9
+634216,2021-05-07,134,PIT,Pittsburgh Pirates,112,CHC,Chicago Cubs,2,3
+634219,2021-05-07,143,PHI,Philadelphia Phillies,144,ATL,Atlanta Braves,12,2
+634234,2021-05-07,120,WSH,Washington Nationals,147,NYY,New York Yankees,11,4
+634235,2021-05-07,145,CWS,Chicago White Sox,118,KC,Kansas City Royals,3,0
+634240,2021-05-07,135,SD,San Diego Padres,137,SF,San Francisco Giants,4,5
+634252,2021-05-07,109,AZ,Arizona Diamondbacks,121,NYM,New York Mets,4,5
+634253,2021-05-07,136,SEA,Seattle Mariners,140,TEX,Texas Rangers,5,4
+634263,2021-05-07,139,TB,Tampa Bay Rays,133,OAK,Oakland Athletics,1,2
+634165,2021-05-08,115,COL,Colorado Rockies,138,STL,St. Louis Cardinals,8,9
+634171,2021-05-08,136,SEA,Seattle Mariners,140,TEX,Texas Rangers,8,9
+634178,2021-05-08,135,SD,San Diego Padres,137,SF,San Francisco Giants,1,7
+634187,2021-05-08,113,CIN,Cincinnati Reds,114,CLE,Cleveland Indians,2,9
+634190,2021-05-08,109,AZ,Arizona Diamondbacks,121,NYM,New York Mets,2,4
+634193,2021-05-08,141,TOR,Toronto Blue Jays,117,HOU,Houston Astros,8,4
+634196,2021-05-08,111,BOS,Boston Red Sox,110,BAL,Baltimore Orioles,11,6
+634197,2021-05-08,145,CWS,Chicago White Sox,118,KC,Kansas City Royals,9,1
+634199,2021-05-08,143,PHI,Philadelphia Phillies,144,ATL,Atlanta Braves,7,8
+634212,2021-05-08,134,PIT,Pittsburgh Pirates,112,CHC,Chicago Cubs,2,3
+634214,2021-05-08,142,MIN,Minnesota Twins,116,DET,Detroit Tigers,3,7
+634215,2021-05-08,158,MIL,Milwaukee Brewers,146,MIA,Miami Marlins,6,2
+634221,2021-05-08,120,WSH,Washington Nationals,147,NYY,New York Yankees,3,4
+634236,2021-05-08,139,TB,Tampa Bay Rays,133,OAK,Oakland Athletics,3,6
+634262,2021-05-08,119,LAD,Los Angeles Dodgers,108,LAA,Los Angeles Angels,14,11
+634167,2021-05-09,145,CWS,Chicago White Sox,118,KC,Kansas City Royals,9,3
+634175,2021-05-09,143,PHI,Philadelphia Phillies,144,ATL,Atlanta Braves,1,6
+634177,2021-05-09,111,BOS,Boston Red Sox,110,BAL,Baltimore Orioles,4,3
+634182,2021-05-09,136,SEA,Seattle Mariners,140,TEX,Texas Rangers,2,10
+634184,2021-05-09,109,AZ,Arizona Diamondbacks,121,NYM,New York Mets,2,4
+634185,2021-05-09,135,SD,San Diego Padres,137,SF,San Francisco Giants,11,1
+634192,2021-05-09,141,TOR,Toronto Blue Jays,117,HOU,Houston Astros,4,7
+634194,2021-05-09,115,COL,Colorado Rockies,138,STL,St. Louis Cardinals,0,2
+634205,2021-05-09,119,LAD,Los Angeles Dodgers,108,LAA,Los Angeles Angels,1,2
+634207,2021-05-09,158,MIL,Milwaukee Brewers,146,MIA,Miami Marlins,2,1
+634211,2021-05-09,139,TB,Tampa Bay Rays,133,OAK,Oakland Athletics,4,3
+634218,2021-05-09,120,WSH,Washington Nationals,147,NYY,New York Yankees,2,3
+634237,2021-05-09,134,PIT,Pittsburgh Pirates,112,CHC,Chicago Cubs,6,5
+634152,2021-05-10,113,CIN,Cincinnati Reds,134,PIT,Pittsburgh Pirates,14,1
+634153,2021-05-10,140,TEX,Texas Rangers,137,SF,San Francisco Giants,1,3
+634157,2021-05-10,146,MIA,Miami Marlins,109,AZ,Arizona Diamondbacks,2,5
+634176,2021-05-10,111,BOS,Boston Red Sox,110,BAL,Baltimore Orioles,1,4
+634181,2021-05-10,108,LAA,Los Angeles Angels,117,HOU,Houston Astros,5,4
+634142,2021-05-11,136,SEA,Seattle Mariners,119,LAD,Los Angeles Dodgers,4,6
+634144,2021-05-11,143,PHI,Philadelphia Phillies,120,WSH,Washington Nationals,6,2
+634147,2021-05-11,142,MIN,Minnesota Twins,145,CWS,Chicago White Sox,3,9
+634149,2021-05-11,135,SD,San Diego Padres,115,COL,Colorado Rockies,8,1
+634156,2021-05-11,108,LAA,Los Angeles Angels,117,HOU,Houston Astros,1,5
+634159,2021-05-11,138,STL,St. Louis Cardinals,158,MIL,Milwaukee Brewers,6,1
+634163,2021-05-11,141,TOR,Toronto Blue Jays,144,ATL,Atlanta Braves,5,3
+634164,2021-05-11,140,TEX,Texas Rangers,137,SF,San Francisco Giants,2,4
+634169,2021-05-11,147,NYY,New York Yankees,139,TB,Tampa Bay Rays,3,1
+634170,2021-05-11,110,BAL,Baltimore Orioles,121,NYM,New York Mets,2,3
+634174,2021-05-11,113,CIN,Cincinnati Reds,134,PIT,Pittsburgh Pirates,2,7
+634179,2021-05-11,118,KC,Kansas City Royals,116,DET,Detroit Tigers,7,8
+634180,2021-05-11,146,MIA,Miami Marlins,109,AZ,Arizona Diamondbacks,3,11
+634189,2021-05-11,112,CHC,Chicago Cubs,114,CLE,Cleveland Indians,2,3
+634202,2021-05-11,133,OAK,Oakland Athletics,111,BOS,Boston Red Sox,3,2
+634128,2021-05-12,110,BAL,Baltimore Orioles,121,NYM,New York Mets,1,7
+634129,2021-05-12,112,CHC,Chicago Cubs,114,CLE,Cleveland Indians,1,2
+634137,2021-05-12,113,CIN,Cincinnati Reds,134,PIT,Pittsburgh Pirates,5,1
+634140,2021-05-12,136,SEA,Seattle Mariners,119,LAD,Los Angeles Dodgers,1,7
+634151,2021-05-12,143,PHI,Philadelphia Phillies,120,WSH,Washington Nationals,5,2
+634154,2021-05-12,133,OAK,Oakland Athletics,111,BOS,Boston Red Sox,4,1
+634155,2021-05-12,135,SD,San Diego Padres,115,COL,Colorado Rockies,2,3
+634160,2021-05-12,142,MIN,Minnesota Twins,145,CWS,Chicago White Sox,8,13
+634172,2021-05-12,108,LAA,Los Angeles Angels,117,HOU,Houston Astros,1,9
+634183,2021-05-12,146,MIA,Miami Marlins,109,AZ,Arizona Diamondbacks,3,2
+634186,2021-05-12,118,KC,Kansas City Royals,116,DET,Detroit Tigers,2,4
+634198,2021-05-12,138,STL,St. Louis Cardinals,158,MIL,Milwaukee Brewers,1,4
+634208,2021-05-12,135,SD,San Diego Padres,115,COL,Colorado Rockies,5,3
+634210,2021-05-12,147,NYY,New York Yankees,139,TB,Tampa Bay Rays,1,0
+634238,2021-05-12,141,TOR,Toronto Blue Jays,144,ATL,Atlanta Braves,4,1
+634103,2021-05-13,143,PHI,Philadelphia Phillies,120,WSH,Washington Nationals,1,5
+634113,2021-05-13,137,SF,San Francisco Giants,134,PIT,Pittsburgh Pirates,3,1
+634114,2021-05-13,141,TOR,Toronto Blue Jays,144,ATL,Atlanta Braves,8,4
+634117,2021-05-13,118,KC,Kansas City Royals,116,DET,Detroit Tigers,3,4
+634125,2021-05-13,142,MIN,Minnesota Twins,145,CWS,Chicago White Sox,2,4
+634126,2021-05-13,147,NYY,New York Yankees,139,TB,Tampa Bay Rays,1,9
+634135,2021-05-13,114,CLE,Cleveland Indians,136,SEA,Seattle Mariners,4,2
+634136,2021-05-13,146,MIA,Miami Marlins,109,AZ,Arizona Diamondbacks,5,1
+634141,2021-05-13,140,TEX,Texas Rangers,117,HOU,Houston Astros,3,4
+634150,2021-05-13,133,OAK,Oakland Athletics,111,BOS,Boston Red Sox,1,8
+634158,2021-05-13,138,STL,St. Louis Cardinals,158,MIL,Milwaukee Brewers,2,0
+634191,2021-05-13,113,CIN,Cincinnati Reds,115,COL,Colorado Rockies,8,13
+634093,2021-05-14,121,NYM,New York Mets,139,TB,Tampa Bay Rays,2,3
+634108,2021-05-14,137,SF,San Francisco Giants,134,PIT,Pittsburgh Pirates,2,3
+634110,2021-05-14,114,CLE,Cleveland Indians,136,SEA,Seattle Mariners,3,7
+634118,2021-05-14,144,ATL,Atlanta Braves,158,MIL,Milwaukee Brewers,6,3
+634119,2021-05-14,143,PHI,Philadelphia Phillies,141,TOR,Toronto Blue Jays,5,1
+634121,2021-05-14,113,CIN,Cincinnati Reds,115,COL,Colorado Rockies,6,9
+634123,2021-05-14,140,TEX,Texas Rangers,117,HOU,Houston Astros,4,10
+634131,2021-05-14,133,OAK,Oakland Athletics,142,MIN,Minnesota Twins,6,1
+634132,2021-05-14,138,STL,St. Louis Cardinals,135,SD,San Diego Padres,4,5
+634138,2021-05-14,108,LAA,Los Angeles Angels,111,BOS,Boston Red Sox,3,4
+634145,2021-05-14,146,MIA,Miami Marlins,119,LAD,Los Angeles Dodgers,6,9
+634146,2021-05-14,147,NYY,New York Yankees,110,BAL,Baltimore Orioles,5,4
+634162,2021-05-14,120,WSH,Washington Nationals,109,AZ,Arizona Diamondbacks,17,2
+634166,2021-05-14,118,KC,Kansas City Royals,145,CWS,Chicago White Sox,1,3
+634206,2021-05-14,112,CHC,Chicago Cubs,116,DET,Detroit Tigers,4,2
+634656,2021-05-14,118,KC,Kansas City Royals,145,CWS,Chicago White Sox,6,2
+634080,2021-05-15,133,OAK,Oakland Athletics,142,MIN,Minnesota Twins,4,5
+634084,2021-05-15,114,CLE,Cleveland Indians,136,SEA,Seattle Mariners,3,7
+634085,2021-05-15,137,SF,San Francisco Giants,134,PIT,Pittsburgh Pirates,6,8
+634095,2021-05-15,108,LAA,Los Angeles Angels,111,BOS,Boston Red Sox,0,9
+634096,2021-05-15,146,MIA,Miami Marlins,119,LAD,Los Angeles Dodgers,0,7
+634097,2021-05-15,120,WSH,Washington Nationals,109,AZ,Arizona Diamondbacks,4,11
+634104,2021-05-15,147,NYY,New York Yankees,110,BAL,Baltimore Orioles,8,2
+634105,2021-05-15,121,NYM,New York Mets,139,TB,Tampa Bay Rays,5,12
+634106,2021-05-15,144,ATL,Atlanta Braves,158,MIL,Milwaukee Brewers,5,1
+634111,2021-05-15,112,CHC,Chicago Cubs,116,DET,Detroit Tigers,8,9
+634127,2021-05-15,118,KC,Kansas City Royals,145,CWS,Chicago White Sox,5,1
+634139,2021-05-15,143,PHI,Philadelphia Phillies,141,TOR,Toronto Blue Jays,0,4
+634143,2021-05-15,138,STL,St. Louis Cardinals,135,SD,San Diego Padres,3,13
+634148,2021-05-15,113,CIN,Cincinnati Reds,115,COL,Colorado Rockies,6,5
+634161,2021-05-15,140,TEX,Texas Rangers,117,HOU,Houston Astros,5,6
+634068,2021-05-16,140,TEX,Texas Rangers,117,HOU,Houston Astros,2,6
+634069,2021-05-16,143,PHI,Philadelphia Phillies,141,TOR,Toronto Blue Jays,8,10
+634071,2021-05-16,121,NYM,New York Mets,139,TB,Tampa Bay Rays,1,7
+634083,2021-05-16,112,CHC,Chicago Cubs,116,DET,Detroit Tigers,5,1
+634086,2021-05-16,147,NYY,New York Yankees,110,BAL,Baltimore Orioles,6,10
+634087,2021-05-16,114,CLE,Cleveland Indians,136,SEA,Seattle Mariners,2,3
+634090,2021-05-16,138,STL,St. Louis Cardinals,135,SD,San Diego Padres,3,5
+634094,2021-05-16,137,SF,San Francisco Giants,134,PIT,Pittsburgh Pirates,4,1
+634098,2021-05-16,113,CIN,Cincinnati Reds,115,COL,Colorado Rockies,7,6
+634100,2021-05-16,108,LAA,Los Angeles Angels,111,BOS,Boston Red Sox,6,5
+634122,2021-05-16,146,MIA,Miami Marlins,119,LAD,Los Angeles Dodgers,3,2
+634124,2021-05-16,118,KC,Kansas City Royals,145,CWS,Chicago White Sox,3,4
+634130,2021-05-16,120,WSH,Washington Nationals,109,AZ,Arizona Diamondbacks,3,0
+634134,2021-05-16,144,ATL,Atlanta Braves,158,MIL,Milwaukee Brewers,9,10
+634188,2021-05-16,133,OAK,Oakland Athletics,142,MIN,Minnesota Twins,7,6
+634057,2021-05-17,115,COL,Colorado Rockies,135,SD,San Diego Padres,0,7
+634063,2021-05-17,121,NYM,New York Mets,144,ATL,Atlanta Braves,3,1
+634070,2021-05-17,137,SF,San Francisco Giants,113,CIN,Cincinnati Reds,6,3
+634076,2021-05-17,120,WSH,Washington Nationals,112,CHC,Chicago Cubs,3,7
+634077,2021-05-17,145,CWS,Chicago White Sox,142,MIN,Minnesota Twins,16,4
+634082,2021-05-17,116,DET,Detroit Tigers,136,SEA,Seattle Mariners,4,1
+634091,2021-05-17,109,AZ,Arizona Diamondbacks,119,LAD,Los Angeles Dodgers,1,3
+634099,2021-05-17,147,NYY,New York Yankees,140,TEX,Texas Rangers,2,5
+634101,2021-05-17,114,CLE,Cleveland Indians,108,LAA,Los Angeles Angels,4,7
+634043,2021-05-18,158,MIL,Milwaukee Brewers,118,KC,Kansas City Royals,0,2
+634050,2021-05-18,117,HOU,Houston Astros,133,OAK,Oakland Athletics,5,6
+634051,2021-05-18,146,MIA,Miami Marlins,143,PHI,Philadelphia Phillies,3,8
+634052,2021-05-18,120,WSH,Washington Nationals,112,CHC,Chicago Cubs,3,6
+634058,2021-05-18,137,SF,San Francisco Giants,113,CIN,Cincinnati Reds,4,2
+634065,2021-05-18,115,COL,Colorado Rockies,135,SD,San Diego Padres,1,2
+634067,2021-05-18,147,NYY,New York Yankees,140,TEX,Texas Rangers,7,4
+634073,2021-05-18,145,CWS,Chicago White Sox,142,MIN,Minnesota Twins,4,5
+634075,2021-05-18,139,TB,Tampa Bay Rays,110,BAL,Baltimore Orioles,13,6
+634092,2021-05-18,109,AZ,Arizona Diamondbacks,119,LAD,Los Angeles Dodgers,1,9
+634102,2021-05-18,114,CLE,Cleveland Indians,108,LAA,Los Angeles Angels,6,5
+634107,2021-05-18,121,NYM,New York Mets,144,ATL,Atlanta Braves,4,3
+634109,2021-05-18,134,PIT,Pittsburgh Pirates,138,STL,St. Louis Cardinals,2,5
+634115,2021-05-18,116,DET,Detroit Tigers,136,SEA,Seattle Mariners,5,0
+634133,2021-05-18,111,BOS,Boston Red Sox,141,TOR,Toronto Blue Jays,0,8
+634026,2021-05-19,134,PIT,Pittsburgh Pirates,138,STL,St. Louis Cardinals,5,8
+634029,2021-05-19,114,CLE,Cleveland Indians,108,LAA,Los Angeles Angels,3,2
+634030,2021-05-19,145,CWS,Chicago White Sox,142,MIN,Minnesota Twins,2,1
+634031,2021-05-19,115,COL,Colorado Rockies,135,SD,San Diego Padres,0,3
+634033,2021-05-19,109,AZ,Arizona Diamondbacks,119,LAD,Los Angeles Dodgers,2,4
+634034,2021-05-19,117,HOU,Houston Astros,133,OAK,Oakland Athletics,8,1
+634037,2021-05-19,158,MIL,Milwaukee Brewers,118,KC,Kansas City Royals,4,6
+634044,2021-05-19,146,MIA,Miami Marlins,143,PHI,Philadelphia Phillies,3,1
+634046,2021-05-19,116,DET,Detroit Tigers,136,SEA,Seattle Mariners,6,2
+634053,2021-05-19,120,WSH,Washington Nationals,112,CHC,Chicago Cubs,4,3
+634055,2021-05-19,139,TB,Tampa Bay Rays,110,BAL,Baltimore Orioles,9,7
+634061,2021-05-19,137,SF,San Francisco Giants,113,CIN,Cincinnati Reds,4,0
+634066,2021-05-19,121,NYM,New York Mets,144,ATL,Atlanta Braves,4,5
+634116,2021-05-19,111,BOS,Boston Red Sox,141,TOR,Toronto Blue Jays,7,3
+634168,2021-05-19,147,NYY,New York Yankees,140,TEX,Texas Rangers,2,0
+634018,2021-05-20,111,BOS,Boston Red Sox,141,TOR,Toronto Blue Jays,8,7
+634020,2021-05-20,137,SF,San Francisco Giants,113,CIN,Cincinnati Reds,19,4
+634039,2021-05-20,146,MIA,Miami Marlins,143,PHI,Philadelphia Phillies,6,0
+634041,2021-05-20,134,PIT,Pittsburgh Pirates,144,ATL,Atlanta Braves,6,4
+634045,2021-05-20,117,HOU,Houston Astros,133,OAK,Oakland Athletics,8,4
+634047,2021-05-20,147,NYY,New York Yankees,140,TEX,Texas Rangers,2,0
+634059,2021-05-20,109,AZ,Arizona Diamondbacks,119,LAD,Los Angeles Dodgers,2,3
+634112,2021-05-20,120,WSH,Washington Nationals,112,CHC,Chicago Cubs,2,5
+634120,2021-05-20,139,TB,Tampa Bay Rays,110,BAL,Baltimore Orioles,10,1
+634441,2021-05-20,142,MIN,Minnesota Twins,108,LAA,Los Angeles Angels,6,3
+634465,2021-05-20,142,MIN,Minnesota Twins,108,LAA,Los Angeles Angels,1,7
+634008,2021-05-21,117,HOU,Houston Astros,140,TEX,Texas Rangers,5,7
+634012,2021-05-21,110,BAL,Baltimore Orioles,120,WSH,Washington Nationals,2,4
+634013,2021-05-21,119,LAD,Los Angeles Dodgers,137,SF,San Francisco Giants,2,1
+634014,2021-05-21,145,CWS,Chicago White Sox,147,NYY,New York Yankees,1,2
+634015,2021-05-21,142,MIN,Minnesota Twins,114,CLE,Cleveland Indians,10,0
+634016,2021-05-21,109,AZ,Arizona Diamondbacks,115,COL,Colorado Rockies,1,7
+634019,2021-05-21,136,SEA,Seattle Mariners,135,SD,San Diego Padres,1,16
+634022,2021-05-21,112,CHC,Chicago Cubs,138,STL,St. Louis Cardinals,12,3
+634027,2021-05-21,158,MIL,Milwaukee Brewers,113,CIN,Cincinnati Reds,4,9
+634028,2021-05-21,133,OAK,Oakland Athletics,108,LAA,Los Angeles Angels,8,4
+634036,2021-05-21,134,PIT,Pittsburgh Pirates,144,ATL,Atlanta Braves,1,20
+634054,2021-05-21,111,BOS,Boston Red Sox,143,PHI,Philadelphia Phillies,11,3
+634078,2021-05-21,139,TB,Tampa Bay Rays,141,TOR,Toronto Blue Jays,9,7
+634088,2021-05-21,116,DET,Detroit Tigers,118,KC,Kansas City Royals,7,5
+634089,2021-05-21,121,NYM,New York Mets,146,MIA,Miami Marlins,6,5
+633984,2021-05-22,111,BOS,Boston Red Sox,143,PHI,Philadelphia Phillies,4,3
+633991,2021-05-22,136,SEA,Seattle Mariners,135,SD,San Diego Padres,4,6
+633999,2021-05-22,121,NYM,New York Mets,146,MIA,Miami Marlins,1,3
+634000,2021-05-22,133,OAK,Oakland Athletics,108,LAA,Los Angeles Angels,6,2
+634001,2021-05-22,116,DET,Detroit Tigers,118,KC,Kansas City Royals,5,7
+634010,2021-05-22,109,AZ,Arizona Diamondbacks,115,COL,Colorado Rockies,6,7
+634011,2021-05-22,119,LAD,Los Angeles Dodgers,137,SF,San Francisco Giants,6,3
+634017,2021-05-22,158,MIL,Milwaukee Brewers,113,CIN,Cincinnati Reds,4,3
+634032,2021-05-22,112,CHC,Chicago Cubs,138,STL,St. Louis Cardinals,1,2
+634035,2021-05-22,145,CWS,Chicago White Sox,147,NYY,New York Yankees,0,7
+634038,2021-05-22,142,MIN,Minnesota Twins,114,CLE,Cleveland Indians,3,5
+634049,2021-05-22,134,PIT,Pittsburgh Pirates,144,ATL,Atlanta Braves,1,6
+634062,2021-05-22,110,BAL,Baltimore Orioles,120,WSH,Washington Nationals,9,12
+634079,2021-05-22,117,HOU,Houston Astros,140,TEX,Texas Rangers,4,8
+634081,2021-05-22,139,TB,Tampa Bay Rays,141,TOR,Toronto Blue Jays,3,1
+633973,2021-05-23,112,CHC,Chicago Cubs,138,STL,St. Louis Cardinals,2,1
+633975,2021-05-23,139,TB,Tampa Bay Rays,141,TOR,Toronto Blue Jays,6,4
+633977,2021-05-23,110,BAL,Baltimore Orioles,120,WSH,Washington Nationals,5,6
+633980,2021-05-23,119,LAD,Los Angeles Dodgers,137,SF,San Francisco Giants,11,5
+633985,2021-05-23,133,OAK,Oakland Athletics,108,LAA,Los Angeles Angels,5,6
+633989,2021-05-23,158,MIL,Milwaukee Brewers,113,CIN,Cincinnati Reds,9,4
+633995,2021-05-23,109,AZ,Arizona Diamondbacks,115,COL,Colorado Rockies,3,4
+633996,2021-05-23,136,SEA,Seattle Mariners,135,SD,San Diego Padres,2,9
+633998,2021-05-23,121,NYM,New York Mets,146,MIA,Miami Marlins,1,5
+634002,2021-05-23,116,DET,Detroit Tigers,118,KC,Kansas City Royals,2,3
+634004,2021-05-23,111,BOS,Boston Red Sox,143,PHI,Philadelphia Phillies,2,6
+634007,2021-05-23,142,MIN,Minnesota Twins,114,CLE,Cleveland Indians,8,5
+634009,2021-05-23,145,CWS,Chicago White Sox,147,NYY,New York Yankees,4,5
+634025,2021-05-23,117,HOU,Houston Astros,140,TEX,Texas Rangers,2,3
+634060,2021-05-23,134,PIT,Pittsburgh Pirates,144,ATL,Atlanta Braves,1,7
+633955,2021-05-24,136,SEA,Seattle Mariners,133,OAK,Oakland Athletics,4,2
+633963,2021-05-24,139,TB,Tampa Bay Rays,141,TOR,Toronto Blue Jays,14,8
+633976,2021-05-24,143,PHI,Philadelphia Phillies,146,MIA,Miami Marlins,6,9
+633981,2021-05-24,114,CLE,Cleveland Indians,116,DET,Detroit Tigers,6,5
+633982,2021-05-24,110,BAL,Baltimore Orioles,142,MIN,Minnesota Twins,3,8
+633992,2021-05-24,135,SD,San Diego Padres,158,MIL,Milwaukee Brewers,3,5
+633994,2021-05-24,138,STL,St. Louis Cardinals,145,CWS,Chicago White Sox,1,5
+634056,2021-05-24,115,COL,Colorado Rockies,121,NYM,New York Mets,3,2
+633941,2021-05-25,112,CHC,Chicago Cubs,134,PIT,Pittsburgh Pirates,4,3
+633945,2021-05-25,136,SEA,Seattle Mariners,133,OAK,Oakland Athletics,4,3
+633951,2021-05-25,138,STL,St. Louis Cardinals,145,CWS,Chicago White Sox,3,8
+633953,2021-05-25,119,LAD,Los Angeles Dodgers,117,HOU,Houston Astros,9,2
+633956,2021-05-25,141,TOR,Toronto Blue Jays,147,NYY,New York Yankees,6,2
+633958,2021-05-25,144,ATL,Atlanta Braves,111,BOS,Boston Red Sox,3,1
+633962,2021-05-25,135,SD,San Diego Padres,158,MIL,Milwaukee Brewers,7,1
+633965,2021-05-25,113,CIN,Cincinnati Reds,120,WSH,Washington Nationals,2,1
+633969,2021-05-25,143,PHI,Philadelphia Phillies,146,MIA,Miami Marlins,2,0
+633970,2021-05-25,114,CLE,Cleveland Indians,116,DET,Detroit Tigers,4,1
+633972,2021-05-25,140,TEX,Texas Rangers,108,LAA,Los Angeles Angels,5,11
+633979,2021-05-25,137,SF,San Francisco Giants,109,AZ,Arizona Diamondbacks,8,0
+633990,2021-05-25,118,KC,Kansas City Royals,139,TB,Tampa Bay Rays,2,1
+634023,2021-05-25,115,COL,Colorado Rockies,121,NYM,New York Mets,1,3
+634048,2021-05-25,110,BAL,Baltimore Orioles,142,MIN,Minnesota Twins,4,7
+633890,2021-05-26,113,CIN,Cincinnati Reds,120,WSH,Washington Nationals,3,5
+633901,2021-05-26,143,PHI,Philadelphia Phillies,146,MIA,Miami Marlins,2,4
+633927,2021-05-26,135,SD,San Diego Padres,158,MIL,Milwaukee Brewers,2,1
+633928,2021-05-26,110,BAL,Baltimore Orioles,142,MIN,Minnesota Twins,2,3
+633939,2021-05-26,137,SF,San Francisco Giants,109,AZ,Arizona Diamondbacks,5,4
+633940,2021-05-26,140,TEX,Texas Rangers,108,LAA,Los Angeles Angels,8,9
+633967,2021-05-26,112,CHC,Chicago Cubs,134,PIT,Pittsburgh Pirates,4,1
+633971,2021-05-26,138,STL,St. Louis Cardinals,145,CWS,Chicago White Sox,4,0
+633986,2021-05-26,114,CLE,Cleveland Indians,116,DET,Detroit Tigers,0,1
+633993,2021-05-26,144,ATL,Atlanta Braves,111,BOS,Boston Red Sox,5,9
+634021,2021-05-26,119,LAD,Los Angeles Dodgers,117,HOU,Houston Astros,2,5
+634064,2021-05-26,118,KC,Kansas City Royals,139,TB,Tampa Bay Rays,1,2
+634074,2021-05-26,136,SEA,Seattle Mariners,133,OAK,Oakland Athletics,3,6
+633888,2021-05-27,112,CHC,Chicago Cubs,134,PIT,Pittsburgh Pirates,5,3
+633910,2021-05-27,141,TOR,Toronto Blue Jays,147,NYY,New York Yankees,3,5
+633912,2021-05-27,115,COL,Colorado Rockies,121,NYM,New York Mets,2,4
+633914,2021-05-27,138,STL,St. Louis Cardinals,109,AZ,Arizona Diamondbacks,5,4
+633915,2021-05-27,118,KC,Kansas City Royals,139,TB,Tampa Bay Rays,2,7
+633922,2021-05-27,115,COL,Colorado Rockies,121,NYM,New York Mets,0,1
+633924,2021-05-27,110,BAL,Baltimore Orioles,145,CWS,Chicago White Sox,1,5
+633930,2021-05-27,137,SF,San Francisco Giants,119,LAD,Los Angeles Dodgers,3,4
+633934,2021-05-27,140,TEX,Texas Rangers,136,SEA,Seattle Mariners,0,5
+633937,2021-05-27,135,SD,San Diego Padres,158,MIL,Milwaukee Brewers,5,6
+633943,2021-05-27,114,CLE,Cleveland Indians,116,DET,Detroit Tigers,5,2
+633957,2021-05-27,143,PHI,Philadelphia Phillies,146,MIA,Miami Marlins,3,2
+633964,2021-05-27,108,LAA,Los Angeles Angels,133,OAK,Oakland Athletics,0,5
+633974,2021-05-27,141,TOR,Toronto Blue Jays,147,NYY,New York Yankees,2,0
+634003,2021-05-27,113,CIN,Cincinnati Reds,120,WSH,Washington Nationals,3,0
+633918,2021-05-28,135,SD,San Diego Padres,117,HOU,Houston Astros,10,3
+633921,2021-05-28,137,SF,San Francisco Giants,119,LAD,Los Angeles Dodgers,8,5
+633932,2021-05-28,118,KC,Kansas City Royals,142,MIN,Minnesota Twins,8,3
+633961,2021-05-28,147,NYY,New York Yankees,116,DET,Detroit Tigers,2,3
+633966,2021-05-28,141,TOR,Toronto Blue Jays,114,CLE,Cleveland Indians,11,2
+633987,2021-05-28,138,STL,St. Louis Cardinals,109,AZ,Arizona Diamondbacks,8,6
+633997,2021-05-28,140,TEX,Texas Rangers,136,SEA,Seattle Mariners,2,3
+634006,2021-05-28,108,LAA,Los Angeles Angels,133,OAK,Oakland Athletics,1,3
+634024,2021-05-28,113,CIN,Cincinnati Reds,112,CHC,Chicago Cubs,0,1
+634040,2021-05-28,146,MIA,Miami Marlins,111,BOS,Boston Red Sox,2,5
+633874,2021-05-29,135,SD,San Diego Padres,117,HOU,Houston Astros,11,8
+633875,2021-05-29,113,CIN,Cincinnati Reds,112,CHC,Chicago Cubs,2,10
+633887,2021-05-29,110,BAL,Baltimore Orioles,145,CWS,Chicago White Sox,1,3
+633894,2021-05-29,143,PHI,Philadelphia Phillies,139,TB,Tampa Bay Rays,3,5
+633903,2021-05-29,146,MIA,Miami Marlins,111,BOS,Boston Red Sox,1,3
+633913,2021-05-29,138,STL,St. Louis Cardinals,109,AZ,Arizona Diamondbacks,7,4
+633916,2021-05-29,158,MIL,Milwaukee Brewers,120,WSH,Washington Nationals,4,1
+633929,2021-05-29,108,LAA,Los Angeles Angels,133,OAK,Oakland Athletics,4,0
+633936,2021-05-29,115,COL,Colorado Rockies,134,PIT,Pittsburgh Pirates,0,4
+633938,2021-05-29,137,SF,San Francisco Giants,119,LAD,Los Angeles Dodgers,11,6
+633944,2021-05-29,118,KC,Kansas City Royals,142,MIN,Minnesota Twins,5,6
+633947,2021-05-29,140,TEX,Texas Rangers,136,SEA,Seattle Mariners,2,3
+633949,2021-05-29,147,NYY,New York Yankees,116,DET,Detroit Tigers,1,6
+633950,2021-05-29,158,MIL,Milwaukee Brewers,120,WSH,Washington Nationals,6,2
+633959,2021-05-29,144,ATL,Atlanta Braves,121,NYM,New York Mets,2,13
+633960,2021-05-29,110,BAL,Baltimore Orioles,145,CWS,Chicago White Sox,4,7
+634005,2021-05-29,115,COL,Colorado Rockies,134,PIT,Pittsburgh Pirates,0,7
+633854,2021-05-30,147,NYY,New York Yankees,116,DET,Detroit Tigers,2,6
+633872,2021-05-30,110,BAL,Baltimore Orioles,145,CWS,Chicago White Sox,1,3
+633881,2021-05-30,118,KC,Kansas City Royals,142,MIN,Minnesota Twins,6,3
+633889,2021-05-30,108,LAA,Los Angeles Angels,133,OAK,Oakland Athletics,4,2
+633892,2021-05-30,143,PHI,Philadelphia Phillies,139,TB,Tampa Bay Rays,2,6
+633923,2021-05-30,137,SF,San Francisco Giants,119,LAD,Los Angeles Dodgers,5,4
+633931,2021-05-30,113,CIN,Cincinnati Reds,112,CHC,Chicago Cubs,5,1
+633933,2021-05-30,158,MIL,Milwaukee Brewers,120,WSH,Washington Nationals,3,0
+633935,2021-05-30,141,TOR,Toronto Blue Jays,114,CLE,Cleveland Indians,4,1
+633942,2021-05-30,135,SD,San Diego Padres,117,HOU,Houston Astros,4,7
+633946,2021-05-30,138,STL,St. Louis Cardinals,109,AZ,Arizona Diamondbacks,2,9
+633968,2021-05-30,140,TEX,Texas Rangers,136,SEA,Seattle Mariners,2,4
+633978,2021-05-30,115,COL,Colorado Rockies,134,PIT,Pittsburgh Pirates,4,3
+634042,2021-05-30,141,TOR,Toronto Blue Jays,114,CLE,Cleveland Indians,5,6
+633849,2021-05-31,133,OAK,Oakland Athletics,136,SEA,Seattle Mariners,5,6
+633851,2021-05-31,138,STL,St. Louis Cardinals,119,LAD,Los Angeles Dodgers,4,9
+633870,2021-05-31,135,SD,San Diego Padres,112,CHC,Chicago Cubs,2,7
+633884,2021-05-31,145,CWS,Chicago White Sox,114,CLE,Cleveland Indians,8,6
+633896,2021-05-31,111,BOS,Boston Red Sox,117,HOU,Houston Astros,2,11
+633897,2021-05-31,108,LAA,Los Angeles Angels,137,SF,San Francisco Giants,1,6
+633898,2021-05-31,139,TB,Tampa Bay Rays,147,NYY,New York Yankees,3,1
+633900,2021-05-31,134,PIT,Pittsburgh Pirates,118,KC,Kansas City Royals,3,7
+633917,2021-05-31,120,WSH,Washington Nationals,144,ATL,Atlanta Braves,3,5
+633919,2021-05-31,142,MIN,Minnesota Twins,110,BAL,Baltimore Orioles,3,2
+633926,2021-05-31,121,NYM,New York Mets,109,AZ,Arizona Diamondbacks,6,2
+633948,2021-05-31,116,DET,Detroit Tigers,158,MIL,Milwaukee Brewers,2,3
+633983,2021-05-31,143,PHI,Philadelphia Phillies,113,CIN,Cincinnati Reds,1,11
+634452,2021-05-31,145,CWS,Chicago White Sox,114,CLE,Cleveland Indians,1,3
+633856,2021-06-01,142,MIN,Minnesota Twins,110,BAL,Baltimore Orioles,4,7
+633857,2021-06-01,146,MIA,Miami Marlins,141,TOR,Toronto Blue Jays,1,5
+633861,2021-06-01,139,TB,Tampa Bay Rays,147,NYY,New York Yankees,3,5
+633863,2021-06-01,120,WSH,Washington Nationals,144,ATL,Atlanta Braves,11,6
+633864,2021-06-01,108,LAA,Los Angeles Angels,137,SF,San Francisco Giants,8,1
+633868,2021-06-01,143,PHI,Philadelphia Phillies,113,CIN,Cincinnati Reds,17,3
+633871,2021-06-01,133,OAK,Oakland Athletics,136,SEA,Seattle Mariners,12,6
+633873,2021-06-01,111,BOS,Boston Red Sox,117,HOU,Houston Astros,1,5
+633877,2021-06-01,145,CWS,Chicago White Sox,114,CLE,Cleveland Indians,5,6
+633878,2021-06-01,116,DET,Detroit Tigers,158,MIL,Milwaukee Brewers,10,7
+633879,2021-06-01,138,STL,St. Louis Cardinals,119,LAD,Los Angeles Dodgers,3,2
+633880,2021-06-01,135,SD,San Diego Padres,112,CHC,Chicago Cubs,3,4
+633885,2021-06-01,121,NYM,New York Mets,109,AZ,Arizona Diamondbacks,5,6
+633891,2021-06-01,134,PIT,Pittsburgh Pirates,118,KC,Kansas City Royals,5,10
+633895,2021-06-01,140,TEX,Texas Rangers,115,COL,Colorado Rockies,2,3
+633834,2021-06-02,121,NYM,New York Mets,109,AZ,Arizona Diamondbacks,7,6
+633842,2021-06-02,111,BOS,Boston Red Sox,117,HOU,Houston Astros,1,2
+633844,2021-06-02,146,MIA,Miami Marlins,141,TOR,Toronto Blue Jays,5,6
+633848,2021-06-02,140,TEX,Texas Rangers,115,COL,Colorado Rockies,3,6
+633853,2021-06-02,142,MIN,Minnesota Twins,110,BAL,Baltimore Orioles,3,6
+633855,2021-06-02,135,SD,San Diego Padres,112,CHC,Chicago Cubs,1,6
+633882,2021-06-02,139,TB,Tampa Bay Rays,147,NYY,New York Yankees,3,4
+633883,2021-06-02,120,WSH,Washington Nationals,144,ATL,Atlanta Braves,5,3
+633954,2021-06-02,133,OAK,Oakland Athletics,136,SEA,Seattle Mariners,6,0
+633988,2021-06-02,138,STL,St. Louis Cardinals,119,LAD,Los Angeles Dodgers,3,14
+633809,2021-06-03,113,CIN,Cincinnati Reds,138,STL,St. Louis Cardinals,4,2
+633819,2021-06-03,139,TB,Tampa Bay Rays,147,NYY,New York Yankees,9,2
+633823,2021-06-03,112,CHC,Chicago Cubs,137,SF,San Francisco Giants,2,7
+633831,2021-06-03,111,BOS,Boston Red Sox,117,HOU,Houston Astros,5,1
+633832,2021-06-03,136,SEA,Seattle Mariners,108,LAA,Los Angeles Angels,6,2
+633833,2021-06-03,142,MIN,Minnesota Twins,118,KC,Kansas City Royals,5,6
+633835,2021-06-03,146,MIA,Miami Marlins,134,PIT,Pittsburgh Pirates,3,5
+633836,2021-06-03,120,WSH,Washington Nationals,144,ATL,Atlanta Braves,1,5
+633841,2021-06-03,121,NYM,New York Mets,135,SD,San Diego Padres,3,4
+633859,2021-06-03,116,DET,Detroit Tigers,145,CWS,Chicago White Sox,1,4
+633860,2021-06-03,140,TEX,Texas Rangers,115,COL,Colorado Rockies,6,11
+633876,2021-06-03,109,AZ,Arizona Diamondbacks,158,MIL,Milwaukee Brewers,4,7
+633815,2021-06-04,117,HOU,Houston Astros,141,TOR,Toronto Blue Jays,13,1
+633816,2021-06-04,121,NYM,New York Mets,135,SD,San Diego Padres,0,2
+633817,2021-06-04,112,CHC,Chicago Cubs,137,SF,San Francisco Giants,5,8
+633818,2021-06-04,114,CLE,Cleveland Indians,110,BAL,Baltimore Orioles,1,3
+633820,2021-06-04,119,LAD,Los Angeles Dodgers,144,ATL,Atlanta Braves,9,5
+633824,2021-06-04,111,BOS,Boston Red Sox,147,NYY,New York Yankees,5,2
+633825,2021-06-04,113,CIN,Cincinnati Reds,138,STL,St. Louis Cardinals,6,4
+633830,2021-06-04,139,TB,Tampa Bay Rays,140,TEX,Texas Rangers,4,5
+633837,2021-06-04,136,SEA,Seattle Mariners,108,LAA,Los Angeles Angels,2,3
+633838,2021-06-04,142,MIN,Minnesota Twins,118,KC,Kansas City Royals,5,14
+633840,2021-06-04,116,DET,Detroit Tigers,145,CWS,Chicago White Sox,8,9
+633846,2021-06-04,109,AZ,Arizona Diamondbacks,158,MIL,Milwaukee Brewers,1,5
+633858,2021-06-04,146,MIA,Miami Marlins,134,PIT,Pittsburgh Pirates,2,9
+633862,2021-06-04,120,WSH,Washington Nationals,143,PHI,Philadelphia Phillies,2,1
+633865,2021-06-04,133,OAK,Oakland Athletics,115,COL,Colorado Rockies,9,5
+633787,2021-06-05,146,MIA,Miami Marlins,134,PIT,Pittsburgh Pirates,7,8
+633795,2021-06-05,120,WSH,Washington Nationals,143,PHI,Philadelphia Phillies,2,5
+633797,2021-06-05,113,CIN,Cincinnati Reds,138,STL,St. Louis Cardinals,5,2
+633799,2021-06-05,142,MIN,Minnesota Twins,118,KC,Kansas City Royals,5,4
+633800,2021-06-05,117,HOU,Houston Astros,141,TOR,Toronto Blue Jays,2,6
+633807,2021-06-05,114,CLE,Cleveland Indians,110,BAL,Baltimore Orioles,10,4
+633821,2021-06-05,121,NYM,New York Mets,135,SD,San Diego Padres,4,0
+633827,2021-06-05,109,AZ,Arizona Diamondbacks,158,MIL,Milwaukee Brewers,5,7
+633828,2021-06-05,119,LAD,Los Angeles Dodgers,144,ATL,Atlanta Braves,4,6
+633839,2021-06-05,139,TB,Tampa Bay Rays,140,TEX,Texas Rangers,3,0
+633845,2021-06-05,136,SEA,Seattle Mariners,108,LAA,Los Angeles Angels,5,12
+633850,2021-06-05,133,OAK,Oakland Athletics,115,COL,Colorado Rockies,6,3
+633852,2021-06-05,111,BOS,Boston Red Sox,147,NYY,New York Yankees,7,3
+633886,2021-06-05,112,CHC,Chicago Cubs,137,SF,San Francisco Giants,3,4
+633920,2021-06-05,116,DET,Detroit Tigers,145,CWS,Chicago White Sox,4,3
+633774,2021-06-06,116,DET,Detroit Tigers,145,CWS,Chicago White Sox,0,3
+633780,2021-06-06,117,HOU,Houston Astros,141,TOR,Toronto Blue Jays,6,3
+633786,2021-06-06,120,WSH,Washington Nationals,143,PHI,Philadelphia Phillies,6,12
+633794,2021-06-06,146,MIA,Miami Marlins,134,PIT,Pittsburgh Pirates,3,1
+633798,2021-06-06,109,AZ,Arizona Diamondbacks,158,MIL,Milwaukee Brewers,0,2
+633802,2021-06-06,139,TB,Tampa Bay Rays,140,TEX,Texas Rangers,7,1
+633806,2021-06-06,121,NYM,New York Mets,135,SD,San Diego Padres,6,2
+633808,2021-06-06,113,CIN,Cincinnati Reds,138,STL,St. Louis Cardinals,8,7
+633810,2021-06-06,119,LAD,Los Angeles Dodgers,144,ATL,Atlanta Braves,2,4
+633812,2021-06-06,111,BOS,Boston Red Sox,147,NYY,New York Yankees,6,5
+633814,2021-06-06,114,CLE,Cleveland Indians,110,BAL,Baltimore Orioles,5,18
+633843,2021-06-06,136,SEA,Seattle Mariners,108,LAA,Los Angeles Angels,9,5
+633847,2021-06-06,133,OAK,Oakland Athletics,115,COL,Colorado Rockies,1,3
+633869,2021-06-06,112,CHC,Chicago Cubs,137,SF,San Francisco Giants,4,3
+633893,2021-06-06,142,MIN,Minnesota Twins,118,KC,Kansas City Royals,2,1
+633779,2021-06-07,112,CHC,Chicago Cubs,135,SD,San Diego Padres,4,9
+633796,2021-06-07,118,KC,Kansas City Royals,108,LAA,Los Angeles Angels,3,8
+634072,2021-06-07,146,MIA,Miami Marlins,111,BOS,Boston Red Sox,3,5
+633752,2021-06-08,137,SF,San Francisco Giants,140,TEX,Texas Rangers,9,4
+633765,2021-06-08,109,AZ,Arizona Diamondbacks,133,OAK,Oakland Athletics,2,5
+633766,2021-06-08,120,WSH,Washington Nationals,139,TB,Tampa Bay Rays,1,3
+633772,2021-06-08,119,LAD,Los Angeles Dodgers,134,PIT,Pittsburgh Pirates,5,3
+633773,2021-06-08,121,NYM,New York Mets,110,BAL,Baltimore Orioles,3,10
+633777,2021-06-08,112,CHC,Chicago Cubs,135,SD,San Diego Padres,7,1
+633778,2021-06-08,114,CLE,Cleveland Indians,138,STL,St. Louis Cardinals,10,1
+633785,2021-06-08,144,ATL,Atlanta Braves,143,PHI,Philadelphia Phillies,9,5
+633788,2021-06-08,141,TOR,Toronto Blue Jays,145,CWS,Chicago White Sox,1,6
+633793,2021-06-08,117,HOU,Houston Astros,111,BOS,Boston Red Sox,7,1
+633801,2021-06-08,158,MIL,Milwaukee Brewers,113,CIN,Cincinnati Reds,5,1
+633804,2021-06-08,147,NYY,New York Yankees,142,MIN,Minnesota Twins,8,4
+633813,2021-06-08,115,COL,Colorado Rockies,146,MIA,Miami Marlins,2,6
+633822,2021-06-08,136,SEA,Seattle Mariners,116,DET,Detroit Tigers,3,5
+633826,2021-06-08,118,KC,Kansas City Royals,108,LAA,Los Angeles Angels,1,8
+633738,2021-06-09,115,COL,Colorado Rockies,146,MIA,Miami Marlins,4,3
+633739,2021-06-09,112,CHC,Chicago Cubs,135,SD,San Diego Padres,3,1
+633753,2021-06-09,119,LAD,Los Angeles Dodgers,134,PIT,Pittsburgh Pirates,2,1
+633756,2021-06-09,137,SF,San Francisco Giants,140,TEX,Texas Rangers,3,4
+633759,2021-06-09,136,SEA,Seattle Mariners,116,DET,Detroit Tigers,9,6
+633764,2021-06-09,144,ATL,Atlanta Braves,143,PHI,Philadelphia Phillies,1,2
+633767,2021-06-09,120,WSH,Washington Nationals,139,TB,Tampa Bay Rays,9,7
+633775,2021-06-09,114,CLE,Cleveland Indians,138,STL,St. Louis Cardinals,2,8
+633776,2021-06-09,118,KC,Kansas City Royals,108,LAA,Los Angeles Angels,1,6
+633783,2021-06-09,141,TOR,Toronto Blue Jays,145,CWS,Chicago White Sox,6,2
+633784,2021-06-09,109,AZ,Arizona Diamondbacks,133,OAK,Oakland Athletics,0,4
+633791,2021-06-09,158,MIL,Milwaukee Brewers,113,CIN,Cincinnati Reds,3,7
+633792,2021-06-09,147,NYY,New York Yankees,142,MIN,Minnesota Twins,9,6
+633803,2021-06-09,117,HOU,Houston Astros,111,BOS,Boston Red Sox,8,3
+633811,2021-06-09,121,NYM,New York Mets,110,BAL,Baltimore Orioles,14,1
+633733,2021-06-10,141,TOR,Toronto Blue Jays,145,CWS,Chicago White Sox,2,5
+633744,2021-06-10,119,LAD,Los Angeles Dodgers,134,PIT,Pittsburgh Pirates,6,3
+633748,2021-06-10,115,COL,Colorado Rockies,146,MIA,Miami Marlins,4,11
+633754,2021-06-10,136,SEA,Seattle Mariners,116,DET,Detroit Tigers,3,8
+633757,2021-06-10,158,MIL,Milwaukee Brewers,113,CIN,Cincinnati Reds,7,2
+633758,2021-06-10,117,HOU,Houston Astros,111,BOS,Boston Red Sox,8,12
+633762,2021-06-10,144,ATL,Atlanta Braves,143,PHI,Philadelphia Phillies,3,4
+633770,2021-06-10,118,KC,Kansas City Royals,133,OAK,Oakland Athletics,6,1
+633790,2021-06-10,147,NYY,New York Yankees,142,MIN,Minnesota Twins,5,7
+633717,2021-06-11,118,KC,Kansas City Royals,133,OAK,Oakland Athletics,3,4
+633720,2021-06-11,117,HOU,Houston Astros,142,MIN,Minnesota Twins,6,4
+633731,2021-06-11,108,LAA,Los Angeles Angels,109,AZ,Arizona Diamondbacks,6,5
+633735,2021-06-11,141,TOR,Toronto Blue Jays,111,BOS,Boston Red Sox,5,6
+633741,2021-06-11,115,COL,Colorado Rockies,113,CIN,Cincinnati Reds,5,11
+633742,2021-06-11,138,STL,St. Louis Cardinals,112,CHC,Chicago Cubs,5,8
+633743,2021-06-11,136,SEA,Seattle Mariners,114,CLE,Cleveland Indians,0,7
+633746,2021-06-11,137,SF,San Francisco Giants,120,WSH,Washington Nationals,1,0
+633761,2021-06-11,140,TEX,Texas Rangers,119,LAD,Los Angeles Dodgers,1,12
+633768,2021-06-11,134,PIT,Pittsburgh Pirates,158,MIL,Milwaukee Brewers,4,7
+633771,2021-06-11,135,SD,San Diego Padres,121,NYM,New York Mets,2,3
+633781,2021-06-11,110,BAL,Baltimore Orioles,139,TB,Tampa Bay Rays,2,4
+633782,2021-06-11,144,ATL,Atlanta Braves,146,MIA,Miami Marlins,3,4
+633789,2021-06-11,145,CWS,Chicago White Sox,116,DET,Detroit Tigers,5,4
+633698,2021-06-12,137,SF,San Francisco Giants,120,WSH,Washington Nationals,2,1
+633699,2021-06-12,110,BAL,Baltimore Orioles,139,TB,Tampa Bay Rays,4,5
+633704,2021-06-12,144,ATL,Atlanta Braves,146,MIA,Miami Marlins,2,4
+633712,2021-06-12,108,LAA,Los Angeles Angels,109,AZ,Arizona Diamondbacks,8,7
+633718,2021-06-12,118,KC,Kansas City Royals,133,OAK,Oakland Athletics,2,11
+633721,2021-06-12,145,CWS,Chicago White Sox,116,DET,Detroit Tigers,15,2
+633723,2021-06-12,140,TEX,Texas Rangers,119,LAD,Los Angeles Dodgers,12,1
+633725,2021-06-12,136,SEA,Seattle Mariners,114,CLE,Cleveland Indians,4,5
+633726,2021-06-12,134,PIT,Pittsburgh Pirates,158,MIL,Milwaukee Brewers,4,7
+633730,2021-06-12,115,COL,Colorado Rockies,113,CIN,Cincinnati Reds,3,10
+633732,2021-06-12,135,SD,San Diego Padres,121,NYM,New York Mets,1,4
+633736,2021-06-12,117,HOU,Houston Astros,142,MIN,Minnesota Twins,2,5
+633740,2021-06-12,138,STL,St. Louis Cardinals,112,CHC,Chicago Cubs,2,7
+633745,2021-06-12,137,SF,San Francisco Giants,120,WSH,Washington Nationals,0,2
+633751,2021-06-12,141,TOR,Toronto Blue Jays,111,BOS,Boston Red Sox,7,2
+633763,2021-06-12,147,NYY,New York Yankees,143,PHI,Philadelphia Phillies,7,8
+633688,2021-06-13,145,CWS,Chicago White Sox,116,DET,Detroit Tigers,4,1
+633689,2021-06-13,138,STL,St. Louis Cardinals,112,CHC,Chicago Cubs,0,2
+633690,2021-06-13,136,SEA,Seattle Mariners,114,CLE,Cleveland Indians,6,2
+633696,2021-06-13,108,LAA,Los Angeles Angels,109,AZ,Arizona Diamondbacks,10,3
+633707,2021-06-13,118,KC,Kansas City Royals,133,OAK,Oakland Athletics,3,6
+633710,2021-06-13,137,SF,San Francisco Giants,120,WSH,Washington Nationals,0,5
+633711,2021-06-13,115,COL,Colorado Rockies,113,CIN,Cincinnati Reds,2,6
+633713,2021-06-13,134,PIT,Pittsburgh Pirates,158,MIL,Milwaukee Brewers,2,5
+633715,2021-06-13,147,NYY,New York Yankees,143,PHI,Philadelphia Phillies,0,7
+633719,2021-06-13,140,TEX,Texas Rangers,119,LAD,Los Angeles Dodgers,3,5
+633722,2021-06-13,135,SD,San Diego Padres,121,NYM,New York Mets,7,3
+633728,2021-06-13,141,TOR,Toronto Blue Jays,111,BOS,Boston Red Sox,18,4
+633737,2021-06-13,110,BAL,Baltimore Orioles,139,TB,Tampa Bay Rays,1,7
+633749,2021-06-13,117,HOU,Houston Astros,142,MIN,Minnesota Twins,14,3
+633805,2021-06-13,144,ATL,Atlanta Braves,146,MIA,Miami Marlins,6,4
+633652,2021-06-14,143,PHI,Philadelphia Phillies,119,LAD,Los Angeles Dodgers,1,3
+633655,2021-06-14,116,DET,Detroit Tigers,118,KC,Kansas City Royals,10,3
+633673,2021-06-14,139,TB,Tampa Bay Rays,145,CWS,Chicago White Sox,5,2
+633678,2021-06-14,112,CHC,Chicago Cubs,121,NYM,New York Mets,2,5
+633680,2021-06-14,113,CIN,Cincinnati Reds,158,MIL,Milwaukee Brewers,10,2
+633693,2021-06-14,134,PIT,Pittsburgh Pirates,120,WSH,Washington Nationals,2,3
+633700,2021-06-14,141,TOR,Toronto Blue Jays,111,BOS,Boston Red Sox,1,2
+633703,2021-06-14,135,SD,San Diego Padres,115,COL,Colorado Rockies,2,3
+633705,2021-06-14,110,BAL,Baltimore Orioles,114,CLE,Cleveland Indians,3,4
+633716,2021-06-14,142,MIN,Minnesota Twins,136,SEA,Seattle Mariners,3,4
+633727,2021-06-14,146,MIA,Miami Marlins,138,STL,St. Louis Cardinals,2,4
+633729,2021-06-14,108,LAA,Los Angeles Angels,133,OAK,Oakland Athletics,5,8
+633734,2021-06-14,109,AZ,Arizona Diamondbacks,137,SF,San Francisco Giants,2,5
+633626,2021-06-15,142,MIN,Minnesota Twins,136,SEA,Seattle Mariners,0,10
+633653,2021-06-15,147,NYY,New York Yankees,141,TOR,Toronto Blue Jays,6,5
+633656,2021-06-15,108,LAA,Los Angeles Angels,133,OAK,Oakland Athletics,4,6
+633675,2021-06-15,143,PHI,Philadelphia Phillies,119,LAD,Los Angeles Dodgers,3,5
+633676,2021-06-15,139,TB,Tampa Bay Rays,145,CWS,Chicago White Sox,0,3
+633679,2021-06-15,109,AZ,Arizona Diamondbacks,137,SF,San Francisco Giants,8,9
+633681,2021-06-15,112,CHC,Chicago Cubs,121,NYM,New York Mets,2,3
+633684,2021-06-15,134,PIT,Pittsburgh Pirates,120,WSH,Washington Nationals,1,8
+633694,2021-06-15,146,MIA,Miami Marlins,138,STL,St. Louis Cardinals,1,2
+633701,2021-06-15,135,SD,San Diego Padres,115,COL,Colorado Rockies,4,8
+633714,2021-06-15,113,CIN,Cincinnati Reds,158,MIL,Milwaukee Brewers,2,1
+633724,2021-06-15,111,BOS,Boston Red Sox,144,ATL,Atlanta Braves,10,8
+633755,2021-06-15,116,DET,Detroit Tigers,118,KC,Kansas City Royals,4,3
+633769,2021-06-15,110,BAL,Baltimore Orioles,114,CLE,Cleveland Indians,2,7
+633829,2021-06-15,140,TEX,Texas Rangers,117,HOU,Houston Astros,3,6
+633612,2021-06-16,116,DET,Detroit Tigers,118,KC,Kansas City Royals,6,5
+633619,2021-06-16,140,TEX,Texas Rangers,117,HOU,Houston Astros,4,8
+633628,2021-06-16,134,PIT,Pittsburgh Pirates,120,WSH,Washington Nationals,1,3
+633630,2021-06-16,112,CHC,Chicago Cubs,121,NYM,New York Mets,3,6
+633632,2021-06-16,108,LAA,Los Angeles Angels,133,OAK,Oakland Athletics,4,8
+633634,2021-06-16,139,TB,Tampa Bay Rays,145,CWS,Chicago White Sox,7,8
+633645,2021-06-16,109,AZ,Arizona Diamondbacks,137,SF,San Francisco Giants,7,13
+633658,2021-06-16,142,MIN,Minnesota Twins,136,SEA,Seattle Mariners,7,2
+633659,2021-06-16,110,BAL,Baltimore Orioles,114,CLE,Cleveland Indians,7,8
+633665,2021-06-16,113,CIN,Cincinnati Reds,158,MIL,Milwaukee Brewers,2,1
+633677,2021-06-16,143,PHI,Philadelphia Phillies,119,LAD,Los Angeles Dodgers,2,0
+633695,2021-06-16,147,NYY,New York Yankees,141,TOR,Toronto Blue Jays,3,2
+633706,2021-06-16,135,SD,San Diego Padres,115,COL,Colorado Rockies,7,8
+633708,2021-06-16,111,BOS,Boston Red Sox,144,ATL,Atlanta Braves,10,8
+633709,2021-06-16,146,MIA,Miami Marlins,138,STL,St. Louis Cardinals,0,1
+633617,2021-06-17,113,CIN,Cincinnati Reds,135,SD,San Diego Padres,4,6
+633622,2021-06-17,109,AZ,Arizona Diamondbacks,137,SF,San Francisco Giants,3,10
+633623,2021-06-17,158,MIL,Milwaukee Brewers,115,COL,Colorado Rockies,3,7
+633624,2021-06-17,116,DET,Detroit Tigers,108,LAA,Los Angeles Angels,5,7
+633633,2021-06-17,147,NYY,New York Yankees,141,TOR,Toronto Blue Jays,8,4
+633641,2021-06-17,110,BAL,Baltimore Orioles,114,CLE,Cleveland Indians,3,10
+633687,2021-06-17,145,CWS,Chicago White Sox,117,HOU,Houston Astros,2,10
+633691,2021-06-17,138,STL,St. Louis Cardinals,144,ATL,Atlanta Braves,0,4
+633692,2021-06-17,112,CHC,Chicago Cubs,121,NYM,New York Mets,2,0
+633697,2021-06-17,139,TB,Tampa Bay Rays,136,SEA,Seattle Mariners,5,6
+633579,2021-06-18,142,MIN,Minnesota Twins,140,TEX,Texas Rangers,7,5
+633584,2021-06-18,114,CLE,Cleveland Indians,134,PIT,Pittsburgh Pirates,10,11
+633593,2021-06-18,141,TOR,Toronto Blue Jays,110,BAL,Baltimore Orioles,1,7
+633596,2021-06-18,113,CIN,Cincinnati Reds,135,SD,San Diego Padres,2,8
+633600,2021-06-18,143,PHI,Philadelphia Phillies,137,SF,San Francisco Giants,3,5
+633604,2021-06-18,119,LAD,Los Angeles Dodgers,109,AZ,Arizona Diamondbacks,3,0
+633607,2021-06-18,138,STL,St. Louis Cardinals,144,ATL,Atlanta Braves,1,9
+633609,2021-06-18,133,OAK,Oakland Athletics,147,NYY,New York Yankees,5,3
+633615,2021-06-18,139,TB,Tampa Bay Rays,136,SEA,Seattle Mariners,1,5
+633616,2021-06-18,158,MIL,Milwaukee Brewers,115,COL,Colorado Rockies,5,6
+633618,2021-06-18,121,NYM,New York Mets,120,WSH,Washington Nationals,0,1
+633638,2021-06-18,146,MIA,Miami Marlins,112,CHC,Chicago Cubs,10,2
+633654,2021-06-18,116,DET,Detroit Tigers,108,LAA,Los Angeles Angels,3,11
+633683,2021-06-18,111,BOS,Boston Red Sox,118,KC,Kansas City Royals,3,5
+633702,2021-06-18,145,CWS,Chicago White Sox,117,HOU,Houston Astros,1,2
+633573,2021-06-19,141,TOR,Toronto Blue Jays,110,BAL,Baltimore Orioles,10,7
+633576,2021-06-19,145,CWS,Chicago White Sox,117,HOU,Houston Astros,3,7
+633577,2021-06-19,158,MIL,Milwaukee Brewers,115,COL,Colorado Rockies,6,5
+633583,2021-06-19,121,NYM,New York Mets,120,WSH,Washington Nationals,2,6
+633585,2021-06-19,111,BOS,Boston Red Sox,118,KC,Kansas City Royals,7,1
+633590,2021-06-19,114,CLE,Cleveland Indians,134,PIT,Pittsburgh Pirates,3,6
+633592,2021-06-19,143,PHI,Philadelphia Phillies,137,SF,San Francisco Giants,13,6
+633594,2021-06-19,142,MIN,Minnesota Twins,140,TEX,Texas Rangers,3,2
+633597,2021-06-19,113,CIN,Cincinnati Reds,135,SD,San Diego Padres,5,7
+633598,2021-06-19,119,LAD,Los Angeles Dodgers,109,AZ,Arizona Diamondbacks,9,3
+633606,2021-06-19,133,OAK,Oakland Athletics,147,NYY,New York Yankees,5,7
+633613,2021-06-19,146,MIA,Miami Marlins,112,CHC,Chicago Cubs,11,1
+633650,2021-06-19,116,DET,Detroit Tigers,108,LAA,Los Angeles Angels,3,8
+633661,2021-06-19,139,TB,Tampa Bay Rays,136,SEA,Seattle Mariners,5,6
+634647,2021-06-19,121,NYM,New York Mets,120,WSH,Washington Nationals,5,1
+633550,2021-06-20,114,CLE,Cleveland Indians,134,PIT,Pittsburgh Pirates,2,1
+633554,2021-06-20,139,TB,Tampa Bay Rays,136,SEA,Seattle Mariners,2,6
+633557,2021-06-20,121,NYM,New York Mets,120,WSH,Washington Nationals,2,5
+633558,2021-06-20,111,BOS,Boston Red Sox,118,KC,Kansas City Royals,3,7
+633563,2021-06-20,116,DET,Detroit Tigers,108,LAA,Los Angeles Angels,5,3
+633565,2021-06-20,138,STL,St. Louis Cardinals,144,ATL,Atlanta Braves,0,1
+633566,2021-06-20,113,CIN,Cincinnati Reds,135,SD,San Diego Padres,2,3
+633567,2021-06-20,158,MIL,Milwaukee Brewers,115,COL,Colorado Rockies,7,6
+633574,2021-06-20,142,MIN,Minnesota Twins,140,TEX,Texas Rangers,4,2
+633575,2021-06-20,133,OAK,Oakland Athletics,147,NYY,New York Yankees,1,2
+633582,2021-06-20,119,LAD,Los Angeles Dodgers,109,AZ,Arizona Diamondbacks,9,8
+633602,2021-06-20,145,CWS,Chicago White Sox,117,HOU,Houston Astros,2,8
+633610,2021-06-20,138,STL,St. Louis Cardinals,144,ATL,Atlanta Braves,9,1
+633611,2021-06-20,143,PHI,Philadelphia Phillies,137,SF,San Francisco Giants,2,11
+633629,2021-06-20,146,MIA,Miami Marlins,112,CHC,Chicago Cubs,0,2
+633636,2021-06-20,141,TOR,Toronto Blue Jays,110,BAL,Baltimore Orioles,7,4
+633533,2021-06-21,158,MIL,Milwaukee Brewers,109,AZ,Arizona Diamondbacks,1,5
+633542,2021-06-21,114,CLE,Cleveland Indians,112,CHC,Chicago Cubs,4,0
+633588,2021-06-21,113,CIN,Cincinnati Reds,142,MIN,Minnesota Twins,5,7
+633605,2021-06-21,133,OAK,Oakland Athletics,140,TEX,Texas Rangers,3,8
+633651,2021-06-21,119,LAD,Los Angeles Dodgers,135,SD,San Diego Padres,2,6
+633747,2021-06-21,117,HOU,Houston Astros,110,BAL,Baltimore Orioles,10,2
+633760,2021-06-21,144,ATL,Atlanta Braves,121,NYM,New York Mets,2,4
+633899,2021-06-21,144,ATL,Atlanta Braves,121,NYM,New York Mets,1,0
+633519,2021-06-22,111,BOS,Boston Red Sox,139,TB,Tampa Bay Rays,9,5
+633526,2021-06-22,138,STL,St. Louis Cardinals,116,DET,Detroit Tigers,2,8
+633528,2021-06-22,115,COL,Colorado Rockies,136,SEA,Seattle Mariners,1,2
+633532,2021-06-22,133,OAK,Oakland Athletics,140,TEX,Texas Rangers,13,6
+633537,2021-06-22,114,CLE,Cleveland Indians,112,CHC,Chicago Cubs,1,7
+633540,2021-06-22,119,LAD,Los Angeles Dodgers,135,SD,San Diego Padres,2,3
+633547,2021-06-22,117,HOU,Houston Astros,110,BAL,Baltimore Orioles,3,1
+633549,2021-06-22,120,WSH,Washington Nationals,143,PHI,Philadelphia Phillies,3,2
+633571,2021-06-22,141,TOR,Toronto Blue Jays,146,MIA,Miami Marlins,2,1
+633572,2021-06-22,145,CWS,Chicago White Sox,134,PIT,Pittsburgh Pirates,3,6
+633580,2021-06-22,113,CIN,Cincinnati Reds,142,MIN,Minnesota Twins,10,7
+633603,2021-06-22,158,MIL,Milwaukee Brewers,109,AZ,Arizona Diamondbacks,5,0
+633621,2021-06-22,118,KC,Kansas City Royals,147,NYY,New York Yankees,6,5
+633670,2021-06-22,137,SF,San Francisco Giants,108,LAA,Los Angeles Angels,5,0
+633750,2021-06-22,144,ATL,Atlanta Braves,121,NYM,New York Mets,3,0
+633513,2021-06-23,141,TOR,Toronto Blue Jays,146,MIA,Miami Marlins,3,1
+633524,2021-06-23,111,BOS,Boston Red Sox,139,TB,Tampa Bay Rays,2,8
+633541,2021-06-23,138,STL,St. Louis Cardinals,116,DET,Detroit Tigers,2,6
+633546,2021-06-23,120,WSH,Washington Nationals,143,PHI,Philadelphia Phillies,13,12
+633551,2021-06-23,118,KC,Kansas City Royals,147,NYY,New York Yankees,5,6
+633553,2021-06-23,133,OAK,Oakland Athletics,140,TEX,Texas Rangers,3,5
+633561,2021-06-23,144,ATL,Atlanta Braves,121,NYM,New York Mets,3,7
+633568,2021-06-23,117,HOU,Houston Astros,110,BAL,Baltimore Orioles,13,0
+633569,2021-06-23,145,CWS,Chicago White Sox,134,PIT,Pittsburgh Pirates,4,3
+633570,2021-06-23,137,SF,San Francisco Giants,108,LAA,Los Angeles Angels,9,3
+633578,2021-06-23,158,MIL,Milwaukee Brewers,109,AZ,Arizona Diamondbacks,3,2
+633614,2021-06-23,115,COL,Colorado Rockies,136,SEA,Seattle Mariners,5,2
+633627,2021-06-23,119,LAD,Los Angeles Dodgers,135,SD,San Diego Padres,3,5
+633502,2021-06-24,134,PIT,Pittsburgh Pirates,138,STL,St. Louis Cardinals,8,2
+633503,2021-06-24,133,OAK,Oakland Athletics,140,TEX,Texas Rangers,5,1
+633505,2021-06-24,112,CHC,Chicago Cubs,119,LAD,Los Angeles Dodgers,4,0
+633514,2021-06-24,144,ATL,Atlanta Braves,113,CIN,Cincinnati Reds,3,5
+633517,2021-06-24,111,BOS,Boston Red Sox,139,TB,Tampa Bay Rays,0,1
+633538,2021-06-24,114,CLE,Cleveland Indians,142,MIN,Minnesota Twins,4,1
+633548,2021-06-24,120,WSH,Washington Nationals,146,MIA,Miami Marlins,7,3
+633559,2021-06-24,118,KC,Kansas City Royals,147,NYY,New York Yankees,1,8
+633560,2021-06-24,110,BAL,Baltimore Orioles,141,TOR,Toronto Blue Jays,0,9
+633564,2021-06-24,117,HOU,Houston Astros,116,DET,Detroit Tigers,12,3
+633492,2021-06-25,109,AZ,Arizona Diamondbacks,135,SD,San Diego Padres,5,11
+633498,2021-06-25,134,PIT,Pittsburgh Pirates,138,STL,St. Louis Cardinals,5,4
+633521,2021-06-25,144,ATL,Atlanta Braves,113,CIN,Cincinnati Reds,3,2
+633523,2021-06-25,133,OAK,Oakland Athletics,137,SF,San Francisco Giants,0,2
+633535,2021-06-25,108,LAA,Los Angeles Angels,139,TB,Tampa Bay Rays,3,4
+633536,2021-06-25,110,BAL,Baltimore Orioles,141,TOR,Toronto Blue Jays,6,5
+633543,2021-06-25,147,NYY,New York Yankees,111,BOS,Boston Red Sox,3,5
+633545,2021-06-25,143,PHI,Philadelphia Phillies,121,NYM,New York Mets,1,2
+633555,2021-06-25,114,CLE,Cleveland Indians,142,MIN,Minnesota Twins,7,8
+633556,2021-06-25,118,KC,Kansas City Royals,140,TEX,Texas Rangers,4,9
+633591,2021-06-25,120,WSH,Washington Nationals,146,MIA,Miami Marlins,2,11
+633599,2021-06-25,115,COL,Colorado Rockies,158,MIL,Milwaukee Brewers,4,5
+633608,2021-06-25,112,CHC,Chicago Cubs,119,LAD,Los Angeles Dodgers,2,6
+633620,2021-06-25,136,SEA,Seattle Mariners,145,CWS,Chicago White Sox,9,3
+634515,2021-06-25,143,PHI,Philadelphia Phillies,121,NYM,New York Mets,2,1
+633500,2021-06-26,133,OAK,Oakland Athletics,137,SF,San Francisco Giants,5,6
+633501,2021-06-26,136,SEA,Seattle Mariners,145,CWS,Chicago White Sox,3,2
+633509,2021-06-26,117,HOU,Houston Astros,116,DET,Detroit Tigers,3,2
+633510,2021-06-26,144,ATL,Atlanta Braves,113,CIN,Cincinnati Reds,1,4
+633512,2021-06-26,109,AZ,Arizona Diamondbacks,135,SD,San Diego Padres,10,1
+633518,2021-06-26,115,COL,Colorado Rockies,158,MIL,Milwaukee Brewers,4,10
+633520,2021-06-26,110,BAL,Baltimore Orioles,141,TOR,Toronto Blue Jays,4,12
+633525,2021-06-26,108,LAA,Los Angeles Angels,139,TB,Tampa Bay Rays,3,13
+633530,2021-06-26,117,HOU,Houston Astros,116,DET,Detroit Tigers,1,3
+633531,2021-06-26,147,NYY,New York Yankees,111,BOS,Boston Red Sox,2,4
+633534,2021-06-26,118,KC,Kansas City Royals,140,TEX,Texas Rangers,0,8
+633539,2021-06-26,143,PHI,Philadelphia Phillies,121,NYM,New York Mets,3,4
+633552,2021-06-26,120,WSH,Washington Nationals,146,MIA,Miami Marlins,2,3
+633562,2021-06-26,112,CHC,Chicago Cubs,119,LAD,Los Angeles Dodgers,2,3
+633589,2021-06-26,134,PIT,Pittsburgh Pirates,138,STL,St. Louis Cardinals,1,3
+633459,2021-06-27,108,LAA,Los Angeles Angels,139,TB,Tampa Bay Rays,6,4
+633472,2021-06-27,112,CHC,Chicago Cubs,119,LAD,Los Angeles Dodgers,1,7
+633473,2021-06-27,114,CLE,Cleveland Indians,142,MIN,Minnesota Twins,2,8
+633477,2021-06-27,147,NYY,New York Yankees,111,BOS,Boston Red Sox,2,9
+633482,2021-06-27,134,PIT,Pittsburgh Pirates,138,STL,St. Louis Cardinals,7,2
+633486,2021-06-27,115,COL,Colorado Rockies,158,MIL,Milwaukee Brewers,0,5
+633489,2021-06-27,120,WSH,Washington Nationals,146,MIA,Miami Marlins,5,1
+633493,2021-06-27,144,ATL,Atlanta Braves,113,CIN,Cincinnati Reds,4,0
+633494,2021-06-27,117,HOU,Houston Astros,116,DET,Detroit Tigers,1,2
+633499,2021-06-27,136,SEA,Seattle Mariners,145,CWS,Chicago White Sox,5,7
+633504,2021-06-27,143,PHI,Philadelphia Phillies,121,NYM,New York Mets,4,2
+633515,2021-06-27,110,BAL,Baltimore Orioles,141,TOR,Toronto Blue Jays,2,5
+633516,2021-06-27,118,KC,Kansas City Royals,140,TEX,Texas Rangers,1,4
+633527,2021-06-27,133,OAK,Oakland Athletics,137,SF,San Francisco Giants,6,2
+633544,2021-06-27,109,AZ,Arizona Diamondbacks,135,SD,San Diego Padres,4,5
+633450,2021-06-28,112,CHC,Chicago Cubs,158,MIL,Milwaukee Brewers,4,14
+633458,2021-06-28,137,SF,San Francisco Giants,119,LAD,Los Angeles Dodgers,2,3
+633465,2021-06-28,134,PIT,Pittsburgh Pirates,115,COL,Colorado Rockies,0,2
+633466,2021-06-28,116,DET,Detroit Tigers,114,CLE,Cleveland Indians,5,13
+633475,2021-06-28,118,KC,Kansas City Royals,111,BOS,Boston Red Sox,5,6
+633483,2021-06-28,110,BAL,Baltimore Orioles,117,HOU,Houston Astros,9,7
+633490,2021-06-28,109,AZ,Arizona Diamondbacks,138,STL,St. Louis Cardinals,1,7
+633601,2021-06-28,108,LAA,Los Angeles Angels,147,NYY,New York Yankees,5,3
+633867,2021-06-28,143,PHI,Philadelphia Phillies,113,CIN,Cincinnati Reds,4,12
+634620,2021-06-28,121,NYM,New York Mets,120,WSH,Washington Nationals,4,8
+633443,2021-06-29,139,TB,Tampa Bay Rays,120,WSH,Washington Nationals,3,4
+633444,2021-06-29,108,LAA,Los Angeles Angels,147,NYY,New York Yankees,5,11
+633446,2021-06-29,112,CHC,Chicago Cubs,158,MIL,Milwaukee Brewers,1,2
+633449,2021-06-29,110,BAL,Baltimore Orioles,117,HOU,Houston Astros,13,3
+633454,2021-06-29,135,SD,San Diego Padres,113,CIN,Cincinnati Reds,5,4
+633455,2021-06-29,134,PIT,Pittsburgh Pirates,115,COL,Colorado Rockies,0,8
+633471,2021-06-29,137,SF,San Francisco Giants,119,LAD,Los Angeles Dodgers,1,3
+633478,2021-06-29,142,MIN,Minnesota Twins,145,CWS,Chicago White Sox,6,7
+633488,2021-06-29,140,TEX,Texas Rangers,133,OAK,Oakland Athletics,5,4
+633495,2021-06-29,146,MIA,Miami Marlins,143,PHI,Philadelphia Phillies,3,4
+633496,2021-06-29,118,KC,Kansas City Royals,111,BOS,Boston Red Sox,6,7
+633497,2021-06-29,136,SEA,Seattle Mariners,141,TOR,Toronto Blue Jays,3,9
+633508,2021-06-29,109,AZ,Arizona Diamondbacks,138,STL,St. Louis Cardinals,2,3
+633587,2021-06-29,121,NYM,New York Mets,144,ATL,Atlanta Braves,4,3
+633419,2021-06-30,146,MIA,Miami Marlins,143,PHI,Philadelphia Phillies,11,6
+633426,2021-06-30,109,AZ,Arizona Diamondbacks,138,STL,St. Louis Cardinals,4,7
+633427,2021-06-30,139,TB,Tampa Bay Rays,120,WSH,Washington Nationals,6,15
+633432,2021-06-30,116,DET,Detroit Tigers,114,CLE,Cleveland Indians,9,4
+633435,2021-06-30,135,SD,San Diego Padres,113,CIN,Cincinnati Reds,7,5
+633437,2021-06-30,121,NYM,New York Mets,144,ATL,Atlanta Braves,2,20
+633445,2021-06-30,136,SEA,Seattle Mariners,141,TOR,Toronto Blue Jays,9,7
+633461,2021-06-30,140,TEX,Texas Rangers,133,OAK,Oakland Athletics,1,3
+633467,2021-06-30,118,KC,Kansas City Royals,111,BOS,Boston Red Sox,2,6
+633474,2021-06-30,112,CHC,Chicago Cubs,158,MIL,Milwaukee Brewers,7,15
+633479,2021-06-30,142,MIN,Minnesota Twins,145,CWS,Chicago White Sox,3,13
+633484,2021-06-30,108,LAA,Los Angeles Angels,147,NYY,New York Yankees,11,8
+633485,2021-06-30,110,BAL,Baltimore Orioles,117,HOU,Houston Astros,5,2
+633491,2021-06-30,134,PIT,Pittsburgh Pirates,115,COL,Colorado Rockies,2,6
+633506,2021-06-30,116,DET,Detroit Tigers,114,CLE,Cleveland Indians,7,1
+633405,2021-07-01,140,TEX,Texas Rangers,133,OAK,Oakland Athletics,8,3
+633418,2021-07-01,121,NYM,New York Mets,144,ATL,Atlanta Braves,3,4
+633438,2021-07-01,137,SF,San Francisco Giants,109,AZ,Arizona Diamondbacks,3,5
+633456,2021-07-01,136,SEA,Seattle Mariners,141,TOR,Toronto Blue Jays,7,2
+633457,2021-07-01,118,KC,Kansas City Royals,111,BOS,Boston Red Sox,1,15
+633460,2021-07-01,138,STL,St. Louis Cardinals,115,COL,Colorado Rockies,2,5
+633463,2021-07-01,158,MIL,Milwaukee Brewers,134,PIT,Pittsburgh Pirates,7,2
+633469,2021-07-01,117,HOU,Houston Astros,114,CLE,Cleveland Indians,7,2
+633480,2021-07-01,135,SD,San Diego Padres,113,CIN,Cincinnati Reds,4,5
+633481,2021-07-01,119,LAD,Los Angeles Dodgers,120,WSH,Washington Nationals,6,2
+633529,2021-07-01,142,MIN,Minnesota Twins,145,CWS,Chicago White Sox,5,8
+633402,2021-07-02,110,BAL,Baltimore Orioles,108,LAA,Los Angeles Angels,7,8
+633404,2021-07-02,119,LAD,Los Angeles Dodgers,120,WSH,Washington Nationals,10,5
+633415,2021-07-02,138,STL,St. Louis Cardinals,115,COL,Colorado Rockies,9,3
+633420,2021-07-02,145,CWS,Chicago White Sox,116,DET,Detroit Tigers,8,2
+633433,2021-07-02,142,MIN,Minnesota Twins,118,KC,Kansas City Royals,4,7
+633448,2021-07-02,135,SD,San Diego Padres,143,PHI,Philadelphia Phillies,3,4
+633451,2021-07-02,117,HOU,Houston Astros,114,CLE,Cleveland Indians,6,3
+633452,2021-07-02,111,BOS,Boston Red Sox,133,OAK,Oakland Athletics,3,2
+633462,2021-07-02,112,CHC,Chicago Cubs,113,CIN,Cincinnati Reds,1,2
+633464,2021-07-02,139,TB,Tampa Bay Rays,141,TOR,Toronto Blue Jays,1,11
+633468,2021-07-02,146,MIA,Miami Marlins,144,ATL,Atlanta Braves,0,1
+633470,2021-07-02,137,SF,San Francisco Giants,109,AZ,Arizona Diamondbacks,11,4
+633507,2021-07-02,158,MIL,Milwaukee Brewers,134,PIT,Pittsburgh Pirates,7,2
+633511,2021-07-02,140,TEX,Texas Rangers,136,SEA,Seattle Mariners,4,5
+633379,2021-07-03,140,TEX,Texas Rangers,136,SEA,Seattle Mariners,7,3
+633387,2021-07-03,158,MIL,Milwaukee Brewers,134,PIT,Pittsburgh Pirates,11,2
+633388,2021-07-03,137,SF,San Francisco Giants,109,AZ,Arizona Diamondbacks,6,5
+633390,2021-07-03,135,SD,San Diego Padres,143,PHI,Philadelphia Phillies,2,4
+633401,2021-07-03,111,BOS,Boston Red Sox,133,OAK,Oakland Athletics,6,7
+633403,2021-07-03,139,TB,Tampa Bay Rays,141,TOR,Toronto Blue Jays,3,6
+633416,2021-07-03,146,MIA,Miami Marlins,144,ATL,Atlanta Braves,3,2
+633424,2021-07-03,138,STL,St. Louis Cardinals,115,COL,Colorado Rockies,2,3
+633429,2021-07-03,117,HOU,Houston Astros,114,CLE,Cleveland Indians,3,2
+633430,2021-07-03,119,LAD,Los Angeles Dodgers,120,WSH,Washington Nationals,5,3
+633439,2021-07-03,142,MIN,Minnesota Twins,118,KC,Kansas City Royals,3,6
+633440,2021-07-03,121,NYM,New York Mets,147,NYY,New York Yankees,8,3
+633441,2021-07-03,112,CHC,Chicago Cubs,113,CIN,Cincinnati Reds,2,3
+633442,2021-07-03,145,CWS,Chicago White Sox,116,DET,Detroit Tigers,5,11
+633453,2021-07-03,110,BAL,Baltimore Orioles,108,LAA,Los Angeles Angels,1,4
+633374,2021-07-04,135,SD,San Diego Padres,143,PHI,Philadelphia Phillies,11,1
+633391,2021-07-04,110,BAL,Baltimore Orioles,108,LAA,Los Angeles Angels,5,6
+633398,2021-07-04,119,LAD,Los Angeles Dodgers,120,WSH,Washington Nationals,5,1
+633399,2021-07-04,111,BOS,Boston Red Sox,133,OAK,Oakland Athletics,1,0
+633408,2021-07-04,139,TB,Tampa Bay Rays,141,TOR,Toronto Blue Jays,5,1
+633410,2021-07-04,145,CWS,Chicago White Sox,116,DET,Detroit Tigers,5,6
+633414,2021-07-04,117,HOU,Houston Astros,114,CLE,Cleveland Indians,4,3
+633417,2021-07-04,121,NYM,New York Mets,147,NYY,New York Yankees,2,4
+633422,2021-07-04,158,MIL,Milwaukee Brewers,134,PIT,Pittsburgh Pirates,0,2
+633423,2021-07-04,146,MIA,Miami Marlins,144,ATL,Atlanta Braves,7,8
+633425,2021-07-04,140,TEX,Texas Rangers,136,SEA,Seattle Mariners,1,4
+633428,2021-07-04,112,CHC,Chicago Cubs,113,CIN,Cincinnati Reds,2,3
+633431,2021-07-04,142,MIN,Minnesota Twins,118,KC,Kansas City Royals,6,2
+633434,2021-07-04,138,STL,St. Louis Cardinals,115,COL,Colorado Rockies,2,3
+633436,2021-07-04,137,SF,San Francisco Giants,109,AZ,Arizona Diamondbacks,5,2
+633522,2021-07-04,121,NYM,New York Mets,147,NYY,New York Yankees,10,5
+633353,2021-07-05,114,CLE,Cleveland Indians,139,TB,Tampa Bay Rays,8,9
+633361,2021-07-05,119,LAD,Los Angeles Dodgers,146,MIA,Miami Marlins,4,5
+633363,2021-07-05,113,CIN,Cincinnati Reds,118,KC,Kansas City Royals,6,2
+633378,2021-07-05,120,WSH,Washington Nationals,135,SD,San Diego Padres,7,5
+633380,2021-07-05,138,STL,St. Louis Cardinals,137,SF,San Francisco Giants,5,3
+633386,2021-07-05,143,PHI,Philadelphia Phillies,112,CHC,Chicago Cubs,13,3
+633389,2021-07-05,111,BOS,Boston Red Sox,108,LAA,Los Angeles Angels,5,4
+633400,2021-07-05,116,DET,Detroit Tigers,140,TEX,Texas Rangers,7,3
+633411,2021-07-05,144,ATL,Atlanta Braves,134,PIT,Pittsburgh Pirates,1,11
+633412,2021-07-05,158,MIL,Milwaukee Brewers,121,NYM,New York Mets,2,4
+633487,2021-07-05,145,CWS,Chicago White Sox,142,MIN,Minnesota Twins,5,8
+633352,2021-07-06,145,CWS,Chicago White Sox,142,MIN,Minnesota Twins,4,1
+633358,2021-07-06,138,STL,St. Louis Cardinals,137,SF,San Francisco Giants,6,5
+633364,2021-07-06,116,DET,Detroit Tigers,140,TEX,Texas Rangers,5,10
+633369,2021-07-06,113,CIN,Cincinnati Reds,118,KC,Kansas City Royals,6,7
+633370,2021-07-06,111,BOS,Boston Red Sox,108,LAA,Los Angeles Angels,3,5
+633376,2021-07-06,119,LAD,Los Angeles Dodgers,146,MIA,Miami Marlins,1,2
+633381,2021-07-06,115,COL,Colorado Rockies,109,AZ,Arizona Diamondbacks,3,4
+633382,2021-07-06,147,NYY,New York Yankees,136,SEA,Seattle Mariners,12,1
+633384,2021-07-06,144,ATL,Atlanta Braves,134,PIT,Pittsburgh Pirates,1,2
+633393,2021-07-06,143,PHI,Philadelphia Phillies,112,CHC,Chicago Cubs,15,10
+633396,2021-07-06,120,WSH,Washington Nationals,135,SD,San Diego Padres,4,7
+633406,2021-07-06,133,OAK,Oakland Athletics,117,HOU,Houston Astros,6,9
+633413,2021-07-06,141,TOR,Toronto Blue Jays,110,BAL,Baltimore Orioles,5,7
+633330,2021-07-07,144,ATL,Atlanta Braves,134,PIT,Pittsburgh Pirates,14,3
+633332,2021-07-07,141,TOR,Toronto Blue Jays,110,BAL,Baltimore Orioles,10,2
+633333,2021-07-07,119,LAD,Los Angeles Dodgers,146,MIA,Miami Marlins,6,9
+633335,2021-07-07,145,CWS,Chicago White Sox,142,MIN,Minnesota Twins,6,1
+633339,2021-07-07,114,CLE,Cleveland Indians,139,TB,Tampa Bay Rays,1,8
+633342,2021-07-07,158,MIL,Milwaukee Brewers,121,NYM,New York Mets,5,0
+633347,2021-07-07,138,STL,St. Louis Cardinals,137,SF,San Francisco Giants,2,5
+633349,2021-07-07,116,DET,Detroit Tigers,140,TEX,Texas Rangers,5,3
+633355,2021-07-07,115,COL,Colorado Rockies,109,AZ,Arizona Diamondbacks,4,6
+633360,2021-07-07,114,CLE,Cleveland Indians,139,TB,Tampa Bay Rays,0,4
+633362,2021-07-07,120,WSH,Washington Nationals,135,SD,San Diego Padres,15,5
+633368,2021-07-07,133,OAK,Oakland Athletics,117,HOU,Houston Astros,3,4
+633371,2021-07-07,147,NYY,New York Yankees,136,SEA,Seattle Mariners,5,4
+633375,2021-07-07,143,PHI,Philadelphia Phillies,112,CHC,Chicago Cubs,3,8
+633383,2021-07-07,113,CIN,Cincinnati Reds,118,KC,Kansas City Royals,5,2
+633385,2021-07-07,111,BOS,Boston Red Sox,108,LAA,Los Angeles Angels,4,5
+633395,2021-07-07,158,MIL,Milwaukee Brewers,121,NYM,New York Mets,3,4
+633315,2021-07-08,147,NYY,New York Yankees,136,SEA,Seattle Mariners,0,4
+633334,2021-07-08,119,LAD,Los Angeles Dodgers,146,MIA,Miami Marlins,6,1
+633343,2021-07-08,120,WSH,Washington Nationals,135,SD,San Diego Padres,8,9
+633351,2021-07-08,113,CIN,Cincinnati Reds,158,MIL,Milwaukee Brewers,3,5
+633354,2021-07-08,133,OAK,Oakland Athletics,117,HOU,Houston Astros,2,1
+633359,2021-07-08,116,DET,Detroit Tigers,142,MIN,Minnesota Twins,3,5
+633392,2021-07-08,115,COL,Colorado Rockies,109,AZ,Arizona Diamondbacks,9,3
+633397,2021-07-08,143,PHI,Philadelphia Phillies,112,CHC,Chicago Cubs,8,0
+633409,2021-07-08,118,KC,Kansas City Royals,114,CLE,Cleveland Indians,4,7
+633308,2021-07-09,134,PIT,Pittsburgh Pirates,121,NYM,New York Mets,4,13
+633320,2021-07-09,109,AZ,Arizona Diamondbacks,119,LAD,Los Angeles Dodgers,5,2
+633322,2021-07-09,120,WSH,Washington Nationals,137,SF,San Francisco Giants,3,5
+633336,2021-07-09,144,ATL,Atlanta Braves,146,MIA,Miami Marlins,5,0
+633338,2021-07-09,141,TOR,Toronto Blue Jays,139,TB,Tampa Bay Rays,1,7
+633341,2021-07-09,108,LAA,Los Angeles Angels,136,SEA,Seattle Mariners,3,7
+633345,2021-07-09,133,OAK,Oakland Athletics,140,TEX,Texas Rangers,2,3
+633348,2021-07-09,147,NYY,New York Yankees,117,HOU,Houston Astros,4,0
+633357,2021-07-09,143,PHI,Philadelphia Phillies,111,BOS,Boston Red Sox,5,11
+633365,2021-07-09,138,STL,St. Louis Cardinals,112,CHC,Chicago Cubs,5,10
+633366,2021-07-09,116,DET,Detroit Tigers,142,MIN,Minnesota Twins,2,4
+633367,2021-07-09,115,COL,Colorado Rockies,135,SD,San Diego Padres,2,4
+633373,2021-07-09,118,KC,Kansas City Royals,114,CLE,Cleveland Indians,1,2
+633377,2021-07-09,145,CWS,Chicago White Sox,110,BAL,Baltimore Orioles,12,1
+633407,2021-07-09,113,CIN,Cincinnati Reds,158,MIL,Milwaukee Brewers,2,0
+633288,2021-07-10,108,LAA,Los Angeles Angels,136,SEA,Seattle Mariners,0,2
+633289,2021-07-10,116,DET,Detroit Tigers,142,MIN,Minnesota Twins,4,9
+633293,2021-07-10,141,TOR,Toronto Blue Jays,139,TB,Tampa Bay Rays,2,5
+633294,2021-07-10,120,WSH,Washington Nationals,137,SF,San Francisco Giants,4,10
+633295,2021-07-10,134,PIT,Pittsburgh Pirates,121,NYM,New York Mets,6,2
+633301,2021-07-10,115,COL,Colorado Rockies,135,SD,San Diego Padres,3,0
+633304,2021-07-10,147,NYY,New York Yankees,117,HOU,Houston Astros,1,0
+633311,2021-07-10,109,AZ,Arizona Diamondbacks,119,LAD,Los Angeles Dodgers,1,22
+633312,2021-07-10,144,ATL,Atlanta Braves,146,MIA,Miami Marlins,5,4
+633313,2021-07-10,113,CIN,Cincinnati Reds,158,MIL,Milwaukee Brewers,4,3
+633316,2021-07-10,133,OAK,Oakland Athletics,140,TEX,Texas Rangers,8,4
+633317,2021-07-10,118,KC,Kansas City Royals,114,CLE,Cleveland Indians,6,14
+633326,2021-07-10,134,PIT,Pittsburgh Pirates,121,NYM,New York Mets,2,4
+633344,2021-07-10,143,PHI,Philadelphia Phillies,111,BOS,Boston Red Sox,11,2
+633350,2021-07-10,145,CWS,Chicago White Sox,110,BAL,Baltimore Orioles,8,3
+633356,2021-07-10,138,STL,St. Louis Cardinals,112,CHC,Chicago Cubs,6,0
+633270,2021-07-11,141,TOR,Toronto Blue Jays,139,TB,Tampa Bay Rays,3,1
+633274,2021-07-11,113,CIN,Cincinnati Reds,158,MIL,Milwaukee Brewers,3,1
+633279,2021-07-11,120,WSH,Washington Nationals,137,SF,San Francisco Giants,1,3
+633282,2021-07-11,145,CWS,Chicago White Sox,110,BAL,Baltimore Orioles,7,5
+633297,2021-07-11,133,OAK,Oakland Athletics,140,TEX,Texas Rangers,4,1
+633302,2021-07-11,109,AZ,Arizona Diamondbacks,119,LAD,Los Angeles Dodgers,4,7
+633307,2021-07-11,116,DET,Detroit Tigers,142,MIN,Minnesota Twins,9,12
+633314,2021-07-11,115,COL,Colorado Rockies,135,SD,San Diego Padres,3,1
+633318,2021-07-11,108,LAA,Los Angeles Angels,136,SEA,Seattle Mariners,7,1
+633324,2021-07-11,144,ATL,Atlanta Braves,146,MIA,Miami Marlins,4,7
+633325,2021-07-11,134,PIT,Pittsburgh Pirates,121,NYM,New York Mets,6,5
+633327,2021-07-11,143,PHI,Philadelphia Phillies,111,BOS,Boston Red Sox,5,4
+633340,2021-07-11,147,NYY,New York Yankees,117,HOU,Houston Astros,7,8
+633263,2021-07-16,158,MIL,Milwaukee Brewers,113,CIN,Cincinnati Reds,11,6
+633264,2021-07-16,114,CLE,Cleveland Indians,133,OAK,Oakland Athletics,4,5
+633265,2021-07-16,139,TB,Tampa Bay Rays,144,ATL,Atlanta Braves,7,6
+633266,2021-07-16,140,TEX,Texas Rangers,141,TOR,Toronto Blue Jays,2,10
+633283,2021-07-16,146,MIA,Miami Marlins,143,PHI,Philadelphia Phillies,2,5
+633285,2021-07-16,137,SF,San Francisco Giants,138,STL,St. Louis Cardinals,7,2
+633296,2021-07-16,112,CHC,Chicago Cubs,109,AZ,Arizona Diamondbacks,5,1
+633305,2021-07-16,135,SD,San Diego Padres,120,WSH,Washington Nationals,24,8
+633309,2021-07-16,117,HOU,Houston Astros,145,CWS,Chicago White Sox,7,1
+633310,2021-07-16,111,BOS,Boston Red Sox,147,NYY,New York Yankees,4,0
+633321,2021-07-16,119,LAD,Los Angeles Dodgers,115,COL,Colorado Rockies,10,4
+633323,2021-07-16,136,SEA,Seattle Mariners,108,LAA,Los Angeles Angels,6,5
+633328,2021-07-16,110,BAL,Baltimore Orioles,118,KC,Kansas City Royals,2,9
+633346,2021-07-16,121,NYM,New York Mets,134,PIT,Pittsburgh Pirates,1,4
+633447,2021-07-16,146,MIA,Miami Marlins,143,PHI,Philadelphia Phillies,7,0
+633248,2021-07-17,110,BAL,Baltimore Orioles,118,KC,Kansas City Royals,8,4
+633253,2021-07-17,158,MIL,Milwaukee Brewers,113,CIN,Cincinnati Reds,7,4
+633261,2021-07-17,119,LAD,Los Angeles Dodgers,115,COL,Colorado Rockies,9,2
+633262,2021-07-17,117,HOU,Houston Astros,145,CWS,Chicago White Sox,1,10
+633267,2021-07-17,135,SD,San Diego Padres,120,WSH,Washington Nationals,10,4
+633275,2021-07-17,142,MIN,Minnesota Twins,116,DET,Detroit Tigers,4,5
+633281,2021-07-17,137,SF,San Francisco Giants,138,STL,St. Louis Cardinals,1,3
+633286,2021-07-17,136,SEA,Seattle Mariners,108,LAA,Los Angeles Angels,4,9
+633290,2021-07-17,121,NYM,New York Mets,134,PIT,Pittsburgh Pirates,7,9
+633298,2021-07-17,111,BOS,Boston Red Sox,147,NYY,New York Yankees,1,3
+633299,2021-07-17,146,MIA,Miami Marlins,143,PHI,Philadelphia Phillies,2,4
+633303,2021-07-17,139,TB,Tampa Bay Rays,144,ATL,Atlanta Braves,0,9
+633306,2021-07-17,114,CLE,Cleveland Indians,133,OAK,Oakland Athletics,3,2
+633319,2021-07-17,112,CHC,Chicago Cubs,109,AZ,Arizona Diamondbacks,4,2
+634222,2021-07-17,142,MIN,Minnesota Twins,116,DET,Detroit Tigers,0,1
+633228,2021-07-18,137,SF,San Francisco Giants,138,STL,St. Louis Cardinals,1,2
+633235,2021-07-18,121,NYM,New York Mets,134,PIT,Pittsburgh Pirates,7,6
+633237,2021-07-18,139,TB,Tampa Bay Rays,144,ATL,Atlanta Braves,7,5
+633238,2021-07-18,114,CLE,Cleveland Indians,133,OAK,Oakland Athletics,4,2
+633239,2021-07-18,146,MIA,Miami Marlins,143,PHI,Philadelphia Phillies,4,7
+633247,2021-07-18,117,HOU,Houston Astros,145,CWS,Chicago White Sox,0,4
+633251,2021-07-18,112,CHC,Chicago Cubs,109,AZ,Arizona Diamondbacks,4,6
+633252,2021-07-18,158,MIL,Milwaukee Brewers,113,CIN,Cincinnati Reds,8,0
+633255,2021-07-18,119,LAD,Los Angeles Dodgers,115,COL,Colorado Rockies,5,6
+633256,2021-07-18,140,TEX,Texas Rangers,141,TOR,Toronto Blue Jays,0,5
+633273,2021-07-18,111,BOS,Boston Red Sox,147,NYY,New York Yankees,1,9
+633280,2021-07-18,142,MIN,Minnesota Twins,116,DET,Detroit Tigers,0,7
+633284,2021-07-18,136,SEA,Seattle Mariners,108,LAA,Los Angeles Angels,7,4
+633287,2021-07-18,110,BAL,Baltimore Orioles,118,KC,Kansas City Royals,5,0
+633292,2021-07-18,140,TEX,Texas Rangers,141,TOR,Toronto Blue Jays,0,10
+633300,2021-07-18,135,SD,San Diego Padres,120,WSH,Washington Nationals,7,8
+633218,2021-07-19,111,BOS,Boston Red Sox,141,TOR,Toronto Blue Jays,13,4
+633226,2021-07-19,112,CHC,Chicago Cubs,138,STL,St. Louis Cardinals,3,8
+633233,2021-07-19,146,MIA,Miami Marlins,120,WSH,Washington Nationals,1,18
+633236,2021-07-19,110,BAL,Baltimore Orioles,139,TB,Tampa Bay Rays,6,1
+633243,2021-07-19,134,PIT,Pittsburgh Pirates,109,AZ,Arizona Diamondbacks,2,4
+633249,2021-07-19,108,LAA,Los Angeles Angels,133,OAK,Oakland Athletics,1,4
+633259,2021-07-19,137,SF,San Francisco Giants,119,LAD,Los Angeles Dodgers,7,2
+633271,2021-07-19,121,NYM,New York Mets,113,CIN,Cincinnati Reds,15,11
+633277,2021-07-19,114,CLE,Cleveland Indians,117,HOU,Houston Astros,3,4
+633278,2021-07-19,142,MIN,Minnesota Twins,145,CWS,Chicago White Sox,3,2
+633329,2021-07-19,140,TEX,Texas Rangers,116,DET,Detroit Tigers,0,14
+633476,2021-07-19,142,MIN,Minnesota Twins,145,CWS,Chicago White Sox,3,5
+633199,2021-07-20,137,SF,San Francisco Giants,119,LAD,Los Angeles Dodgers,6,8
+633200,2021-07-20,114,CLE,Cleveland Indians,117,HOU,Houston Astros,3,9
+633207,2021-07-20,108,LAA,Los Angeles Angels,133,OAK,Oakland Athletics,0,6
+633212,2021-07-20,140,TEX,Texas Rangers,116,DET,Detroit Tigers,1,4
+633216,2021-07-20,143,PHI,Philadelphia Phillies,147,NYY,New York Yankees,4,6
+633223,2021-07-20,118,KC,Kansas City Royals,158,MIL,Milwaukee Brewers,5,2
+633230,2021-07-20,112,CHC,Chicago Cubs,138,STL,St. Louis Cardinals,7,6
+633234,2021-07-20,121,NYM,New York Mets,113,CIN,Cincinnati Reds,3,4
+633240,2021-07-20,135,SD,San Diego Padres,144,ATL,Atlanta Braves,1,2
+633242,2021-07-20,146,MIA,Miami Marlins,120,WSH,Washington Nationals,3,6
+633245,2021-07-20,136,SEA,Seattle Mariners,115,COL,Colorado Rockies,6,4
+633254,2021-07-20,134,PIT,Pittsburgh Pirates,109,AZ,Arizona Diamondbacks,6,11
+633257,2021-07-20,110,BAL,Baltimore Orioles,139,TB,Tampa Bay Rays,3,9
+633268,2021-07-20,142,MIN,Minnesota Twins,145,CWS,Chicago White Sox,5,9
+633187,2021-07-21,111,BOS,Boston Red Sox,141,TOR,Toronto Blue Jays,7,4
+633190,2021-07-21,136,SEA,Seattle Mariners,115,COL,Colorado Rockies,3,6
+633191,2021-07-21,146,MIA,Miami Marlins,120,WSH,Washington Nationals,3,1
+633196,2021-07-21,121,NYM,New York Mets,113,CIN,Cincinnati Reds,7,0
+633203,2021-07-21,140,TEX,Texas Rangers,116,DET,Detroit Tigers,2,4
+633205,2021-07-21,142,MIN,Minnesota Twins,145,CWS,Chicago White Sox,7,2
+633213,2021-07-21,143,PHI,Philadelphia Phillies,147,NYY,New York Yankees,5,6
+633217,2021-07-21,137,SF,San Francisco Giants,119,LAD,Los Angeles Dodgers,4,2
+633222,2021-07-21,114,CLE,Cleveland Indians,117,HOU,Houston Astros,5,4
+633224,2021-07-21,135,SD,San Diego Padres,144,ATL,Atlanta Braves,6,5
+633225,2021-07-21,110,BAL,Baltimore Orioles,139,TB,Tampa Bay Rays,4,5
+633227,2021-07-21,118,KC,Kansas City Royals,158,MIL,Milwaukee Brewers,6,3
+633241,2021-07-21,112,CHC,Chicago Cubs,138,STL,St. Louis Cardinals,2,3
+633250,2021-07-21,135,SD,San Diego Padres,144,ATL,Atlanta Braves,3,2
+633260,2021-07-21,134,PIT,Pittsburgh Pirates,109,AZ,Arizona Diamondbacks,4,6
+633178,2021-07-22,112,CHC,Chicago Cubs,138,STL,St. Louis Cardinals,2,3
+633180,2021-07-22,139,TB,Tampa Bay Rays,114,CLE,Cleveland Indians,5,4
+633193,2021-07-22,147,NYY,New York Yankees,111,BOS,Boston Red Sox,4,5
+633220,2021-07-22,108,LAA,Los Angeles Angels,142,MIN,Minnesota Twins,3,2
+633231,2021-07-22,133,OAK,Oakland Athletics,136,SEA,Seattle Mariners,4,1
+633244,2021-07-22,137,SF,San Francisco Giants,119,LAD,Los Angeles Dodgers,5,3
+633258,2021-07-22,140,TEX,Texas Rangers,116,DET,Detroit Tigers,5,7
+633269,2021-07-22,135,SD,San Diego Padres,146,MIA,Miami Marlins,3,2
+633276,2021-07-22,144,ATL,Atlanta Braves,143,PHI,Philadelphia Phillies,7,2
+633159,2021-07-23,108,LAA,Los Angeles Angels,142,MIN,Minnesota Twins,4,5
+633163,2021-07-23,145,CWS,Chicago White Sox,158,MIL,Milwaukee Brewers,1,7
+633164,2021-07-23,135,SD,San Diego Padres,146,MIA,Miami Marlins,5,2
+633170,2021-07-23,109,AZ,Arizona Diamondbacks,112,CHC,Chicago Cubs,3,8
+633173,2021-07-23,115,COL,Colorado Rockies,119,LAD,Los Angeles Dodgers,9,6
+633176,2021-07-23,120,WSH,Washington Nationals,110,BAL,Baltimore Orioles,1,6
+633181,2021-07-23,147,NYY,New York Yankees,111,BOS,Boston Red Sox,2,6
+633184,2021-07-23,138,STL,St. Louis Cardinals,113,CIN,Cincinnati Reds,5,6
+633208,2021-07-23,140,TEX,Texas Rangers,117,HOU,Houston Astros,3,7
+633211,2021-07-23,139,TB,Tampa Bay Rays,114,CLE,Cleveland Indians,10,5
+633214,2021-07-23,144,ATL,Atlanta Braves,143,PHI,Philadelphia Phillies,1,5
+633215,2021-07-23,134,PIT,Pittsburgh Pirates,137,SF,San Francisco Giants,6,4
+633221,2021-07-23,141,TOR,Toronto Blue Jays,121,NYM,New York Mets,0,3
+633229,2021-07-23,133,OAK,Oakland Athletics,136,SEA,Seattle Mariners,3,4
+633232,2021-07-23,116,DET,Detroit Tigers,118,KC,Kansas City Royals,3,5
+633140,2021-07-24,133,OAK,Oakland Athletics,136,SEA,Seattle Mariners,4,5
+633144,2021-07-24,134,PIT,Pittsburgh Pirates,137,SF,San Francisco Giants,10,2
+633154,2021-07-24,147,NYY,New York Yankees,111,BOS,Boston Red Sox,4,3
+633167,2021-07-24,145,CWS,Chicago White Sox,158,MIL,Milwaukee Brewers,1,6
+633175,2021-07-24,138,STL,St. Louis Cardinals,113,CIN,Cincinnati Reds,3,5
+633185,2021-07-24,139,TB,Tampa Bay Rays,114,CLE,Cleveland Indians,8,2
+633186,2021-07-24,109,AZ,Arizona Diamondbacks,112,CHC,Chicago Cubs,7,3
+633188,2021-07-24,115,COL,Colorado Rockies,119,LAD,Los Angeles Dodgers,0,1
+633195,2021-07-24,120,WSH,Washington Nationals,110,BAL,Baltimore Orioles,3,5
+633197,2021-07-24,140,TEX,Texas Rangers,117,HOU,Houston Astros,1,4
+633201,2021-07-24,116,DET,Detroit Tigers,118,KC,Kansas City Royals,8,9
+633202,2021-07-24,144,ATL,Atlanta Braves,143,PHI,Philadelphia Phillies,15,3
+633209,2021-07-24,108,LAA,Los Angeles Angels,142,MIN,Minnesota Twins,2,1
+633210,2021-07-24,135,SD,San Diego Padres,146,MIA,Miami Marlins,2,3
+633272,2021-07-24,141,TOR,Toronto Blue Jays,121,NYM,New York Mets,10,3
+633135,2021-07-25,135,SD,San Diego Padres,146,MIA,Miami Marlins,3,9
+633136,2021-07-25,140,TEX,Texas Rangers,117,HOU,Houston Astros,1,3
+633151,2021-07-25,145,CWS,Chicago White Sox,158,MIL,Milwaukee Brewers,3,1
+633156,2021-07-25,120,WSH,Washington Nationals,110,BAL,Baltimore Orioles,4,5
+633169,2021-07-25,133,OAK,Oakland Athletics,136,SEA,Seattle Mariners,3,4
+633171,2021-07-25,134,PIT,Pittsburgh Pirates,137,SF,San Francisco Giants,1,6
+633172,2021-07-25,115,COL,Colorado Rockies,119,LAD,Los Angeles Dodgers,2,3
+633174,2021-07-25,141,TOR,Toronto Blue Jays,121,NYM,New York Mets,4,5
+633177,2021-07-25,138,STL,St. Louis Cardinals,113,CIN,Cincinnati Reds,10,6
+633179,2021-07-25,108,LAA,Los Angeles Angels,142,MIN,Minnesota Twins,6,2
+633183,2021-07-25,116,DET,Detroit Tigers,118,KC,Kansas City Royals,1,6
+633192,2021-07-25,144,ATL,Atlanta Braves,143,PHI,Philadelphia Phillies,1,2
+633194,2021-07-25,139,TB,Tampa Bay Rays,114,CLE,Cleveland Indians,2,3
+633198,2021-07-25,147,NYY,New York Yankees,111,BOS,Boston Red Sox,4,5
+633204,2021-07-25,109,AZ,Arizona Diamondbacks,112,CHC,Chicago Cubs,1,5
+633121,2021-07-26,145,CWS,Chicago White Sox,118,KC,Kansas City Royals,3,4
+633133,2021-07-26,116,DET,Detroit Tigers,142,MIN,Minnesota Twins,5,6
+633145,2021-07-26,144,ATL,Atlanta Braves,121,NYM,New York Mets,2,0
+633157,2021-07-26,115,COL,Colorado Rockies,108,LAA,Los Angeles Angels,2,6
+633168,2021-07-26,120,WSH,Washington Nationals,143,PHI,Philadelphia Phillies,5,6
+633182,2021-07-26,113,CIN,Cincinnati Reds,112,CHC,Chicago Cubs,5,6
+633206,2021-07-26,117,HOU,Houston Astros,136,SEA,Seattle Mariners,8,11
+633219,2021-07-26,141,TOR,Toronto Blue Jays,111,BOS,Boston Red Sox,4,5
+633925,2021-07-26,144,ATL,Atlanta Braves,121,NYM,New York Mets,0,1
+633137,2021-07-27,116,DET,Detroit Tigers,142,MIN,Minnesota Twins,6,5
+633139,2021-07-27,115,COL,Colorado Rockies,108,LAA,Los Angeles Angels,12,3
+633143,2021-07-27,147,NYY,New York Yankees,139,TB,Tampa Bay Rays,4,3
+633147,2021-07-27,144,ATL,Atlanta Braves,121,NYM,New York Mets,12,5
+633149,2021-07-27,119,LAD,Los Angeles Dodgers,137,SF,San Francisco Giants,1,2
+633150,2021-07-27,109,AZ,Arizona Diamondbacks,140,TEX,Texas Rangers,4,5
+633152,2021-07-27,120,WSH,Washington Nationals,143,PHI,Philadelphia Phillies,6,4
+633153,2021-07-27,146,MIA,Miami Marlins,110,BAL,Baltimore Orioles,7,3
+633155,2021-07-27,133,OAK,Oakland Athletics,135,SD,San Diego Padres,4,7
+633158,2021-07-27,117,HOU,Houston Astros,136,SEA,Seattle Mariners,8,6
+633160,2021-07-27,113,CIN,Cincinnati Reds,112,CHC,Chicago Cubs,7,4
+633161,2021-07-27,158,MIL,Milwaukee Brewers,134,PIT,Pittsburgh Pirates,9,0
+633166,2021-07-27,145,CWS,Chicago White Sox,118,KC,Kansas City Royals,5,3
+633189,2021-07-27,138,STL,St. Louis Cardinals,114,CLE,Cleveland Indians,4,2
+633096,2021-07-28,133,OAK,Oakland Athletics,135,SD,San Diego Padres,10,4
+633097,2021-07-28,109,AZ,Arizona Diamondbacks,140,TEX,Texas Rangers,3,2
+633098,2021-07-28,146,MIA,Miami Marlins,110,BAL,Baltimore Orioles,7,8
+633103,2021-07-28,113,CIN,Cincinnati Reds,112,CHC,Chicago Cubs,8,2
+633110,2021-07-28,141,TOR,Toronto Blue Jays,111,BOS,Boston Red Sox,1,4
+633113,2021-07-28,158,MIL,Milwaukee Brewers,134,PIT,Pittsburgh Pirates,7,3
+633114,2021-07-28,145,CWS,Chicago White Sox,118,KC,Kansas City Royals,2,3
+633122,2021-07-28,147,NYY,New York Yankees,139,TB,Tampa Bay Rays,3,1
+633123,2021-07-28,138,STL,St. Louis Cardinals,114,CLE,Cleveland Indians,2,7
+633125,2021-07-28,119,LAD,Los Angeles Dodgers,137,SF,San Francisco Giants,8,0
+633130,2021-07-28,115,COL,Colorado Rockies,108,LAA,Los Angeles Angels,7,8
+633138,2021-07-28,116,DET,Detroit Tigers,142,MIN,Minnesota Twins,17,14
+633146,2021-07-28,117,HOU,Houston Astros,136,SEA,Seattle Mariners,11,4
+633148,2021-07-28,144,ATL,Atlanta Braves,121,NYM,New York Mets,1,2
+633162,2021-07-28,141,TOR,Toronto Blue Jays,111,BOS,Boston Red Sox,4,1
+633065,2021-07-29,115,COL,Colorado Rockies,135,SD,San Diego Padres,0,3
+633081,2021-07-29,120,WSH,Washington Nationals,143,PHI,Philadelphia Phillies,3,1
+633083,2021-07-29,144,ATL,Atlanta Braves,121,NYM,New York Mets,6,3
+633093,2021-07-29,158,MIL,Milwaukee Brewers,134,PIT,Pittsburgh Pirates,12,0
+633104,2021-07-29,147,NYY,New York Yankees,139,TB,Tampa Bay Rays,0,14
+633109,2021-07-29,119,LAD,Los Angeles Dodgers,137,SF,San Francisco Giants,0,5
+633111,2021-07-29,133,OAK,Oakland Athletics,108,LAA,Los Angeles Angels,4,0
+633115,2021-07-29,110,BAL,Baltimore Orioles,116,DET,Detroit Tigers,2,6
+633124,2021-07-29,113,CIN,Cincinnati Reds,112,CHC,Chicago Cubs,7,4
+633126,2021-07-29,141,TOR,Toronto Blue Jays,111,BOS,Boston Red Sox,13,1
+633134,2021-07-29,120,WSH,Washington Nationals,143,PHI,Philadelphia Phillies,8,11
+633141,2021-07-29,145,CWS,Chicago White Sox,118,KC,Kansas City Royals,0,5
+633073,2021-07-30,147,NYY,New York Yankees,146,MIA,Miami Marlins,3,1
+633091,2021-07-30,118,KC,Kansas City Royals,141,TOR,Toronto Blue Jays,4,6
+633094,2021-07-30,112,CHC,Chicago Cubs,120,WSH,Washington Nationals,3,4
+633100,2021-07-30,113,CIN,Cincinnati Reds,121,NYM,New York Mets,6,2
+633102,2021-07-30,119,LAD,Los Angeles Dodgers,109,AZ,Arizona Diamondbacks,5,6
+633107,2021-07-30,110,BAL,Baltimore Orioles,116,DET,Detroit Tigers,4,3
+633108,2021-07-30,143,PHI,Philadelphia Phillies,134,PIT,Pittsburgh Pirates,0,7
+633112,2021-07-30,115,COL,Colorado Rockies,135,SD,San Diego Padres,9,4
+633116,2021-07-30,136,SEA,Seattle Mariners,140,TEX,Texas Rangers,9,5
+633118,2021-07-30,133,OAK,Oakland Athletics,108,LAA,Los Angeles Angels,2,0
+633119,2021-07-30,142,MIN,Minnesota Twins,138,STL,St. Louis Cardinals,1,5
+633120,2021-07-30,117,HOU,Houston Astros,137,SF,San Francisco Giants,9,6
+633128,2021-07-30,114,CLE,Cleveland Indians,145,CWS,Chicago White Sox,4,6
+633131,2021-07-30,158,MIL,Milwaukee Brewers,144,ATL,Atlanta Braves,9,5
+633165,2021-07-30,111,BOS,Boston Red Sox,139,TB,Tampa Bay Rays,3,7
+633058,2021-07-31,114,CLE,Cleveland Indians,145,CWS,Chicago White Sox,12,11
+633063,2021-07-31,113,CIN,Cincinnati Reds,121,NYM,New York Mets,4,5
+633076,2021-07-31,143,PHI,Philadelphia Phillies,134,PIT,Pittsburgh Pirates,2,3
+633080,2021-07-31,133,OAK,Oakland Athletics,108,LAA,Los Angeles Angels,0,1
+633085,2021-07-31,118,KC,Kansas City Royals,141,TOR,Toronto Blue Jays,0,4
+633088,2021-07-31,117,HOU,Houston Astros,137,SF,San Francisco Giants,6,8
+633090,2021-07-31,111,BOS,Boston Red Sox,139,TB,Tampa Bay Rays,5,9
+633092,2021-07-31,147,NYY,New York Yankees,146,MIA,Miami Marlins,4,2
+633099,2021-07-31,119,LAD,Los Angeles Dodgers,109,AZ,Arizona Diamondbacks,8,3
+633105,2021-07-31,110,BAL,Baltimore Orioles,116,DET,Detroit Tigers,5,2
+633106,2021-07-31,136,SEA,Seattle Mariners,140,TEX,Texas Rangers,4,5
+633117,2021-07-31,158,MIL,Milwaukee Brewers,144,ATL,Atlanta Braves,1,8
+633127,2021-07-31,142,MIN,Minnesota Twins,138,STL,St. Louis Cardinals,8,1
+633132,2021-07-31,112,CHC,Chicago Cubs,120,WSH,Washington Nationals,6,3
+633142,2021-07-31,115,COL,Colorado Rockies,135,SD,San Diego Padres,5,3
+633024,2021-08-01,142,MIN,Minnesota Twins,138,STL,St. Louis Cardinals,3,7
+633044,2021-08-01,112,CHC,Chicago Cubs,120,WSH,Washington Nationals,5,6
+633047,2021-08-01,114,CLE,Cleveland Indians,145,CWS,Chicago White Sox,1,2
+633048,2021-08-01,133,OAK,Oakland Athletics,108,LAA,Los Angeles Angels,8,3
+633050,2021-08-01,110,BAL,Baltimore Orioles,116,DET,Detroit Tigers,2,6
+633067,2021-08-01,118,KC,Kansas City Royals,141,TOR,Toronto Blue Jays,1,5
+633069,2021-08-01,147,NYY,New York Yankees,146,MIA,Miami Marlins,3,1
+633075,2021-08-01,136,SEA,Seattle Mariners,140,TEX,Texas Rangers,3,4
+633082,2021-08-01,143,PHI,Philadelphia Phillies,134,PIT,Pittsburgh Pirates,15,4
+633084,2021-08-01,115,COL,Colorado Rockies,135,SD,San Diego Padres,1,8
+633086,2021-08-01,117,HOU,Houston Astros,137,SF,San Francisco Giants,3,5
+633089,2021-08-01,111,BOS,Boston Red Sox,139,TB,Tampa Bay Rays,2,3
+633095,2021-08-01,158,MIL,Milwaukee Brewers,144,ATL,Atlanta Braves,2,1
+633101,2021-08-01,119,LAD,Los Angeles Dodgers,109,AZ,Arizona Diamondbacks,13,0
+633129,2021-08-01,113,CIN,Cincinnati Reds,121,NYM,New York Mets,7,1
+633041,2021-08-02,114,CLE,Cleveland Indians,141,TOR,Toronto Blue Jays,5,2
+633054,2021-08-02,108,LAA,Los Angeles Angels,140,TEX,Texas Rangers,1,4
+633057,2021-08-02,143,PHI,Philadelphia Phillies,120,WSH,Washington Nationals,7,5
+633070,2021-08-02,136,SEA,Seattle Mariners,139,TB,Tampa Bay Rays,8,2
+633072,2021-08-02,134,PIT,Pittsburgh Pirates,158,MIL,Milwaukee Brewers,2,6
+633077,2021-08-02,137,SF,San Francisco Giants,109,AZ,Arizona Diamondbacks,11,8
+633078,2021-08-02,110,BAL,Baltimore Orioles,147,NYY,New York Yankees,7,1
+633079,2021-08-02,121,NYM,New York Mets,146,MIA,Miami Marlins,3,6
+633005,2021-08-03,136,SEA,Seattle Mariners,139,TB,Tampa Bay Rays,4,2
+633022,2021-08-03,135,SD,San Diego Padres,133,OAK,Oakland Athletics,8,1
+633023,2021-08-03,110,BAL,Baltimore Orioles,147,NYY,New York Yankees,1,13
+633025,2021-08-03,137,SF,San Francisco Giants,109,AZ,Arizona Diamondbacks,1,3
+633030,2021-08-03,118,KC,Kansas City Royals,145,CWS,Chicago White Sox,1,7
+633032,2021-08-03,144,ATL,Atlanta Braves,138,STL,St. Louis Cardinals,6,1
+633036,2021-08-03,114,CLE,Cleveland Indians,141,TOR,Toronto Blue Jays,2,7
+633038,2021-08-03,112,CHC,Chicago Cubs,115,COL,Colorado Rockies,6,13
+633045,2021-08-03,142,MIN,Minnesota Twins,113,CIN,Cincinnati Reds,7,5
+633049,2021-08-03,121,NYM,New York Mets,146,MIA,Miami Marlins,4,5
+633056,2021-08-03,108,LAA,Los Angeles Angels,140,TEX,Texas Rangers,11,3
+633059,2021-08-03,134,PIT,Pittsburgh Pirates,158,MIL,Milwaukee Brewers,8,5
+633061,2021-08-03,117,HOU,Houston Astros,119,LAD,Los Angeles Dodgers,3,0
+633066,2021-08-03,143,PHI,Philadelphia Phillies,120,WSH,Washington Nationals,5,4
+633087,2021-08-03,111,BOS,Boston Red Sox,116,DET,Detroit Tigers,2,4
+633010,2021-08-04,135,SD,San Diego Padres,133,OAK,Oakland Athletics,4,5
+633011,2021-08-04,114,CLE,Cleveland Indians,141,TOR,Toronto Blue Jays,6,8
+633018,2021-08-04,110,BAL,Baltimore Orioles,147,NYY,New York Yankees,3,10
+633019,2021-08-04,117,HOU,Houston Astros,119,LAD,Los Angeles Dodgers,5,7
+633021,2021-08-04,121,NYM,New York Mets,146,MIA,Miami Marlins,5,3
+633027,2021-08-04,136,SEA,Seattle Mariners,139,TB,Tampa Bay Rays,3,4
+633037,2021-08-04,144,ATL,Atlanta Braves,138,STL,St. Louis Cardinals,7,4
+633040,2021-08-04,143,PHI,Philadelphia Phillies,120,WSH,Washington Nationals,9,5
+633046,2021-08-04,137,SF,San Francisco Giants,109,AZ,Arizona Diamondbacks,7,1
+633052,2021-08-04,111,BOS,Boston Red Sox,116,DET,Detroit Tigers,4,1
+633053,2021-08-04,118,KC,Kansas City Royals,145,CWS,Chicago White Sox,9,1
+633055,2021-08-04,108,LAA,Los Angeles Angels,140,TEX,Texas Rangers,2,1
+633060,2021-08-04,112,CHC,Chicago Cubs,115,COL,Colorado Rockies,3,2
+633068,2021-08-04,134,PIT,Pittsburgh Pirates,158,MIL,Milwaukee Brewers,2,4
+633071,2021-08-04,142,MIN,Minnesota Twins,113,CIN,Cincinnati Reds,5,6
+632992,2021-08-05,143,PHI,Philadelphia Phillies,120,WSH,Washington Nationals,7,6
+632998,2021-08-05,142,MIN,Minnesota Twins,117,HOU,Houston Astros,5,3
+633003,2021-08-05,114,CLE,Cleveland Indians,141,TOR,Toronto Blue Jays,0,3
+633004,2021-08-05,108,LAA,Los Angeles Angels,140,TEX,Texas Rangers,5,0
+633013,2021-08-05,136,SEA,Seattle Mariners,147,NYY,New York Yankees,3,5
+633015,2021-08-05,118,KC,Kansas City Royals,145,CWS,Chicago White Sox,3,2
+633026,2021-08-05,111,BOS,Boston Red Sox,116,DET,Detroit Tigers,1,8
+633033,2021-08-05,121,NYM,New York Mets,146,MIA,Miami Marlins,2,4
+633034,2021-08-05,134,PIT,Pittsburgh Pirates,113,CIN,Cincinnati Reds,4,7
+633042,2021-08-05,137,SF,San Francisco Giants,109,AZ,Arizona Diamondbacks,5,4
+633043,2021-08-05,144,ATL,Atlanta Braves,138,STL,St. Louis Cardinals,8,4
+633064,2021-08-05,112,CHC,Chicago Cubs,115,COL,Colorado Rockies,5,6
+632974,2021-08-06,111,BOS,Boston Red Sox,141,TOR,Toronto Blue Jays,4,12
+632980,2021-08-06,145,CWS,Chicago White Sox,112,CHC,Chicago Cubs,8,6
+632982,2021-08-06,118,KC,Kansas City Royals,138,STL,St. Louis Cardinals,2,4
+632990,2021-08-06,116,DET,Detroit Tigers,114,CLE,Cleveland Indians,1,6
+633002,2021-08-06,134,PIT,Pittsburgh Pirates,113,CIN,Cincinnati Reds,0,10
+633006,2021-08-06,139,TB,Tampa Bay Rays,110,BAL,Baltimore Orioles,10,6
+633008,2021-08-06,109,AZ,Arizona Diamondbacks,135,SD,San Diego Padres,8,5
+633017,2021-08-06,140,TEX,Texas Rangers,133,OAK,Oakland Athletics,1,4
+633020,2021-08-06,137,SF,San Francisco Giants,158,MIL,Milwaukee Brewers,1,2
+633028,2021-08-06,108,LAA,Los Angeles Angels,119,LAD,Los Angeles Dodgers,4,3
+633029,2021-08-06,142,MIN,Minnesota Twins,117,HOU,Houston Astros,5,4
+633031,2021-08-06,120,WSH,Washington Nationals,144,ATL,Atlanta Braves,4,8
+633035,2021-08-06,146,MIA,Miami Marlins,115,COL,Colorado Rockies,2,14
+633062,2021-08-06,136,SEA,Seattle Mariners,147,NYY,New York Yankees,2,3
+633074,2021-08-06,121,NYM,New York Mets,143,PHI,Philadelphia Phillies,2,4
+632950,2021-08-07,136,SEA,Seattle Mariners,147,NYY,New York Yankees,4,5
+632962,2021-08-07,140,TEX,Texas Rangers,133,OAK,Oakland Athletics,3,12
+632963,2021-08-07,111,BOS,Boston Red Sox,141,TOR,Toronto Blue Jays,0,1
+632968,2021-08-07,118,KC,Kansas City Royals,138,STL,St. Louis Cardinals,2,5
+632981,2021-08-07,121,NYM,New York Mets,143,PHI,Philadelphia Phillies,3,5
+632983,2021-08-07,137,SF,San Francisco Giants,158,MIL,Milwaukee Brewers,9,6
+632986,2021-08-07,108,LAA,Los Angeles Angels,119,LAD,Los Angeles Dodgers,3,5
+632988,2021-08-07,109,AZ,Arizona Diamondbacks,135,SD,San Diego Padres,2,6
+632993,2021-08-07,116,DET,Detroit Tigers,114,CLE,Cleveland Indians,2,1
+632994,2021-08-07,120,WSH,Washington Nationals,144,ATL,Atlanta Braves,3,2
+632995,2021-08-07,142,MIN,Minnesota Twins,117,HOU,Houston Astros,0,4
+632999,2021-08-07,134,PIT,Pittsburgh Pirates,113,CIN,Cincinnati Reds,3,11
+633001,2021-08-07,146,MIA,Miami Marlins,115,COL,Colorado Rockies,4,7
+633012,2021-08-07,145,CWS,Chicago White Sox,112,CHC,Chicago Cubs,4,0
+633014,2021-08-07,139,TB,Tampa Bay Rays,110,BAL,Baltimore Orioles,12,3
+633246,2021-08-07,111,BOS,Boston Red Sox,141,TOR,Toronto Blue Jays,2,1
+632945,2021-08-08,137,SF,San Francisco Giants,158,MIL,Milwaukee Brewers,5,4
+632953,2021-08-08,136,SEA,Seattle Mariners,147,NYY,New York Yankees,2,0
+632956,2021-08-08,108,LAA,Los Angeles Angels,119,LAD,Los Angeles Dodgers,2,8
+632957,2021-08-08,142,MIN,Minnesota Twins,117,HOU,Houston Astros,7,5
+632967,2021-08-08,121,NYM,New York Mets,143,PHI,Philadelphia Phillies,0,3
+632970,2021-08-08,145,CWS,Chicago White Sox,112,CHC,Chicago Cubs,9,3
+632971,2021-08-08,139,TB,Tampa Bay Rays,110,BAL,Baltimore Orioles,9,6
+632975,2021-08-08,120,WSH,Washington Nationals,144,ATL,Atlanta Braves,4,5
+632977,2021-08-08,146,MIA,Miami Marlins,115,COL,Colorado Rockies,8,13
+632985,2021-08-08,118,KC,Kansas City Royals,138,STL,St. Louis Cardinals,6,5
+632991,2021-08-08,116,DET,Detroit Tigers,114,CLE,Cleveland Indians,5,7
+633007,2021-08-08,111,BOS,Boston Red Sox,141,TOR,Toronto Blue Jays,8,9
+633009,2021-08-08,134,PIT,Pittsburgh Pirates,113,CIN,Cincinnati Reds,2,3
+633039,2021-08-08,140,TEX,Texas Rangers,133,OAK,Oakland Athletics,3,6
+633051,2021-08-08,109,AZ,Arizona Diamondbacks,135,SD,San Diego Padres,0,2
+632942,2021-08-09,146,MIA,Miami Marlins,135,SD,San Diego Padres,3,8
+632964,2021-08-09,145,CWS,Chicago White Sox,142,MIN,Minnesota Twins,11,1
+632979,2021-08-09,147,NYY,New York Yankees,118,KC,Kansas City Royals,8,6
+634173,2021-08-09,113,CIN,Cincinnati Reds,114,CLE,Cleveland Indians,3,9
+632208,2021-08-10,108,LAA,Los Angeles Angels,141,TOR,Toronto Blue Jays,6,3
+632933,2021-08-10,109,AZ,Arizona Diamondbacks,137,SF,San Francisco Giants,7,8
+632934,2021-08-10,145,CWS,Chicago White Sox,142,MIN,Minnesota Twins,3,4
+632940,2021-08-10,141,TOR,Toronto Blue Jays,108,LAA,Los Angeles Angels,4,0
+632948,2021-08-10,138,STL,St. Louis Cardinals,134,PIT,Pittsburgh Pirates,4,1
+632955,2021-08-10,140,TEX,Texas Rangers,136,SEA,Seattle Mariners,5,4
+632960,2021-08-10,116,DET,Detroit Tigers,110,BAL,Baltimore Orioles,9,4
+632966,2021-08-10,120,WSH,Washington Nationals,121,NYM,New York Mets,7,8
+632973,2021-08-10,115,COL,Colorado Rockies,117,HOU,Houston Astros,0,5
+632976,2021-08-10,146,MIA,Miami Marlins,135,SD,San Diego Padres,5,6
+632978,2021-08-10,133,OAK,Oakland Athletics,114,CLE,Cleveland Indians,4,3
+632984,2021-08-10,119,LAD,Los Angeles Dodgers,143,PHI,Philadelphia Phillies,5,0
+632987,2021-08-10,147,NYY,New York Yankees,118,KC,Kansas City Royals,4,8
+632989,2021-08-10,113,CIN,Cincinnati Reds,144,ATL,Atlanta Braves,2,3
+632996,2021-08-10,139,TB,Tampa Bay Rays,111,BOS,Boston Red Sox,8,4
+632997,2021-08-10,158,MIL,Milwaukee Brewers,112,CHC,Chicago Cubs,4,2
+633000,2021-08-10,158,MIL,Milwaukee Brewers,112,CHC,Chicago Cubs,6,3
+632904,2021-08-11,115,COL,Colorado Rockies,117,HOU,Houston Astros,1,5
+632915,2021-08-11,119,LAD,Los Angeles Dodgers,143,PHI,Philadelphia Phillies,8,2
+632922,2021-08-11,116,DET,Detroit Tigers,110,BAL,Baltimore Orioles,5,2
+632923,2021-08-11,113,CIN,Cincinnati Reds,144,ATL,Atlanta Braves,6,8
+632927,2021-08-11,145,CWS,Chicago White Sox,142,MIN,Minnesota Twins,0,1
+632928,2021-08-11,138,STL,St. Louis Cardinals,134,PIT,Pittsburgh Pirates,4,0
+632931,2021-08-11,139,TB,Tampa Bay Rays,111,BOS,Boston Red Sox,8,20
+632935,2021-08-11,147,NYY,New York Yankees,118,KC,Kansas City Royals,5,2
+632937,2021-08-11,133,OAK,Oakland Athletics,114,CLE,Cleveland Indians,6,3
+632946,2021-08-11,158,MIL,Milwaukee Brewers,112,CHC,Chicago Cubs,10,0
+632951,2021-08-11,109,AZ,Arizona Diamondbacks,137,SF,San Francisco Giants,2,7
+632952,2021-08-11,140,TEX,Texas Rangers,136,SEA,Seattle Mariners,1,2
+632959,2021-08-11,146,MIA,Miami Marlins,135,SD,San Diego Padres,7,0
+632965,2021-08-11,141,TOR,Toronto Blue Jays,108,LAA,Los Angeles Angels,10,2
+632900,2021-08-12,133,OAK,Oakland Athletics,114,CLE,Cleveland Indians,17,0
+632903,2021-08-12,139,TB,Tampa Bay Rays,111,BOS,Boston Red Sox,8,1
+632912,2021-08-12,120,WSH,Washington Nationals,121,NYM,New York Mets,4,5
+632914,2021-08-12,135,SD,San Diego Padres,109,AZ,Arizona Diamondbacks,3,12
+632918,2021-08-12,141,TOR,Toronto Blue Jays,108,LAA,Los Angeles Angels,3,6
+632924,2021-08-12,147,NYY,New York Yankees,145,CWS,Chicago White Sox,8,9
+632929,2021-08-12,113,CIN,Cincinnati Reds,144,ATL,Atlanta Braves,12,3
+632938,2021-08-12,116,DET,Detroit Tigers,110,BAL,Baltimore Orioles,6,4
+632939,2021-08-12,115,COL,Colorado Rockies,137,SF,San Francisco Giants,0,7
+632944,2021-08-12,138,STL,St. Louis Cardinals,134,PIT,Pittsburgh Pirates,7,6
+632947,2021-08-12,140,TEX,Texas Rangers,136,SEA,Seattle Mariners,1,3
+632949,2021-08-12,120,WSH,Washington Nationals,121,NYM,New York Mets,1,4
+632969,2021-08-12,119,LAD,Los Angeles Dodgers,143,PHI,Philadelphia Phillies,1,2
+633016,2021-08-12,158,MIL,Milwaukee Brewers,112,CHC,Chicago Cubs,17,4
+632901,2021-08-13,113,CIN,Cincinnati Reds,143,PHI,Philadelphia Phillies,6,1
+632902,2021-08-13,110,BAL,Baltimore Orioles,111,BOS,Boston Red Sox,1,8
+632906,2021-08-13,115,COL,Colorado Rockies,137,SF,San Francisco Giants,4,5
+632911,2021-08-13,119,LAD,Los Angeles Dodgers,121,NYM,New York Mets,6,5
+632920,2021-08-13,114,CLE,Cleveland Indians,116,DET,Detroit Tigers,7,4
+632921,2021-08-13,144,ATL,Atlanta Braves,120,WSH,Washington Nationals,4,2
+632926,2021-08-13,139,TB,Tampa Bay Rays,142,MIN,Minnesota Twins,10,4
+632930,2021-08-13,112,CHC,Chicago Cubs,146,MIA,Miami Marlins,10,14
+632932,2021-08-13,135,SD,San Diego Padres,109,AZ,Arizona Diamondbacks,2,3
+632936,2021-08-13,133,OAK,Oakland Athletics,140,TEX,Texas Rangers,6,8
+632943,2021-08-13,138,STL,St. Louis Cardinals,118,KC,Kansas City Royals,6,0
+632954,2021-08-13,141,TOR,Toronto Blue Jays,136,SEA,Seattle Mariners,2,3
+632972,2021-08-13,117,HOU,Houston Astros,108,LAA,Los Angeles Angels,4,1
+632818,2021-08-14,138,STL,St. Louis Cardinals,118,KC,Kansas City Royals,9,4
+632819,2021-08-14,114,CLE,Cleveland Indians,116,DET,Detroit Tigers,4,6
+632820,2021-08-14,158,MIL,Milwaukee Brewers,134,PIT,Pittsburgh Pirates,4,14
+632877,2021-08-14,135,SD,San Diego Padres,109,AZ,Arizona Diamondbacks,0,7
+632885,2021-08-14,144,ATL,Atlanta Braves,120,WSH,Washington Nationals,12,2
+632889,2021-08-14,115,COL,Colorado Rockies,137,SF,San Francisco Giants,4,1
+632894,2021-08-14,133,OAK,Oakland Athletics,140,TEX,Texas Rangers,8,3
+632897,2021-08-14,158,MIL,Milwaukee Brewers,134,PIT,Pittsburgh Pirates,6,0
+632898,2021-08-14,147,NYY,New York Yankees,145,CWS,Chicago White Sox,7,5
+632905,2021-08-14,110,BAL,Baltimore Orioles,111,BOS,Boston Red Sox,2,16
+632907,2021-08-14,141,TOR,Toronto Blue Jays,136,SEA,Seattle Mariners,3,9
+632913,2021-08-14,139,TB,Tampa Bay Rays,142,MIN,Minnesota Twins,0,12
+632916,2021-08-14,113,CIN,Cincinnati Reds,143,PHI,Philadelphia Phillies,1,6
+632925,2021-08-14,117,HOU,Houston Astros,108,LAA,Los Angeles Angels,8,2
+632941,2021-08-14,112,CHC,Chicago Cubs,146,MIA,Miami Marlins,4,5
+632958,2021-08-14,119,LAD,Los Angeles Dodgers,121,NYM,New York Mets,2,1
+632847,2021-08-15,133,OAK,Oakland Athletics,140,TEX,Texas Rangers,4,7
+632857,2021-08-15,141,TOR,Toronto Blue Jays,136,SEA,Seattle Mariners,8,3
+632860,2021-08-15,138,STL,St. Louis Cardinals,118,KC,Kansas City Royals,7,2
+632863,2021-08-15,115,COL,Colorado Rockies,137,SF,San Francisco Giants,2,5
+632866,2021-08-15,139,TB,Tampa Bay Rays,142,MIN,Minnesota Twins,4,5
+632867,2021-08-15,144,ATL,Atlanta Braves,120,WSH,Washington Nationals,6,5
+632874,2021-08-15,112,CHC,Chicago Cubs,146,MIA,Miami Marlins,1,4
+632876,2021-08-15,158,MIL,Milwaukee Brewers,134,PIT,Pittsburgh Pirates,2,1
+632881,2021-08-15,117,HOU,Houston Astros,108,LAA,Los Angeles Angels,1,3
+632891,2021-08-15,113,CIN,Cincinnati Reds,143,PHI,Philadelphia Phillies,7,4
+632895,2021-08-15,119,LAD,Los Angeles Dodgers,121,NYM,New York Mets,14,4
+632899,2021-08-15,147,NYY,New York Yankees,145,CWS,Chicago White Sox,5,3
+632910,2021-08-15,114,CLE,Cleveland Indians,116,DET,Detroit Tigers,11,0
+632917,2021-08-15,135,SD,San Diego Padres,109,AZ,Arizona Diamondbacks,8,2
+632961,2021-08-15,110,BAL,Baltimore Orioles,111,BOS,Boston Red Sox,2,6
+632813,2021-08-16,135,SD,San Diego Padres,115,COL,Colorado Rockies,5,6
+632858,2021-08-16,144,ATL,Atlanta Braves,146,MIA,Miami Marlins,12,2
+632873,2021-08-16,114,CLE,Cleveland Indians,142,MIN,Minnesota Twins,4,5
+632878,2021-08-16,112,CHC,Chicago Cubs,113,CIN,Cincinnati Reds,5,14
+632882,2021-08-16,134,PIT,Pittsburgh Pirates,119,LAD,Los Angeles Dodgers,1,2
+632883,2021-08-16,117,HOU,Houston Astros,118,KC,Kansas City Royals,6,7
+632886,2021-08-16,121,NYM,New York Mets,137,SF,San Francisco Giants,5,7
+632890,2021-08-16,110,BAL,Baltimore Orioles,139,TB,Tampa Bay Rays,2,9
+632892,2021-08-16,133,OAK,Oakland Athletics,145,CWS,Chicago White Sox,2,5
+633421,2021-08-16,108,LAA,Los Angeles Angels,147,NYY,New York Yankees,1,2
+632825,2021-08-17,141,TOR,Toronto Blue Jays,120,WSH,Washington Nationals,6,12
+632851,2021-08-17,135,SD,San Diego Padres,115,COL,Colorado Rockies,3,7
+632853,2021-08-17,136,SEA,Seattle Mariners,140,TEX,Texas Rangers,3,1
+632864,2021-08-17,110,BAL,Baltimore Orioles,139,TB,Tampa Bay Rays,0,10
+632868,2021-08-17,108,LAA,Los Angeles Angels,116,DET,Detroit Tigers,8,2
+632869,2021-08-17,143,PHI,Philadelphia Phillies,109,AZ,Arizona Diamondbacks,2,3
+632871,2021-08-17,112,CHC,Chicago Cubs,113,CIN,Cincinnati Reds,2,1
+632872,2021-08-17,144,ATL,Atlanta Braves,146,MIA,Miami Marlins,2,0
+632875,2021-08-17,117,HOU,Houston Astros,118,KC,Kansas City Royals,1,3
+632880,2021-08-17,114,CLE,Cleveland Indians,142,MIN,Minnesota Twins,3,1
+632884,2021-08-17,158,MIL,Milwaukee Brewers,138,STL,St. Louis Cardinals,2,0
+632893,2021-08-17,111,BOS,Boston Red Sox,147,NYY,New York Yankees,0,2
+632908,2021-08-17,133,OAK,Oakland Athletics,145,CWS,Chicago White Sox,0,9
+632909,2021-08-17,134,PIT,Pittsburgh Pirates,119,LAD,Los Angeles Dodgers,3,4
+632919,2021-08-17,121,NYM,New York Mets,137,SF,San Francisco Giants,2,3
+633291,2021-08-17,111,BOS,Boston Red Sox,147,NYY,New York Yankees,3,5
+632831,2021-08-18,114,CLE,Cleveland Indians,142,MIN,Minnesota Twins,7,8
+632839,2021-08-18,112,CHC,Chicago Cubs,113,CIN,Cincinnati Reds,7,1
+632844,2021-08-18,158,MIL,Milwaukee Brewers,138,STL,St. Louis Cardinals,6,4
+632848,2021-08-18,143,PHI,Philadelphia Phillies,109,AZ,Arizona Diamondbacks,2,4
+632849,2021-08-18,110,BAL,Baltimore Orioles,139,TB,Tampa Bay Rays,4,8
+632850,2021-08-18,121,NYM,New York Mets,137,SF,San Francisco Giants,6,2
+632852,2021-08-18,111,BOS,Boston Red Sox,147,NYY,New York Yankees,2,5
+632854,2021-08-18,133,OAK,Oakland Athletics,145,CWS,Chicago White Sox,2,3
+632855,2021-08-18,136,SEA,Seattle Mariners,140,TEX,Texas Rangers,3,1
+632856,2021-08-18,141,TOR,Toronto Blue Jays,120,WSH,Washington Nationals,5,8
+632859,2021-08-18,117,HOU,Houston Astros,118,KC,Kansas City Royals,2,3
+632861,2021-08-18,108,LAA,Los Angeles Angels,116,DET,Detroit Tigers,3,1
+632862,2021-08-18,135,SD,San Diego Padres,115,COL,Colorado Rockies,5,7
+632865,2021-08-18,144,ATL,Atlanta Braves,146,MIA,Miami Marlins,11,9
+632887,2021-08-18,134,PIT,Pittsburgh Pirates,119,LAD,Los Angeles Dodgers,0,9
+632816,2021-08-19,146,MIA,Miami Marlins,113,CIN,Cincinnati Reds,1,6
+632823,2021-08-19,133,OAK,Oakland Athletics,145,CWS,Chicago White Sox,5,4
+632833,2021-08-19,110,BAL,Baltimore Orioles,139,TB,Tampa Bay Rays,2,7
+632835,2021-08-19,121,NYM,New York Mets,119,LAD,Los Angeles Dodgers,1,4
+632838,2021-08-19,136,SEA,Seattle Mariners,140,TEX,Texas Rangers,9,8
+632840,2021-08-19,142,MIN,Minnesota Twins,147,NYY,New York Yankees,5,7
+632841,2021-08-19,143,PHI,Philadelphia Phillies,109,AZ,Arizona Diamondbacks,2,6
+632843,2021-08-19,117,HOU,Houston Astros,118,KC,Kansas City Royals,6,3
+632845,2021-08-19,158,MIL,Milwaukee Brewers,138,STL,St. Louis Cardinals,4,8
+632846,2021-08-19,108,LAA,Los Angeles Angels,116,DET,Detroit Tigers,13,10
+632774,2021-08-20,136,SEA,Seattle Mariners,117,HOU,Houston Astros,3,12
+632799,2021-08-20,142,MIN,Minnesota Twins,147,NYY,New York Yankees,2,10
+632809,2021-08-20,137,SF,San Francisco Giants,133,OAK,Oakland Athletics,1,4
+632811,2021-08-20,121,NYM,New York Mets,119,LAD,Los Angeles Dodgers,2,3
+632814,2021-08-20,144,ATL,Atlanta Braves,110,BAL,Baltimore Orioles,3,0
+632815,2021-08-20,134,PIT,Pittsburgh Pirates,138,STL,St. Louis Cardinals,4,0
+632817,2021-08-20,143,PHI,Philadelphia Phillies,135,SD,San Diego Padres,4,3
+632826,2021-08-20,118,KC,Kansas City Royals,112,CHC,Chicago Cubs,6,2
+632827,2021-08-20,140,TEX,Texas Rangers,111,BOS,Boston Red Sox,0,6
+632828,2021-08-20,109,AZ,Arizona Diamondbacks,115,COL,Colorado Rockies,4,9
+632832,2021-08-20,146,MIA,Miami Marlins,113,CIN,Cincinnati Reds,3,5
+632836,2021-08-20,145,CWS,Chicago White Sox,139,TB,Tampa Bay Rays,7,5
+632837,2021-08-20,108,LAA,Los Angeles Angels,114,CLE,Cleveland Indians,1,9
+632888,2021-08-20,116,DET,Detroit Tigers,141,TOR,Toronto Blue Jays,4,1
+632896,2021-08-20,120,WSH,Washington Nationals,158,MIL,Milwaukee Brewers,4,1
+632775,2021-08-21,116,DET,Detroit Tigers,141,TOR,Toronto Blue Jays,0,3
+632780,2021-08-21,108,LAA,Los Angeles Angels,114,CLE,Cleveland Indians,1,5
+632790,2021-08-21,109,AZ,Arizona Diamondbacks,115,COL,Colorado Rockies,2,5
+632795,2021-08-21,121,NYM,New York Mets,119,LAD,Los Angeles Dodgers,3,4
+632797,2021-08-21,146,MIA,Miami Marlins,113,CIN,Cincinnati Reds,4,7
+632804,2021-08-21,145,CWS,Chicago White Sox,139,TB,Tampa Bay Rays,4,8
+632806,2021-08-21,143,PHI,Philadelphia Phillies,135,SD,San Diego Padres,3,4
+632810,2021-08-21,134,PIT,Pittsburgh Pirates,138,STL,St. Louis Cardinals,5,4
+632821,2021-08-21,142,MIN,Minnesota Twins,147,NYY,New York Yankees,1,7
+632824,2021-08-21,118,KC,Kansas City Royals,112,CHC,Chicago Cubs,4,2
+632829,2021-08-21,120,WSH,Washington Nationals,158,MIL,Milwaukee Brewers,6,9
+632834,2021-08-21,136,SEA,Seattle Mariners,117,HOU,Houston Astros,1,15
+632842,2021-08-21,137,SF,San Francisco Giants,133,OAK,Oakland Athletics,6,5
+632870,2021-08-21,140,TEX,Texas Rangers,111,BOS,Boston Red Sox,10,1
+632879,2021-08-21,144,ATL,Atlanta Braves,110,BAL,Baltimore Orioles,5,4
+632771,2021-08-22,118,KC,Kansas City Royals,112,CHC,Chicago Cubs,9,1
+632772,2021-08-22,144,ATL,Atlanta Braves,110,BAL,Baltimore Orioles,3,1
+632784,2021-08-22,116,DET,Detroit Tigers,141,TOR,Toronto Blue Jays,5,3
+632785,2021-08-22,145,CWS,Chicago White Sox,139,TB,Tampa Bay Rays,0,9
+632786,2021-08-22,120,WSH,Washington Nationals,158,MIL,Milwaukee Brewers,3,7
+632791,2021-08-22,137,SF,San Francisco Giants,133,OAK,Oakland Athletics,2,1
+632793,2021-08-22,136,SEA,Seattle Mariners,117,HOU,Houston Astros,6,3
+632794,2021-08-22,134,PIT,Pittsburgh Pirates,138,STL,St. Louis Cardinals,0,3
+632796,2021-08-22,121,NYM,New York Mets,119,LAD,Los Angeles Dodgers,7,2
+632801,2021-08-22,146,MIA,Miami Marlins,113,CIN,Cincinnati Reds,1,3
+632803,2021-08-22,109,AZ,Arizona Diamondbacks,115,COL,Colorado Rockies,8,4
+632812,2021-08-22,108,LAA,Los Angeles Angels,114,CLE,Cleveland Indians,0,3
+632830,2021-08-22,143,PHI,Philadelphia Phillies,135,SD,San Diego Padres,7,4
+632758,2021-08-23,136,SEA,Seattle Mariners,133,OAK,Oakland Athletics,5,3
+632770,2021-08-23,118,KC,Kansas City Royals,117,HOU,Houston Astros,7,1
+632773,2021-08-23,140,TEX,Texas Rangers,111,BOS,Boston Red Sox,4,8
+632787,2021-08-23,145,CWS,Chicago White Sox,141,TOR,Toronto Blue Jays,1,2
+632792,2021-08-23,115,COL,Colorado Rockies,112,CHC,Chicago Cubs,4,6
+632798,2021-08-23,109,AZ,Arizona Diamondbacks,134,PIT,Pittsburgh Pirates,5,6
+632805,2021-08-23,147,NYY,New York Yankees,144,ATL,Atlanta Braves,5,1
+632728,2021-08-24,113,CIN,Cincinnati Reds,158,MIL,Milwaukee Brewers,4,7
+632744,2021-08-24,109,AZ,Arizona Diamondbacks,134,PIT,Pittsburgh Pirates,2,4
+632748,2021-08-24,119,LAD,Los Angeles Dodgers,135,SD,San Diego Padres,5,2
+632755,2021-08-24,142,MIN,Minnesota Twins,111,BOS,Boston Red Sox,9,11
+632763,2021-08-24,147,NYY,New York Yankees,144,ATL,Atlanta Braves,5,4
+632769,2021-08-24,136,SEA,Seattle Mariners,133,OAK,Oakland Athletics,5,1
+632776,2021-08-24,118,KC,Kansas City Royals,117,HOU,Houston Astros,0,4
+632777,2021-08-24,139,TB,Tampa Bay Rays,143,PHI,Philadelphia Phillies,3,1
+632779,2021-08-24,145,CWS,Chicago White Sox,141,TOR,Toronto Blue Jays,5,2
+632781,2021-08-24,116,DET,Detroit Tigers,138,STL,St. Louis Cardinals,4,3
+632783,2021-08-24,140,TEX,Texas Rangers,114,CLE,Cleveland Indians,7,3
+632789,2021-08-24,120,WSH,Washington Nationals,146,MIA,Miami Marlins,5,1
+632802,2021-08-24,137,SF,San Francisco Giants,121,NYM,New York Mets,8,0
+632807,2021-08-24,108,LAA,Los Angeles Angels,110,BAL,Baltimore Orioles,14,8
+632727,2021-08-25,139,TB,Tampa Bay Rays,143,PHI,Philadelphia Phillies,7,4
+632738,2021-08-25,115,COL,Colorado Rockies,112,CHC,Chicago Cubs,2,5
+632747,2021-08-25,137,SF,San Francisco Giants,121,NYM,New York Mets,3,2
+632751,2021-08-25,116,DET,Detroit Tigers,138,STL,St. Louis Cardinals,2,3
+632752,2021-08-25,145,CWS,Chicago White Sox,141,TOR,Toronto Blue Jays,1,3
+632756,2021-08-25,108,LAA,Los Angeles Angels,110,BAL,Baltimore Orioles,6,10
+632760,2021-08-25,120,WSH,Washington Nationals,146,MIA,Miami Marlins,3,4
+632761,2021-08-25,113,CIN,Cincinnati Reds,158,MIL,Milwaukee Brewers,1,4
+632764,2021-08-25,119,LAD,Los Angeles Dodgers,135,SD,San Diego Padres,5,3
+632766,2021-08-25,140,TEX,Texas Rangers,114,CLE,Cleveland Indians,2,7
+632767,2021-08-25,142,MIN,Minnesota Twins,111,BOS,Boston Red Sox,9,6
+632768,2021-08-25,118,KC,Kansas City Royals,117,HOU,Houston Astros,5,6
+632778,2021-08-25,109,AZ,Arizona Diamondbacks,134,PIT,Pittsburgh Pirates,5,2
+632822,2021-08-25,115,COL,Colorado Rockies,112,CHC,Chicago Cubs,13,10
+632685,2021-08-26,119,LAD,Los Angeles Dodgers,135,SD,San Diego Padres,4,0
+632724,2021-08-26,145,CWS,Chicago White Sox,141,TOR,Toronto Blue Jays,10,7
+632726,2021-08-26,113,CIN,Cincinnati Reds,158,MIL,Milwaukee Brewers,5,1
+632729,2021-08-26,138,STL,St. Louis Cardinals,134,PIT,Pittsburgh Pirates,7,11
+632739,2021-08-26,118,KC,Kansas City Royals,136,SEA,Seattle Mariners,6,4
+632741,2021-08-26,142,MIN,Minnesota Twins,111,BOS,Boston Red Sox,2,12
+632743,2021-08-26,108,LAA,Los Angeles Angels,110,BAL,Baltimore Orioles,1,13
+632745,2021-08-26,137,SF,San Francisco Giants,121,NYM,New York Mets,3,2
+632746,2021-08-26,109,AZ,Arizona Diamondbacks,143,PHI,Philadelphia Phillies,8,7
+632749,2021-08-26,147,NYY,New York Yankees,133,OAK,Oakland Athletics,7,6
+632754,2021-08-26,120,WSH,Washington Nationals,146,MIA,Miami Marlins,5,7
+632788,2021-08-26,140,TEX,Texas Rangers,114,CLE,Cleveland Indians,6,10
+632709,2021-08-27,141,TOR,Toronto Blue Jays,116,DET,Detroit Tigers,1,2
+632718,2021-08-27,112,CHC,Chicago Cubs,145,CWS,Chicago White Sox,13,17
+632720,2021-08-27,139,TB,Tampa Bay Rays,110,BAL,Baltimore Orioles,6,3
+632725,2021-08-27,147,NYY,New York Yankees,133,OAK,Oakland Athletics,8,2
+632732,2021-08-27,137,SF,San Francisco Giants,144,ATL,Atlanta Braves,5,6
+632734,2021-08-27,117,HOU,Houston Astros,140,TEX,Texas Rangers,5,4
+632735,2021-08-27,111,BOS,Boston Red Sox,114,CLE,Cleveland Indians,4,3
+632740,2021-08-27,115,COL,Colorado Rockies,119,LAD,Los Angeles Dodgers,4,2
+632742,2021-08-27,113,CIN,Cincinnati Reds,146,MIA,Miami Marlins,6,0
+632753,2021-08-27,118,KC,Kansas City Royals,136,SEA,Seattle Mariners,8,7
+632759,2021-08-27,158,MIL,Milwaukee Brewers,142,MIN,Minnesota Twins,0,2
+632762,2021-08-27,138,STL,St. Louis Cardinals,134,PIT,Pittsburgh Pirates,4,3
+632782,2021-08-27,135,SD,San Diego Padres,108,LAA,Los Angeles Angels,5,0
+632800,2021-08-27,120,WSH,Washington Nationals,121,NYM,New York Mets,2,1
+632808,2021-08-27,109,AZ,Arizona Diamondbacks,143,PHI,Philadelphia Phillies,6,7
+632697,2021-08-28,135,SD,San Diego Padres,108,LAA,Los Angeles Angels,2,10
+632702,2021-08-28,117,HOU,Houston Astros,140,TEX,Texas Rangers,5,2
+632706,2021-08-28,147,NYY,New York Yankees,133,OAK,Oakland Athletics,2,3
+632707,2021-08-28,115,COL,Colorado Rockies,119,LAD,Los Angeles Dodgers,2,5
+632712,2021-08-28,109,AZ,Arizona Diamondbacks,143,PHI,Philadelphia Phillies,0,7
+632713,2021-08-28,118,KC,Kansas City Royals,136,SEA,Seattle Mariners,4,2
+632716,2021-08-28,158,MIL,Milwaukee Brewers,142,MIN,Minnesota Twins,4,6
+632717,2021-08-28,120,WSH,Washington Nationals,121,NYM,New York Mets,3,5
+632719,2021-08-28,141,TOR,Toronto Blue Jays,116,DET,Detroit Tigers,3,2
+632721,2021-08-28,139,TB,Tampa Bay Rays,110,BAL,Baltimore Orioles,4,3
+632722,2021-08-28,112,CHC,Chicago Cubs,145,CWS,Chicago White Sox,7,0
+632723,2021-08-28,138,STL,St. Louis Cardinals,134,PIT,Pittsburgh Pirates,13,0
+632733,2021-08-28,137,SF,San Francisco Giants,144,ATL,Atlanta Braves,5,0
+632737,2021-08-28,111,BOS,Boston Red Sox,114,CLE,Cleveland Indians,5,3
+632757,2021-08-28,113,CIN,Cincinnati Reds,146,MIA,Miami Marlins,1,6
+632673,2021-08-29,109,AZ,Arizona Diamondbacks,143,PHI,Philadelphia Phillies,4,7
+632684,2021-08-29,113,CIN,Cincinnati Reds,146,MIA,Miami Marlins,1,2
+632693,2021-08-29,118,KC,Kansas City Royals,136,SEA,Seattle Mariners,3,4
+632696,2021-08-29,117,HOU,Houston Astros,140,TEX,Texas Rangers,2,13
+632698,2021-08-29,138,STL,St. Louis Cardinals,134,PIT,Pittsburgh Pirates,3,4
+632700,2021-08-29,147,NYY,New York Yankees,133,OAK,Oakland Athletics,1,3
+632701,2021-08-29,137,SF,San Francisco Giants,144,ATL,Atlanta Braves,0,9
+632704,2021-08-29,111,BOS,Boston Red Sox,114,CLE,Cleveland Indians,5,7
+632705,2021-08-29,158,MIL,Milwaukee Brewers,142,MIN,Minnesota Twins,6,2
+632711,2021-08-29,120,WSH,Washington Nationals,121,NYM,New York Mets,4,9
+632714,2021-08-29,115,COL,Colorado Rockies,119,LAD,Los Angeles Dodgers,5,0
+632736,2021-08-29,139,TB,Tampa Bay Rays,110,BAL,Baltimore Orioles,12,8
+632750,2021-08-29,141,TOR,Toronto Blue Jays,116,DET,Detroit Tigers,2,1
+632765,2021-08-29,112,CHC,Chicago Cubs,145,CWS,Chicago White Sox,1,13
+632664,2021-08-30,111,BOS,Boston Red Sox,139,TB,Tampa Bay Rays,1,6
+632665,2021-08-30,117,HOU,Houston Astros,136,SEA,Seattle Mariners,4,3
+632668,2021-08-30,110,BAL,Baltimore Orioles,141,TOR,Toronto Blue Jays,3,7
+632674,2021-08-30,144,ATL,Atlanta Braves,119,LAD,Los Angeles Dodgers,3,5
+632678,2021-08-30,115,COL,Colorado Rockies,140,TEX,Texas Rangers,3,4
+632687,2021-08-30,158,MIL,Milwaukee Brewers,137,SF,San Francisco Giants,3,1
+632690,2021-08-30,147,NYY,New York Yankees,108,LAA,Los Angeles Angels,7,8
+632691,2021-08-30,143,PHI,Philadelphia Phillies,120,WSH,Washington Nationals,7,4
+632692,2021-08-30,138,STL,St. Louis Cardinals,113,CIN,Cincinnati Reds,3,1
+632703,2021-08-30,135,SD,San Diego Padres,109,AZ,Arizona Diamondbacks,7,5
+633372,2021-08-30,142,MIN,Minnesota Twins,116,DET,Detroit Tigers,3,2
+632657,2021-08-31,117,HOU,Houston Astros,136,SEA,Seattle Mariners,0,4
+632663,2021-08-31,144,ATL,Atlanta Braves,119,LAD,Los Angeles Dodgers,2,3
+632669,2021-08-31,111,BOS,Boston Red Sox,139,TB,Tampa Bay Rays,5,8
+632672,2021-08-31,135,SD,San Diego Padres,109,AZ,Arizona Diamondbacks,3,0
+632675,2021-08-31,147,NYY,New York Yankees,108,LAA,Los Angeles Angels,4,6
+632676,2021-08-31,114,CLE,Cleveland Indians,118,KC,Kansas City Royals,7,2
+632677,2021-08-31,143,PHI,Philadelphia Phillies,120,WSH,Washington Nationals,12,6
+632679,2021-08-31,146,MIA,Miami Marlins,121,NYM,New York Mets,1,3
+632680,2021-08-31,115,COL,Colorado Rockies,140,TEX,Texas Rangers,3,4
+632682,2021-08-31,158,MIL,Milwaukee Brewers,137,SF,San Francisco Giants,6,2
+632683,2021-08-31,134,PIT,Pittsburgh Pirates,145,CWS,Chicago White Sox,2,4
+632688,2021-08-31,133,OAK,Oakland Athletics,116,DET,Detroit Tigers,9,3
+632694,2021-08-31,112,CHC,Chicago Cubs,142,MIN,Minnesota Twins,3,1
+632715,2021-08-31,110,BAL,Baltimore Orioles,141,TOR,Toronto Blue Jays,4,2
+632640,2021-09-01,110,BAL,Baltimore Orioles,141,TOR,Toronto Blue Jays,4,5
+632641,2021-09-01,115,COL,Colorado Rockies,140,TEX,Texas Rangers,9,5
+632648,2021-09-01,117,HOU,Houston Astros,136,SEA,Seattle Mariners,0,1
+632653,2021-09-01,111,BOS,Boston Red Sox,139,TB,Tampa Bay Rays,3,2
+632655,2021-09-01,147,NYY,New York Yankees,108,LAA,Los Angeles Angels,4,1
+632656,2021-09-01,144,ATL,Atlanta Braves,119,LAD,Los Angeles Dodgers,3,4
+632661,2021-09-01,158,MIL,Milwaukee Brewers,137,SF,San Francisco Giants,5,2
+632662,2021-09-01,114,CLE,Cleveland Indians,118,KC,Kansas City Royals,5,3
+632671,2021-09-01,134,PIT,Pittsburgh Pirates,145,CWS,Chicago White Sox,3,6
+632681,2021-09-01,135,SD,San Diego Padres,109,AZ,Arizona Diamondbacks,3,8
+632689,2021-09-01,112,CHC,Chicago Cubs,142,MIN,Minnesota Twins,3,0
+632699,2021-09-01,138,STL,St. Louis Cardinals,113,CIN,Cincinnati Reds,5,4
+632710,2021-09-01,133,OAK,Oakland Athletics,116,DET,Detroit Tigers,6,8
+632731,2021-09-01,138,STL,St. Louis Cardinals,113,CIN,Cincinnati Reds,2,12
+632630,2021-09-02,111,BOS,Boston Red Sox,139,TB,Tampa Bay Rays,4,0
+632635,2021-09-02,114,CLE,Cleveland Indians,118,KC,Kansas City Royals,4,2
+632646,2021-09-02,134,PIT,Pittsburgh Pirates,112,CHC,Chicago Cubs,5,6
+632650,2021-09-02,146,MIA,Miami Marlins,121,NYM,New York Mets,3,4
+632659,2021-09-02,158,MIL,Milwaukee Brewers,137,SF,San Francisco Giants,1,5
+632670,2021-09-02,143,PHI,Philadelphia Phillies,120,WSH,Washington Nationals,7,6
+632686,2021-09-02,133,OAK,Oakland Athletics,116,DET,Detroit Tigers,8,6
+632695,2021-09-02,144,ATL,Atlanta Braves,115,COL,Colorado Rockies,6,5
+632617,2021-09-03,121,NYM,New York Mets,120,WSH,Washington Nationals,6,2
+632621,2021-09-03,143,PHI,Philadelphia Phillies,146,MIA,Miami Marlins,3,10
+632627,2021-09-03,142,MIN,Minnesota Twins,139,TB,Tampa Bay Rays,3,5
+632629,2021-09-03,133,OAK,Oakland Athletics,141,TOR,Toronto Blue Jays,10,11
+632632,2021-09-03,140,TEX,Texas Rangers,108,LAA,Los Angeles Angels,2,3
+632633,2021-09-03,145,CWS,Chicago White Sox,118,KC,Kansas City Royals,2,7
+632638,2021-09-03,138,STL,St. Louis Cardinals,158,MIL,Milwaukee Brewers,15,4
+632639,2021-09-03,114,CLE,Cleveland Indians,111,BOS,Boston Red Sox,5,8
+632642,2021-09-03,110,BAL,Baltimore Orioles,147,NYY,New York Yankees,3,4
+632644,2021-09-03,144,ATL,Atlanta Braves,115,COL,Colorado Rockies,3,4
+632645,2021-09-03,119,LAD,Los Angeles Dodgers,137,SF,San Francisco Giants,2,3
+632651,2021-09-03,117,HOU,Houston Astros,135,SD,San Diego Padres,6,3
+632654,2021-09-03,116,DET,Detroit Tigers,113,CIN,Cincinnati Reds,15,5
+632660,2021-09-03,134,PIT,Pittsburgh Pirates,112,CHC,Chicago Cubs,5,6
+632708,2021-09-03,136,SEA,Seattle Mariners,109,AZ,Arizona Diamondbacks,6,5
+632600,2021-09-04,142,MIN,Minnesota Twins,139,TB,Tampa Bay Rays,4,11
+632611,2021-09-04,121,NYM,New York Mets,120,WSH,Washington Nationals,3,4
+632612,2021-09-04,117,HOU,Houston Astros,135,SD,San Diego Padres,2,10
+632615,2021-09-04,144,ATL,Atlanta Braves,115,COL,Colorado Rockies,6,7
+632616,2021-09-04,133,OAK,Oakland Athletics,141,TOR,Toronto Blue Jays,8,10
+632622,2021-09-04,110,BAL,Baltimore Orioles,147,NYY,New York Yankees,4,3
+632623,2021-09-04,136,SEA,Seattle Mariners,109,AZ,Arizona Diamondbacks,8,5
+632624,2021-09-04,134,PIT,Pittsburgh Pirates,112,CHC,Chicago Cubs,6,7
+632625,2021-09-04,140,TEX,Texas Rangers,108,LAA,Los Angeles Angels,1,4
+632626,2021-09-04,143,PHI,Philadelphia Phillies,146,MIA,Miami Marlins,2,3
+632634,2021-09-04,114,CLE,Cleveland Indians,111,BOS,Boston Red Sox,3,4
+632636,2021-09-04,119,LAD,Los Angeles Dodgers,137,SF,San Francisco Giants,6,1
+632649,2021-09-04,116,DET,Detroit Tigers,113,CIN,Cincinnati Reds,4,7
+632652,2021-09-04,145,CWS,Chicago White Sox,118,KC,Kansas City Royals,10,7
+632667,2021-09-04,138,STL,St. Louis Cardinals,158,MIL,Milwaukee Brewers,0,4
+634556,2021-09-04,121,NYM,New York Mets,120,WSH,Washington Nationals,11,9
+632582,2021-09-05,110,BAL,Baltimore Orioles,147,NYY,New York Yankees,8,7
+632592,2021-09-05,114,CLE,Cleveland Indians,111,BOS,Boston Red Sox,11,5
+632598,2021-09-05,121,NYM,New York Mets,120,WSH,Washington Nationals,13,6
+632599,2021-09-05,119,LAD,Los Angeles Dodgers,137,SF,San Francisco Giants,4,6
+632601,2021-09-05,136,SEA,Seattle Mariners,109,AZ,Arizona Diamondbacks,10,4
+632602,2021-09-05,143,PHI,Philadelphia Phillies,146,MIA,Miami Marlins,4,3
+632605,2021-09-05,142,MIN,Minnesota Twins,139,TB,Tampa Bay Rays,6,5
+632606,2021-09-05,144,ATL,Atlanta Braves,115,COL,Colorado Rockies,9,2
+632607,2021-09-05,133,OAK,Oakland Athletics,141,TOR,Toronto Blue Jays,0,8
+632610,2021-09-05,138,STL,St. Louis Cardinals,158,MIL,Milwaukee Brewers,5,6
+632613,2021-09-05,134,PIT,Pittsburgh Pirates,112,CHC,Chicago Cubs,8,11
+632614,2021-09-05,145,CWS,Chicago White Sox,118,KC,Kansas City Royals,0,6
+632618,2021-09-05,116,DET,Detroit Tigers,113,CIN,Cincinnati Reds,4,1
+632619,2021-09-05,140,TEX,Texas Rangers,108,LAA,Los Angeles Angels,7,3
+632647,2021-09-05,117,HOU,Houston Astros,135,SD,San Diego Padres,3,4
+632584,2021-09-06,143,PHI,Philadelphia Phillies,158,MIL,Milwaukee Brewers,12,0
+632585,2021-09-06,116,DET,Detroit Tigers,134,PIT,Pittsburgh Pirates,3,6
+632591,2021-09-06,142,MIN,Minnesota Twins,114,CLE,Cleveland Indians,5,2
+632593,2021-09-06,141,TOR,Toronto Blue Jays,147,NYY,New York Yankees,8,0
+632596,2021-09-06,136,SEA,Seattle Mariners,117,HOU,Houston Astros,2,11
+632597,2021-09-06,113,CIN,Cincinnati Reds,112,CHC,Chicago Cubs,3,4
+632603,2021-09-06,139,TB,Tampa Bay Rays,111,BOS,Boston Red Sox,11,10
+632604,2021-09-06,121,NYM,New York Mets,120,WSH,Washington Nationals,3,4
+632608,2021-09-06,137,SF,San Francisco Giants,115,COL,Colorado Rockies,10,5
+632620,2021-09-06,140,TEX,Texas Rangers,108,LAA,Los Angeles Angels,4,0
+632628,2021-09-06,119,LAD,Los Angeles Dodgers,138,STL,St. Louis Cardinals,5,1
+632658,2021-09-06,118,KC,Kansas City Royals,110,BAL,Baltimore Orioles,3,2
+632558,2021-09-07,119,LAD,Los Angeles Dodgers,138,STL,St. Louis Cardinals,7,2
+632560,2021-09-07,116,DET,Detroit Tigers,134,PIT,Pittsburgh Pirates,2,3
+632569,2021-09-07,143,PHI,Philadelphia Phillies,158,MIL,Milwaukee Brewers,0,10
+632572,2021-09-07,121,NYM,New York Mets,146,MIA,Miami Marlins,9,4
+632577,2021-09-07,141,TOR,Toronto Blue Jays,147,NYY,New York Yankees,5,1
+632578,2021-09-07,145,CWS,Chicago White Sox,133,OAK,Oakland Athletics,6,3
+632581,2021-09-07,108,LAA,Los Angeles Angels,135,SD,San Diego Padres,4,0
+632583,2021-09-07,120,WSH,Washington Nationals,144,ATL,Atlanta Braves,5,8
+632586,2021-09-07,142,MIN,Minnesota Twins,114,CLE,Cleveland Indians,3,0
+632587,2021-09-07,137,SF,San Francisco Giants,115,COL,Colorado Rockies,12,3
+632588,2021-09-07,139,TB,Tampa Bay Rays,111,BOS,Boston Red Sox,12,7
+632590,2021-09-07,136,SEA,Seattle Mariners,117,HOU,Houston Astros,4,5
+632594,2021-09-07,118,KC,Kansas City Royals,110,BAL,Baltimore Orioles,3,7
+632595,2021-09-07,140,TEX,Texas Rangers,109,AZ,Arizona Diamondbacks,3,1
+632637,2021-09-07,113,CIN,Cincinnati Reds,112,CHC,Chicago Cubs,4,3
+632545,2021-09-08,145,CWS,Chicago White Sox,133,OAK,Oakland Athletics,1,5
+632554,2021-09-08,120,WSH,Washington Nationals,144,ATL,Atlanta Braves,4,2
+632565,2021-09-08,143,PHI,Philadelphia Phillies,158,MIL,Milwaukee Brewers,3,4
+632566,2021-09-08,113,CIN,Cincinnati Reds,112,CHC,Chicago Cubs,1,4
+632567,2021-09-08,141,TOR,Toronto Blue Jays,147,NYY,New York Yankees,6,3
+632573,2021-09-08,140,TEX,Texas Rangers,109,AZ,Arizona Diamondbacks,8,5
+632574,2021-09-08,121,NYM,New York Mets,146,MIA,Miami Marlins,1,2
+632575,2021-09-08,139,TB,Tampa Bay Rays,111,BOS,Boston Red Sox,1,2
+632576,2021-09-08,118,KC,Kansas City Royals,110,BAL,Baltimore Orioles,8,9
+632579,2021-09-08,142,MIN,Minnesota Twins,114,CLE,Cleveland Indians,3,0
+632580,2021-09-08,136,SEA,Seattle Mariners,117,HOU,Houston Astros,8,5
+632589,2021-09-08,137,SF,San Francisco Giants,115,COL,Colorado Rockies,7,4
+632609,2021-09-08,116,DET,Detroit Tigers,134,PIT,Pittsburgh Pirates,5,1
+632631,2021-09-08,108,LAA,Los Angeles Angels,135,SD,San Diego Padres,5,8
+632643,2021-09-08,119,LAD,Los Angeles Dodgers,138,STL,St. Louis Cardinals,4,5
+632536,2021-09-09,121,NYM,New York Mets,146,MIA,Miami Marlins,2,3
+632546,2021-09-09,141,TOR,Toronto Blue Jays,147,NYY,New York Yankees,6,4
+632548,2021-09-09,115,COL,Colorado Rockies,143,PHI,Philadelphia Phillies,4,3
+632556,2021-09-09,118,KC,Kansas City Royals,110,BAL,Baltimore Orioles,6,0
+632561,2021-09-09,142,MIN,Minnesota Twins,114,CLE,Cleveland Indians,1,4
+632562,2021-09-09,145,CWS,Chicago White Sox,133,OAK,Oakland Athletics,1,3
+632564,2021-09-09,119,LAD,Los Angeles Dodgers,138,STL,St. Louis Cardinals,1,2
+632570,2021-09-09,120,WSH,Washington Nationals,144,ATL,Atlanta Braves,6,7
+632528,2021-09-10,109,AZ,Arizona Diamondbacks,136,SEA,Seattle Mariners,4,5
+632534,2021-09-10,113,CIN,Cincinnati Reds,138,STL,St. Louis Cardinals,4,2
+632537,2021-09-10,115,COL,Colorado Rockies,143,PHI,Philadelphia Phillies,11,2
+632541,2021-09-10,118,KC,Kansas City Royals,142,MIN,Minnesota Twins,6,4
+632542,2021-09-10,135,SD,San Diego Padres,119,LAD,Los Angeles Dodgers,0,3
+632543,2021-09-10,139,TB,Tampa Bay Rays,116,DET,Detroit Tigers,4,10
+632544,2021-09-10,140,TEX,Texas Rangers,133,OAK,Oakland Athletics,5,10
+632549,2021-09-10,108,LAA,Los Angeles Angels,117,HOU,Houston Astros,5,10
+632550,2021-09-10,137,SF,San Francisco Giants,112,CHC,Chicago Cubs,6,1
+632552,2021-09-10,147,NYY,New York Yankees,121,NYM,New York Mets,3,10
+632555,2021-09-10,120,WSH,Washington Nationals,134,PIT,Pittsburgh Pirates,3,4
+632557,2021-09-10,158,MIL,Milwaukee Brewers,114,CLE,Cleveland Indians,10,3
+632559,2021-09-10,111,BOS,Boston Red Sox,145,CWS,Chicago White Sox,3,4
+632563,2021-09-10,141,TOR,Toronto Blue Jays,110,BAL,Baltimore Orioles,3,6
+632571,2021-09-10,146,MIA,Miami Marlins,144,ATL,Atlanta Braves,2,6
+632501,2021-09-11,120,WSH,Washington Nationals,134,PIT,Pittsburgh Pirates,7,10
+632515,2021-09-11,139,TB,Tampa Bay Rays,116,DET,Detroit Tigers,7,2
+632517,2021-09-11,109,AZ,Arizona Diamondbacks,136,SEA,Seattle Mariners,7,3
+632525,2021-09-11,113,CIN,Cincinnati Reds,138,STL,St. Louis Cardinals,4,6
+632527,2021-09-11,118,KC,Kansas City Royals,142,MIN,Minnesota Twins,2,9
+632529,2021-09-11,108,LAA,Los Angeles Angels,117,HOU,Houston Astros,4,2
+632530,2021-09-11,135,SD,San Diego Padres,119,LAD,Los Angeles Dodgers,4,5
+632531,2021-09-11,111,BOS,Boston Red Sox,145,CWS,Chicago White Sox,9,8
+632533,2021-09-11,158,MIL,Milwaukee Brewers,114,CLE,Cleveland Indians,3,0
+632535,2021-09-11,140,TEX,Texas Rangers,133,OAK,Oakland Athletics,8,6
+632538,2021-09-11,146,MIA,Miami Marlins,144,ATL,Atlanta Braves,6,4
+632539,2021-09-11,141,TOR,Toronto Blue Jays,110,BAL,Baltimore Orioles,11,10
+632540,2021-09-11,115,COL,Colorado Rockies,143,PHI,Philadelphia Phillies,1,6
+632547,2021-09-11,137,SF,San Francisco Giants,112,CHC,Chicago Cubs,15,4
+632551,2021-09-11,147,NYY,New York Yankees,121,NYM,New York Mets,8,7
+633331,2021-09-11,141,TOR,Toronto Blue Jays,110,BAL,Baltimore Orioles,11,2
+632498,2021-09-12,141,TOR,Toronto Blue Jays,110,BAL,Baltimore Orioles,22,7
+632508,2021-09-12,137,SF,San Francisco Giants,112,CHC,Chicago Cubs,6,5
+632510,2021-09-12,158,MIL,Milwaukee Brewers,114,CLE,Cleveland Indians,11,1
+632512,2021-09-12,139,TB,Tampa Bay Rays,116,DET,Detroit Tigers,7,8
+632513,2021-09-12,111,BOS,Boston Red Sox,145,CWS,Chicago White Sox,1,2
+632514,2021-09-12,115,COL,Colorado Rockies,143,PHI,Philadelphia Phillies,5,4
+632516,2021-09-12,113,CIN,Cincinnati Reds,138,STL,St. Louis Cardinals,0,2
+632519,2021-09-12,118,KC,Kansas City Royals,142,MIN,Minnesota Twins,5,3
+632522,2021-09-12,147,NYY,New York Yankees,121,NYM,New York Mets,6,7
+632523,2021-09-12,146,MIA,Miami Marlins,144,ATL,Atlanta Braves,3,5
+632524,2021-09-12,109,AZ,Arizona Diamondbacks,136,SEA,Seattle Mariners,5,4
+632526,2021-09-12,120,WSH,Washington Nationals,134,PIT,Pittsburgh Pirates,6,2
+632532,2021-09-12,108,LAA,Los Angeles Angels,117,HOU,Houston Astros,1,3
+632553,2021-09-12,140,TEX,Texas Rangers,133,OAK,Oakland Athletics,4,3
+632568,2021-09-12,135,SD,San Diego Padres,119,LAD,Los Angeles Dodgers,0,8
+632478,2021-09-13,138,STL,St. Louis Cardinals,121,NYM,New York Mets,7,0
+632489,2021-09-13,139,TB,Tampa Bay Rays,141,TOR,Toronto Blue Jays,1,8
+632502,2021-09-13,117,HOU,Houston Astros,140,TEX,Texas Rangers,15,1
+632507,2021-09-13,111,BOS,Boston Red Sox,136,SEA,Seattle Mariners,4,5
+632509,2021-09-13,109,AZ,Arizona Diamondbacks,119,LAD,Los Angeles Dodgers,1,5
+632518,2021-09-13,146,MIA,Miami Marlins,120,WSH,Washington Nationals,3,0
+632520,2021-09-13,135,SD,San Diego Padres,137,SF,San Francisco Giants,1,9
+632730,2021-09-13,142,MIN,Minnesota Twins,147,NYY,New York Yankees,5,6
+632480,2021-09-14,111,BOS,Boston Red Sox,136,SEA,Seattle Mariners,8,4
+632482,2021-09-14,117,HOU,Houston Astros,140,TEX,Texas Rangers,1,8
+632491,2021-09-14,135,SD,San Diego Padres,137,SF,San Francisco Giants,1,6
+632492,2021-09-14,138,STL,St. Louis Cardinals,121,NYM,New York Mets,7,6
+632493,2021-09-14,114,CLE,Cleveland Indians,142,MIN,Minnesota Twins,3,6
+632495,2021-09-14,112,CHC,Chicago Cubs,143,PHI,Philadelphia Phillies,6,3
+632496,2021-09-14,146,MIA,Miami Marlins,120,WSH,Washington Nationals,2,8
+632497,2021-09-14,139,TB,Tampa Bay Rays,141,TOR,Toronto Blue Jays,2,0
+632499,2021-09-14,158,MIL,Milwaukee Brewers,116,DET,Detroit Tigers,0,1
+632500,2021-09-14,147,NYY,New York Yankees,110,BAL,Baltimore Orioles,7,2
+632503,2021-09-14,113,CIN,Cincinnati Reds,134,PIT,Pittsburgh Pirates,5,6
+632504,2021-09-14,115,COL,Colorado Rockies,144,ATL,Atlanta Braves,5,4
+632505,2021-09-14,109,AZ,Arizona Diamondbacks,119,LAD,Los Angeles Dodgers,4,8
+632506,2021-09-14,108,LAA,Los Angeles Angels,145,CWS,Chicago White Sox,3,9
+632511,2021-09-14,133,OAK,Oakland Athletics,118,KC,Kansas City Royals,7,10
+633581,2021-09-14,114,CLE,Cleveland Indians,142,MIN,Minnesota Twins,3,1
+632463,2021-09-15,114,CLE,Cleveland Indians,142,MIN,Minnesota Twins,12,3
+632464,2021-09-15,135,SD,San Diego Padres,137,SF,San Francisco Giants,9,6
+632465,2021-09-15,115,COL,Colorado Rockies,144,ATL,Atlanta Braves,3,2
+632471,2021-09-15,133,OAK,Oakland Athletics,118,KC,Kansas City Royals,12,10
+632477,2021-09-15,146,MIA,Miami Marlins,120,WSH,Washington Nationals,8,6
+632479,2021-09-15,158,MIL,Milwaukee Brewers,116,DET,Detroit Tigers,1,4
+632481,2021-09-15,111,BOS,Boston Red Sox,136,SEA,Seattle Mariners,9,4
+632483,2021-09-15,139,TB,Tampa Bay Rays,141,TOR,Toronto Blue Jays,3,6
+632484,2021-09-15,109,AZ,Arizona Diamondbacks,119,LAD,Los Angeles Dodgers,3,5
+632485,2021-09-15,117,HOU,Houston Astros,140,TEX,Texas Rangers,7,2
+632486,2021-09-15,112,CHC,Chicago Cubs,143,PHI,Philadelphia Phillies,5,6
+632487,2021-09-15,113,CIN,Cincinnati Reds,134,PIT,Pittsburgh Pirates,4,5
+632490,2021-09-15,108,LAA,Los Angeles Angels,145,CWS,Chicago White Sox,3,2
+632494,2021-09-15,147,NYY,New York Yankees,110,BAL,Baltimore Orioles,4,3
+632521,2021-09-15,138,STL,St. Louis Cardinals,121,NYM,New York Mets,11,4
+632452,2021-09-16,147,NYY,New York Yankees,110,BAL,Baltimore Orioles,2,3
+632462,2021-09-16,113,CIN,Cincinnati Reds,134,PIT,Pittsburgh Pirates,1,0
+632468,2021-09-16,133,OAK,Oakland Athletics,118,KC,Kansas City Royals,7,2
+632472,2021-09-16,117,HOU,Houston Astros,140,TEX,Texas Rangers,12,1
+632473,2021-09-16,135,SD,San Diego Padres,137,SF,San Francisco Giants,7,4
+632474,2021-09-16,116,DET,Detroit Tigers,139,TB,Tampa Bay Rays,2,5
+632475,2021-09-16,112,CHC,Chicago Cubs,143,PHI,Philadelphia Phillies,8,17
+632476,2021-09-16,108,LAA,Los Angeles Angels,145,CWS,Chicago White Sox,9,3
+632430,2021-09-17,142,MIN,Minnesota Twins,141,TOR,Toronto Blue Jays,7,3
+632436,2021-09-17,135,SD,San Diego Padres,138,STL,St. Louis Cardinals,2,8
+632440,2021-09-17,116,DET,Detroit Tigers,139,TB,Tampa Bay Rays,4,7
+632445,2021-09-17,136,SEA,Seattle Mariners,118,KC,Kansas City Royals,6,2
+632450,2021-09-17,115,COL,Colorado Rockies,120,WSH,Washington Nationals,9,8
+632453,2021-09-17,144,ATL,Atlanta Braves,137,SF,San Francisco Giants,5,6
+632454,2021-09-17,110,BAL,Baltimore Orioles,111,BOS,Boston Red Sox,1,7
+632458,2021-09-17,114,CLE,Cleveland Indians,147,NYY,New York Yankees,0,8
+632459,2021-09-17,145,CWS,Chicago White Sox,140,TEX,Texas Rangers,8,0
+632460,2021-09-17,134,PIT,Pittsburgh Pirates,146,MIA,Miami Marlins,2,1
+632461,2021-09-17,112,CHC,Chicago Cubs,158,MIL,Milwaukee Brewers,5,8
+632466,2021-09-17,133,OAK,Oakland Athletics,108,LAA,Los Angeles Angels,5,4
+632467,2021-09-17,143,PHI,Philadelphia Phillies,121,NYM,New York Mets,4,3
+632469,2021-09-17,109,AZ,Arizona Diamondbacks,117,HOU,Houston Astros,3,4
+632470,2021-09-17,119,LAD,Los Angeles Dodgers,113,CIN,Cincinnati Reds,1,3
+632417,2021-09-18,115,COL,Colorado Rockies,120,WSH,Washington Nationals,6,0
+632425,2021-09-18,112,CHC,Chicago Cubs,158,MIL,Milwaukee Brewers,4,6
+632427,2021-09-18,116,DET,Detroit Tigers,139,TB,Tampa Bay Rays,4,3
+632431,2021-09-18,142,MIN,Minnesota Twins,141,TOR,Toronto Blue Jays,2,6
+632439,2021-09-18,145,CWS,Chicago White Sox,140,TEX,Texas Rangers,1,2
+632441,2021-09-18,114,CLE,Cleveland Indians,147,NYY,New York Yankees,11,3
+632442,2021-09-18,144,ATL,Atlanta Braves,137,SF,San Francisco Giants,0,2
+632444,2021-09-18,133,OAK,Oakland Athletics,108,LAA,Los Angeles Angels,3,1
+632447,2021-09-18,143,PHI,Philadelphia Phillies,121,NYM,New York Mets,5,3
+632448,2021-09-18,134,PIT,Pittsburgh Pirates,146,MIA,Miami Marlins,6,3
+632449,2021-09-18,136,SEA,Seattle Mariners,118,KC,Kansas City Royals,1,8
+632451,2021-09-18,110,BAL,Baltimore Orioles,111,BOS,Boston Red Sox,3,9
+632455,2021-09-18,119,LAD,Los Angeles Dodgers,113,CIN,Cincinnati Reds,5,1
+632456,2021-09-18,109,AZ,Arizona Diamondbacks,117,HOU,Houston Astros,6,4
+632488,2021-09-18,135,SD,San Diego Padres,138,STL,St. Louis Cardinals,2,3
+632380,2021-09-19,114,CLE,Cleveland Indians,147,NYY,New York Yankees,11,1
+632407,2021-09-19,143,PHI,Philadelphia Phillies,121,NYM,New York Mets,2,3
+632411,2021-09-19,134,PIT,Pittsburgh Pirates,146,MIA,Miami Marlins,5,6
+632413,2021-09-19,112,CHC,Chicago Cubs,158,MIL,Milwaukee Brewers,6,4
+632416,2021-09-19,136,SEA,Seattle Mariners,118,KC,Kansas City Royals,7,1
+632419,2021-09-19,110,BAL,Baltimore Orioles,111,BOS,Boston Red Sox,6,8
+632420,2021-09-19,133,OAK,Oakland Athletics,108,LAA,Los Angeles Angels,3,2
+632421,2021-09-19,116,DET,Detroit Tigers,139,TB,Tampa Bay Rays,2,0
+632422,2021-09-19,109,AZ,Arizona Diamondbacks,117,HOU,Houston Astros,6,7
+632432,2021-09-19,119,LAD,Los Angeles Dodgers,113,CIN,Cincinnati Reds,8,5
+632433,2021-09-19,144,ATL,Atlanta Braves,137,SF,San Francisco Giants,3,0
+632434,2021-09-19,145,CWS,Chicago White Sox,140,TEX,Texas Rangers,7,2
+632438,2021-09-19,115,COL,Colorado Rockies,120,WSH,Washington Nationals,0,3
+632443,2021-09-19,135,SD,San Diego Padres,138,STL,St. Louis Cardinals,7,8
+632446,2021-09-19,142,MIN,Minnesota Twins,141,TOR,Toronto Blue Jays,3,5
+632406,2021-09-20,141,TOR,Toronto Blue Jays,139,TB,Tampa Bay Rays,4,6
+632408,2021-09-20,120,WSH,Washington Nationals,146,MIA,Miami Marlins,7,8
+632412,2021-09-20,136,SEA,Seattle Mariners,133,OAK,Oakland Athletics,4,2
+632414,2021-09-20,140,TEX,Texas Rangers,147,NYY,New York Yankees,3,4
+632415,2021-09-20,138,STL,St. Louis Cardinals,158,MIL,Milwaukee Brewers,5,2
+632423,2021-09-20,145,CWS,Chicago White Sox,116,DET,Detroit Tigers,3,4
+632424,2021-09-20,117,HOU,Houston Astros,108,LAA,Los Angeles Angels,10,0
+632426,2021-09-20,144,ATL,Atlanta Braves,109,AZ,Arizona Diamondbacks,11,4
+632429,2021-09-20,110,BAL,Baltimore Orioles,143,PHI,Philadelphia Phillies,2,0
+632435,2021-09-20,134,PIT,Pittsburgh Pirates,113,CIN,Cincinnati Reds,5,9
+632437,2021-09-20,118,KC,Kansas City Royals,114,CLE,Cleveland Indians,7,2
+633394,2021-09-20,118,KC,Kansas City Royals,114,CLE,Cleveland Indians,4,2
+632378,2021-09-21,137,SF,San Francisco Giants,135,SD,San Diego Padres,6,5
+632379,2021-09-21,120,WSH,Washington Nationals,146,MIA,Miami Marlins,7,1
+632391,2021-09-21,141,TOR,Toronto Blue Jays,139,TB,Tampa Bay Rays,4,2
+632396,2021-09-21,140,TEX,Texas Rangers,147,NYY,New York Yankees,1,7
+632397,2021-09-21,138,STL,St. Louis Cardinals,158,MIL,Milwaukee Brewers,2,1
+632398,2021-09-21,118,KC,Kansas City Royals,114,CLE,Cleveland Indians,1,4
+632399,2021-09-21,119,LAD,Los Angeles Dodgers,115,COL,Colorado Rockies,5,4
+632401,2021-09-21,136,SEA,Seattle Mariners,133,OAK,Oakland Athletics,5,2
+632402,2021-09-21,110,BAL,Baltimore Orioles,143,PHI,Philadelphia Phillies,2,3
+632403,2021-09-21,134,PIT,Pittsburgh Pirates,113,CIN,Cincinnati Reds,6,2
+632404,2021-09-21,142,MIN,Minnesota Twins,112,CHC,Chicago Cubs,9,5
+632405,2021-09-21,145,CWS,Chicago White Sox,116,DET,Detroit Tigers,3,5
+632410,2021-09-21,121,NYM,New York Mets,111,BOS,Boston Red Sox,3,6
+632418,2021-09-21,117,HOU,Houston Astros,108,LAA,Los Angeles Angels,10,5
+632428,2021-09-21,144,ATL,Atlanta Braves,109,AZ,Arizona Diamondbacks,6,1
+632377,2021-09-22,141,TOR,Toronto Blue Jays,139,TB,Tampa Bay Rays,1,7
+632381,2021-09-22,140,TEX,Texas Rangers,147,NYY,New York Yankees,3,7
+632382,2021-09-22,110,BAL,Baltimore Orioles,143,PHI,Philadelphia Phillies,3,4
+632383,2021-09-22,136,SEA,Seattle Mariners,133,OAK,Oakland Athletics,4,1
+632384,2021-09-22,137,SF,San Francisco Giants,135,SD,San Diego Padres,8,6
+632385,2021-09-22,120,WSH,Washington Nationals,146,MIA,Miami Marlins,7,5
+632386,2021-09-22,138,STL,St. Louis Cardinals,158,MIL,Milwaukee Brewers,10,2
+632389,2021-09-22,121,NYM,New York Mets,111,BOS,Boston Red Sox,5,12
+632392,2021-09-22,144,ATL,Atlanta Braves,109,AZ,Arizona Diamondbacks,9,2
+632394,2021-09-22,119,LAD,Los Angeles Dodgers,115,COL,Colorado Rockies,5,10
+632395,2021-09-22,117,HOU,Houston Astros,108,LAA,Los Angeles Angels,9,5
+632400,2021-09-22,142,MIN,Minnesota Twins,112,CHC,Chicago Cubs,5,4
+632365,2021-09-23,134,PIT,Pittsburgh Pirates,143,PHI,Philadelphia Phillies,6,12
+632367,2021-09-23,138,STL,St. Louis Cardinals,158,MIL,Milwaukee Brewers,8,5
+632368,2021-09-23,136,SEA,Seattle Mariners,133,OAK,Oakland Athletics,6,5
+632370,2021-09-23,137,SF,San Francisco Giants,135,SD,San Diego Padres,6,7
+632371,2021-09-23,117,HOU,Houston Astros,108,LAA,Los Angeles Angels,2,3
+632372,2021-09-23,145,CWS,Chicago White Sox,114,CLE,Cleveland Indians,3,5
+632374,2021-09-23,144,ATL,Atlanta Braves,109,AZ,Arizona Diamondbacks,4,6
+632375,2021-09-23,141,TOR,Toronto Blue Jays,142,MIN,Minnesota Twins,2,7
+632376,2021-09-23,119,LAD,Los Angeles Dodgers,115,COL,Colorado Rockies,7,5
+632387,2021-09-23,120,WSH,Washington Nationals,113,CIN,Cincinnati Reds,3,2
+632390,2021-09-23,140,TEX,Texas Rangers,110,BAL,Baltimore Orioles,0,3
+633866,2021-09-23,145,CWS,Chicago White Sox,114,CLE,Cleveland Indians,7,2
+632339,2021-09-24,138,STL,St. Louis Cardinals,112,CHC,Chicago Cubs,8,5
+632340,2021-09-24,119,LAD,Los Angeles Dodgers,109,AZ,Arizona Diamondbacks,4,2
+632352,2021-09-24,144,ATL,Atlanta Braves,135,SD,San Diego Padres,4,0
+632356,2021-09-24,117,HOU,Houston Astros,133,OAK,Oakland Athletics,2,14
+632357,2021-09-24,141,TOR,Toronto Blue Jays,142,MIN,Minnesota Twins,1,3
+632358,2021-09-24,146,MIA,Miami Marlins,139,TB,Tampa Bay Rays,0,8
+632359,2021-09-24,136,SEA,Seattle Mariners,108,LAA,Los Angeles Angels,6,5
+632360,2021-09-24,134,PIT,Pittsburgh Pirates,143,PHI,Philadelphia Phillies,6,8
+632361,2021-09-24,118,KC,Kansas City Royals,116,DET,Detroit Tigers,3,1
+632362,2021-09-24,137,SF,San Francisco Giants,115,COL,Colorado Rockies,7,2
+632363,2021-09-24,145,CWS,Chicago White Sox,114,CLE,Cleveland Indians,1,0
+632364,2021-09-24,120,WSH,Washington Nationals,113,CIN,Cincinnati Reds,7,8
+632366,2021-09-24,121,NYM,New York Mets,158,MIL,Milwaukee Brewers,1,5
+632369,2021-09-24,140,TEX,Texas Rangers,110,BAL,Baltimore Orioles,8,5
+632373,2021-09-24,147,NYY,New York Yankees,111,BOS,Boston Red Sox,8,3
+633337,2021-09-24,138,STL,St. Louis Cardinals,112,CHC,Chicago Cubs,12,4
+632335,2021-09-25,146,MIA,Miami Marlins,139,TB,Tampa Bay Rays,3,7
+632338,2021-09-25,120,WSH,Washington Nationals,113,CIN,Cincinnati Reds,6,7
+632341,2021-09-25,134,PIT,Pittsburgh Pirates,143,PHI,Philadelphia Phillies,0,3
+632342,2021-09-25,117,HOU,Houston Astros,133,OAK,Oakland Athletics,1,2
+632343,2021-09-25,144,ATL,Atlanta Braves,135,SD,San Diego Padres,10,8
+632344,2021-09-25,136,SEA,Seattle Mariners,108,LAA,Los Angeles Angels,1,14
+632346,2021-09-25,121,NYM,New York Mets,158,MIL,Milwaukee Brewers,1,2
+632347,2021-09-25,118,KC,Kansas City Royals,116,DET,Detroit Tigers,1,5
+632348,2021-09-25,145,CWS,Chicago White Sox,114,CLE,Cleveland Indians,0,6
+632349,2021-09-25,137,SF,San Francisco Giants,115,COL,Colorado Rockies,7,2
+632350,2021-09-25,141,TOR,Toronto Blue Jays,142,MIN,Minnesota Twins,6,1
+632351,2021-09-25,138,STL,St. Louis Cardinals,112,CHC,Chicago Cubs,8,5
+632353,2021-09-25,119,LAD,Los Angeles Dodgers,109,AZ,Arizona Diamondbacks,2,7
+632354,2021-09-25,147,NYY,New York Yankees,111,BOS,Boston Red Sox,5,3
+632355,2021-09-25,140,TEX,Texas Rangers,110,BAL,Baltimore Orioles,2,3
+632290,2021-09-26,146,MIA,Miami Marlins,139,TB,Tampa Bay Rays,2,3
+632324,2021-09-26,117,HOU,Houston Astros,133,OAK,Oakland Athletics,3,4
+632325,2021-09-26,144,ATL,Atlanta Braves,135,SD,San Diego Padres,4,3
+632326,2021-09-26,118,KC,Kansas City Royals,116,DET,Detroit Tigers,2,1
+632327,2021-09-26,136,SEA,Seattle Mariners,108,LAA,Los Angeles Angels,5,1
+632328,2021-09-26,121,NYM,New York Mets,158,MIL,Milwaukee Brewers,4,8
+632329,2021-09-26,134,PIT,Pittsburgh Pirates,143,PHI,Philadelphia Phillies,6,0
+632330,2021-09-26,145,CWS,Chicago White Sox,114,CLE,Cleveland Indians,5,2
+632331,2021-09-26,137,SF,San Francisco Giants,115,COL,Colorado Rockies,6,2
+632332,2021-09-26,138,STL,St. Louis Cardinals,112,CHC,Chicago Cubs,4,2
+632333,2021-09-26,120,WSH,Washington Nationals,113,CIN,Cincinnati Reds,2,9
+632334,2021-09-26,140,TEX,Texas Rangers,110,BAL,Baltimore Orioles,7,4
+632336,2021-09-26,141,TOR,Toronto Blue Jays,142,MIN,Minnesota Twins,5,2
+632337,2021-09-26,119,LAD,Los Angeles Dodgers,109,AZ,Arizona Diamondbacks,3,0
+632345,2021-09-26,147,NYY,New York Yankees,111,BOS,Boston Red Sox,6,3
+632319,2021-09-27,120,WSH,Washington Nationals,115,COL,Colorado Rockies,5,4
+632323,2021-09-27,133,OAK,Oakland Athletics,136,SEA,Seattle Mariners,4,13
+632388,2021-09-27,134,PIT,Pittsburgh Pirates,113,CIN,Cincinnati Reds,1,13
+632393,2021-09-27,145,CWS,Chicago White Sox,116,DET,Detroit Tigers,8,7
+632409,2021-09-27,118,KC,Kansas City Royals,114,CLE,Cleveland Indians,3,8
+632288,2021-09-28,147,NYY,New York Yankees,141,TOR,Toronto Blue Jays,7,2
+632289,2021-09-28,116,DET,Detroit Tigers,142,MIN,Minnesota Twins,2,3
+632307,2021-09-28,109,AZ,Arizona Diamondbacks,137,SF,San Francisco Giants,4,6
+632308,2021-09-28,108,LAA,Los Angeles Angels,140,TEX,Texas Rangers,2,5
+632311,2021-09-28,146,MIA,Miami Marlins,121,NYM,New York Mets,2,5
+632312,2021-09-28,133,OAK,Oakland Athletics,136,SEA,Seattle Mariners,2,4
+632313,2021-09-28,112,CHC,Chicago Cubs,134,PIT,Pittsburgh Pirates,6,8
+632314,2021-09-28,158,MIL,Milwaukee Brewers,138,STL,St. Louis Cardinals,2,6
+632315,2021-09-28,114,CLE,Cleveland Indians,118,KC,Kansas City Royals,4,6
+632316,2021-09-28,139,TB,Tampa Bay Rays,117,HOU,Houston Astros,3,4
+632317,2021-09-28,111,BOS,Boston Red Sox,110,BAL,Baltimore Orioles,2,4
+632318,2021-09-28,135,SD,San Diego Padres,119,LAD,Los Angeles Dodgers,1,2
+632320,2021-09-28,143,PHI,Philadelphia Phillies,144,ATL,Atlanta Braves,1,2
+632321,2021-09-28,113,CIN,Cincinnati Reds,145,CWS,Chicago White Sox,1,7
+632322,2021-09-28,120,WSH,Washington Nationals,115,COL,Colorado Rockies,1,3
+632666,2021-09-28,146,MIA,Miami Marlins,121,NYM,New York Mets,1,2
+632287,2021-09-29,112,CHC,Chicago Cubs,134,PIT,Pittsburgh Pirates,3,2
+632295,2021-09-29,108,LAA,Los Angeles Angels,140,TEX,Texas Rangers,7,2
+632296,2021-09-29,147,NYY,New York Yankees,141,TOR,Toronto Blue Jays,5,6
+632297,2021-09-29,135,SD,San Diego Padres,119,LAD,Los Angeles Dodgers,9,11
+632298,2021-09-29,109,AZ,Arizona Diamondbacks,137,SF,San Francisco Giants,0,1
+632299,2021-09-29,133,OAK,Oakland Athletics,136,SEA,Seattle Mariners,2,4
+632300,2021-09-29,116,DET,Detroit Tigers,142,MIN,Minnesota Twins,2,5
+632301,2021-09-29,158,MIL,Milwaukee Brewers,138,STL,St. Louis Cardinals,4,0
+632302,2021-09-29,114,CLE,Cleveland Indians,118,KC,Kansas City Royals,5,10
+632303,2021-09-29,146,MIA,Miami Marlins,121,NYM,New York Mets,3,2
+632304,2021-09-29,113,CIN,Cincinnati Reds,145,CWS,Chicago White Sox,1,6
+632305,2021-09-29,139,TB,Tampa Bay Rays,117,HOU,Houston Astros,7,0
+632306,2021-09-29,143,PHI,Philadelphia Phillies,144,ATL,Atlanta Braves,2,7
+632309,2021-09-29,111,BOS,Boston Red Sox,110,BAL,Baltimore Orioles,6,0
+632310,2021-09-29,120,WSH,Washington Nationals,115,COL,Colorado Rockies,5,10
+632275,2021-09-30,108,LAA,Los Angeles Angels,140,TEX,Texas Rangers,6,7
+632278,2021-09-30,109,AZ,Arizona Diamondbacks,137,SF,San Francisco Giants,4,5
+632280,2021-09-30,147,NYY,New York Yankees,141,TOR,Toronto Blue Jays,6,2
+632281,2021-09-30,158,MIL,Milwaukee Brewers,138,STL,St. Louis Cardinals,3,4
+632283,2021-09-30,146,MIA,Miami Marlins,121,NYM,New York Mets,3,12
+632284,2021-09-30,114,CLE,Cleveland Indians,118,KC,Kansas City Royals,6,1
+632285,2021-09-30,116,DET,Detroit Tigers,142,MIN,Minnesota Twins,10,7
+632286,2021-09-30,112,CHC,Chicago Cubs,134,PIT,Pittsburgh Pirates,9,0
+632291,2021-09-30,135,SD,San Diego Padres,119,LAD,Los Angeles Dodgers,3,8
+632292,2021-09-30,139,TB,Tampa Bay Rays,117,HOU,Houston Astros,2,3
+632293,2021-09-30,143,PHI,Philadelphia Phillies,144,ATL,Atlanta Braves,3,5
+632294,2021-09-30,111,BOS,Boston Red Sox,110,BAL,Baltimore Orioles,2,6
+632248,2021-10-01,114,CLE,Cleveland Indians,140,TEX,Texas Rangers,9,6
+632250,2021-10-01,113,CIN,Cincinnati Reds,134,PIT,Pittsburgh Pirates,2,9
+632261,2021-10-01,111,BOS,Boston Red Sox,120,WSH,Washington Nationals,4,2
+632266,2021-10-01,112,CHC,Chicago Cubs,138,STL,St. Louis Cardinals,3,4
+632267,2021-10-01,135,SD,San Diego Padres,137,SF,San Francisco Giants,0,3
+632268,2021-10-01,110,BAL,Baltimore Orioles,141,TOR,Toronto Blue Jays,4,6
+632270,2021-10-01,108,LAA,Los Angeles Angels,136,SEA,Seattle Mariners,2,1
+632271,2021-10-01,143,PHI,Philadelphia Phillies,146,MIA,Miami Marlins,5,0
+632272,2021-10-01,142,MIN,Minnesota Twins,118,KC,Kansas City Royals,6,11
+632273,2021-10-01,158,MIL,Milwaukee Brewers,119,LAD,Los Angeles Dodgers,6,8
+632274,2021-10-01,116,DET,Detroit Tigers,145,CWS,Chicago White Sox,1,8
+632276,2021-10-01,115,COL,Colorado Rockies,109,AZ,Arizona Diamondbacks,9,7
+632277,2021-10-01,121,NYM,New York Mets,144,ATL,Atlanta Braves,4,3
+632279,2021-10-01,133,OAK,Oakland Athletics,117,HOU,Houston Astros,8,6
+632282,2021-10-01,139,TB,Tampa Bay Rays,147,NYY,New York Yankees,4,3
+632244,2021-10-02,111,BOS,Boston Red Sox,120,WSH,Washington Nationals,5,3
+632247,2021-10-02,110,BAL,Baltimore Orioles,141,TOR,Toronto Blue Jays,1,10
+632249,2021-10-02,133,OAK,Oakland Athletics,117,HOU,Houston Astros,4,10
+632251,2021-10-02,114,CLE,Cleveland Indians,140,TEX,Texas Rangers,2,7
+632255,2021-10-02,108,LAA,Los Angeles Angels,136,SEA,Seattle Mariners,4,6
+632256,2021-10-02,135,SD,San Diego Padres,137,SF,San Francisco Giants,3,2
+632257,2021-10-02,112,CHC,Chicago Cubs,138,STL,St. Louis Cardinals,6,5
+632258,2021-10-02,113,CIN,Cincinnati Reds,134,PIT,Pittsburgh Pirates,6,8
+632259,2021-10-02,139,TB,Tampa Bay Rays,147,NYY,New York Yankees,12,2
+632260,2021-10-02,158,MIL,Milwaukee Brewers,119,LAD,Los Angeles Dodgers,3,8
+632262,2021-10-02,121,NYM,New York Mets,144,ATL,Atlanta Braves,5,6
+632263,2021-10-02,143,PHI,Philadelphia Phillies,146,MIA,Miami Marlins,1,3
+632264,2021-10-02,142,MIN,Minnesota Twins,118,KC,Kansas City Royals,4,0
+632265,2021-10-02,116,DET,Detroit Tigers,145,CWS,Chicago White Sox,4,5
+632269,2021-10-02,115,COL,Colorado Rockies,109,AZ,Arizona Diamondbacks,2,11
+632234,2021-10-03,111,BOS,Boston Red Sox,120,WSH,Washington Nationals,7,5
+632235,2021-10-03,110,BAL,Baltimore Orioles,141,TOR,Toronto Blue Jays,4,12
+632236,2021-10-03,114,CLE,Cleveland Indians,140,TEX,Texas Rangers,6,0
+632237,2021-10-03,108,LAA,Los Angeles Angels,136,SEA,Seattle Mariners,7,3
+632238,2021-10-03,112,CHC,Chicago Cubs,138,STL,St. Louis Cardinals,3,2
+632239,2021-10-03,139,TB,Tampa Bay Rays,147,NYY,New York Yankees,0,1
+632240,2021-10-03,113,CIN,Cincinnati Reds,134,PIT,Pittsburgh Pirates,6,3
+632241,2021-10-03,135,SD,San Diego Padres,137,SF,San Francisco Giants,4,11
+632242,2021-10-03,158,MIL,Milwaukee Brewers,119,LAD,Los Angeles Dodgers,3,10
+632243,2021-10-03,142,MIN,Minnesota Twins,118,KC,Kansas City Royals,7,3
+632245,2021-10-03,133,OAK,Oakland Athletics,117,HOU,Houston Astros,6,7
+632246,2021-10-03,143,PHI,Philadelphia Phillies,146,MIA,Miami Marlins,4,5
+632252,2021-10-03,116,DET,Detroit Tigers,145,CWS,Chicago White Sox,5,2
+632253,2021-10-03,115,COL,Colorado Rockies,109,AZ,Arizona Diamondbacks,4,5
+632254,2021-10-03,121,NYM,New York Mets,144,ATL,Atlanta Braves,0,5

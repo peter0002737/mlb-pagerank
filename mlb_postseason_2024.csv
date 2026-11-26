@@ -1,0 +1,44 @@
+gamePk,date,game_type,series,games_in_series,away_id,away_name,home_id,home_name,away_score,home_score
+775333,2024-10-01,F,NL Wild Card Series,3,144,Atlanta Braves,135,San Diego Padres,0,4
+775340,2024-10-01,F,NL Wild Card Series,3,121,New York Mets,158,Milwaukee Brewers,8,4
+775343,2024-10-01,F,AL Wild Card Series,3,118,Kansas City Royals,110,Baltimore Orioles,1,0
+775345,2024-10-01,F,AL Wild Card Series,3,116,Detroit Tigers,117,Houston Astros,3,1
+775336,2024-10-02,F,NL Wild Card Series,3,144,Atlanta Braves,135,San Diego Padres,4,5
+775339,2024-10-02,F,NL Wild Card Series,3,121,New York Mets,158,Milwaukee Brewers,3,5
+775341,2024-10-02,F,AL Wild Card Series,3,118,Kansas City Royals,110,Baltimore Orioles,2,1
+775344,2024-10-02,F,AL Wild Card Series,3,116,Detroit Tigers,117,Houston Astros,5,2
+775337,2024-10-03,F,NL Wild Card Series,3,121,New York Mets,158,Milwaukee Brewers,4,2
+775318,2024-10-05,D,NL Division Series,5,121,New York Mets,143,Philadelphia Phillies,6,2
+775323,2024-10-05,D,NL Division Series,5,135,San Diego Padres,119,Los Angeles Dodgers,5,7
+775324,2024-10-05,D,AL Division Series,5,116,Detroit Tigers,114,Cleveland Guardians,0,7
+775334,2024-10-05,D,AL Division Series,5,118,Kansas City Royals,147,New York Yankees,5,6
+775319,2024-10-06,D,NL Division Series,5,121,New York Mets,143,Philadelphia Phillies,6,7
+775322,2024-10-06,D,NL Division Series,5,135,San Diego Padres,119,Los Angeles Dodgers,10,2
+775325,2024-10-07,D,AL Division Series,5,116,Detroit Tigers,114,Cleveland Guardians,3,0
+775332,2024-10-07,D,AL Division Series,5,118,Kansas City Royals,147,New York Yankees,4,2
+775316,2024-10-08,D,NL Division Series,5,143,Philadelphia Phillies,121,New York Mets,2,7
+775321,2024-10-08,D,NL Division Series,5,119,Los Angeles Dodgers,135,San Diego Padres,5,6
+775313,2024-10-09,D,NL Division Series,5,143,Philadelphia Phillies,121,New York Mets,1,4
+775320,2024-10-09,D,NL Division Series,5,119,Los Angeles Dodgers,135,San Diego Padres,8,0
+775328,2024-10-09,D,AL Division Series,5,114,Cleveland Guardians,116,Detroit Tigers,0,3
+775329,2024-10-09,D,AL Division Series,5,147,New York Yankees,118,Kansas City Royals,3,2
+775327,2024-10-10,D,AL Division Series,5,114,Cleveland Guardians,116,Detroit Tigers,5,4
+775331,2024-10-10,D,AL Division Series,5,147,New York Yankees,118,Kansas City Royals,3,1
+775317,2024-10-11,D,NL Division Series,5,135,San Diego Padres,119,Los Angeles Dodgers,0,2
+775326,2024-10-12,D,AL Division Series,5,116,Detroit Tigers,114,Cleveland Guardians,3,7
+775307,2024-10-13,L,NL Championship Series,7,121,New York Mets,119,Los Angeles Dodgers,0,9
+775306,2024-10-14,L,NL Championship Series,7,121,New York Mets,119,Los Angeles Dodgers,7,3
+775314,2024-10-14,L,AL Championship Series,7,114,Cleveland Guardians,147,New York Yankees,2,5
+775312,2024-10-15,L,AL Championship Series,7,114,Cleveland Guardians,147,New York Yankees,3,6
+775305,2024-10-16,L,NL Championship Series,7,119,Los Angeles Dodgers,121,New York Mets,8,0
+775303,2024-10-17,L,NL Championship Series,7,119,Los Angeles Dodgers,121,New York Mets,10,2
+775310,2024-10-17,L,AL Championship Series,7,147,New York Yankees,114,Cleveland Guardians,5,7
+775299,2024-10-18,L,NL Championship Series,7,119,Los Angeles Dodgers,121,New York Mets,6,12
+775311,2024-10-18,L,AL Championship Series,7,147,New York Yankees,114,Cleveland Guardians,8,6
+775309,2024-10-19,L,AL Championship Series,7,147,New York Yankees,114,Cleveland Guardians,5,2
+775302,2024-10-20,L,NL Championship Series,7,121,New York Mets,119,Los Angeles Dodgers,5,10
+775300,2024-10-25,W,World Series,7,147,New York Yankees,119,Los Angeles Dodgers,3,6
+775294,2024-10-26,W,World Series,7,147,New York Yankees,119,Los Angeles Dodgers,2,4
+775298,2024-10-28,W,World Series,7,119,Los Angeles Dodgers,147,New York Yankees,4,2
+775297,2024-10-29,W,World Series,7,119,Los Angeles Dodgers,147,New York Yankees,4,11
+775296,2024-10-30,W,World Series,7,119,Los Angeles Dodgers,147,New York Yankees,7,6

@@ -1,0 +1,38 @@
+gamePk,date,game_type,series,games_in_series,away_id,away_name,home_id,home_name,away_score,home_score
+599336,2019-10-01,F,NL Wild Card Game,1,158,Milwaukee Brewers,120,Washington Nationals,3,4
+599335,2019-10-02,F,AL Wild Card Game,1,139,Tampa Bay Rays,133,Oakland Athletics,5,1
+599347,2019-10-03,D,NL Division Series,5,120,Washington Nationals,119,Los Angeles Dodgers,0,6
+599352,2019-10-03,D,NL Division Series,5,138,St. Louis Cardinals,144,Atlanta Braves,7,6
+599337,2019-10-04,D,AL Division Series,5,139,Tampa Bay Rays,117,Houston Astros,2,6
+599342,2019-10-04,D,AL Division Series,5,142,Minnesota Twins,147,New York Yankees,4,10
+599348,2019-10-04,D,NL Division Series,5,120,Washington Nationals,119,Los Angeles Dodgers,4,2
+599353,2019-10-04,D,NL Division Series,5,138,St. Louis Cardinals,144,Atlanta Braves,0,3
+599338,2019-10-05,D,AL Division Series,5,139,Tampa Bay Rays,117,Houston Astros,1,3
+599343,2019-10-05,D,AL Division Series,5,142,Minnesota Twins,147,New York Yankees,2,8
+599349,2019-10-06,D,NL Division Series,5,119,Los Angeles Dodgers,120,Washington Nationals,10,4
+599354,2019-10-06,D,NL Division Series,5,144,Atlanta Braves,138,St. Louis Cardinals,3,1
+599339,2019-10-07,D,AL Division Series,5,117,Houston Astros,139,Tampa Bay Rays,3,10
+599344,2019-10-07,D,AL Division Series,5,147,New York Yankees,142,Minnesota Twins,5,1
+599350,2019-10-07,D,NL Division Series,5,119,Los Angeles Dodgers,120,Washington Nationals,1,6
+599355,2019-10-07,D,NL Division Series,5,144,Atlanta Braves,138,St. Louis Cardinals,4,5
+599340,2019-10-08,D,AL Division Series,5,117,Houston Astros,139,Tampa Bay Rays,1,4
+599351,2019-10-09,D,NL Division Series,5,120,Washington Nationals,119,Los Angeles Dodgers,7,3
+599356,2019-10-09,D,NL Division Series,5,138,St. Louis Cardinals,144,Atlanta Braves,13,1
+599341,2019-10-10,D,AL Division Series,5,139,Tampa Bay Rays,117,Houston Astros,1,6
+599364,2019-10-11,L,NL Championship Series,7,120,Washington Nationals,138,St. Louis Cardinals,2,0
+599357,2019-10-12,L,AL Championship Series,7,147,New York Yankees,117,Houston Astros,7,0
+599365,2019-10-12,L,NL Championship Series,7,120,Washington Nationals,138,St. Louis Cardinals,3,1
+599358,2019-10-13,L,AL Championship Series,7,147,New York Yankees,117,Houston Astros,2,3
+599366,2019-10-14,L,NL Championship Series,7,138,St. Louis Cardinals,120,Washington Nationals,1,8
+599359,2019-10-15,L,AL Championship Series,7,117,Houston Astros,147,New York Yankees,4,1
+599367,2019-10-15,L,NL Championship Series,7,138,St. Louis Cardinals,120,Washington Nationals,4,7
+599360,2019-10-17,L,AL Championship Series,7,117,Houston Astros,147,New York Yankees,8,3
+599361,2019-10-18,L,AL Championship Series,7,117,Houston Astros,147,New York Yankees,1,4
+599362,2019-10-19,L,AL Championship Series,7,147,New York Yankees,117,Houston Astros,4,6
+599371,2019-10-22,W,World Series,7,120,Washington Nationals,117,Houston Astros,5,4
+599372,2019-10-23,W,World Series,7,120,Washington Nationals,117,Houston Astros,12,3
+599373,2019-10-25,W,World Series,7,117,Houston Astros,120,Washington Nationals,4,1
+599374,2019-10-26,W,World Series,7,117,Houston Astros,120,Washington Nationals,8,1
+599375,2019-10-27,W,World Series,7,117,Houston Astros,120,Washington Nationals,7,1
+599376,2019-10-29,W,World Series,7,120,Washington Nationals,117,Houston Astros,7,2
+599377,2019-10-30,W,World Series,7,120,Washington Nationals,117,Houston Astros,6,2

@@ -1,0 +1,42 @@
+gamePk,date,game_type,series,games_in_series,away_id,away_name,home_id,home_name,away_score,home_score
+748577,2023-10-03,F,NL Wild Card Series,3,146,Miami Marlins,143,Philadelphia Phillies,1,4
+748581,2023-10-03,F,AL Wild Card Series,3,140,Texas Rangers,139,Tampa Bay Rays,4,0
+748582,2023-10-03,F,NL Wild Card Series,3,109,Arizona Diamondbacks,158,Milwaukee Brewers,6,3
+748585,2023-10-03,F,AL Wild Card Series,3,141,Toronto Blue Jays,142,Minnesota Twins,1,3
+748575,2023-10-04,F,NL Wild Card Series,3,146,Miami Marlins,143,Philadelphia Phillies,1,7
+748578,2023-10-04,F,NL Wild Card Series,3,109,Arizona Diamondbacks,158,Milwaukee Brewers,5,2
+748580,2023-10-04,F,AL Wild Card Series,3,140,Texas Rangers,139,Tampa Bay Rays,7,1
+748583,2023-10-04,F,AL Wild Card Series,3,141,Toronto Blue Jays,142,Minnesota Twins,0,2
+748555,2023-10-07,D,NL Division Series,5,109,Arizona Diamondbacks,119,Los Angeles Dodgers,11,2
+748562,2023-10-07,D,NL Division Series,5,143,Philadelphia Phillies,144,Atlanta Braves,3,0
+748568,2023-10-07,D,AL Division Series,5,142,Minnesota Twins,117,Houston Astros,4,6
+748573,2023-10-07,D,AL Division Series,5,140,Texas Rangers,110,Baltimore Orioles,3,2
+748565,2023-10-08,D,AL Division Series,5,142,Minnesota Twins,117,Houston Astros,6,2
+748569,2023-10-08,D,AL Division Series,5,140,Texas Rangers,110,Baltimore Orioles,11,8
+748556,2023-10-09,D,NL Division Series,5,109,Arizona Diamondbacks,119,Los Angeles Dodgers,4,2
+748563,2023-10-09,D,NL Division Series,5,143,Philadelphia Phillies,144,Atlanta Braves,4,5
+748567,2023-10-10,D,AL Division Series,5,117,Houston Astros,142,Minnesota Twins,9,1
+748572,2023-10-10,D,AL Division Series,5,110,Baltimore Orioles,140,Texas Rangers,1,7
+748557,2023-10-11,D,NL Division Series,5,119,Los Angeles Dodgers,109,Arizona Diamondbacks,2,4
+748564,2023-10-11,D,NL Division Series,5,144,Atlanta Braves,143,Philadelphia Phillies,2,10
+748566,2023-10-11,D,AL Division Series,5,117,Houston Astros,142,Minnesota Twins,3,2
+748561,2023-10-12,D,NL Division Series,5,144,Atlanta Braves,143,Philadelphia Phillies,1,3
+748553,2023-10-15,L,AL Championship Series,7,140,Texas Rangers,117,Houston Astros,2,0
+748543,2023-10-16,L,NL Championship Series,7,109,Arizona Diamondbacks,143,Philadelphia Phillies,3,5
+748548,2023-10-16,L,AL Championship Series,7,140,Texas Rangers,117,Houston Astros,5,4
+748546,2023-10-17,L,NL Championship Series,7,109,Arizona Diamondbacks,143,Philadelphia Phillies,0,10
+748552,2023-10-18,L,AL Championship Series,7,117,Houston Astros,140,Texas Rangers,8,5
+748545,2023-10-19,L,NL Championship Series,7,143,Philadelphia Phillies,109,Arizona Diamondbacks,1,2
+748551,2023-10-19,L,AL Championship Series,7,117,Houston Astros,140,Texas Rangers,10,3
+748544,2023-10-20,L,NL Championship Series,7,143,Philadelphia Phillies,109,Arizona Diamondbacks,5,6
+748550,2023-10-20,L,AL Championship Series,7,117,Houston Astros,140,Texas Rangers,5,4
+748538,2023-10-21,L,NL Championship Series,7,143,Philadelphia Phillies,109,Arizona Diamondbacks,6,1
+748549,2023-10-22,L,AL Championship Series,7,140,Texas Rangers,117,Houston Astros,9,2
+748539,2023-10-23,L,NL Championship Series,7,109,Arizona Diamondbacks,143,Philadelphia Phillies,5,1
+748547,2023-10-23,L,AL Championship Series,7,140,Texas Rangers,117,Houston Astros,11,4
+748537,2023-10-24,L,NL Championship Series,7,109,Arizona Diamondbacks,143,Philadelphia Phillies,4,2
+748542,2023-10-27,W,World Series,7,109,Arizona Diamondbacks,140,Texas Rangers,5,6
+748541,2023-10-28,W,World Series,7,109,Arizona Diamondbacks,140,Texas Rangers,9,1
+748540,2023-10-30,W,World Series,7,140,Texas Rangers,109,Arizona Diamondbacks,3,1
+748535,2023-10-31,W,World Series,7,140,Texas Rangers,109,Arizona Diamondbacks,11,7
+748534,2023-11-01,W,World Series,7,140,Texas Rangers,109,Arizona Diamondbacks,5,0

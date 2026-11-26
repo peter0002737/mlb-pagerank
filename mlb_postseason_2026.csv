@@ -1,0 +1,41 @@
+gamePk,date,game_type,series,games_in_series,away_id,away_name,home_id,home_name,away_score,home_score
+849845,2026-09-29,F,NL Wild Card Series,3,143,Philadelphia Phillies,144,Atlanta Braves,3,5
+849849,2026-09-29,F,AL Wild Card Series,3,145,Chicago White Sox,117,Houston Astros,6,3
+849851,2026-09-29,F,AL Wild Card Series,3,111,Boston Red Sox,147,New York Yankees,0,9
+849843,2026-09-29,F,NL Wild Card Series,3,112,Chicago Cubs,135,San Diego Padres,0,8
+849841,2026-09-30,F,NL Wild Card Series,3,143,Philadelphia Phillies,144,Atlanta Braves,4,3
+849846,2026-09-30,F,AL Wild Card Series,3,145,Chicago White Sox,117,Houston Astros,7,3
+849848,2026-09-30,F,AL Wild Card Series,3,111,Boston Red Sox,147,New York Yankees,2,9
+849842,2026-09-30,F,NL Wild Card Series,3,112,Chicago Cubs,135,San Diego Padres,1,4
+849844,2026-10-01,F,NL Wild Card Series,3,143,Philadelphia Phillies,144,Atlanta Braves,2,6
+849829,2026-10-03,D,AL Division Series,5,145,Chicago White Sox,114,Cleveland Guardians,3,0
+849828,2026-10-03,D,NL Division Series,5,144,Atlanta Braves,119,Los Angeles Dodgers,3,5
+849835,2026-10-03,D,AL Division Series,5,147,New York Yankees,139,Tampa Bay Rays,0,1
+849830,2026-10-03,D,NL Division Series,5,135,San Diego Padres,158,Milwaukee Brewers,2,3
+849825,2026-10-04,D,NL Division Series,5,135,San Diego Padres,158,Milwaukee Brewers,3,4
+849823,2026-10-04,D,NL Division Series,5,144,Atlanta Braves,119,Los Angeles Dodgers,3,2
+849834,2026-10-05,D,AL Division Series,5,145,Chicago White Sox,114,Cleveland Guardians,4,3
+849839,2026-10-05,D,AL Division Series,5,147,New York Yankees,139,Tampa Bay Rays,2,5
+849819,2026-10-06,D,NL Division Series,5,119,Los Angeles Dodgers,144,Atlanta Braves,3,1
+849826,2026-10-06,D,NL Division Series,5,158,Milwaukee Brewers,135,San Diego Padres,3,4
+849833,2026-10-07,D,AL Division Series,5,114,Cleveland Guardians,145,Chicago White Sox,9,3
+849822,2026-10-07,D,NL Division Series,5,119,Los Angeles Dodgers,144,Atlanta Braves,4,1
+849838,2026-10-07,D,AL Division Series,5,139,Tampa Bay Rays,147,New York Yankees,4,3
+849827,2026-10-07,D,NL Division Series,5,158,Milwaukee Brewers,135,San Diego Padres,3,1
+849832,2026-10-08,D,AL Division Series,5,114,Cleveland Guardians,145,Chicago White Sox,9,5
+849831,2026-10-10,D,AL Division Series,5,145,Chicago White Sox,114,Cleveland Guardians,0,2
+849809,2026-10-11,L,NL Championship Series,7,119,Los Angeles Dodgers,158,Milwaukee Brewers,1,2
+849812,2026-10-12,L,NL Championship Series,7,119,Los Angeles Dodgers,158,Milwaukee Brewers,4,7
+849820,2026-10-12,L,AL Championship Series,7,114,Cleveland Guardians,139,Tampa Bay Rays,7,3
+849813,2026-10-13,L,AL Championship Series,7,114,Cleveland Guardians,139,Tampa Bay Rays,1,3
+849811,2026-10-14,L,NL Championship Series,7,158,Milwaukee Brewers,119,Los Angeles Dodgers,6,2
+849818,2026-10-15,L,AL Championship Series,7,139,Tampa Bay Rays,114,Cleveland Guardians,2,3
+849810,2026-10-15,L,NL Championship Series,7,158,Milwaukee Brewers,119,Los Angeles Dodgers,6,4
+849816,2026-10-17,L,AL Championship Series,7,139,Tampa Bay Rays,114,Cleveland Guardians,7,3
+849817,2026-10-18,L,AL Championship Series,7,139,Tampa Bay Rays,114,Cleveland Guardians,3,1
+849815,2026-10-19,L,AL Championship Series,7,114,Cleveland Guardians,139,Tampa Bay Rays,3,7
+849805,2026-10-23,W,World Series,7,139,Tampa Bay Rays,158,Milwaukee Brewers,2,3
+849802,2026-10-24,W,World Series,7,139,Tampa Bay Rays,158,Milwaukee Brewers,4,5
+849804,2026-10-26,W,World Series,7,158,Milwaukee Brewers,139,Tampa Bay Rays,10,1
+849803,2026-10-27,W,World Series,7,158,Milwaukee Brewers,139,Tampa Bay Rays,3,4
+849799,2026-10-28,W,World Series,7,158,Milwaukee Brewers,139,Tampa Bay Rays,4,1

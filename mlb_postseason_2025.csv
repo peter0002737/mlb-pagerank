@@ -1,0 +1,48 @@
+gamePk,date,game_type,series,games_in_series,away_id,away_name,home_id,home_name,away_score,home_score
+813066,2025-09-30,F,NL Wild Card Series,3,135,San Diego Padres,112,Chicago Cubs,1,3
+813069,2025-09-30,F,NL Wild Card Series,3,113,Cincinnati Reds,119,Los Angeles Dodgers,5,10
+813072,2025-09-30,F,AL Wild Card Series,3,116,Detroit Tigers,114,Cleveland Guardians,2,1
+813074,2025-09-30,F,AL Wild Card Series,3,111,Boston Red Sox,147,New York Yankees,3,1
+813064,2025-10-01,F,NL Wild Card Series,3,135,San Diego Padres,112,Chicago Cubs,3,0
+813068,2025-10-01,F,NL Wild Card Series,3,113,Cincinnati Reds,119,Los Angeles Dodgers,4,8
+813070,2025-10-01,F,AL Wild Card Series,3,111,Boston Red Sox,147,New York Yankees,3,4
+813071,2025-10-01,F,AL Wild Card Series,3,116,Detroit Tigers,114,Cleveland Guardians,1,6
+813059,2025-10-02,F,NL Wild Card Series,3,135,San Diego Padres,112,Chicago Cubs,1,3
+813065,2025-10-02,F,AL Wild Card Series,3,111,Boston Red Sox,147,New York Yankees,0,4
+813073,2025-10-02,F,AL Wild Card Series,3,116,Detroit Tigers,114,Cleveland Guardians,6,3
+813047,2025-10-04,D,NL Division Series,5,112,Chicago Cubs,158,Milwaukee Brewers,3,9
+813051,2025-10-04,D,NL Division Series,5,119,Los Angeles Dodgers,143,Philadelphia Phillies,5,3
+813058,2025-10-04,D,AL Division Series,5,116,Detroit Tigers,136,Seattle Mariners,3,2
+813063,2025-10-04,D,AL Division Series,5,147,New York Yankees,141,Toronto Blue Jays,1,10
+813057,2025-10-05,D,AL Division Series,5,116,Detroit Tigers,136,Seattle Mariners,2,3
+813062,2025-10-05,D,AL Division Series,5,147,New York Yankees,141,Toronto Blue Jays,7,13
+813048,2025-10-06,D,NL Division Series,5,112,Chicago Cubs,158,Milwaukee Brewers,3,7
+813052,2025-10-06,D,NL Division Series,5,119,Los Angeles Dodgers,143,Philadelphia Phillies,4,3
+813056,2025-10-07,D,AL Division Series,5,136,Seattle Mariners,116,Detroit Tigers,8,4
+813061,2025-10-07,D,AL Division Series,5,141,Toronto Blue Jays,147,New York Yankees,6,9
+813041,2025-10-08,D,NL Division Series,5,143,Philadelphia Phillies,119,Los Angeles Dodgers,8,2
+813049,2025-10-08,D,NL Division Series,5,158,Milwaukee Brewers,112,Chicago Cubs,3,4
+813055,2025-10-08,D,AL Division Series,5,136,Seattle Mariners,116,Detroit Tigers,3,9
+813060,2025-10-08,D,AL Division Series,5,141,Toronto Blue Jays,147,New York Yankees,5,2
+813042,2025-10-09,D,NL Division Series,5,143,Philadelphia Phillies,119,Los Angeles Dodgers,1,2
+813050,2025-10-09,D,NL Division Series,5,158,Milwaukee Brewers,112,Chicago Cubs,0,6
+813054,2025-10-10,D,AL Division Series,5,116,Detroit Tigers,136,Seattle Mariners,2,3
+813046,2025-10-11,D,NL Division Series,5,112,Chicago Cubs,158,Milwaukee Brewers,1,3
+813040,2025-10-12,L,AL Championship Series,7,136,Seattle Mariners,141,Toronto Blue Jays,3,1
+813036,2025-10-13,L,NL Championship Series,7,119,Los Angeles Dodgers,158,Milwaukee Brewers,2,1
+813044,2025-10-13,L,AL Championship Series,7,136,Seattle Mariners,141,Toronto Blue Jays,10,3
+813034,2025-10-14,L,NL Championship Series,7,119,Los Angeles Dodgers,158,Milwaukee Brewers,5,1
+813043,2025-10-15,L,AL Championship Series,7,141,Toronto Blue Jays,136,Seattle Mariners,13,4
+813033,2025-10-16,L,NL Championship Series,7,158,Milwaukee Brewers,119,Los Angeles Dodgers,1,3
+813035,2025-10-16,L,AL Championship Series,7,141,Toronto Blue Jays,136,Seattle Mariners,8,2
+813031,2025-10-17,L,NL Championship Series,7,158,Milwaukee Brewers,119,Los Angeles Dodgers,1,5
+813039,2025-10-17,L,AL Championship Series,7,141,Toronto Blue Jays,136,Seattle Mariners,2,6
+813038,2025-10-19,L,AL Championship Series,7,136,Seattle Mariners,141,Toronto Blue Jays,2,6
+813037,2025-10-20,L,AL Championship Series,7,136,Seattle Mariners,141,Toronto Blue Jays,3,4
+813027,2025-10-24,W,World Series,7,119,Los Angeles Dodgers,141,Toronto Blue Jays,4,11
+813026,2025-10-25,W,World Series,7,119,Los Angeles Dodgers,141,Toronto Blue Jays,5,1
+813032,2025-10-27,W,World Series,7,141,Toronto Blue Jays,119,Los Angeles Dodgers,5,6
+813023,2025-10-28,W,World Series,7,141,Toronto Blue Jays,119,Los Angeles Dodgers,6,2
+813022,2025-10-29,W,World Series,7,141,Toronto Blue Jays,119,Los Angeles Dodgers,6,1
+813025,2025-10-31,W,World Series,7,119,Los Angeles Dodgers,141,Toronto Blue Jays,3,1
+813024,2025-11-01,W,World Series,7,119,Los Angeles Dodgers,141,Toronto Blue Jays,5,4

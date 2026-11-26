@@ -1,0 +1,38 @@
+gamePk,date,game_type,series,games_in_series,away_id,away_name,home_id,home_name,away_score,home_score
+660938,2021-10-05,F,AL Wild Card Game,1,147,New York Yankees,111,Boston Red Sox,2,6
+660937,2021-10-06,F,NL Wild Card Game,1,138,St. Louis Cardinals,119,Los Angeles Dodgers,1,3
+660929,2021-10-07,D,AL Division Series,5,111,Boston Red Sox,139,Tampa Bay Rays,0,5
+660936,2021-10-07,D,AL Division Series,5,145,Chicago White Sox,117,Houston Astros,1,6
+660917,2021-10-08,D,NL Division Series,5,144,Atlanta Braves,158,Milwaukee Brewers,1,2
+660932,2021-10-08,D,AL Division Series,5,111,Boston Red Sox,139,Tampa Bay Rays,14,6
+660933,2021-10-08,D,NL Division Series,5,119,Los Angeles Dodgers,137,San Francisco Giants,0,4
+660934,2021-10-08,D,AL Division Series,5,145,Chicago White Sox,117,Houston Astros,4,9
+660907,2021-10-09,D,NL Division Series,5,144,Atlanta Braves,158,Milwaukee Brewers,3,0
+660925,2021-10-09,D,NL Division Series,5,119,Los Angeles Dodgers,137,San Francisco Giants,9,2
+660928,2021-10-10,D,AL Division Series,5,139,Tampa Bay Rays,111,Boston Red Sox,4,6
+660931,2021-10-10,D,AL Division Series,5,117,Houston Astros,145,Chicago White Sox,6,12
+660905,2021-10-11,D,NL Division Series,5,158,Milwaukee Brewers,144,Atlanta Braves,0,3
+660919,2021-10-11,D,NL Division Series,5,137,San Francisco Giants,119,Los Angeles Dodgers,1,0
+660927,2021-10-11,D,AL Division Series,5,139,Tampa Bay Rays,111,Boston Red Sox,5,6
+660914,2021-10-12,D,NL Division Series,5,158,Milwaukee Brewers,144,Atlanta Braves,4,5
+660918,2021-10-12,D,NL Division Series,5,137,San Francisco Giants,119,Los Angeles Dodgers,2,7
+660926,2021-10-12,D,AL Division Series,5,117,Houston Astros,145,Chicago White Sox,10,1
+660920,2021-10-14,D,NL Division Series,5,119,Los Angeles Dodgers,137,San Francisco Giants,2,1
+660896,2021-10-15,L,AL Championship Series,7,111,Boston Red Sox,117,Houston Astros,4,5
+660913,2021-10-16,L,AL Championship Series,7,111,Boston Red Sox,117,Houston Astros,9,5
+660924,2021-10-16,L,NL Championship Series,7,119,Los Angeles Dodgers,144,Atlanta Braves,2,3
+660922,2021-10-17,L,NL Championship Series,7,119,Los Angeles Dodgers,144,Atlanta Braves,4,5
+660898,2021-10-18,L,AL Championship Series,7,117,Houston Astros,111,Boston Red Sox,3,12
+660916,2021-10-19,L,NL Championship Series,7,144,Atlanta Braves,119,Los Angeles Dodgers,5,6
+660923,2021-10-19,L,AL Championship Series,7,117,Houston Astros,111,Boston Red Sox,9,2
+660900,2021-10-20,L,AL Championship Series,7,117,Houston Astros,111,Boston Red Sox,9,1
+660904,2021-10-20,L,NL Championship Series,7,144,Atlanta Braves,119,Los Angeles Dodgers,9,2
+660903,2021-10-21,L,NL Championship Series,7,144,Atlanta Braves,119,Los Angeles Dodgers,2,11
+660899,2021-10-22,L,AL Championship Series,7,111,Boston Red Sox,117,Houston Astros,0,5
+660921,2021-10-23,L,NL Championship Series,7,119,Los Angeles Dodgers,144,Atlanta Braves,2,4
+660897,2021-10-26,W,World Series,7,144,Atlanta Braves,117,Houston Astros,6,2
+660908,2021-10-27,W,World Series,7,144,Atlanta Braves,117,Houston Astros,2,7
+660910,2021-10-29,W,World Series,7,117,Houston Astros,144,Atlanta Braves,0,2
+660902,2021-10-30,W,World Series,7,117,Houston Astros,144,Atlanta Braves,2,3
+660911,2021-10-31,W,World Series,7,117,Houston Astros,144,Atlanta Braves,9,5
+660906,2021-11-02,W,World Series,7,144,Atlanta Braves,117,Houston Astros,7,0

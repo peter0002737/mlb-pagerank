@@ -1,0 +1,2431 @@
+gamePk,date,away_id,away_abbr,away_name,home_id,home_abbr,home_name,away_score,home_score
+661042,2022-04-07,117,HOU,Houston Astros,108,LAA,Los Angeles Angels,3,1
+661577,2022-04-07,113,CIN,Cincinnati Reds,144,ATL,Atlanta Braves,6,3
+662021,2022-04-07,134,PIT,Pittsburgh Pirates,138,STL,St. Louis Cardinals,0,9
+662571,2022-04-07,121,NYM,New York Mets,120,WSH,Washington Nationals,5,1
+662766,2022-04-07,114,CLE,Cleveland Guardians,118,KC,Kansas City Royals,1,3
+663178,2022-04-07,158,MIL,Milwaukee Brewers,112,CHC,Chicago Cubs,4,5
+663418,2022-04-07,135,SD,San Diego Padres,109,AZ,Arizona Diamondbacks,2,4
+661041,2022-04-08,117,HOU,Houston Astros,108,LAA,Los Angeles Angels,13,6
+661131,2022-04-08,133,OAK,Oakland Athletics,143,PHI,Philadelphia Phillies,5,9
+661333,2022-04-08,111,BOS,Boston Red Sox,147,NYY,New York Yankees,5,6
+661576,2022-04-08,113,CIN,Cincinnati Reds,144,ATL,Atlanta Braves,6,7
+661750,2022-04-08,136,SEA,Seattle Mariners,142,MIN,Minnesota Twins,2,1
+661782,2022-04-08,140,TEX,Texas Rangers,141,TOR,Toronto Blue Jays,8,10
+661918,2022-04-08,110,BAL,Baltimore Orioles,139,TB,Tampa Bay Rays,1,2
+662124,2022-04-08,146,MIA,Miami Marlins,137,SF,San Francisco Giants,5,6
+662559,2022-04-08,121,NYM,New York Mets,120,WSH,Washington Nationals,7,3
+662888,2022-04-08,145,CWS,Chicago White Sox,116,DET,Detroit Tigers,4,5
+662933,2022-04-08,119,LAD,Los Angeles Dodgers,115,COL,Colorado Rockies,5,3
+663417,2022-04-08,135,SD,San Diego Padres,109,AZ,Arizona Diamondbacks,3,0
+661040,2022-04-09,117,HOU,Houston Astros,108,LAA,Los Angeles Angels,0,2
+661130,2022-04-09,133,OAK,Oakland Athletics,143,PHI,Philadelphia Phillies,2,4
+661332,2022-04-09,111,BOS,Boston Red Sox,147,NYY,New York Yankees,2,4
+661575,2022-04-09,113,CIN,Cincinnati Reds,144,ATL,Atlanta Braves,1,2
+661756,2022-04-09,136,SEA,Seattle Mariners,142,MIN,Minnesota Twins,4,3
+661803,2022-04-09,140,TEX,Texas Rangers,141,TOR,Toronto Blue Jays,3,4
+661917,2022-04-09,110,BAL,Baltimore Orioles,139,TB,Tampa Bay Rays,3,5
+662020,2022-04-09,134,PIT,Pittsburgh Pirates,138,STL,St. Louis Cardinals,2,6
+662123,2022-04-09,146,MIA,Miami Marlins,137,SF,San Francisco Giants,2,1
+662588,2022-04-09,121,NYM,New York Mets,120,WSH,Washington Nationals,5,0
+662765,2022-04-09,114,CLE,Cleveland Guardians,118,KC,Kansas City Royals,0,1
+662864,2022-04-09,145,CWS,Chicago White Sox,116,DET,Detroit Tigers,5,2
+662931,2022-04-09,119,LAD,Los Angeles Dodgers,115,COL,Colorado Rockies,2,3
+663205,2022-04-09,158,MIL,Milwaukee Brewers,112,CHC,Chicago Cubs,0,9
+663404,2022-04-09,135,SD,San Diego Padres,109,AZ,Arizona Diamondbacks,5,2
+661039,2022-04-10,117,HOU,Houston Astros,108,LAA,Los Angeles Angels,4,1
+661129,2022-04-10,133,OAK,Oakland Athletics,143,PHI,Philadelphia Phillies,4,1
+661316,2022-04-10,111,BOS,Boston Red Sox,147,NYY,New York Yankees,4,3
+661573,2022-04-10,113,CIN,Cincinnati Reds,144,ATL,Atlanta Braves,6,3
+661738,2022-04-10,136,SEA,Seattle Mariners,142,MIN,Minnesota Twins,4,10
+661802,2022-04-10,140,TEX,Texas Rangers,141,TOR,Toronto Blue Jays,12,6
+661916,2022-04-10,110,BAL,Baltimore Orioles,139,TB,Tampa Bay Rays,0,8
+662019,2022-04-10,134,PIT,Pittsburgh Pirates,138,STL,St. Louis Cardinals,9,4
+662122,2022-04-10,146,MIA,Miami Marlins,137,SF,San Francisco Giants,2,3
+662570,2022-04-10,121,NYM,New York Mets,120,WSH,Washington Nationals,2,4
+662755,2022-04-10,114,CLE,Cleveland Guardians,118,KC,Kansas City Royals,17,3
+662887,2022-04-10,145,CWS,Chicago White Sox,116,DET,Detroit Tigers,10,1
+662934,2022-04-10,119,LAD,Los Angeles Dodgers,115,COL,Colorado Rockies,4,9
+663204,2022-04-10,158,MIL,Milwaukee Brewers,112,CHC,Chicago Cubs,5,4
+663395,2022-04-10,135,SD,San Diego Padres,109,AZ,Arizona Diamondbacks,10,5
+661036,2022-04-11,146,MIA,Miami Marlins,108,LAA,Los Angeles Angels,2,6
+661315,2022-04-11,141,TOR,Toronto Blue Jays,147,NYY,New York Yankees,3,0
+661572,2022-04-11,120,WSH,Washington Nationals,144,ATL,Atlanta Braves,11,2
+661637,2022-04-11,121,NYM,New York Mets,143,PHI,Philadelphia Phillies,4,5
+661754,2022-04-11,136,SEA,Seattle Mariners,142,MIN,Minnesota Twins,0,4
+661915,2022-04-11,133,OAK,Oakland Athletics,139,TB,Tampa Bay Rays,13,2
+662042,2022-04-11,115,COL,Colorado Rockies,140,TEX,Texas Rangers,6,4
+662116,2022-04-11,135,SD,San Diego Padres,137,SF,San Francisco Giants,4,2
+662754,2022-04-11,114,CLE,Cleveland Guardians,118,KC,Kansas City Royals,10,7
+662863,2022-04-11,111,BOS,Boston Red Sox,116,DET,Detroit Tigers,1,3
+663403,2022-04-11,158,MIL,Milwaukee Brewers,110,BAL,Baltimore Orioles,0,2
+661038,2022-04-12,146,MIA,Miami Marlins,108,LAA,Los Angeles Angels,3,4
+661314,2022-04-12,141,TOR,Toronto Blue Jays,147,NYY,New York Yankees,0,4
+661538,2022-04-12,136,SEA,Seattle Mariners,145,CWS,Chicago White Sox,2,3
+661571,2022-04-12,120,WSH,Washington Nationals,144,ATL,Atlanta Braves,4,16
+661636,2022-04-12,121,NYM,New York Mets,143,PHI,Philadelphia Phillies,2,0
+661753,2022-04-12,119,LAD,Los Angeles Dodgers,142,MIN,Minnesota Twins,7,2
+661944,2022-04-12,133,OAK,Oakland Athletics,139,TB,Tampa Bay Rays,8,9
+661995,2022-04-12,115,COL,Colorado Rockies,140,TEX,Texas Rangers,4,1
+662017,2022-04-12,118,KC,Kansas City Royals,138,STL,St. Louis Cardinals,5,6
+662104,2022-04-12,135,SD,San Diego Padres,137,SF,San Francisco Giants,2,13
+662318,2022-04-12,112,CHC,Chicago Cubs,134,PIT,Pittsburgh Pirates,2,1
+662862,2022-04-12,111,BOS,Boston Red Sox,116,DET,Detroit Tigers,5,3
+663088,2022-04-12,114,CLE,Cleveland Guardians,113,CIN,Cincinnati Reds,10,5
+663295,2022-04-12,158,MIL,Milwaukee Brewers,110,BAL,Baltimore Orioles,5,4
+663411,2022-04-12,117,HOU,Houston Astros,109,AZ,Arizona Diamondbacks,2,1
+661313,2022-04-13,141,TOR,Toronto Blue Jays,147,NYY,New York Yankees,6,4
+661530,2022-04-13,136,SEA,Seattle Mariners,145,CWS,Chicago White Sox,4,6
+661570,2022-04-13,120,WSH,Washington Nationals,144,ATL,Atlanta Braves,3,1
+661643,2022-04-13,121,NYM,New York Mets,143,PHI,Philadelphia Phillies,9,6
+661734,2022-04-13,119,LAD,Los Angeles Dodgers,142,MIN,Minnesota Twins,7,0
+661943,2022-04-13,133,OAK,Oakland Athletics,139,TB,Tampa Bay Rays,4,2
+662115,2022-04-13,135,SD,San Diego Padres,137,SF,San Francisco Giants,1,2
+662317,2022-04-13,112,CHC,Chicago Cubs,134,PIT,Pittsburgh Pirates,2,6
+662885,2022-04-13,111,BOS,Boston Red Sox,116,DET,Detroit Tigers,9,7
+663117,2022-04-13,114,CLE,Cleveland Guardians,113,CIN,Cincinnati Reds,7,3
+663341,2022-04-13,117,HOU,Houston Astros,109,AZ,Arizona Diamondbacks,2,3
+663433,2022-04-13,158,MIL,Milwaukee Brewers,110,BAL,Baltimore Orioles,4,2
+661292,2022-04-14,138,STL,St. Louis Cardinals,158,MIL,Milwaukee Brewers,1,5
+661312,2022-04-14,141,TOR,Toronto Blue Jays,147,NYY,New York Yankees,0,3
+661418,2022-04-14,143,PHI,Philadelphia Phillies,146,MIA,Miami Marlins,3,4
+661529,2022-04-14,136,SEA,Seattle Mariners,145,CWS,Chicago White Sox,5,1
+661942,2022-04-14,133,OAK,Oakland Athletics,139,TB,Tampa Bay Rays,6,3
+661993,2022-04-14,108,LAA,Los Angeles Angels,140,TEX,Texas Rangers,5,10
+662237,2022-04-14,144,ATL,Atlanta Braves,135,SD,San Diego Padres,1,12
+662307,2022-04-14,120,WSH,Washington Nationals,134,PIT,Pittsburgh Pirates,4,9
+662627,2022-04-14,113,CIN,Cincinnati Reds,119,LAD,Los Angeles Dodgers,3,9
+662702,2022-04-14,116,DET,Detroit Tigers,118,KC,Kansas City Royals,4,2
+662950,2022-04-14,112,CHC,Chicago Cubs,115,COL,Colorado Rockies,5,2
+661267,2022-04-15,138,STL,St. Louis Cardinals,158,MIL,Milwaukee Brewers,10,1
+661417,2022-04-15,143,PHI,Philadelphia Phillies,146,MIA,Miami Marlins,1,7
+661528,2022-04-15,139,TB,Tampa Bay Rays,145,CWS,Chicago White Sox,2,3
+661792,2022-04-15,133,OAK,Oakland Athletics,141,TOR,Toronto Blue Jays,1,4
+662014,2022-04-15,108,LAA,Los Angeles Angels,140,TEX,Texas Rangers,9,6
+662192,2022-04-15,117,HOU,Houston Astros,136,SEA,Seattle Mariners,1,11
+662236,2022-04-15,144,ATL,Atlanta Braves,135,SD,San Diego Padres,5,2
+662291,2022-04-15,120,WSH,Washington Nationals,134,PIT,Pittsburgh Pirates,7,2
+662485,2022-04-15,109,AZ,Arizona Diamondbacks,121,NYM,New York Mets,3,10
+662620,2022-04-15,113,CIN,Cincinnati Reds,119,LAD,Los Angeles Dodgers,1,3
+662701,2022-04-15,116,DET,Detroit Tigers,118,KC,Kansas City Royals,2,1
+662960,2022-04-15,112,CHC,Chicago Cubs,115,COL,Colorado Rockies,5,6
+663136,2022-04-15,137,SF,San Francisco Giants,114,CLE,Cleveland Guardians,4,1
+663265,2022-04-15,142,MIN,Minnesota Twins,111,BOS,Boston Red Sox,8,4
+663357,2022-04-15,147,NYY,New York Yankees,110,BAL,Baltimore Orioles,1,2
+661335,2022-04-16,138,STL,St. Louis Cardinals,158,MIL,Milwaukee Brewers,2,1
+661416,2022-04-16,143,PHI,Philadelphia Phillies,146,MIA,Miami Marlins,10,3
+661527,2022-04-16,139,TB,Tampa Bay Rays,145,CWS,Chicago White Sox,2,3
+661759,2022-04-16,133,OAK,Oakland Athletics,141,TOR,Toronto Blue Jays,7,5
+661981,2022-04-16,108,LAA,Los Angeles Angels,140,TEX,Texas Rangers,7,2
+662206,2022-04-16,117,HOU,Houston Astros,136,SEA,Seattle Mariners,4,0
+662235,2022-04-16,144,ATL,Atlanta Braves,135,SD,San Diego Padres,5,2
+662290,2022-04-16,120,WSH,Washington Nationals,134,PIT,Pittsburgh Pirates,4,6
+662619,2022-04-16,113,CIN,Cincinnati Reds,119,LAD,Los Angeles Dodgers,2,5
+662626,2022-04-16,109,AZ,Arizona Diamondbacks,121,NYM,New York Mets,3,2
+662798,2022-04-16,116,DET,Detroit Tigers,118,KC,Kansas City Royals,1,3
+662966,2022-04-16,112,CHC,Chicago Cubs,115,COL,Colorado Rockies,6,9
+663076,2022-04-16,137,SF,San Francisco Giants,114,CLE,Cleveland Guardians,4,2
+663238,2022-04-16,142,MIN,Minnesota Twins,111,BOS,Boston Red Sox,0,4
+663266,2022-04-16,147,NYY,New York Yankees,110,BAL,Baltimore Orioles,5,2
+661226,2022-04-17,138,STL,St. Louis Cardinals,158,MIL,Milwaukee Brewers,5,6
+661415,2022-04-17,143,PHI,Philadelphia Phillies,146,MIA,Miami Marlins,3,11
+661462,2022-04-17,139,TB,Tampa Bay Rays,145,CWS,Chicago White Sox,9,3
+661804,2022-04-17,133,OAK,Oakland Athletics,141,TOR,Toronto Blue Jays,3,4
+662038,2022-04-17,108,LAA,Los Angeles Angels,140,TEX,Texas Rangers,8,3
+662174,2022-04-17,117,HOU,Houston Astros,136,SEA,Seattle Mariners,2,7
+662234,2022-04-17,144,ATL,Atlanta Braves,135,SD,San Diego Padres,1,2
+662294,2022-04-17,120,WSH,Washington Nationals,134,PIT,Pittsburgh Pirates,3,5
+662618,2022-04-17,113,CIN,Cincinnati Reds,119,LAD,Los Angeles Dodgers,1,9
+662625,2022-04-17,109,AZ,Arizona Diamondbacks,121,NYM,New York Mets,0,5
+662930,2022-04-17,112,CHC,Chicago Cubs,115,COL,Colorado Rockies,6,4
+663132,2022-04-17,137,SF,San Francisco Giants,114,CLE,Cleveland Guardians,8,1
+663308,2022-04-17,142,MIN,Minnesota Twins,111,BOS,Boston Red Sox,1,8
+663365,2022-04-17,147,NYY,New York Yankees,110,BAL,Baltimore Orioles,0,5
+661242,2022-04-18,134,PIT,Pittsburgh Pirates,158,MIL,Milwaukee Brewers,1,6
+662233,2022-04-18,113,CIN,Cincinnati Reds,135,SD,San Diego Padres,1,4
+662407,2022-04-18,110,BAL,Baltimore Orioles,133,OAK,Oakland Athletics,1,5
+662617,2022-04-18,144,ATL,Atlanta Braves,119,LAD,Los Angeles Dodgers,4,7
+662928,2022-04-18,108,LAA,Los Angeles Angels,117,HOU,Houston Astros,3,8
+662929,2022-04-18,143,PHI,Philadelphia Phillies,115,COL,Colorado Rockies,1,4
+663197,2022-04-18,139,TB,Tampa Bay Rays,112,CHC,Chicago Cubs,2,4
+663236,2022-04-18,142,MIN,Minnesota Twins,111,BOS,Boston Red Sox,8,3
+661211,2022-04-19,134,PIT,Pittsburgh Pirates,158,MIL,Milwaukee Brewers,2,5
+661405,2022-04-19,138,STL,St. Louis Cardinals,146,MIA,Miami Marlins,5,1
+662161,2022-04-19,140,TEX,Texas Rangers,136,SEA,Seattle Mariners,2,6
+662232,2022-04-19,113,CIN,Cincinnati Reds,135,SD,San Diego Padres,2,6
+662350,2022-04-19,137,SF,San Francisco Giants,121,NYM,New York Mets,4,5
+662406,2022-04-19,110,BAL,Baltimore Orioles,133,OAK,Oakland Athletics,1,2
+662583,2022-04-19,109,AZ,Arizona Diamondbacks,120,WSH,Washington Nationals,0,1
+662587,2022-04-19,109,AZ,Arizona Diamondbacks,120,WSH,Washington Nationals,1,6
+662616,2022-04-19,137,SF,San Francisco Giants,121,NYM,New York Mets,1,3
+662717,2022-04-19,144,ATL,Atlanta Braves,119,LAD,Los Angeles Dodgers,3,1
+662753,2022-04-19,142,MIN,Minnesota Twins,118,KC,Kansas City Royals,3,4
+662896,2022-04-19,147,NYY,New York Yankees,116,DET,Detroit Tigers,4,2
+662925,2022-04-19,143,PHI,Philadelphia Phillies,115,COL,Colorado Rockies,5,6
+662927,2022-04-19,108,LAA,Los Angeles Angels,117,HOU,Houston Astros,7,2
+663196,2022-04-19,139,TB,Tampa Bay Rays,112,CHC,Chicago Cubs,6,5
+663249,2022-04-19,141,TOR,Toronto Blue Jays,111,BOS,Boston Red Sox,1,2
+661203,2022-04-20,134,PIT,Pittsburgh Pirates,158,MIL,Milwaukee Brewers,2,4
+661404,2022-04-20,138,STL,St. Louis Cardinals,146,MIA,Miami Marlins,2,0
+662178,2022-04-20,140,TEX,Texas Rangers,136,SEA,Seattle Mariners,2,4
+662231,2022-04-20,113,CIN,Cincinnati Reds,135,SD,San Diego Padres,0,6
+662349,2022-04-20,137,SF,San Francisco Giants,121,NYM,New York Mets,5,2
+662392,2022-04-20,110,BAL,Baltimore Orioles,133,OAK,Oakland Athletics,1,0
+662560,2022-04-20,109,AZ,Arizona Diamondbacks,120,WSH,Washington Nationals,11,2
+662703,2022-04-20,142,MIN,Minnesota Twins,118,KC,Kansas City Royals,0,2
+662734,2022-04-20,144,ATL,Atlanta Braves,119,LAD,Los Angeles Dodgers,1,5
+662861,2022-04-20,147,NYY,New York Yankees,116,DET,Detroit Tigers,5,3
+662924,2022-04-20,143,PHI,Philadelphia Phillies,115,COL,Colorado Rockies,9,6
+662926,2022-04-20,108,LAA,Los Angeles Angels,117,HOU,Houston Astros,6,0
+663075,2022-04-20,145,CWS,Chicago White Sox,114,CLE,Cleveland Guardians,1,2
+663094,2022-04-20,145,CWS,Chicago White Sox,114,CLE,Cleveland Guardians,1,11
+663146,2022-04-20,139,TB,Tampa Bay Rays,112,CHC,Chicago Cubs,8,2
+663247,2022-04-20,141,TOR,Toronto Blue Jays,111,BOS,Boston Red Sox,6,1
+661391,2022-04-21,138,STL,St. Louis Cardinals,146,MIA,Miami Marlins,0,5
+662177,2022-04-21,140,TEX,Texas Rangers,136,SEA,Seattle Mariners,8,6
+662391,2022-04-21,110,BAL,Baltimore Orioles,133,OAK,Oakland Athletics,4,6
+662558,2022-04-21,109,AZ,Arizona Diamondbacks,120,WSH,Washington Nationals,4,3
+662593,2022-04-21,137,SF,San Francisco Giants,121,NYM,New York Mets,2,6
+662742,2022-04-21,142,MIN,Minnesota Twins,118,KC,Kansas City Royals,1,0
+662850,2022-04-21,147,NYY,New York Yankees,116,DET,Detroit Tigers,0,3
+663093,2022-04-21,145,CWS,Chicago White Sox,114,CLE,Cleveland Guardians,3,6
+663145,2022-04-21,134,PIT,Pittsburgh Pirates,112,CHC,Chicago Cubs,4,3
+663225,2022-04-21,141,TOR,Toronto Blue Jays,111,BOS,Boston Red Sox,3,2
+661037,2022-04-22,110,BAL,Baltimore Orioles,108,LAA,Los Angeles Angels,5,3
+661311,2022-04-22,114,CLE,Cleveland Guardians,147,NYY,New York Yankees,1,4
+661569,2022-04-22,146,MIA,Miami Marlins,144,ATL,Atlanta Braves,0,3
+661621,2022-04-22,158,MIL,Milwaukee Brewers,143,PHI,Philadelphia Phillies,2,4
+661755,2022-04-22,145,CWS,Chicago White Sox,142,MIN,Minnesota Twins,1,2
+661914,2022-04-22,111,BOS,Boston Red Sox,139,TB,Tampa Bay Rays,4,3
+662175,2022-04-22,118,KC,Kansas City Royals,136,SEA,Seattle Mariners,1,4
+662230,2022-04-22,119,LAD,Los Angeles Dodgers,135,SD,San Diego Padres,6,1
+662390,2022-04-22,140,TEX,Texas Rangers,133,OAK,Oakland Athletics,8,1
+662557,2022-04-22,137,SF,San Francisco Giants,120,WSH,Washington Nationals,7,1
+662922,2022-04-22,141,TOR,Toronto Blue Jays,117,HOU,Houston Astros,4,3
+663169,2022-04-22,138,STL,St. Louis Cardinals,113,CIN,Cincinnati Reds,4,2
+663195,2022-04-22,134,PIT,Pittsburgh Pirates,112,CHC,Chicago Cubs,4,2
+663394,2022-04-22,121,NYM,New York Mets,109,AZ,Arizona Diamondbacks,6,5
+661035,2022-04-23,110,BAL,Baltimore Orioles,108,LAA,Los Angeles Angels,5,4
+661310,2022-04-23,114,CLE,Cleveland Guardians,147,NYY,New York Yankees,4,5
+661568,2022-04-23,146,MIA,Miami Marlins,144,ATL,Atlanta Braves,9,7
+661620,2022-04-23,158,MIL,Milwaukee Brewers,143,PHI,Philadelphia Phillies,5,3
+661752,2022-04-23,145,CWS,Chicago White Sox,142,MIN,Minnesota Twins,2,9
+661941,2022-04-23,111,BOS,Boston Red Sox,139,TB,Tampa Bay Rays,2,3
+662191,2022-04-23,118,KC,Kansas City Royals,136,SEA,Seattle Mariners,7,13
+662276,2022-04-23,119,LAD,Los Angeles Dodgers,135,SD,San Diego Padres,2,3
+662389,2022-04-23,140,TEX,Texas Rangers,133,OAK,Oakland Athletics,2,0
+662549,2022-04-23,137,SF,San Francisco Giants,120,WSH,Washington Nationals,5,2
+662848,2022-04-23,115,COL,Colorado Rockies,116,DET,Detroit Tigers,0,13
+662849,2022-04-23,115,COL,Colorado Rockies,116,DET,Detroit Tigers,3,2
+662875,2022-04-23,141,TOR,Toronto Blue Jays,117,HOU,Houston Astros,3,2
+663100,2022-04-23,138,STL,St. Louis Cardinals,113,CIN,Cincinnati Reds,5,0
+663144,2022-04-23,134,PIT,Pittsburgh Pirates,112,CHC,Chicago Cubs,0,21
+663384,2022-04-23,121,NYM,New York Mets,109,AZ,Arizona Diamondbacks,2,5
+661033,2022-04-24,110,BAL,Baltimore Orioles,108,LAA,Los Angeles Angels,6,7
+661317,2022-04-24,114,CLE,Cleveland Guardians,147,NYY,New York Yankees,2,10
+661590,2022-04-24,146,MIA,Miami Marlins,144,ATL,Atlanta Braves,5,4
+661640,2022-04-24,158,MIL,Milwaukee Brewers,143,PHI,Philadelphia Phillies,1,0
+661781,2022-04-24,145,CWS,Chicago White Sox,142,MIN,Minnesota Twins,4,6
+661931,2022-04-24,111,BOS,Boston Red Sox,139,TB,Tampa Bay Rays,2,5
+662188,2022-04-24,118,KC,Kansas City Royals,136,SEA,Seattle Mariners,4,5
+662274,2022-04-24,119,LAD,Los Angeles Dodgers,135,SD,San Diego Padres,10,2
+662388,2022-04-24,140,TEX,Texas Rangers,133,OAK,Oakland Athletics,0,2
+662539,2022-04-24,137,SF,San Francisco Giants,120,WSH,Washington Nationals,12,3
+662853,2022-04-24,115,COL,Colorado Rockies,116,DET,Detroit Tigers,6,2
+662921,2022-04-24,141,TOR,Toronto Blue Jays,117,HOU,Houston Astros,7,8
+663111,2022-04-24,138,STL,St. Louis Cardinals,113,CIN,Cincinnati Reds,1,4
+663166,2022-04-24,134,PIT,Pittsburgh Pirates,112,CHC,Chicago Cubs,4,3
+663361,2022-04-24,121,NYM,New York Mets,109,AZ,Arizona Diamondbacks,6,2
+661034,2022-04-25,114,CLE,Cleveland Guardians,108,LAA,Los Angeles Angels,0,3
+661210,2022-04-25,137,SF,San Francisco Giants,158,MIL,Milwaukee Brewers,4,2
+661639,2022-04-25,115,COL,Colorado Rockies,143,PHI,Philadelphia Phillies,2,8
+661760,2022-04-25,111,BOS,Boston Red Sox,141,TOR,Toronto Blue Jays,2,6
+661979,2022-04-25,117,HOU,Houston Astros,140,TEX,Texas Rangers,2,6
+662008,2022-04-25,121,NYM,New York Mets,138,STL,St. Louis Cardinals,5,2
+663382,2022-04-25,119,LAD,Los Angeles Dodgers,109,AZ,Arizona Diamondbacks,4,0
+661032,2022-04-26,114,CLE,Cleveland Guardians,108,LAA,Los Angeles Angels,1,4
+661309,2022-04-26,110,BAL,Baltimore Orioles,147,NYY,New York Yankees,8,12
+661536,2022-04-26,118,KC,Kansas City Royals,145,CWS,Chicago White Sox,6,0
+661567,2022-04-26,115,COL,Colorado Rockies,143,PHI,Philadelphia Phillies,3,10
+661589,2022-04-26,112,CHC,Chicago Cubs,144,ATL,Atlanta Braves,1,3
+661733,2022-04-26,116,DET,Detroit Tigers,142,MIN,Minnesota Twins,4,5
+661758,2022-04-26,111,BOS,Boston Red Sox,141,TOR,Toronto Blue Jays,5,6
+661929,2022-04-26,136,SEA,Seattle Mariners,139,TB,Tampa Bay Rays,8,4
+661980,2022-04-26,117,HOU,Houston Astros,140,TEX,Texas Rangers,5,1
+662007,2022-04-26,121,NYM,New York Mets,138,STL,St. Louis Cardinals,3,0
+662086,2022-04-26,133,OAK,Oakland Athletics,137,SF,San Francisco Giants,2,8
+662297,2022-04-26,158,MIL,Milwaukee Brewers,134,PIT,Pittsburgh Pirates,12,8
+662540,2022-04-26,146,MIA,Miami Marlins,120,WSH,Washington Nationals,5,2
+663079,2022-04-26,135,SD,San Diego Padres,113,CIN,Cincinnati Reds,9,6
+663383,2022-04-26,119,LAD,Los Angeles Dodgers,109,AZ,Arizona Diamondbacks,3,5
+661306,2022-04-27,110,BAL,Baltimore Orioles,147,NYY,New York Yankees,2,5
+661533,2022-04-27,118,KC,Kansas City Royals,145,CWS,Chicago White Sox,3,7
+661552,2022-04-27,112,CHC,Chicago Cubs,144,ATL,Atlanta Braves,6,3
+661638,2022-04-27,115,COL,Colorado Rockies,143,PHI,Philadelphia Phillies,3,7
+661739,2022-04-27,116,DET,Detroit Tigers,142,MIN,Minnesota Twins,0,5
+661757,2022-04-27,111,BOS,Boston Red Sox,141,TOR,Toronto Blue Jays,7,1
+661909,2022-04-27,136,SEA,Seattle Mariners,139,TB,Tampa Bay Rays,2,3
+661964,2022-04-27,117,HOU,Houston Astros,140,TEX,Texas Rangers,4,3
+662048,2022-04-27,121,NYM,New York Mets,138,STL,St. Louis Cardinals,5,10
+662066,2022-04-27,133,OAK,Oakland Athletics,137,SF,San Francisco Giants,1,0
+662289,2022-04-27,158,MIL,Milwaukee Brewers,134,PIT,Pittsburgh Pirates,3,1
+662546,2022-04-27,146,MIA,Miami Marlins,120,WSH,Washington Nationals,2,1
+663148,2022-04-27,135,SD,San Diego Padres,113,CIN,Cincinnati Reds,8,5
+663393,2022-04-27,119,LAD,Los Angeles Dodgers,109,AZ,Arizona Diamondbacks,1,3
+663439,2022-04-27,114,CLE,Cleveland Guardians,108,LAA,Los Angeles Angels,5,9
+661305,2022-04-28,110,BAL,Baltimore Orioles,147,NYY,New York Yankees,5,10
+661532,2022-04-28,118,KC,Kansas City Royals,145,CWS,Chicago White Sox,5,2
+661551,2022-04-28,112,CHC,Chicago Cubs,144,ATL,Atlanta Braves,1,5
+661641,2022-04-28,115,COL,Colorado Rockies,143,PHI,Philadelphia Phillies,1,7
+661729,2022-04-28,116,DET,Detroit Tigers,142,MIN,Minnesota Twins,1,7
+661827,2022-04-28,111,BOS,Boston Red Sox,141,TOR,Toronto Blue Jays,0,1
+661908,2022-04-28,136,SEA,Seattle Mariners,139,TB,Tampa Bay Rays,1,2
+661912,2022-04-28,117,HOU,Houston Astros,140,TEX,Texas Rangers,3,2
+662047,2022-04-28,109,AZ,Arizona Diamondbacks,138,STL,St. Louis Cardinals,3,8
+662295,2022-04-28,158,MIL,Milwaukee Brewers,134,PIT,Pittsburgh Pirates,3,2
+662538,2022-04-28,146,MIA,Miami Marlins,120,WSH,Washington Nationals,3,2
+663078,2022-04-28,135,SD,San Diego Padres,113,CIN,Cincinnati Reds,7,5
+663432,2022-04-28,114,CLE,Cleveland Guardians,108,LAA,Los Angeles Angels,1,4
+661209,2022-04-29,112,CHC,Chicago Cubs,158,MIL,Milwaukee Brewers,1,11
+661390,2022-04-29,136,SEA,Seattle Mariners,146,MIA,Miami Marlins,6,8
+661535,2022-04-29,108,LAA,Los Angeles Angels,145,CWS,Chicago White Sox,5,1
+661826,2022-04-29,117,HOU,Houston Astros,141,TOR,Toronto Blue Jays,11,7
+661907,2022-04-29,142,MIN,Minnesota Twins,139,TB,Tampa Bay Rays,1,6
+661911,2022-04-29,144,ATL,Atlanta Braves,140,TEX,Texas Rangers,6,3
+662037,2022-04-29,109,AZ,Arizona Diamondbacks,138,STL,St. Louis Cardinals,6,2
+662081,2022-04-29,120,WSH,Washington Nationals,137,SF,San Francisco Giants,14,4
+662296,2022-04-29,135,SD,San Diego Padres,134,PIT,Pittsburgh Pirates,7,3
+662405,2022-04-29,114,CLE,Cleveland Guardians,133,OAK,Oakland Athletics,9,8
+662592,2022-04-29,143,PHI,Philadelphia Phillies,121,NYM,New York Mets,0,3
+662699,2022-04-29,116,DET,Detroit Tigers,119,LAD,Los Angeles Dodgers,1,5
+662741,2022-04-29,147,NYY,New York Yankees,118,KC,Kansas City Royals,12,2
+663009,2022-04-29,113,CIN,Cincinnati Reds,115,COL,Colorado Rockies,4,10
+663337,2022-04-29,111,BOS,Boston Red Sox,110,BAL,Baltimore Orioles,3,1
+661208,2022-04-30,112,CHC,Chicago Cubs,158,MIL,Milwaukee Brewers,1,9
+661389,2022-04-30,136,SEA,Seattle Mariners,146,MIA,Miami Marlins,1,3
+661534,2022-04-30,108,LAA,Los Angeles Angels,145,CWS,Chicago White Sox,0,4
+661825,2022-04-30,117,HOU,Houston Astros,141,TOR,Toronto Blue Jays,1,2
+661901,2022-04-30,144,ATL,Atlanta Braves,140,TEX,Texas Rangers,1,3
+661906,2022-04-30,142,MIN,Minnesota Twins,139,TB,Tampa Bay Rays,9,1
+662036,2022-04-30,109,AZ,Arizona Diamondbacks,138,STL,St. Louis Cardinals,2,0
+662084,2022-04-30,120,WSH,Washington Nationals,137,SF,San Francisco Giants,3,9
+662288,2022-04-30,135,SD,San Diego Padres,134,PIT,Pittsburgh Pirates,6,7
+662393,2022-04-30,114,CLE,Cleveland Guardians,133,OAK,Oakland Athletics,3,1
+662591,2022-04-30,143,PHI,Philadelphia Phillies,121,NYM,New York Mets,4,1
+662698,2022-04-30,116,DET,Detroit Tigers,119,LAD,Los Angeles Dodgers,5,1
+662797,2022-04-30,147,NYY,New York Yankees,118,KC,Kansas City Royals,3,0
+663008,2022-04-30,113,CIN,Cincinnati Reds,115,COL,Colorado Rockies,3,4
+663364,2022-04-30,111,BOS,Boston Red Sox,110,BAL,Baltimore Orioles,1,2
+661216,2022-05-01,112,CHC,Chicago Cubs,158,MIL,Milwaukee Brewers,2,0
+661365,2022-05-01,136,SEA,Seattle Mariners,146,MIA,Miami Marlins,7,3
+661531,2022-05-01,108,LAA,Los Angeles Angels,145,CWS,Chicago White Sox,6,5
+661824,2022-05-01,117,HOU,Houston Astros,141,TOR,Toronto Blue Jays,2,3
+661905,2022-05-01,142,MIN,Minnesota Twins,139,TB,Tampa Bay Rays,9,3
+661935,2022-05-01,144,ATL,Atlanta Braves,140,TEX,Texas Rangers,3,7
+661988,2022-05-01,109,AZ,Arizona Diamondbacks,138,STL,St. Louis Cardinals,5,7
+662106,2022-05-01,120,WSH,Washington Nationals,137,SF,San Francisco Giants,11,5
+662293,2022-05-01,135,SD,San Diego Padres,134,PIT,Pittsburgh Pirates,5,2
+662397,2022-05-01,114,CLE,Cleveland Guardians,133,OAK,Oakland Athletics,7,3
+662579,2022-05-01,143,PHI,Philadelphia Phillies,121,NYM,New York Mets,6,10
+662691,2022-05-01,147,NYY,New York Yankees,118,KC,Kansas City Royals,6,4
+662716,2022-05-01,116,DET,Detroit Tigers,119,LAD,Los Angeles Dodgers,3,6
+663007,2022-05-01,113,CIN,Cincinnati Reds,115,COL,Colorado Rockies,1,10
+663363,2022-05-01,111,BOS,Boston Red Sox,110,BAL,Baltimore Orioles,5,9
+661362,2022-05-02,109,AZ,Arizona Diamondbacks,146,MIA,Miami Marlins,5,4
+661526,2022-05-02,108,LAA,Los Angeles Angels,145,CWS,Chicago White Sox,0,3
+661823,2022-05-02,147,NYY,New York Yankees,141,TOR,Toronto Blue Jays,3,2
+662009,2022-05-02,118,KC,Kansas City Royals,138,STL,St. Louis Cardinals,0,1
+662387,2022-05-02,139,TB,Tampa Bay Rays,133,OAK,Oakland Athletics,6,1
+662578,2022-05-02,144,ATL,Atlanta Braves,121,NYM,New York Mets,5,2
+662920,2022-05-02,136,SEA,Seattle Mariners,117,HOU,Houston Astros,0,3
+663362,2022-05-02,142,MIN,Minnesota Twins,110,BAL,Baltimore Orioles,2,1
+661200,2022-05-03,113,CIN,Cincinnati Reds,158,MIL,Milwaukee Brewers,3,6
+661364,2022-05-03,109,AZ,Arizona Diamondbacks,146,MIA,Miami Marlins,5,4
+661635,2022-05-03,140,TEX,Texas Rangers,143,PHI,Philadelphia Phillies,6,4
+661796,2022-05-03,147,NYY,New York Yankees,141,TOR,Toronto Blue Jays,9,1
+662386,2022-05-03,139,TB,Tampa Bay Rays,133,OAK,Oakland Athletics,10,7
+662459,2022-05-03,144,ATL,Atlanta Braves,121,NYM,New York Mets,0,3
+662569,2022-05-03,144,ATL,Atlanta Braves,121,NYM,New York Mets,4,5
+662690,2022-05-03,138,STL,St. Louis Cardinals,118,KC,Kansas City Royals,1,7
+662708,2022-05-03,137,SF,San Francisco Giants,119,LAD,Los Angeles Dodgers,1,3
+662919,2022-05-03,136,SEA,Seattle Mariners,117,HOU,Houston Astros,0,4
+662994,2022-05-03,120,WSH,Washington Nationals,115,COL,Colorado Rockies,10,2
+663165,2022-05-03,145,CWS,Chicago White Sox,112,CHC,Chicago Cubs,3,1
+663237,2022-05-03,108,LAA,Los Angeles Angels,111,BOS,Boston Red Sox,0,4
+663463,2022-05-03,142,MIN,Minnesota Twins,110,BAL,Baltimore Orioles,7,2
+661197,2022-05-04,113,CIN,Cincinnati Reds,158,MIL,Milwaukee Brewers,4,18
+661363,2022-05-04,109,AZ,Arizona Diamondbacks,146,MIA,Miami Marlins,8,7
+661634,2022-05-04,140,TEX,Texas Rangers,143,PHI,Philadelphia Phillies,2,1
+661795,2022-05-04,147,NYY,New York Yankees,141,TOR,Toronto Blue Jays,1,2
+662382,2022-05-04,139,TB,Tampa Bay Rays,133,OAK,Oakland Athletics,3,0
+662577,2022-05-04,144,ATL,Atlanta Braves,121,NYM,New York Mets,9,2
+662707,2022-05-04,137,SF,San Francisco Giants,119,LAD,Los Angeles Dodgers,1,9
+662739,2022-05-04,138,STL,St. Louis Cardinals,118,KC,Kansas City Royals,10,0
+662835,2022-05-04,136,SEA,Seattle Mariners,117,HOU,Houston Astros,2,7
+662838,2022-05-04,134,PIT,Pittsburgh Pirates,116,DET,Detroit Tigers,2,3
+662839,2022-05-04,134,PIT,Pittsburgh Pirates,116,DET,Detroit Tigers,7,2
+662993,2022-05-04,120,WSH,Washington Nationals,115,COL,Colorado Rockies,2,5
+663067,2022-05-04,135,SD,San Diego Padres,114,CLE,Cleveland Guardians,5,4
+663068,2022-05-04,135,SD,San Diego Padres,114,CLE,Cleveland Guardians,5,6
+663164,2022-05-04,145,CWS,Chicago White Sox,112,CHC,Chicago Cubs,4,3
+663248,2022-05-04,108,LAA,Los Angeles Angels,111,BOS,Boston Red Sox,10,5
+663462,2022-05-04,142,MIN,Minnesota Twins,110,BAL,Baltimore Orioles,4,9
+661204,2022-05-05,113,CIN,Cincinnati Reds,158,MIL,Milwaukee Brewers,5,10
+661341,2022-05-05,142,MIN,Minnesota Twins,110,BAL,Baltimore Orioles,3,5
+661619,2022-05-05,121,NYM,New York Mets,143,PHI,Philadelphia Phillies,8,7
+662105,2022-05-05,138,STL,St. Louis Cardinals,137,SF,San Francisco Giants,7,1
+662189,2022-05-05,139,TB,Tampa Bay Rays,136,SEA,Seattle Mariners,4,3
+662262,2022-05-05,146,MIA,Miami Marlins,135,SD,San Diego Padres,1,2
+662816,2022-05-05,116,DET,Detroit Tigers,117,HOU,Houston Astros,2,3
+663013,2022-05-05,120,WSH,Washington Nationals,115,COL,Colorado Rockies,7,9
+663066,2022-05-05,141,TOR,Toronto Blue Jays,114,CLE,Cleveland Guardians,5,6
+663227,2022-05-05,108,LAA,Los Angeles Angels,111,BOS,Boston Red Sox,8,0
+661541,2022-05-06,158,MIL,Milwaukee Brewers,144,ATL,Atlanta Braves,6,3
+661775,2022-05-06,133,OAK,Oakland Athletics,142,MIN,Minnesota Twins,1,2
+662103,2022-05-06,138,STL,St. Louis Cardinals,137,SF,San Francisco Giants,3,2
+662187,2022-05-06,139,TB,Tampa Bay Rays,136,SEA,Seattle Mariners,8,7
+662272,2022-05-06,146,MIA,Miami Marlins,135,SD,San Diego Padres,2,3
+662815,2022-05-06,116,DET,Detroit Tigers,117,HOU,Houston Astros,2,3
+663224,2022-05-06,145,CWS,Chicago White Sox,111,BOS,Boston Red Sox,4,2
+663360,2022-05-06,115,COL,Colorado Rockies,109,AZ,Arizona Diamondbacks,1,4
+663431,2022-05-06,120,WSH,Washington Nationals,108,LAA,Los Angeles Angels,0,3
+661540,2022-05-07,158,MIL,Milwaukee Brewers,144,ATL,Atlanta Braves,2,3
+661701,2022-05-07,133,OAK,Oakland Athletics,142,MIN,Minnesota Twins,0,1
+662102,2022-05-07,138,STL,St. Louis Cardinals,137,SF,San Francisco Giants,7,13
+662159,2022-05-07,139,TB,Tampa Bay Rays,136,SEA,Seattle Mariners,8,2
+662261,2022-05-07,146,MIA,Miami Marlins,135,SD,San Diego Padres,8,0
+662796,2022-05-07,116,DET,Detroit Tigers,117,HOU,Houston Astros,2,3
+663056,2022-05-07,141,TOR,Toronto Blue Jays,114,CLE,Cleveland Guardians,8,3
+663057,2022-05-07,141,TOR,Toronto Blue Jays,114,CLE,Cleveland Guardians,2,8
+663070,2022-05-07,134,PIT,Pittsburgh Pirates,113,CIN,Cincinnati Reds,8,5
+663089,2022-05-07,134,PIT,Pittsburgh Pirates,113,CIN,Cincinnati Reds,2,9
+663142,2022-05-07,119,LAD,Los Angeles Dodgers,112,CHC,Chicago Cubs,6,2
+663162,2022-05-07,119,LAD,Los Angeles Dodgers,112,CHC,Chicago Cubs,7,0
+663226,2022-05-07,145,CWS,Chicago White Sox,111,BOS,Boston Red Sox,3,1
+663359,2022-05-07,115,COL,Colorado Rockies,109,AZ,Arizona Diamondbacks,4,1
+663430,2022-05-07,120,WSH,Washington Nationals,108,LAA,Los Angeles Angels,7,3
+661302,2022-05-08,140,TEX,Texas Rangers,147,NYY,New York Yankees,1,2
+661304,2022-05-08,140,TEX,Texas Rangers,147,NYY,New York Yankees,4,2
+661307,2022-05-08,118,KC,Kansas City Royals,110,BAL,Baltimore Orioles,6,4
+661345,2022-05-08,118,KC,Kansas City Royals,110,BAL,Baltimore Orioles,2,4
+661550,2022-05-08,158,MIL,Milwaukee Brewers,144,ATL,Atlanta Braves,2,9
+661626,2022-05-08,121,NYM,New York Mets,143,PHI,Philadelphia Phillies,2,3
+661627,2022-05-08,121,NYM,New York Mets,143,PHI,Philadelphia Phillies,6,1
+661700,2022-05-08,133,OAK,Oakland Athletics,142,MIN,Minnesota Twins,3,4
+662098,2022-05-08,138,STL,St. Louis Cardinals,137,SF,San Francisco Giants,3,4
+662160,2022-05-08,139,TB,Tampa Bay Rays,136,SEA,Seattle Mariners,1,2
+662260,2022-05-08,146,MIA,Miami Marlins,135,SD,San Diego Padres,2,3
+662795,2022-05-08,116,DET,Detroit Tigers,117,HOU,Houston Astros,0,5
+663069,2022-05-08,134,PIT,Pittsburgh Pirates,113,CIN,Cincinnati Reds,3,7
+663086,2022-05-08,141,TOR,Toronto Blue Jays,114,CLE,Cleveland Guardians,3,4
+663161,2022-05-08,119,LAD,Los Angeles Dodgers,112,CHC,Chicago Cubs,7,1
+663278,2022-05-08,145,CWS,Chicago White Sox,111,BOS,Boston Red Sox,3,2
+663368,2022-05-08,115,COL,Colorado Rockies,109,AZ,Arizona Diamondbacks,0,4
+663429,2022-05-08,120,WSH,Washington Nationals,108,LAA,Los Angeles Angels,4,5
+661303,2022-05-09,140,TEX,Texas Rangers,147,NYY,New York Yankees,0,1
+661349,2022-05-09,118,KC,Kansas City Royals,110,BAL,Baltimore Orioles,1,6
+661525,2022-05-09,114,CLE,Cleveland Guardians,145,CWS,Chicago White Sox,12,9
+662097,2022-05-09,115,COL,Colorado Rockies,137,SF,San Francisco Giants,5,8
+662158,2022-05-09,143,PHI,Philadelphia Phillies,136,SEA,Seattle Mariners,9,0
+662259,2022-05-09,112,CHC,Chicago Cubs,135,SD,San Diego Padres,6,0
+662287,2022-05-09,119,LAD,Los Angeles Dodgers,134,PIT,Pittsburgh Pirates,1,5
+662837,2022-05-09,133,OAK,Oakland Athletics,116,DET,Detroit Tigers,2,0
+663101,2022-05-09,158,MIL,Milwaukee Brewers,113,CIN,Cincinnati Reds,5,10
+663366,2022-05-09,146,MIA,Miami Marlins,109,AZ,Arizona Diamondbacks,3,4
+663438,2022-05-09,139,TB,Tampa Bay Rays,108,LAA,Los Angeles Angels,3,11
+661301,2022-05-10,141,TOR,Toronto Blue Jays,147,NYY,New York Yankees,5,6
+661524,2022-05-10,114,CLE,Cleveland Guardians,145,CWS,Chicago White Sox,1,4
+661549,2022-05-10,111,BOS,Boston Red Sox,144,ATL,Atlanta Braves,9,4
+661696,2022-05-10,117,HOU,Houston Astros,142,MIN,Minnesota Twins,5,0
+661987,2022-05-10,110,BAL,Baltimore Orioles,138,STL,St. Louis Cardinals,5,3
+662016,2022-05-10,118,KC,Kansas City Royals,140,TEX,Texas Rangers,4,6
+662096,2022-05-10,115,COL,Colorado Rockies,137,SF,San Francisco Giants,2,9
+662157,2022-05-10,143,PHI,Philadelphia Phillies,136,SEA,Seattle Mariners,4,5
+662258,2022-05-10,112,CHC,Chicago Cubs,135,SD,San Diego Padres,4,5
+662292,2022-05-10,119,LAD,Los Angeles Dodgers,134,PIT,Pittsburgh Pirates,11,1
+662412,2022-05-10,116,DET,Detroit Tigers,133,OAK,Oakland Athletics,6,0
+662537,2022-05-10,121,NYM,New York Mets,120,WSH,Washington Nationals,4,2
+662855,2022-05-10,133,OAK,Oakland Athletics,116,DET,Detroit Tigers,4,1
+663090,2022-05-10,158,MIL,Milwaukee Brewers,113,CIN,Cincinnati Reds,5,4
+663350,2022-05-10,146,MIA,Miami Marlins,109,AZ,Arizona Diamondbacks,3,9
+663416,2022-05-10,139,TB,Tampa Bay Rays,108,LAA,Los Angeles Angels,0,12
+661300,2022-05-11,141,TOR,Toronto Blue Jays,147,NYY,New York Yankees,3,5
+661548,2022-05-11,111,BOS,Boston Red Sox,144,ATL,Atlanta Braves,3,5
+661702,2022-05-11,117,HOU,Houston Astros,142,MIN,Minnesota Twins,11,3
+661899,2022-05-11,118,KC,Kansas City Royals,140,TEX,Texas Rangers,8,2
+662006,2022-05-11,110,BAL,Baltimore Orioles,138,STL,St. Louis Cardinals,1,10
+662095,2022-05-11,115,COL,Colorado Rockies,137,SF,San Francisco Giants,1,7
+662176,2022-05-11,143,PHI,Philadelphia Phillies,136,SEA,Seattle Mariners,4,2
+662273,2022-05-11,112,CHC,Chicago Cubs,135,SD,San Diego Padres,7,5
+662385,2022-05-11,119,LAD,Los Angeles Dodgers,134,PIT,Pittsburgh Pirates,3,5
+662526,2022-05-11,121,NYM,New York Mets,120,WSH,Washington Nationals,3,8
+662873,2022-05-11,133,OAK,Oakland Athletics,116,DET,Detroit Tigers,9,0
+663074,2022-05-11,158,MIL,Milwaukee Brewers,113,CIN,Cincinnati Reds,11,14
+663358,2022-05-11,146,MIA,Miami Marlins,109,AZ,Arizona Diamondbacks,11,3
+663450,2022-05-11,139,TB,Tampa Bay Rays,108,LAA,Los Angeles Angels,4,2
+661519,2022-05-12,147,NYY,New York Yankees,145,CWS,Chicago White Sox,15,7
+661694,2022-05-12,117,HOU,Houston Astros,142,MIN,Minnesota Twins,5,0
+661883,2022-05-12,118,KC,Kansas City Royals,140,TEX,Texas Rangers,1,3
+662005,2022-05-12,110,BAL,Baltimore Orioles,138,STL,St. Louis Cardinals,3,2
+662372,2022-05-12,113,CIN,Cincinnati Reds,134,PIT,Pittsburgh Pirates,4,0
+662548,2022-05-12,121,NYM,New York Mets,120,WSH,Washington Nationals,4,1
+662706,2022-05-12,143,PHI,Philadelphia Phillies,119,LAD,Los Angeles Dodgers,9,7
+662872,2022-05-12,133,OAK,Oakland Athletics,116,DET,Detroit Tigers,5,3
+661361,2022-05-13,158,MIL,Milwaukee Brewers,146,MIA,Miami Marlins,2,1
+661491,2022-05-13,147,NYY,New York Yankees,145,CWS,Chicago White Sox,10,4
+661547,2022-05-13,135,SD,San Diego Padres,144,ATL,Atlanta Braves,11,6
+661698,2022-05-13,114,CLE,Cleveland Guardians,142,MIN,Minnesota Twins,8,12
+661882,2022-05-13,111,BOS,Boston Red Sox,140,TEX,Texas Rangers,7,1
+661904,2022-05-13,141,TOR,Toronto Blue Jays,139,TB,Tampa Bay Rays,2,5
+661986,2022-05-13,137,SF,San Francisco Giants,138,STL,St. Louis Cardinals,8,2
+662381,2022-05-13,108,LAA,Los Angeles Angels,133,OAK,Oakland Athletics,2,0
+662494,2022-05-13,113,CIN,Cincinnati Reds,134,PIT,Pittsburgh Pirates,8,2
+662523,2022-05-13,136,SEA,Seattle Mariners,121,NYM,New York Mets,2,1
+662525,2022-05-13,117,HOU,Houston Astros,120,WSH,Washington Nationals,6,1
+662705,2022-05-13,143,PHI,Philadelphia Phillies,119,LAD,Los Angeles Dodgers,12,10
+662851,2022-05-13,110,BAL,Baltimore Orioles,116,DET,Detroit Tigers,2,4
+663012,2022-05-13,118,KC,Kansas City Royals,115,COL,Colorado Rockies,14,10
+663349,2022-05-13,112,CHC,Chicago Cubs,109,AZ,Arizona Diamondbacks,3,4
+661147,2022-05-14,111,BOS,Boston Red Sox,140,TEX,Texas Rangers,11,3
+661414,2022-05-14,158,MIL,Milwaukee Brewers,146,MIA,Miami Marlins,3,9
+661490,2022-05-14,147,NYY,New York Yankees,145,CWS,Chicago White Sox,2,3
+661546,2022-05-14,135,SD,San Diego Padres,144,ATL,Atlanta Braves,5,6
+661695,2022-05-14,114,CLE,Cleveland Guardians,142,MIN,Minnesota Twins,3,2
+661903,2022-05-14,141,TOR,Toronto Blue Jays,139,TB,Tampa Bay Rays,5,1
+661985,2022-05-14,137,SF,San Francisco Giants,138,STL,St. Louis Cardinals,0,4
+662379,2022-05-14,108,LAA,Los Angeles Angels,133,OAK,Oakland Athletics,3,4
+662384,2022-05-14,113,CIN,Cincinnati Reds,134,PIT,Pittsburgh Pirates,1,3
+662399,2022-05-14,108,LAA,Los Angeles Angels,133,OAK,Oakland Athletics,9,1
+662547,2022-05-14,117,HOU,Houston Astros,120,WSH,Washington Nationals,6,13
+662568,2022-05-14,136,SEA,Seattle Mariners,121,NYM,New York Mets,4,5
+662704,2022-05-14,143,PHI,Philadelphia Phillies,119,LAD,Los Angeles Dodgers,8,3
+662844,2022-05-14,110,BAL,Baltimore Orioles,116,DET,Detroit Tigers,0,3
+663011,2022-05-14,118,KC,Kansas City Royals,115,COL,Colorado Rockies,4,10
+663348,2022-05-14,112,CHC,Chicago Cubs,109,AZ,Arizona Diamondbacks,4,2
+661146,2022-05-15,111,BOS,Boston Red Sox,140,TEX,Texas Rangers,1,7
+661403,2022-05-15,158,MIL,Milwaukee Brewers,146,MIA,Miami Marlins,7,3
+661489,2022-05-15,147,NYY,New York Yankees,145,CWS,Chicago White Sox,5,1
+661545,2022-05-15,135,SD,San Diego Padres,144,ATL,Atlanta Braves,7,3
+661732,2022-05-15,114,CLE,Cleveland Guardians,142,MIN,Minnesota Twins,1,3
+661902,2022-05-15,141,TOR,Toronto Blue Jays,139,TB,Tampa Bay Rays,0,3
+661984,2022-05-15,137,SF,San Francisco Giants,138,STL,St. Louis Cardinals,6,15
+662380,2022-05-15,108,LAA,Los Angeles Angels,133,OAK,Oakland Athletics,4,1
+662519,2022-05-15,113,CIN,Cincinnati Reds,134,PIT,Pittsburgh Pirates,0,1
+662528,2022-05-15,117,HOU,Houston Astros,120,WSH,Washington Nationals,8,0
+662567,2022-05-15,136,SEA,Seattle Mariners,121,NYM,New York Mets,8,7
+662696,2022-05-15,143,PHI,Philadelphia Phillies,119,LAD,Los Angeles Dodgers,4,5
+662843,2022-05-15,110,BAL,Baltimore Orioles,116,DET,Detroit Tigers,1,5
+663010,2022-05-15,118,KC,Kansas City Royals,115,COL,Colorado Rockies,8,7
+663367,2022-05-15,112,CHC,Chicago Cubs,109,AZ,Arizona Diamondbacks,3,2
+661145,2022-05-16,108,LAA,Los Angeles Angels,140,TEX,Texas Rangers,4,7
+661212,2022-05-16,144,ATL,Atlanta Braves,158,MIL,Milwaukee Brewers,0,1
+661308,2022-05-16,147,NYY,New York Yankees,110,BAL,Baltimore Orioles,6,2
+661402,2022-05-16,120,WSH,Washington Nationals,146,MIA,Miami Marlins,2,8
+661794,2022-05-16,136,SEA,Seattle Mariners,141,TOR,Toronto Blue Jays,2,6
+661961,2022-05-16,116,DET,Detroit Tigers,139,TB,Tampa Bay Rays,3,2
+662378,2022-05-16,142,MIN,Minnesota Twins,133,OAK,Oakland Athletics,3,1
+662695,2022-05-16,109,AZ,Arizona Diamondbacks,119,LAD,Los Angeles Dodgers,4,5
+662728,2022-05-16,145,CWS,Chicago White Sox,118,KC,Kansas City Royals,5,3
+663005,2022-05-16,137,SF,San Francisco Giants,115,COL,Colorado Rockies,7,6
+663151,2022-05-16,134,PIT,Pittsburgh Pirates,112,CHC,Chicago Cubs,0,9
+663275,2022-05-16,117,HOU,Houston Astros,111,BOS,Boston Red Sox,3,6
+661126,2022-05-17,108,LAA,Los Angeles Angels,140,TEX,Texas Rangers,5,10
+661196,2022-05-17,144,ATL,Atlanta Braves,158,MIL,Milwaukee Brewers,3,0
+661342,2022-05-17,147,NYY,New York Yankees,110,BAL,Baltimore Orioles,5,4
+661401,2022-05-17,120,WSH,Washington Nationals,146,MIA,Miami Marlins,1,5
+661625,2022-05-17,135,SD,San Diego Padres,143,PHI,Philadelphia Phillies,3,0
+661765,2022-05-17,136,SEA,Seattle Mariners,141,TOR,Toronto Blue Jays,0,3
+662053,2022-05-17,116,DET,Detroit Tigers,139,TB,Tampa Bay Rays,1,8
+662370,2022-05-17,142,MIN,Minnesota Twins,133,OAK,Oakland Athletics,2,5
+662507,2022-05-17,138,STL,St. Louis Cardinals,121,NYM,New York Mets,1,3
+662566,2022-05-17,138,STL,St. Louis Cardinals,121,NYM,New York Mets,4,3
+662628,2022-05-17,109,AZ,Arizona Diamondbacks,119,LAD,Los Angeles Dodgers,6,7
+662697,2022-05-17,109,AZ,Arizona Diamondbacks,119,LAD,Los Angeles Dodgers,3,12
+662727,2022-05-17,145,CWS,Chicago White Sox,118,KC,Kansas City Royals,1,2
+662780,2022-05-17,145,CWS,Chicago White Sox,118,KC,Kansas City Royals,3,0
+663004,2022-05-17,137,SF,San Francisco Giants,115,COL,Colorado Rockies,10,7
+663032,2022-05-17,113,CIN,Cincinnati Reds,114,CLE,Cleveland Guardians,5,4
+663157,2022-05-17,134,PIT,Pittsburgh Pirates,112,CHC,Chicago Cubs,0,7
+663271,2022-05-17,117,HOU,Houston Astros,111,BOS,Boston Red Sox,13,4
+661125,2022-05-18,108,LAA,Los Angeles Angels,140,TEX,Texas Rangers,5,6
+661202,2022-05-18,144,ATL,Atlanta Braves,158,MIL,Milwaukee Brewers,6,7
+661344,2022-05-18,147,NYY,New York Yankees,110,BAL,Baltimore Orioles,3,2
+661400,2022-05-18,120,WSH,Washington Nationals,146,MIA,Miami Marlins,5,4
+661624,2022-05-18,135,SD,San Diego Padres,143,PHI,Philadelphia Phillies,0,3
+661767,2022-05-18,136,SEA,Seattle Mariners,141,TOR,Toronto Blue Jays,5,1
+662054,2022-05-18,116,DET,Detroit Tigers,139,TB,Tampa Bay Rays,1,6
+662377,2022-05-18,142,MIN,Minnesota Twins,133,OAK,Oakland Athletics,14,4
+662554,2022-05-18,138,STL,St. Louis Cardinals,121,NYM,New York Mets,4,11
+662726,2022-05-18,145,CWS,Chicago White Sox,118,KC,Kansas City Royals,2,6
+662744,2022-05-18,109,AZ,Arizona Diamondbacks,119,LAD,Los Angeles Dodgers,3,5
+663003,2022-05-18,137,SF,San Francisco Giants,115,COL,Colorado Rockies,3,5
+663156,2022-05-18,134,PIT,Pittsburgh Pirates,112,CHC,Chicago Cubs,3,2
+663270,2022-05-18,117,HOU,Houston Astros,111,BOS,Boston Red Sox,1,5
+661347,2022-05-19,147,NYY,New York Yankees,110,BAL,Baltimore Orioles,6,9
+661623,2022-05-19,135,SD,San Diego Padres,143,PHI,Philadelphia Phillies,2,0
+662520,2022-05-19,138,STL,St. Louis Cardinals,121,NYM,New York Mets,6,7
+662715,2022-05-19,145,CWS,Chicago White Sox,118,KC,Kansas City Royals,7,4
+662778,2022-05-19,140,TEX,Texas Rangers,117,HOU,Houston Astros,1,5
+663043,2022-05-19,113,CIN,Cincinnati Reds,114,CLE,Cleveland Guardians,4,2
+663193,2022-05-19,109,AZ,Arizona Diamondbacks,112,CHC,Chicago Cubs,3,1
+663269,2022-05-19,136,SEA,Seattle Mariners,111,BOS,Boston Red Sox,6,12
+661195,2022-05-20,120,WSH,Washington Nationals,158,MIL,Milwaukee Brewers,0,7
+661339,2022-05-20,144,ATL,Atlanta Braves,146,MIA,Miami Marlins,5,3
+661348,2022-05-20,139,TB,Tampa Bay Rays,110,BAL,Baltimore Orioles,6,8
+661632,2022-05-20,119,LAD,Los Angeles Dodgers,143,PHI,Philadelphia Phillies,4,1
+661766,2022-05-20,113,CIN,Cincinnati Reds,141,TOR,Toronto Blue Jays,1,2
+662078,2022-05-20,135,SD,San Diego Padres,137,SF,San Francisco Giants,8,7
+662506,2022-05-20,138,STL,St. Louis Cardinals,134,PIT,Pittsburgh Pirates,5,3
+662714,2022-05-20,142,MIN,Minnesota Twins,118,KC,Kansas City Royals,6,4
+662764,2022-05-20,140,TEX,Texas Rangers,117,HOU,Houston Astros,3,0
+663135,2022-05-20,116,DET,Detroit Tigers,114,CLE,Cleveland Guardians,1,6
+663143,2022-05-20,109,AZ,Arizona Diamondbacks,112,CHC,Chicago Cubs,10,6
+663268,2022-05-20,136,SEA,Seattle Mariners,111,BOS,Boston Red Sox,3,7
+663449,2022-05-20,133,OAK,Oakland Athletics,108,LAA,Los Angeles Angels,4,2
+661280,2022-05-21,120,WSH,Washington Nationals,158,MIL,Milwaukee Brewers,1,5
+661289,2022-05-21,145,CWS,Chicago White Sox,147,NYY,New York Yankees,5,7
+661291,2022-05-21,139,TB,Tampa Bay Rays,110,BAL,Baltimore Orioles,6,1
+661399,2022-05-21,144,ATL,Atlanta Braves,146,MIA,Miami Marlins,4,3
+661631,2022-05-21,119,LAD,Los Angeles Dodgers,143,PHI,Philadelphia Phillies,7,4
+661793,2022-05-21,113,CIN,Cincinnati Reds,141,TOR,Toronto Blue Jays,1,3
+662077,2022-05-21,135,SD,San Diego Padres,137,SF,San Francisco Giants,2,1
+662478,2022-05-21,138,STL,St. Louis Cardinals,134,PIT,Pittsburgh Pirates,5,4
+662713,2022-05-21,142,MIN,Minnesota Twins,118,KC,Kansas City Royals,9,2
+662763,2022-05-21,140,TEX,Texas Rangers,117,HOU,Houston Astros,1,2
+663001,2022-05-21,121,NYM,New York Mets,115,COL,Colorado Rockies,3,11
+663002,2022-05-21,121,NYM,New York Mets,115,COL,Colorado Rockies,5,1
+663194,2022-05-21,109,AZ,Arizona Diamondbacks,112,CHC,Chicago Cubs,7,6
+663234,2022-05-21,136,SEA,Seattle Mariners,111,BOS,Boston Red Sox,5,6
+663448,2022-05-21,133,OAK,Oakland Athletics,108,LAA,Los Angeles Angels,3,5
+661248,2022-05-22,120,WSH,Washington Nationals,158,MIL,Milwaukee Brewers,8,2
+661279,2022-05-22,139,TB,Tampa Bay Rays,110,BAL,Baltimore Orioles,6,7
+661288,2022-05-22,145,CWS,Chicago White Sox,147,NYY,New York Yankees,3,1
+661290,2022-05-22,145,CWS,Chicago White Sox,147,NYY,New York Yankees,5,0
+661398,2022-05-22,144,ATL,Atlanta Braves,146,MIA,Miami Marlins,3,4
+661611,2022-05-22,119,LAD,Los Angeles Dodgers,143,PHI,Philadelphia Phillies,3,4
+661763,2022-05-22,113,CIN,Cincinnati Reds,141,TOR,Toronto Blue Jays,3,2
+662076,2022-05-22,135,SD,San Diego Padres,137,SF,San Francisco Giants,10,1
+662479,2022-05-22,138,STL,St. Louis Cardinals,134,PIT,Pittsburgh Pirates,18,4
+662712,2022-05-22,142,MIN,Minnesota Twins,118,KC,Kansas City Royals,7,6
+662857,2022-05-22,140,TEX,Texas Rangers,117,HOU,Houston Astros,2,5
+662982,2022-05-22,121,NYM,New York Mets,115,COL,Colorado Rockies,2,0
+663120,2022-05-22,116,DET,Detroit Tigers,114,CLE,Cleveland Guardians,4,2
+663150,2022-05-22,109,AZ,Arizona Diamondbacks,112,CHC,Chicago Cubs,4,5
+663277,2022-05-22,136,SEA,Seattle Mariners,111,BOS,Boston Red Sox,4,8
+663447,2022-05-22,133,OAK,Oakland Athletics,108,LAA,Los Angeles Angels,1,4
+661287,2022-05-23,110,BAL,Baltimore Orioles,147,NYY,New York Yankees,6,4
+661544,2022-05-23,143,PHI,Philadelphia Phillies,144,ATL,Atlanta Braves,7,3
+661730,2022-05-23,116,DET,Detroit Tigers,142,MIN,Minnesota Twins,4,5
+661999,2022-05-23,141,TOR,Toronto Blue Jays,138,STL,St. Louis Cardinals,3,7
+662075,2022-05-23,121,NYM,New York Mets,137,SF,San Francisco Giants,13,3
+662135,2022-05-23,133,OAK,Oakland Athletics,136,SEA,Seattle Mariners,6,7
+662257,2022-05-23,158,MIL,Milwaukee Brewers,135,SD,San Diego Padres,2,3
+662455,2022-05-23,115,COL,Colorado Rockies,134,PIT,Pittsburgh Pirates,1,2
+662524,2022-05-23,119,LAD,Los Angeles Dodgers,120,WSH,Washington Nationals,10,1
+662858,2022-05-23,114,CLE,Cleveland Guardians,117,HOU,Houston Astros,6,1
+663073,2022-05-23,112,CHC,Chicago Cubs,113,CIN,Cincinnati Reds,7,4
+663340,2022-05-23,118,KC,Kansas City Royals,109,AZ,Arizona Diamondbacks,5,9
+661285,2022-05-24,110,BAL,Baltimore Orioles,147,NYY,New York Yankees,6,7
+661488,2022-05-24,111,BOS,Boston Red Sox,145,CWS,Chicago White Sox,16,3
+661543,2022-05-24,143,PHI,Philadelphia Phillies,144,ATL,Atlanta Braves,5,6
+661699,2022-05-24,116,DET,Detroit Tigers,142,MIN,Minnesota Twins,0,2
+661978,2022-05-24,146,MIA,Miami Marlins,139,TB,Tampa Bay Rays,0,4
+661998,2022-05-24,141,TOR,Toronto Blue Jays,138,STL,St. Louis Cardinals,8,1
+662074,2022-05-24,121,NYM,New York Mets,137,SF,San Francisco Giants,12,13
+662134,2022-05-24,133,OAK,Oakland Athletics,136,SEA,Seattle Mariners,7,5
+662229,2022-05-24,158,MIL,Milwaukee Brewers,135,SD,San Diego Padres,4,1
+662454,2022-05-24,115,COL,Colorado Rockies,134,PIT,Pittsburgh Pirates,2,1
+662536,2022-05-24,119,LAD,Los Angeles Dodgers,120,WSH,Washington Nationals,9,4
+662846,2022-05-24,114,CLE,Cleveland Guardians,117,HOU,Houston Astros,3,7
+663103,2022-05-24,112,CHC,Chicago Cubs,113,CIN,Cincinnati Reds,11,4
+663339,2022-05-24,118,KC,Kansas City Royals,109,AZ,Arizona Diamondbacks,6,8
+663381,2022-05-24,140,TEX,Texas Rangers,108,LAA,Los Angeles Angels,3,5
+661286,2022-05-25,110,BAL,Baltimore Orioles,147,NYY,New York Yankees,0,2
+661487,2022-05-25,111,BOS,Boston Red Sox,145,CWS,Chicago White Sox,1,3
+661542,2022-05-25,143,PHI,Philadelphia Phillies,144,ATL,Atlanta Braves,4,8
+661772,2022-05-25,116,DET,Detroit Tigers,142,MIN,Minnesota Twins,4,2
+662052,2022-05-25,146,MIA,Miami Marlins,139,TB,Tampa Bay Rays,4,5
+662093,2022-05-25,121,NYM,New York Mets,137,SF,San Francisco Giants,3,9
+662133,2022-05-25,133,OAK,Oakland Athletics,136,SEA,Seattle Mariners,4,2
+662228,2022-05-25,158,MIL,Milwaukee Brewers,135,SD,San Diego Padres,2,1
+662453,2022-05-25,115,COL,Colorado Rockies,134,PIT,Pittsburgh Pirates,5,10
+662527,2022-05-25,119,LAD,Los Angeles Dodgers,120,WSH,Washington Nationals,0,1
+662845,2022-05-25,114,CLE,Cleveland Guardians,117,HOU,Houston Astros,1,2
+663082,2022-05-25,112,CHC,Chicago Cubs,113,CIN,Cincinnati Reds,3,4
+663446,2022-05-25,140,TEX,Texas Rangers,108,LAA,Los Angeles Angels,7,2
+661486,2022-05-26,111,BOS,Boston Red Sox,145,CWS,Chicago White Sox,16,7
+661574,2022-05-26,143,PHI,Philadelphia Phillies,144,ATL,Atlanta Braves,4,1
+661771,2022-05-26,118,KC,Kansas City Royals,142,MIN,Minnesota Twins,3,2
+661997,2022-05-26,158,MIL,Milwaukee Brewers,138,STL,St. Louis Cardinals,4,3
+662051,2022-05-26,147,NYY,New York Yankees,139,TB,Tampa Bay Rays,7,2
+662376,2022-05-26,140,TEX,Texas Rangers,133,OAK,Oakland Athletics,4,1
+662515,2022-05-26,115,COL,Colorado Rockies,120,WSH,Washington Nationals,3,7
+662842,2022-05-26,114,CLE,Cleveland Guardians,116,DET,Detroit Tigers,3,4
+663081,2022-05-26,112,CHC,Chicago Cubs,113,CIN,Cincinnati Reds,5,20
+663338,2022-05-26,119,LAD,Los Angeles Dodgers,109,AZ,Arizona Diamondbacks,14,1
+663445,2022-05-26,141,TOR,Toronto Blue Jays,108,LAA,Los Angeles Angels,6,3
+661539,2022-05-27,146,MIA,Miami Marlins,144,ATL,Atlanta Braves,4,6
+661777,2022-05-27,118,KC,Kansas City Royals,142,MIN,Minnesota Twins,7,10
+661960,2022-05-27,147,NYY,New York Yankees,139,TB,Tampa Bay Rays,2,0
+661992,2022-05-27,158,MIL,Milwaukee Brewers,138,STL,St. Louis Cardinals,2,4
+662132,2022-05-27,117,HOU,Houston Astros,136,SEA,Seattle Mariners,1,6
+662281,2022-05-27,134,PIT,Pittsburgh Pirates,135,SD,San Diego Padres,3,4
+662369,2022-05-27,140,TEX,Texas Rangers,133,OAK,Oakland Athletics,8,5
+662543,2022-05-27,143,PHI,Philadelphia Phillies,121,NYM,New York Mets,6,8
+663080,2022-05-27,137,SF,San Francisco Giants,113,CIN,Cincinnati Reds,1,5
+663276,2022-05-27,110,BAL,Baltimore Orioles,111,BOS,Boston Red Sox,12,8
+663347,2022-05-27,119,LAD,Los Angeles Dodgers,109,AZ,Arizona Diamondbacks,6,4
+663444,2022-05-27,141,TOR,Toronto Blue Jays,108,LAA,Los Angeles Angels,4,3
+661518,2022-05-28,112,CHC,Chicago Cubs,145,CWS,Chicago White Sox,5,1
+661537,2022-05-28,146,MIA,Miami Marlins,144,ATL,Atlanta Braves,4,1
+661774,2022-05-28,118,KC,Kansas City Royals,142,MIN,Minnesota Twins,7,3
+661933,2022-05-28,147,NYY,New York Yankees,139,TB,Tampa Bay Rays,1,3
+661991,2022-05-28,158,MIL,Milwaukee Brewers,138,STL,St. Louis Cardinals,3,8
+662131,2022-05-28,117,HOU,Houston Astros,136,SEA,Seattle Mariners,0,6
+662280,2022-05-28,134,PIT,Pittsburgh Pirates,135,SD,San Diego Padres,4,2
+662375,2022-05-28,140,TEX,Texas Rangers,133,OAK,Oakland Athletics,11,4
+662513,2022-05-28,115,COL,Colorado Rockies,120,WSH,Washington Nationals,3,2
+662514,2022-05-28,115,COL,Colorado Rockies,120,WSH,Washington Nationals,7,13
+662556,2022-05-28,143,PHI,Philadelphia Phillies,121,NYM,New York Mets,2,8
+662852,2022-05-28,114,CLE,Cleveland Guardians,116,DET,Detroit Tigers,8,1
+663118,2022-05-28,137,SF,San Francisco Giants,113,CIN,Cincinnati Reds,2,3
+663257,2022-05-28,110,BAL,Baltimore Orioles,111,BOS,Boston Red Sox,3,5
+663309,2022-05-28,110,BAL,Baltimore Orioles,111,BOS,Boston Red Sox,4,2
+663330,2022-05-28,119,LAD,Los Angeles Dodgers,109,AZ,Arizona Diamondbacks,3,2
+663400,2022-05-28,141,TOR,Toronto Blue Jays,108,LAA,Los Angeles Angels,6,5
+661461,2022-05-29,112,CHC,Chicago Cubs,145,CWS,Chicago White Sox,4,5
+661517,2022-05-29,146,MIA,Miami Marlins,144,ATL,Atlanta Braves,3,6
+661731,2022-05-29,118,KC,Kansas City Royals,142,MIN,Minnesota Twins,3,7
+661910,2022-05-29,147,NYY,New York Yankees,139,TB,Tampa Bay Rays,2,4
+661990,2022-05-29,158,MIL,Milwaukee Brewers,138,STL,St. Louis Cardinals,8,0
+662130,2022-05-29,117,HOU,Houston Astros,136,SEA,Seattle Mariners,2,1
+662279,2022-05-29,134,PIT,Pittsburgh Pirates,135,SD,San Diego Padres,2,4
+662374,2022-05-29,140,TEX,Texas Rangers,133,OAK,Oakland Athletics,5,6
+662512,2022-05-29,115,COL,Colorado Rockies,120,WSH,Washington Nationals,5,6
+662555,2022-05-29,143,PHI,Philadelphia Phillies,121,NYM,New York Mets,4,5
+662840,2022-05-29,114,CLE,Cleveland Guardians,116,DET,Detroit Tigers,1,2
+663072,2022-05-29,137,SF,San Francisco Giants,113,CIN,Cincinnati Reds,6,4
+663299,2022-05-29,110,BAL,Baltimore Orioles,111,BOS,Boston Red Sox,2,12
+663328,2022-05-29,119,LAD,Los Angeles Dodgers,109,AZ,Arizona Diamondbacks,3,1
+663414,2022-05-29,141,TOR,Toronto Blue Jays,108,LAA,Los Angeles Angels,11,10
+661613,2022-05-30,137,SF,San Francisco Giants,143,PHI,Philadelphia Phillies,5,4
+661900,2022-05-30,139,TB,Tampa Bay Rays,140,TEX,Texas Rangers,5,9
+661989,2022-05-30,135,SD,San Diego Padres,138,STL,St. Louis Cardinals,3,6
+662373,2022-05-30,117,HOU,Houston Astros,133,OAK,Oakland Athletics,5,1
+662545,2022-05-30,120,WSH,Washington Nationals,121,NYM,New York Mets,5,13
+662743,2022-05-30,134,PIT,Pittsburgh Pirates,119,LAD,Los Angeles Dodgers,6,5
+662854,2022-05-30,142,MIN,Minnesota Twins,116,DET,Detroit Tigers,5,7
+662992,2022-05-30,146,MIA,Miami Marlins,115,COL,Colorado Rockies,1,7
+663109,2022-05-30,118,KC,Kansas City Royals,114,CLE,Cleveland Guardians,3,7
+663147,2022-05-30,158,MIL,Milwaukee Brewers,112,CHC,Chicago Cubs,3,1
+663149,2022-05-30,158,MIL,Milwaukee Brewers,112,CHC,Chicago Cubs,7,6
+663298,2022-05-30,110,BAL,Baltimore Orioles,111,BOS,Boston Red Sox,10,0
+663327,2022-05-30,144,ATL,Atlanta Braves,109,AZ,Arizona Diamondbacks,2,6
+661075,2022-05-31,136,SEA,Seattle Mariners,110,BAL,Baltimore Orioles,10,0
+661331,2022-05-31,108,LAA,Los Angeles Angels,147,NYY,New York Yankees,1,9
+661618,2022-05-31,137,SF,San Francisco Giants,143,PHI,Philadelphia Phillies,7,4
+661797,2022-05-31,145,CWS,Chicago White Sox,141,TOR,Toronto Blue Jays,5,6
+661884,2022-05-31,139,TB,Tampa Bay Rays,140,TEX,Texas Rangers,0,3
+661977,2022-05-31,135,SD,San Diego Padres,138,STL,St. Louis Cardinals,2,3
+662367,2022-05-31,117,HOU,Houston Astros,133,OAK,Oakland Athletics,3,1
+662544,2022-05-31,120,WSH,Washington Nationals,121,NYM,New York Mets,0,10
+662735,2022-05-31,134,PIT,Pittsburgh Pirates,119,LAD,Los Angeles Dodgers,5,3
+662806,2022-05-31,142,MIN,Minnesota Twins,116,DET,Detroit Tigers,8,2
+662836,2022-05-31,142,MIN,Minnesota Twins,116,DET,Detroit Tigers,0,4
+663034,2022-05-31,118,KC,Kansas City Royals,114,CLE,Cleveland Guardians,3,8
+663154,2022-05-31,158,MIL,Milwaukee Brewers,112,CHC,Chicago Cubs,7,8
+663297,2022-05-31,113,CIN,Cincinnati Reds,111,BOS,Boston Red Sox,2,1
+663329,2022-05-31,144,ATL,Atlanta Braves,109,AZ,Arizona Diamondbacks,7,8
+661343,2022-06-01,136,SEA,Seattle Mariners,110,BAL,Baltimore Orioles,2,9
+661612,2022-06-01,137,SF,San Francisco Giants,143,PHI,Philadelphia Phillies,5,6
+661764,2022-06-01,145,CWS,Chicago White Sox,141,TOR,Toronto Blue Jays,3,7
+661963,2022-06-01,139,TB,Tampa Bay Rays,140,TEX,Texas Rangers,4,3
+661982,2022-06-01,135,SD,San Diego Padres,138,STL,St. Louis Cardinals,2,5
+662366,2022-06-01,117,HOU,Houston Astros,133,OAK,Oakland Athletics,5,4
+662457,2022-06-01,120,WSH,Washington Nationals,121,NYM,New York Mets,0,5
+662721,2022-06-01,134,PIT,Pittsburgh Pirates,119,LAD,Los Angeles Dodgers,8,4
+662833,2022-06-01,142,MIN,Minnesota Twins,116,DET,Detroit Tigers,0,5
+662981,2022-06-01,146,MIA,Miami Marlins,115,COL,Colorado Rockies,14,1
+662991,2022-06-01,146,MIA,Miami Marlins,115,COL,Colorado Rockies,12,13
+663031,2022-06-01,118,KC,Kansas City Royals,114,CLE,Cleveland Guardians,0,4
+663184,2022-06-01,158,MIL,Milwaukee Brewers,112,CHC,Chicago Cubs,3,4
+663296,2022-06-01,113,CIN,Cincinnati Reds,111,BOS,Boston Red Sox,1,7
+663326,2022-06-01,144,ATL,Atlanta Braves,109,AZ,Arizona Diamondbacks,6,0
+661247,2022-06-02,136,SEA,Seattle Mariners,110,BAL,Baltimore Orioles,7,6
+661329,2022-06-02,108,LAA,Los Angeles Angels,147,NYY,New York Yankees,1,2
+661330,2022-06-02,108,LAA,Los Angeles Angels,147,NYY,New York Yankees,1,6
+661340,2022-06-02,135,SD,San Diego Padres,158,MIL,Milwaukee Brewers,4,5
+661397,2022-06-02,137,SF,San Francisco Giants,146,MIA,Miami Marlins,0,3
+661762,2022-06-02,145,CWS,Chicago White Sox,141,TOR,Toronto Blue Jays,3,8
+661934,2022-06-02,139,TB,Tampa Bay Rays,140,TEX,Texas Rangers,3,1
+662693,2022-06-02,121,NYM,New York Mets,119,LAD,Los Angeles Dodgers,0,2
+662832,2022-06-02,142,MIN,Minnesota Twins,116,DET,Detroit Tigers,2,3
+663000,2022-06-02,144,ATL,Atlanta Braves,115,COL,Colorado Rockies,13,6
+663091,2022-06-02,120,WSH,Washington Nationals,113,CIN,Cincinnati Reds,1,8
+663139,2022-06-02,138,STL,St. Louis Cardinals,112,CHC,Chicago Cubs,5,7
+661058,2022-06-03,114,CLE,Cleveland Guardians,110,BAL,Baltimore Orioles,6,3
+661318,2022-06-03,116,DET,Detroit Tigers,147,NYY,New York Yankees,0,13
+661334,2022-06-03,135,SD,San Diego Padres,158,MIL,Milwaukee Brewers,7,0
+661396,2022-06-03,137,SF,San Francisco Giants,146,MIA,Miami Marlins,15,6
+661642,2022-06-03,108,LAA,Los Angeles Angels,143,PHI,Philadelphia Phillies,0,10
+661761,2022-06-03,142,MIN,Minnesota Twins,141,TOR,Toronto Blue Jays,9,3
+661897,2022-06-03,145,CWS,Chicago White Sox,139,TB,Tampa Bay Rays,3,6
+661913,2022-06-03,136,SEA,Seattle Mariners,140,TEX,Texas Rangers,4,3
+662365,2022-06-03,111,BOS,Boston Red Sox,133,OAK,Oakland Athletics,7,2
+662452,2022-06-03,109,AZ,Arizona Diamondbacks,134,PIT,Pittsburgh Pirates,8,6
+662692,2022-06-03,117,HOU,Houston Astros,118,KC,Kansas City Royals,10,3
+662720,2022-06-03,121,NYM,New York Mets,119,LAD,Los Angeles Dodgers,1,6
+662980,2022-06-03,144,ATL,Atlanta Braves,115,COL,Colorado Rockies,3,1
+663119,2022-06-03,120,WSH,Washington Nationals,113,CIN,Cincinnati Reds,8,5
+663153,2022-06-03,138,STL,St. Louis Cardinals,112,CHC,Chicago Cubs,14,5
+661214,2022-06-04,135,SD,San Diego Padres,158,MIL,Milwaukee Brewers,4,0
+661278,2022-06-04,116,DET,Detroit Tigers,147,NYY,New York Yankees,0,3
+661346,2022-06-04,114,CLE,Cleveland Guardians,110,BAL,Baltimore Orioles,4,5
+661395,2022-06-04,137,SF,San Francisco Giants,146,MIA,Miami Marlins,4,5
+661615,2022-06-04,108,LAA,Los Angeles Angels,143,PHI,Philadelphia Phillies,2,7
+661749,2022-06-04,142,MIN,Minnesota Twins,141,TOR,Toronto Blue Jays,3,12
+661896,2022-06-04,145,CWS,Chicago White Sox,139,TB,Tampa Bay Rays,3,2
+661936,2022-06-04,136,SEA,Seattle Mariners,140,TEX,Texas Rangers,2,3
+662364,2022-06-04,111,BOS,Boston Red Sox,133,OAK,Oakland Athletics,8,0
+662451,2022-06-04,109,AZ,Arizona Diamondbacks,134,PIT,Pittsburgh Pirates,1,2
+662687,2022-06-04,121,NYM,New York Mets,119,LAD,Los Angeles Dodgers,9,4
+662689,2022-06-04,117,HOU,Houston Astros,118,KC,Kansas City Royals,0,6
+662987,2022-06-04,144,ATL,Atlanta Braves,115,COL,Colorado Rockies,6,2
+663102,2022-06-04,120,WSH,Washington Nationals,113,CIN,Cincinnati Reds,10,8
+663152,2022-06-04,138,STL,St. Louis Cardinals,112,CHC,Chicago Cubs,7,4
+663179,2022-06-04,138,STL,St. Louis Cardinals,112,CHC,Chicago Cubs,1,6
+661151,2022-06-05,114,CLE,Cleveland Guardians,110,BAL,Baltimore Orioles,3,2
+661241,2022-06-05,135,SD,San Diego Padres,158,MIL,Milwaukee Brewers,6,4
+661277,2022-06-05,116,DET,Detroit Tigers,147,NYY,New York Yankees,4,5
+661394,2022-06-05,137,SF,San Francisco Giants,146,MIA,Miami Marlins,5,1
+661633,2022-06-05,108,LAA,Los Angeles Angels,143,PHI,Philadelphia Phillies,7,9
+661747,2022-06-05,142,MIN,Minnesota Twins,141,TOR,Toronto Blue Jays,8,6
+661895,2022-06-05,145,CWS,Chicago White Sox,139,TB,Tampa Bay Rays,6,5
+661962,2022-06-05,136,SEA,Seattle Mariners,140,TEX,Texas Rangers,6,5
+662363,2022-06-05,111,BOS,Boston Red Sox,133,OAK,Oakland Athletics,5,2
+662450,2022-06-05,109,AZ,Arizona Diamondbacks,134,PIT,Pittsburgh Pirates,0,3
+662612,2022-06-05,121,NYM,New York Mets,119,LAD,Los Angeles Dodgers,5,4
+662688,2022-06-05,117,HOU,Houston Astros,118,KC,Kansas City Royals,7,4
+662990,2022-06-05,144,ATL,Atlanta Braves,115,COL,Colorado Rockies,8,7
+663058,2022-06-05,120,WSH,Washington Nationals,113,CIN,Cincinnati Reds,5,4
+663138,2022-06-05,138,STL,St. Louis Cardinals,112,CHC,Chicago Cubs,5,3
+662278,2022-06-06,121,NYM,New York Mets,135,SD,San Diego Padres,11,5
+662613,2022-06-06,141,TOR,Toronto Blue Jays,118,KC,Kansas City Royals,8,0
+662762,2022-06-06,136,SEA,Seattle Mariners,117,HOU,Houston Astros,7,4
+663065,2022-06-06,109,AZ,Arizona Diamondbacks,113,CIN,Cincinnati Reds,0,7
+663399,2022-06-06,111,BOS,Boston Red Sox,108,LAA,Los Angeles Angels,1,0
+661169,2022-06-07,120,WSH,Washington Nationals,146,MIA,Miami Marlins,2,12
+661170,2022-06-07,112,CHC,Chicago Cubs,110,BAL,Baltimore Orioles,3,9
+661205,2022-06-07,143,PHI,Philadelphia Phillies,158,MIL,Milwaukee Brewers,3,2
+661460,2022-06-07,119,LAD,Los Angeles Dodgers,145,CWS,Chicago White Sox,0,4
+661516,2022-06-07,133,OAK,Oakland Athletics,144,ATL,Atlanta Braves,2,3
+661693,2022-06-07,147,NYY,New York Yankees,142,MIN,Minnesota Twins,10,4
+661894,2022-06-07,138,STL,St. Louis Cardinals,139,TB,Tampa Bay Rays,2,4
+662092,2022-06-07,115,COL,Colorado Rockies,137,SF,San Francisco Giants,5,3
+662277,2022-06-07,121,NYM,New York Mets,135,SD,San Diego Padres,0,7
+662449,2022-06-07,116,DET,Detroit Tigers,134,PIT,Pittsburgh Pirates,5,3
+662678,2022-06-07,141,TOR,Toronto Blue Jays,118,KC,Kansas City Royals,7,0
+662761,2022-06-07,136,SEA,Seattle Mariners,117,HOU,Houston Astros,1,4
+663064,2022-06-07,109,AZ,Arizona Diamondbacks,113,CIN,Cincinnati Reds,8,14
+663122,2022-06-07,140,TEX,Texas Rangers,114,CLE,Cleveland Guardians,3,6
+663134,2022-06-07,140,TEX,Texas Rangers,114,CLE,Cleveland Guardians,6,3
+663391,2022-06-07,111,BOS,Boston Red Sox,108,LAA,Los Angeles Angels,6,5
+661150,2022-06-08,120,WSH,Washington Nationals,146,MIA,Miami Marlins,1,2
+661188,2022-06-08,143,PHI,Philadelphia Phillies,158,MIL,Milwaukee Brewers,10,0
+661459,2022-06-08,119,LAD,Los Angeles Dodgers,145,CWS,Chicago White Sox,4,1
+661515,2022-06-08,133,OAK,Oakland Athletics,144,ATL,Atlanta Braves,2,13
+661681,2022-06-08,147,NYY,New York Yankees,142,MIN,Minnesota Twins,1,8
+661892,2022-06-08,138,STL,St. Louis Cardinals,139,TB,Tampa Bay Rays,3,11
+662094,2022-06-08,115,COL,Colorado Rockies,137,SF,San Francisco Giants,1,2
+662223,2022-06-08,121,NYM,New York Mets,135,SD,San Diego Padres,2,13
+662448,2022-06-08,116,DET,Detroit Tigers,134,PIT,Pittsburgh Pirates,3,1
+662679,2022-06-08,141,TOR,Toronto Blue Jays,118,KC,Kansas City Royals,4,8
+662760,2022-06-08,136,SEA,Seattle Mariners,117,HOU,Houston Astros,6,3
+663050,2022-06-08,109,AZ,Arizona Diamondbacks,113,CIN,Cincinnati Reds,7,0
+663055,2022-06-08,140,TEX,Texas Rangers,114,CLE,Cleveland Guardians,0,4
+663398,2022-06-08,111,BOS,Boston Red Sox,108,LAA,Los Angeles Angels,1,0
+661149,2022-06-09,120,WSH,Washington Nationals,146,MIA,Miami Marlins,4,7
+661194,2022-06-09,143,PHI,Philadelphia Phillies,158,MIL,Milwaukee Brewers,8,3
+661458,2022-06-09,119,LAD,Los Angeles Dodgers,145,CWS,Chicago White Sox,11,9
+661514,2022-06-09,134,PIT,Pittsburgh Pirates,144,ATL,Atlanta Braves,1,3
+661697,2022-06-09,147,NYY,New York Yankees,142,MIN,Minnesota Twins,10,7
+661891,2022-06-09,138,STL,St. Louis Cardinals,139,TB,Tampa Bay Rays,1,2
+662091,2022-06-09,115,COL,Colorado Rockies,137,SF,San Francisco Giants,4,2
+662677,2022-06-09,110,BAL,Baltimore Orioles,118,KC,Kansas City Royals,5,7
+663015,2022-06-09,133,OAK,Oakland Athletics,114,CLE,Cleveland Guardians,4,8
+663049,2022-06-09,109,AZ,Arizona Diamondbacks,113,CIN,Cincinnati Reds,5,4
+663413,2022-06-09,111,BOS,Boston Red Sox,108,LAA,Los Angeles Angels,2,5
+661284,2022-06-10,112,CHC,Chicago Cubs,147,NYY,New York Yankees,1,2
+661485,2022-06-10,140,TEX,Texas Rangers,145,CWS,Chicago White Sox,3,8
+661513,2022-06-10,134,PIT,Pittsburgh Pirates,144,ATL,Atlanta Braves,2,4
+661617,2022-06-10,109,AZ,Arizona Diamondbacks,143,PHI,Philadelphia Phillies,5,7
+661678,2022-06-10,139,TB,Tampa Bay Rays,142,MIN,Minnesota Twins,4,9
+661983,2022-06-10,113,CIN,Cincinnati Reds,138,STL,St. Louis Cardinals,0,2
+662090,2022-06-10,119,LAD,Los Angeles Dodgers,137,SF,San Francisco Giants,2,7
+662129,2022-06-10,111,BOS,Boston Red Sox,136,SEA,Seattle Mariners,4,3
+662275,2022-06-10,115,COL,Colorado Rockies,135,SD,San Diego Padres,0,9
+662511,2022-06-10,158,MIL,Milwaukee Brewers,120,WSH,Washington Nationals,5,11
+662676,2022-06-10,110,BAL,Baltimore Orioles,118,KC,Kansas City Royals,1,8
+662759,2022-06-10,146,MIA,Miami Marlins,117,HOU,Houston Astros,7,4
+662831,2022-06-10,141,TOR,Toronto Blue Jays,116,DET,Detroit Tigers,10,1
+663014,2022-06-10,133,OAK,Oakland Athletics,114,CLE,Cleveland Guardians,2,3
+663390,2022-06-10,121,NYM,New York Mets,108,LAA,Los Angeles Angels,7,3
+661160,2022-06-11,134,PIT,Pittsburgh Pirates,144,ATL,Atlanta Braves,4,10
+661276,2022-06-11,112,CHC,Chicago Cubs,147,NYY,New York Yankees,0,8
+661484,2022-06-11,140,TEX,Texas Rangers,145,CWS,Chicago White Sox,11,9
+661614,2022-06-11,109,AZ,Arizona Diamondbacks,143,PHI,Philadelphia Phillies,0,4
+661680,2022-06-11,139,TB,Tampa Bay Rays,142,MIN,Minnesota Twins,5,6
+661976,2022-06-11,113,CIN,Cincinnati Reds,138,STL,St. Louis Cardinals,4,5
+662089,2022-06-11,119,LAD,Los Angeles Dodgers,137,SF,San Francisco Giants,2,3
+662128,2022-06-11,111,BOS,Boston Red Sox,136,SEA,Seattle Mariners,6,7
+662222,2022-06-11,115,COL,Colorado Rockies,135,SD,San Diego Padres,6,2
+662251,2022-06-11,115,COL,Colorado Rockies,135,SD,San Diego Padres,1,2
+662510,2022-06-11,158,MIL,Milwaukee Brewers,120,WSH,Washington Nationals,6,8
+662674,2022-06-11,110,BAL,Baltimore Orioles,118,KC,Kansas City Royals,6,4
+662756,2022-06-11,146,MIA,Miami Marlins,117,HOU,Houston Astros,5,1
+662830,2022-06-11,141,TOR,Toronto Blue Jays,116,DET,Detroit Tigers,1,3
+663084,2022-06-11,133,OAK,Oakland Athletics,114,CLE,Cleveland Guardians,10,5
+663412,2022-06-11,121,NYM,New York Mets,108,LAA,Los Angeles Angels,6,11
+661144,2022-06-12,134,PIT,Pittsburgh Pirates,144,ATL,Atlanta Braves,3,5
+661270,2022-06-12,112,CHC,Chicago Cubs,147,NYY,New York Yankees,4,18
+661483,2022-06-12,140,TEX,Texas Rangers,145,CWS,Chicago White Sox,8,6
+661622,2022-06-12,109,AZ,Arizona Diamondbacks,143,PHI,Philadelphia Phillies,13,1
+661679,2022-06-12,139,TB,Tampa Bay Rays,142,MIN,Minnesota Twins,6,0
+661975,2022-06-12,113,CIN,Cincinnati Reds,138,STL,St. Louis Cardinals,7,6
+662085,2022-06-12,119,LAD,Los Angeles Dodgers,137,SF,San Francisco Giants,0,2
+662127,2022-06-12,111,BOS,Boston Red Sox,136,SEA,Seattle Mariners,2,0
+662256,2022-06-12,115,COL,Colorado Rockies,135,SD,San Diego Padres,4,2
+662542,2022-06-12,158,MIL,Milwaukee Brewers,120,WSH,Washington Nationals,4,1
+662673,2022-06-12,110,BAL,Baltimore Orioles,118,KC,Kansas City Royals,10,7
+662758,2022-06-12,146,MIA,Miami Marlins,117,HOU,Houston Astros,4,9
+662829,2022-06-12,141,TOR,Toronto Blue Jays,116,DET,Detroit Tigers,6,0
+663083,2022-06-12,133,OAK,Oakland Athletics,114,CLE,Cleveland Guardians,3,6
+663397,2022-06-12,121,NYM,New York Mets,108,LAA,Los Angeles Angels,4,1
+661629,2022-06-13,146,MIA,Miami Marlins,143,PHI,Philadelphia Phillies,2,3
+661746,2022-06-13,110,BAL,Baltimore Orioles,141,TOR,Toronto Blue Jays,1,11
+661881,2022-06-13,117,HOU,Houston Astros,140,TEX,Texas Rangers,3,5
+661974,2022-06-13,134,PIT,Pittsburgh Pirates,138,STL,St. Louis Cardinals,5,7
+662069,2022-06-13,118,KC,Kansas City Royals,137,SF,San Francisco Giants,2,6
+662126,2022-06-13,142,MIN,Minnesota Twins,136,SEA,Seattle Mariners,3,2
+662505,2022-06-13,144,ATL,Atlanta Braves,120,WSH,Washington Nationals,9,5
+662828,2022-06-13,145,CWS,Chicago White Sox,116,DET,Detroit Tigers,9,5
+663183,2022-06-13,135,SD,San Diego Padres,112,CHC,Chicago Cubs,4,1
+663345,2022-06-13,113,CIN,Cincinnati Reds,109,AZ,Arizona Diamondbacks,5,4
+661328,2022-06-14,139,TB,Tampa Bay Rays,147,NYY,New York Yankees,0,2
+661616,2022-06-14,146,MIA,Miami Marlins,143,PHI,Philadelphia Phillies,11,9
+661745,2022-06-14,110,BAL,Baltimore Orioles,141,TOR,Toronto Blue Jays,6,5
+661880,2022-06-14,117,HOU,Houston Astros,140,TEX,Texas Rangers,4,3
+661973,2022-06-14,134,PIT,Pittsburgh Pirates,138,STL,St. Louis Cardinals,1,9
+662018,2022-06-14,134,PIT,Pittsburgh Pirates,138,STL,St. Louis Cardinals,1,3
+662068,2022-06-14,118,KC,Kansas City Royals,137,SF,San Francisco Giants,2,4
+662125,2022-06-14,142,MIN,Minnesota Twins,136,SEA,Seattle Mariners,0,5
+662441,2022-06-14,158,MIL,Milwaukee Brewers,121,NYM,New York Mets,0,4
+662503,2022-06-14,144,ATL,Atlanta Braves,120,WSH,Washington Nationals,10,4
+662611,2022-06-14,108,LAA,Los Angeles Angels,119,LAD,Los Angeles Dodgers,0,2
+662884,2022-06-14,145,CWS,Chicago White Sox,116,DET,Detroit Tigers,5,1
+662935,2022-06-14,114,CLE,Cleveland Guardians,115,COL,Colorado Rockies,4,3
+663182,2022-06-14,135,SD,San Diego Padres,112,CHC,Chicago Cubs,12,5
+663279,2022-06-14,133,OAK,Oakland Athletics,111,BOS,Boston Red Sox,1,6
+663342,2022-06-14,113,CIN,Cincinnati Reds,109,AZ,Arizona Diamondbacks,5,3
+661327,2022-06-15,139,TB,Tampa Bay Rays,147,NYY,New York Yankees,3,4
+661583,2022-06-15,146,MIA,Miami Marlins,143,PHI,Philadelphia Phillies,1,3
+661744,2022-06-15,110,BAL,Baltimore Orioles,141,TOR,Toronto Blue Jays,6,7
+661845,2022-06-15,117,HOU,Houston Astros,140,TEX,Texas Rangers,9,2
+661972,2022-06-15,134,PIT,Pittsburgh Pirates,138,STL,St. Louis Cardinals,6,4
+662082,2022-06-15,118,KC,Kansas City Royals,137,SF,San Francisco Giants,3,2
+662173,2022-06-15,142,MIN,Minnesota Twins,136,SEA,Seattle Mariners,5,0
+662480,2022-06-15,158,MIL,Milwaukee Brewers,121,NYM,New York Mets,10,2
+662504,2022-06-15,144,ATL,Atlanta Braves,120,WSH,Washington Nationals,8,2
+662694,2022-06-15,108,LAA,Los Angeles Angels,119,LAD,Los Angeles Dodgers,1,4
+662883,2022-06-15,145,CWS,Chicago White Sox,116,DET,Detroit Tigers,13,0
+662893,2022-06-15,114,CLE,Cleveland Guardians,115,COL,Colorado Rockies,7,5
+663155,2022-06-15,135,SD,San Diego Padres,112,CHC,Chicago Cubs,19,5
+663235,2022-06-15,133,OAK,Oakland Athletics,111,BOS,Boston Red Sox,1,10
+663336,2022-06-15,113,CIN,Cincinnati Reds,109,AZ,Arizona Diamondbacks,4,7
+661326,2022-06-16,139,TB,Tampa Bay Rays,147,NYY,New York Yankees,1,2
+661743,2022-06-16,110,BAL,Baltimore Orioles,141,TOR,Toronto Blue Jays,10,2
+662172,2022-06-16,108,LAA,Los Angeles Angels,136,SEA,Seattle Mariners,4,1
+662501,2022-06-16,143,PHI,Philadelphia Phillies,120,WSH,Washington Nationals,10,1
+662535,2022-06-16,158,MIL,Milwaukee Brewers,121,NYM,New York Mets,4,5
+662827,2022-06-16,140,TEX,Texas Rangers,116,DET,Detroit Tigers,3,1
+662986,2022-06-16,114,CLE,Cleveland Guardians,115,COL,Colorado Rockies,4,2
+663125,2022-06-16,135,SD,San Diego Padres,112,CHC,Chicago Cubs,6,4
+663267,2022-06-16,133,OAK,Oakland Athletics,111,BOS,Boston Red Sox,4,3
+661093,2022-06-17,139,TB,Tampa Bay Rays,110,BAL,Baltimore Orioles,0,1
+661742,2022-06-17,147,NYY,New York Yankees,141,TOR,Toronto Blue Jays,12,3
+662171,2022-06-17,108,LAA,Los Angeles Angels,136,SEA,Seattle Mariners,1,8
+662362,2022-06-17,118,KC,Kansas City Royals,133,OAK,Oakland Athletics,5,1
+662437,2022-06-17,137,SF,San Francisco Giants,134,PIT,Pittsburgh Pirates,2,0
+662502,2022-06-17,143,PHI,Philadelphia Phillies,120,WSH,Washington Nationals,8,7
+662534,2022-06-17,146,MIA,Miami Marlins,121,NYM,New York Mets,4,10
+662580,2022-06-17,143,PHI,Philadelphia Phillies,120,WSH,Washington Nationals,5,3
+662719,2022-06-17,114,CLE,Cleveland Guardians,119,LAD,Los Angeles Dodgers,2,1
+662757,2022-06-17,145,CWS,Chicago White Sox,117,HOU,Houston Astros,3,13
+662826,2022-06-17,140,TEX,Texas Rangers,116,DET,Detroit Tigers,7,0
+662985,2022-06-17,135,SD,San Diego Padres,115,COL,Colorado Rockies,4,10
+663063,2022-06-17,158,MIL,Milwaukee Brewers,113,CIN,Cincinnati Reds,5,4
+663124,2022-06-17,144,ATL,Atlanta Braves,112,CHC,Chicago Cubs,0,1
+663256,2022-06-17,138,STL,St. Louis Cardinals,111,BOS,Boston Red Sox,5,6
+663335,2022-06-17,142,MIN,Minnesota Twins,109,AZ,Arizona Diamondbacks,2,7
+661123,2022-06-18,137,SF,San Francisco Giants,134,PIT,Pittsburgh Pirates,7,5
+661127,2022-06-18,139,TB,Tampa Bay Rays,110,BAL,Baltimore Orioles,7,6
+661748,2022-06-18,147,NYY,New York Yankees,141,TOR,Toronto Blue Jays,4,0
+662170,2022-06-18,108,LAA,Los Angeles Angels,136,SEA,Seattle Mariners,3,0
+662194,2022-06-18,108,LAA,Los Angeles Angels,136,SEA,Seattle Mariners,4,2
+662368,2022-06-18,118,KC,Kansas City Royals,133,OAK,Oakland Athletics,2,0
+662500,2022-06-18,143,PHI,Philadelphia Phillies,120,WSH,Washington Nationals,2,1
+662533,2022-06-18,146,MIA,Miami Marlins,121,NYM,New York Mets,2,3
+662686,2022-06-18,114,CLE,Cleveland Guardians,119,LAD,Los Angeles Dodgers,1,7
+662752,2022-06-18,145,CWS,Chicago White Sox,117,HOU,Houston Astros,7,0
+662802,2022-06-18,140,TEX,Texas Rangers,116,DET,Detroit Tigers,7,14
+662999,2022-06-18,135,SD,San Diego Padres,115,COL,Colorado Rockies,4,5
+663062,2022-06-18,158,MIL,Milwaukee Brewers,113,CIN,Cincinnati Reds,7,3
+663239,2022-06-18,144,ATL,Atlanta Braves,112,CHC,Chicago Cubs,3,6
+663255,2022-06-18,138,STL,St. Louis Cardinals,111,BOS,Boston Red Sox,11,2
+663351,2022-06-18,142,MIN,Minnesota Twins,109,AZ,Arizona Diamondbacks,11,1
+661074,2022-06-19,139,TB,Tampa Bay Rays,110,BAL,Baltimore Orioles,1,2
+661122,2022-06-19,137,SF,San Francisco Giants,134,PIT,Pittsburgh Pirates,3,4
+661741,2022-06-19,147,NYY,New York Yankees,141,TOR,Toronto Blue Jays,9,10
+662169,2022-06-19,108,LAA,Los Angeles Angels,136,SEA,Seattle Mariners,4,0
+662361,2022-06-19,118,KC,Kansas City Royals,133,OAK,Oakland Athletics,0,4
+662532,2022-06-19,146,MIA,Miami Marlins,121,NYM,New York Mets,6,2
+662553,2022-06-19,143,PHI,Philadelphia Phillies,120,WSH,Washington Nationals,3,9
+662590,2022-06-19,114,CLE,Cleveland Guardians,119,LAD,Los Angeles Dodgers,5,3
+662751,2022-06-19,145,CWS,Chicago White Sox,117,HOU,Houston Astros,3,4
+662807,2022-06-19,140,TEX,Texas Rangers,116,DET,Detroit Tigers,3,7
+662998,2022-06-19,135,SD,San Diego Padres,115,COL,Colorado Rockies,3,8
+663061,2022-06-19,158,MIL,Milwaukee Brewers,113,CIN,Cincinnati Reds,6,3
+663218,2022-06-19,144,ATL,Atlanta Braves,112,CHC,Chicago Cubs,6,0
+663254,2022-06-19,138,STL,St. Louis Cardinals,111,BOS,Boston Red Sox,4,6
+663334,2022-06-19,142,MIN,Minnesota Twins,109,AZ,Arizona Diamondbacks,1,7
+661121,2022-06-20,112,CHC,Chicago Cubs,134,PIT,Pittsburgh Pirates,1,12
+661143,2022-06-20,137,SF,San Francisco Giants,144,ATL,Atlanta Braves,1,2
+661186,2022-06-20,138,STL,St. Louis Cardinals,158,MIL,Milwaukee Brewers,0,2
+661482,2022-06-20,141,TOR,Toronto Blue Jays,145,CWS,Chicago White Sox,7,8
+661893,2022-06-20,147,NYY,New York Yankees,139,TB,Tampa Bay Rays,4,2
+662221,2022-06-20,109,AZ,Arizona Diamondbacks,135,SD,San Diego Padres,1,4
+662522,2022-06-20,146,MIA,Miami Marlins,121,NYM,New York Mets,0,6
+663253,2022-06-20,116,DET,Detroit Tigers,111,BOS,Boston Red Sox,2,5
+663443,2022-06-20,118,KC,Kansas City Royals,108,LAA,Los Angeles Angels,6,2
+661124,2022-06-21,112,CHC,Chicago Cubs,134,PIT,Pittsburgh Pirates,1,7
+661142,2022-06-21,137,SF,San Francisco Giants,144,ATL,Atlanta Braves,12,10
+661148,2022-06-21,115,COL,Colorado Rockies,146,MIA,Miami Marlins,8,9
+661192,2022-06-21,138,STL,St. Louis Cardinals,158,MIL,Milwaukee Brewers,6,2
+661198,2022-06-21,120,WSH,Washington Nationals,110,BAL,Baltimore Orioles,3,0
+661481,2022-06-21,141,TOR,Toronto Blue Jays,145,CWS,Chicago White Sox,6,7
+661677,2022-06-21,114,CLE,Cleveland Guardians,142,MIN,Minnesota Twins,6,5
+661846,2022-06-21,143,PHI,Philadelphia Phillies,140,TEX,Texas Rangers,0,7
+661890,2022-06-21,147,NYY,New York Yankees,139,TB,Tampa Bay Rays,4,5
+662248,2022-06-21,109,AZ,Arizona Diamondbacks,135,SD,San Diego Padres,2,3
+662360,2022-06-21,136,SEA,Seattle Mariners,133,OAK,Oakland Athletics,8,2
+662750,2022-06-21,121,NYM,New York Mets,117,HOU,Houston Astros,2,8
+663041,2022-06-21,119,LAD,Los Angeles Dodgers,113,CIN,Cincinnati Reds,8,2
+663246,2022-06-21,116,DET,Detroit Tigers,111,BOS,Boston Red Sox,4,5
+663442,2022-06-21,118,KC,Kansas City Royals,108,LAA,Los Angeles Angels,12,11
+661107,2022-06-22,112,CHC,Chicago Cubs,134,PIT,Pittsburgh Pirates,14,5
+661141,2022-06-22,137,SF,San Francisco Giants,144,ATL,Atlanta Braves,3,4
+661230,2022-06-22,138,STL,St. Louis Cardinals,158,MIL,Milwaukee Brewers,5,4
+661246,2022-06-22,120,WSH,Washington Nationals,110,BAL,Baltimore Orioles,0,7
+661393,2022-06-22,115,COL,Colorado Rockies,146,MIA,Miami Marlins,4,7
+661457,2022-06-22,141,TOR,Toronto Blue Jays,145,CWS,Chicago White Sox,9,5
+661690,2022-06-22,114,CLE,Cleveland Guardians,142,MIN,Minnesota Twins,11,10
+661851,2022-06-22,143,PHI,Philadelphia Phillies,140,TEX,Texas Rangers,2,4
+661889,2022-06-22,147,NYY,New York Yankees,139,TB,Tampa Bay Rays,5,4
+662245,2022-06-22,109,AZ,Arizona Diamondbacks,135,SD,San Diego Padres,4,10
+662359,2022-06-22,136,SEA,Seattle Mariners,133,OAK,Oakland Athletics,9,0
+662749,2022-06-22,121,NYM,New York Mets,117,HOU,Houston Astros,3,5
+663040,2022-06-22,119,LAD,Los Angeles Dodgers,113,CIN,Cincinnati Reds,8,4
+663252,2022-06-22,116,DET,Detroit Tigers,111,BOS,Boston Red Sox,2,6
+663389,2022-06-22,118,KC,Kansas City Royals,108,LAA,Los Angeles Angels,0,5
+661106,2022-06-23,112,CHC,Chicago Cubs,134,PIT,Pittsburgh Pirates,7,8
+661140,2022-06-23,137,SF,San Francisco Giants,144,ATL,Atlanta Braves,6,7
+661183,2022-06-23,138,STL,St. Louis Cardinals,158,MIL,Milwaukee Brewers,4,6
+661325,2022-06-23,117,HOU,Houston Astros,147,NYY,New York Yankees,6,7
+661392,2022-06-23,115,COL,Colorado Rockies,146,MIA,Miami Marlins,2,3
+661456,2022-06-23,110,BAL,Baltimore Orioles,145,CWS,Chicago White Sox,4,0
+661685,2022-06-23,114,CLE,Cleveland Guardians,142,MIN,Minnesota Twins,0,1
+662227,2022-06-23,143,PHI,Philadelphia Phillies,135,SD,San Diego Padres,6,2
+662358,2022-06-23,136,SEA,Seattle Mariners,133,OAK,Oakland Athletics,2,1
+663039,2022-06-23,119,LAD,Los Angeles Dodgers,113,CIN,Cincinnati Reds,10,5
+661139,2022-06-24,119,LAD,Los Angeles Dodgers,144,ATL,Atlanta Braves,4,1
+661190,2022-06-24,141,TOR,Toronto Blue Jays,158,MIL,Milwaukee Brewers,9,4
+661274,2022-06-24,117,HOU,Houston Astros,147,NYY,New York Yankees,3,1
+661382,2022-06-24,121,NYM,New York Mets,146,MIA,Miami Marlins,5,3
+661455,2022-06-24,110,BAL,Baltimore Orioles,145,CWS,Chicago White Sox,4,1
+661684,2022-06-24,115,COL,Colorado Rockies,142,MIN,Minnesota Twins,1,0
+661844,2022-06-24,120,WSH,Washington Nationals,140,TEX,Texas Rangers,2,1
+661888,2022-06-24,134,PIT,Pittsburgh Pirates,139,TB,Tampa Bay Rays,3,4
+661971,2022-06-24,112,CHC,Chicago Cubs,138,STL,St. Louis Cardinals,3,0
+662067,2022-06-24,113,CIN,Cincinnati Reds,137,SF,San Francisco Giants,4,2
+662255,2022-06-24,143,PHI,Philadelphia Phillies,135,SD,San Diego Padres,0,1
+662664,2022-06-24,133,OAK,Oakland Athletics,118,KC,Kansas City Royals,1,3
+663054,2022-06-24,111,BOS,Boston Red Sox,114,CLE,Cleveland Guardians,6,3
+663333,2022-06-24,116,DET,Detroit Tigers,109,AZ,Arizona Diamondbacks,5,1
+663388,2022-06-24,136,SEA,Seattle Mariners,108,LAA,Los Angeles Angels,4,3
+661138,2022-06-25,119,LAD,Los Angeles Dodgers,144,ATL,Atlanta Braves,3,5
+661264,2022-06-25,141,TOR,Toronto Blue Jays,158,MIL,Milwaukee Brewers,4,5
+661271,2022-06-25,117,HOU,Houston Astros,147,NYY,New York Yankees,3,0
+661381,2022-06-25,121,NYM,New York Mets,146,MIA,Miami Marlins,5,3
+661454,2022-06-25,110,BAL,Baltimore Orioles,145,CWS,Chicago White Sox,6,2
+661686,2022-06-25,115,COL,Colorado Rockies,142,MIN,Minnesota Twins,0,6
+661887,2022-06-25,134,PIT,Pittsburgh Pirates,139,TB,Tampa Bay Rays,5,6
+661898,2022-06-25,120,WSH,Washington Nationals,140,TEX,Texas Rangers,2,3
+661970,2022-06-25,112,CHC,Chicago Cubs,138,STL,St. Louis Cardinals,3,5
+662083,2022-06-25,113,CIN,Cincinnati Reds,137,SF,San Francisco Giants,2,9
+662247,2022-06-25,143,PHI,Philadelphia Phillies,135,SD,San Diego Padres,4,2
+662672,2022-06-25,133,OAK,Oakland Athletics,118,KC,Kansas City Royals,9,7
+663042,2022-06-25,111,BOS,Boston Red Sox,114,CLE,Cleveland Guardians,4,2
+663346,2022-06-25,116,DET,Detroit Tigers,109,AZ,Arizona Diamondbacks,6,3
+663441,2022-06-25,136,SEA,Seattle Mariners,108,LAA,Los Angeles Angels,5,3
+661206,2022-06-26,141,TOR,Toronto Blue Jays,158,MIL,Milwaukee Brewers,3,10
+661273,2022-06-26,117,HOU,Houston Astros,147,NYY,New York Yankees,3,6
+661380,2022-06-26,121,NYM,New York Mets,146,MIA,Miami Marlins,2,3
+661453,2022-06-26,110,BAL,Baltimore Orioles,145,CWS,Chicago White Sox,3,4
+661512,2022-06-26,119,LAD,Los Angeles Dodgers,144,ATL,Atlanta Braves,5,3
+661692,2022-06-26,115,COL,Colorado Rockies,142,MIN,Minnesota Twins,3,6
+661847,2022-06-26,120,WSH,Washington Nationals,140,TEX,Texas Rangers,6,4
+661886,2022-06-26,134,PIT,Pittsburgh Pirates,139,TB,Tampa Bay Rays,2,4
+661969,2022-06-26,112,CHC,Chicago Cubs,138,STL,St. Louis Cardinals,6,5
+662061,2022-06-26,113,CIN,Cincinnati Reds,137,SF,San Francisco Giants,10,3
+662254,2022-06-26,143,PHI,Philadelphia Phillies,135,SD,San Diego Padres,8,5
+662665,2022-06-26,133,OAK,Oakland Athletics,118,KC,Kansas City Royals,5,3
+663121,2022-06-26,111,BOS,Boston Red Sox,114,CLE,Cleveland Guardians,8,3
+663331,2022-06-26,116,DET,Detroit Tigers,109,AZ,Arizona Diamondbacks,7,11
+663387,2022-06-26,136,SEA,Seattle Mariners,108,LAA,Los Angeles Angels,1,2
+661275,2022-06-27,133,OAK,Oakland Athletics,147,NYY,New York Yankees,5,9
+661740,2022-06-27,111,BOS,Boston Red Sox,141,TOR,Toronto Blue Jays,2,7
+661968,2022-06-27,146,MIA,Miami Marlins,138,STL,St. Louis Cardinals,0,9
+662168,2022-06-27,110,BAL,Baltimore Orioles,136,SEA,Seattle Mariners,9,2
+662487,2022-06-27,134,PIT,Pittsburgh Pirates,120,WSH,Washington Nationals,2,3
+662681,2022-06-27,140,TEX,Texas Rangers,118,KC,Kansas City Royals,10,4
+662912,2022-06-27,119,LAD,Los Angeles Dodgers,115,COL,Colorado Rockies,0,4
+663016,2022-06-27,142,MIN,Minnesota Twins,114,CLE,Cleveland Guardians,11,1
+663440,2022-06-27,145,CWS,Chicago White Sox,108,LAA,Los Angeles Angels,3,4
+661272,2022-06-28,133,OAK,Oakland Athletics,147,NYY,New York Yankees,1,2
+661580,2022-06-28,144,ATL,Atlanta Braves,143,PHI,Philadelphia Phillies,5,3
+661728,2022-06-28,111,BOS,Boston Red Sox,141,TOR,Toronto Blue Jays,5,6
+661885,2022-06-28,158,MIL,Milwaukee Brewers,139,TB,Tampa Bay Rays,5,3
+661967,2022-06-28,146,MIA,Miami Marlins,138,STL,St. Louis Cardinals,3,5
+662060,2022-06-28,116,DET,Detroit Tigers,137,SF,San Francisco Giants,3,4
+662186,2022-06-28,110,BAL,Baltimore Orioles,136,SEA,Seattle Mariners,0,2
+662484,2022-06-28,134,PIT,Pittsburgh Pirates,120,WSH,Washington Nationals,1,3
+662521,2022-06-28,117,HOU,Houston Astros,121,NYM,New York Mets,9,1
+662615,2022-06-28,140,TEX,Texas Rangers,118,KC,Kansas City Royals,8,3
+662911,2022-06-28,119,LAD,Los Angeles Dodgers,115,COL,Colorado Rockies,4,7
+663033,2022-06-28,142,MIN,Minnesota Twins,114,CLE,Cleveland Guardians,6,0
+663045,2022-06-28,142,MIN,Minnesota Twins,114,CLE,Cleveland Guardians,2,3
+663231,2022-06-28,113,CIN,Cincinnati Reds,112,CHC,Chicago Cubs,5,3
+663344,2022-06-28,135,SD,San Diego Padres,109,AZ,Arizona Diamondbacks,6,7
+663392,2022-06-28,145,CWS,Chicago White Sox,108,LAA,Los Angeles Angels,11,4
+661134,2022-06-29,146,MIA,Miami Marlins,138,STL,St. Louis Cardinals,4,3
+661263,2022-06-29,133,OAK,Oakland Athletics,147,NYY,New York Yankees,3,5
+661584,2022-06-29,144,ATL,Atlanta Braves,143,PHI,Philadelphia Phillies,4,1
+661727,2022-06-29,111,BOS,Boston Red Sox,141,TOR,Toronto Blue Jays,6,5
+661879,2022-06-29,158,MIL,Milwaukee Brewers,139,TB,Tampa Bay Rays,5,3
+662080,2022-06-29,116,DET,Detroit Tigers,137,SF,San Francisco Giants,3,2
+662151,2022-06-29,110,BAL,Baltimore Orioles,136,SEA,Seattle Mariners,3,9
+662440,2022-06-29,117,HOU,Houston Astros,121,NYM,New York Mets,2,0
+662493,2022-06-29,134,PIT,Pittsburgh Pirates,120,WSH,Washington Nationals,8,7
+662675,2022-06-29,140,TEX,Texas Rangers,118,KC,Kansas City Royals,1,2
+662894,2022-06-29,119,LAD,Los Angeles Dodgers,115,COL,Colorado Rockies,8,4
+663030,2022-06-29,142,MIN,Minnesota Twins,114,CLE,Cleveland Guardians,6,7
+663215,2022-06-29,113,CIN,Cincinnati Reds,112,CHC,Chicago Cubs,3,8
+663325,2022-06-29,135,SD,San Diego Padres,109,AZ,Arizona Diamondbacks,4,0
+663396,2022-06-29,145,CWS,Chicago White Sox,108,LAA,Los Angeles Angels,1,4
+661105,2022-06-30,158,MIL,Milwaukee Brewers,134,PIT,Pittsburgh Pirates,7,8
+661579,2022-06-30,144,ATL,Atlanta Braves,143,PHI,Philadelphia Phillies,4,14
+661726,2022-06-30,139,TB,Tampa Bay Rays,141,TOR,Toronto Blue Jays,1,4
+662150,2022-06-30,133,OAK,Oakland Athletics,136,SEA,Seattle Mariners,6,8
+662733,2022-06-30,135,SD,San Diego Padres,119,LAD,Los Angeles Dodgers,1,3
+662788,2022-06-30,147,NYY,New York Yankees,117,HOU,Houston Astros,1,2
+662983,2022-06-30,142,MIN,Minnesota Twins,114,CLE,Cleveland Guardians,3,5
+663199,2022-06-30,113,CIN,Cincinnati Reds,112,CHC,Chicago Cubs,7,15
+661104,2022-07-01,158,MIL,Milwaukee Brewers,134,PIT,Pittsburgh Pirates,19,2
+661582,2022-07-01,138,STL,St. Louis Cardinals,143,PHI,Philadelphia Phillies,3,5
+661691,2022-07-01,110,BAL,Baltimore Orioles,142,MIN,Minnesota Twins,2,3
+661725,2022-07-01,139,TB,Tampa Bay Rays,141,TOR,Toronto Blue Jays,2,9
+662079,2022-07-01,145,CWS,Chicago White Sox,137,SF,San Francisco Giants,1,0
+662149,2022-07-01,133,OAK,Oakland Athletics,136,SEA,Seattle Mariners,3,1
+662439,2022-07-01,140,TEX,Texas Rangers,121,NYM,New York Mets,3,4
+662492,2022-07-01,146,MIA,Miami Marlins,120,WSH,Washington Nationals,6,3
+662609,2022-07-01,135,SD,San Diego Padres,119,LAD,Los Angeles Dodgers,1,5
+662748,2022-07-01,108,LAA,Los Angeles Angels,117,HOU,Houston Astros,1,8
+662834,2022-07-01,118,KC,Kansas City Royals,116,DET,Detroit Tigers,3,1
+662997,2022-07-01,109,AZ,Arizona Diamondbacks,115,COL,Colorado Rockies,9,3
+663038,2022-07-01,144,ATL,Atlanta Braves,113,CIN,Cincinnati Reds,9,1
+663185,2022-07-01,111,BOS,Boston Red Sox,112,CHC,Chicago Cubs,5,6
+661103,2022-07-02,158,MIL,Milwaukee Brewers,134,PIT,Pittsburgh Pirates,4,7
+661581,2022-07-02,138,STL,St. Louis Cardinals,143,PHI,Philadelphia Phillies,7,6
+661683,2022-07-02,110,BAL,Baltimore Orioles,142,MIN,Minnesota Twins,3,4
+661724,2022-07-02,139,TB,Tampa Bay Rays,141,TOR,Toronto Blue Jays,6,2
+661836,2022-07-02,139,TB,Tampa Bay Rays,141,TOR,Toronto Blue Jays,11,5
+662101,2022-07-02,145,CWS,Chicago White Sox,137,SF,San Francisco Giants,5,3
+662163,2022-07-02,133,OAK,Oakland Athletics,136,SEA,Seattle Mariners,1,2
+662456,2022-07-02,140,TEX,Texas Rangers,121,NYM,New York Mets,7,3
+662482,2022-07-02,146,MIA,Miami Marlins,120,WSH,Washington Nationals,5,3
+662718,2022-07-02,135,SD,San Diego Padres,119,LAD,Los Angeles Dodgers,2,7
+662890,2022-07-02,108,LAA,Los Angeles Angels,117,HOU,Houston Astros,1,9
+662904,2022-07-02,118,KC,Kansas City Royals,116,DET,Detroit Tigers,3,4
+662910,2022-07-02,109,AZ,Arizona Diamondbacks,115,COL,Colorado Rockies,7,11
+662954,2022-07-02,147,NYY,New York Yankees,114,CLE,Cleveland Guardians,6,1
+662964,2022-07-02,147,NYY,New York Yankees,114,CLE,Cleveland Guardians,13,4
+663037,2022-07-02,144,ATL,Atlanta Braves,113,CIN,Cincinnati Reds,4,1
+663198,2022-07-02,111,BOS,Boston Red Sox,112,CHC,Chicago Cubs,1,3
+661102,2022-07-03,158,MIL,Milwaukee Brewers,134,PIT,Pittsburgh Pirates,2,0
+661630,2022-07-03,138,STL,St. Louis Cardinals,143,PHI,Philadelphia Phillies,0,4
+661689,2022-07-03,110,BAL,Baltimore Orioles,142,MIN,Minnesota Twins,3,1
+661723,2022-07-03,139,TB,Tampa Bay Rays,141,TOR,Toronto Blue Jays,7,3
+662099,2022-07-03,145,CWS,Chicago White Sox,137,SF,San Francisco Giants,13,4
+662162,2022-07-03,133,OAK,Oakland Athletics,136,SEA,Seattle Mariners,1,2
+662486,2022-07-03,146,MIA,Miami Marlins,120,WSH,Washington Nationals,7,4
+662509,2022-07-03,140,TEX,Texas Rangers,121,NYM,New York Mets,1,4
+662684,2022-07-03,135,SD,San Diego Padres,119,LAD,Los Angeles Dodgers,4,2
+662794,2022-07-03,118,KC,Kansas City Royals,116,DET,Detroit Tigers,7,4
+662889,2022-07-03,108,LAA,Los Angeles Angels,117,HOU,Houston Astros,2,4
+662913,2022-07-03,109,AZ,Arizona Diamondbacks,115,COL,Colorado Rockies,5,6
+662957,2022-07-03,147,NYY,New York Yankees,114,CLE,Cleveland Guardians,0,2
+663052,2022-07-03,144,ATL,Atlanta Braves,113,CIN,Cincinnati Reds,3,4
+663186,2022-07-03,111,BOS,Boston Red Sox,112,CHC,Chicago Cubs,4,2
+661073,2022-07-04,140,TEX,Texas Rangers,110,BAL,Baltimore Orioles,6,7
+661181,2022-07-04,112,CHC,Chicago Cubs,158,MIL,Milwaukee Brewers,2,5
+661452,2022-07-04,142,MIN,Minnesota Twins,145,CWS,Chicago White Sox,6,3
+661511,2022-07-04,138,STL,St. Louis Cardinals,144,ATL,Atlanta Braves,3,6
+662270,2022-07-04,136,SEA,Seattle Mariners,135,SD,San Diego Padres,8,2
+662355,2022-07-04,141,TOR,Toronto Blue Jays,133,OAK,Oakland Athletics,1,5
+662541,2022-07-04,146,MIA,Miami Marlins,120,WSH,Washington Nationals,3,2
+662732,2022-07-04,115,COL,Colorado Rockies,119,LAD,Los Angeles Dodgers,3,5
+662841,2022-07-04,114,CLE,Cleveland Guardians,116,DET,Detroit Tigers,3,5
+662874,2022-07-04,118,KC,Kansas City Royals,117,HOU,Houston Astros,6,7
+662906,2022-07-04,114,CLE,Cleveland Guardians,116,DET,Detroit Tigers,1,4
+663036,2022-07-04,121,NYM,New York Mets,113,CIN,Cincinnati Reds,7,4
+663251,2022-07-04,139,TB,Tampa Bay Rays,111,BOS,Boston Red Sox,0,4
+663343,2022-07-04,137,SF,San Francisco Giants,109,AZ,Arizona Diamondbacks,3,8
+661187,2022-07-05,112,CHC,Chicago Cubs,158,MIL,Milwaukee Brewers,8,3
+661244,2022-07-05,140,TEX,Texas Rangers,110,BAL,Baltimore Orioles,9,10
+661379,2022-07-05,108,LAA,Los Angeles Angels,146,MIA,Miami Marlins,1,2
+661426,2022-07-05,142,MIN,Minnesota Twins,145,CWS,Chicago White Sox,8,2
+661510,2022-07-05,138,STL,St. Louis Cardinals,144,ATL,Atlanta Braves,1,7
+661578,2022-07-05,120,WSH,Washington Nationals,143,PHI,Philadelphia Phillies,0,11
+662226,2022-07-05,136,SEA,Seattle Mariners,135,SD,San Diego Padres,6,2
+662329,2022-07-05,147,NYY,New York Yankees,134,PIT,Pittsburgh Pirates,2,5
+662354,2022-07-05,141,TOR,Toronto Blue Jays,133,OAK,Oakland Athletics,3,5
+662731,2022-07-05,115,COL,Colorado Rockies,119,LAD,Los Angeles Dodgers,2,5
+662847,2022-07-05,118,KC,Kansas City Royals,117,HOU,Houston Astros,7,9
+662905,2022-07-05,114,CLE,Cleveland Guardians,116,DET,Detroit Tigers,4,11
+663035,2022-07-05,121,NYM,New York Mets,113,CIN,Cincinnati Reds,0,1
+663245,2022-07-05,139,TB,Tampa Bay Rays,111,BOS,Boston Red Sox,8,4
+663320,2022-07-05,137,SF,San Francisco Giants,109,AZ,Arizona Diamondbacks,2,6
+661225,2022-07-06,112,CHC,Chicago Cubs,158,MIL,Milwaukee Brewers,2,1
+661245,2022-07-06,140,TEX,Texas Rangers,110,BAL,Baltimore Orioles,1,2
+661378,2022-07-06,108,LAA,Los Angeles Angels,146,MIA,Miami Marlins,5,2
+661413,2022-07-06,142,MIN,Minnesota Twins,145,CWS,Chicago White Sox,8,9
+661509,2022-07-06,138,STL,St. Louis Cardinals,144,ATL,Atlanta Braves,0,3
+661564,2022-07-06,120,WSH,Washington Nationals,143,PHI,Philadelphia Phillies,3,2
+662328,2022-07-06,147,NYY,New York Yankees,134,PIT,Pittsburgh Pirates,16,0
+662353,2022-07-06,141,TOR,Toronto Blue Jays,133,OAK,Oakland Athletics,2,1
+662630,2022-07-06,115,COL,Colorado Rockies,119,LAD,Los Angeles Dodgers,1,2
+662747,2022-07-06,118,KC,Kansas City Royals,117,HOU,Houston Astros,7,4
+662814,2022-07-06,114,CLE,Cleveland Guardians,116,DET,Detroit Tigers,2,8
+663051,2022-07-06,121,NYM,New York Mets,113,CIN,Cincinnati Reds,8,3
+663244,2022-07-06,139,TB,Tampa Bay Rays,111,BOS,Boston Red Sox,7,1
+663318,2022-07-06,137,SF,San Francisco Giants,109,AZ,Arizona Diamondbacks,7,5
+661091,2022-07-07,108,LAA,Los Angeles Angels,110,BAL,Baltimore Orioles,1,4
+661425,2022-07-07,116,DET,Detroit Tigers,145,CWS,Chicago White Sox,2,1
+661521,2022-07-07,138,STL,St. Louis Cardinals,144,ATL,Atlanta Braves,3,2
+661566,2022-07-07,120,WSH,Washington Nationals,143,PHI,Philadelphia Phillies,3,5
+662156,2022-07-07,141,TOR,Toronto Blue Jays,136,SEA,Seattle Mariners,3,8
+662253,2022-07-07,137,SF,San Francisco Giants,135,SD,San Diego Padres,1,2
+662508,2022-07-07,146,MIA,Miami Marlins,121,NYM,New York Mets,0,10
+662730,2022-07-07,112,CHC,Chicago Cubs,119,LAD,Los Angeles Dodgers,3,5
+662746,2022-07-07,118,KC,Kansas City Royals,117,HOU,Houston Astros,2,5
+663071,2022-07-07,134,PIT,Pittsburgh Pirates,113,CIN,Cincinnati Reds,4,2
+663140,2022-07-07,134,PIT,Pittsburgh Pirates,113,CIN,Cincinnati Reds,1,5
+663233,2022-07-07,147,NYY,New York Yankees,111,BOS,Boston Red Sox,6,5
+663317,2022-07-07,115,COL,Colorado Rockies,109,AZ,Arizona Diamondbacks,4,3
+661108,2022-07-08,108,LAA,Los Angeles Angels,110,BAL,Baltimore Orioles,4,5
+661136,2022-07-08,143,PHI,Philadelphia Phillies,138,STL,St. Louis Cardinals,2,0
+661177,2022-07-08,134,PIT,Pittsburgh Pirates,158,MIL,Milwaukee Brewers,3,4
+661412,2022-07-08,116,DET,Detroit Tigers,145,CWS,Chicago White Sox,7,5
+661522,2022-07-08,120,WSH,Washington Nationals,144,ATL,Atlanta Braves,2,12
+661843,2022-07-08,142,MIN,Minnesota Twins,140,TEX,Texas Rangers,5,6
+662155,2022-07-08,141,TOR,Toronto Blue Jays,136,SEA,Seattle Mariners,2,5
+662225,2022-07-08,137,SF,San Francisco Giants,135,SD,San Diego Padres,3,6
+662352,2022-07-08,117,HOU,Houston Astros,133,OAK,Oakland Athletics,8,3
+662498,2022-07-08,146,MIA,Miami Marlins,121,NYM,New York Mets,5,2
+662610,2022-07-08,112,CHC,Chicago Cubs,119,LAD,Los Angeles Dodgers,3,4
+662614,2022-07-08,114,CLE,Cleveland Guardians,118,KC,Kansas City Royals,3,4
+663053,2022-07-08,139,TB,Tampa Bay Rays,113,CIN,Cincinnati Reds,1,2
+663202,2022-07-08,147,NYY,New York Yankees,111,BOS,Boston Red Sox,12,5
+663319,2022-07-08,115,COL,Colorado Rockies,109,AZ,Arizona Diamondbacks,6,5
+661071,2022-07-09,108,LAA,Los Angeles Angels,110,BAL,Baltimore Orioles,0,1
+661137,2022-07-09,143,PHI,Philadelphia Phillies,138,STL,St. Louis Cardinals,1,0
+661224,2022-07-09,134,PIT,Pittsburgh Pirates,158,MIL,Milwaukee Brewers,4,3
+661411,2022-07-09,116,DET,Detroit Tigers,145,CWS,Chicago White Sox,0,8
+661508,2022-07-09,120,WSH,Washington Nationals,144,ATL,Atlanta Braves,3,4
+661842,2022-07-09,142,MIN,Minnesota Twins,140,TEX,Texas Rangers,7,9
+662147,2022-07-09,141,TOR,Toronto Blue Jays,136,SEA,Seattle Mariners,1,2
+662266,2022-07-09,137,SF,San Francisco Giants,135,SD,San Diego Padres,3,1
+662351,2022-07-09,117,HOU,Houston Astros,133,OAK,Oakland Athletics,2,3
+662497,2022-07-09,146,MIA,Miami Marlins,121,NYM,New York Mets,4,5
+662663,2022-07-09,114,CLE,Cleveland Guardians,118,KC,Kansas City Royals,13,1
+662683,2022-07-09,112,CHC,Chicago Cubs,119,LAD,Los Angeles Dodgers,2,4
+663092,2022-07-09,139,TB,Tampa Bay Rays,113,CIN,Cincinnati Reds,4,5
+663223,2022-07-09,147,NYY,New York Yankees,111,BOS,Boston Red Sox,5,6
+663310,2022-07-09,115,COL,Colorado Rockies,109,AZ,Arizona Diamondbacks,2,9
+661092,2022-07-10,108,LAA,Los Angeles Angels,110,BAL,Baltimore Orioles,5,9
+661135,2022-07-10,143,PHI,Philadelphia Phillies,138,STL,St. Louis Cardinals,3,4
+661178,2022-07-10,134,PIT,Pittsburgh Pirates,158,MIL,Milwaukee Brewers,8,6
+661410,2022-07-10,116,DET,Detroit Tigers,145,CWS,Chicago White Sox,2,4
+661520,2022-07-10,120,WSH,Washington Nationals,144,ATL,Atlanta Braves,3,4
+661808,2022-07-10,142,MIN,Minnesota Twins,140,TEX,Texas Rangers,6,5
+662183,2022-07-10,141,TOR,Toronto Blue Jays,136,SEA,Seattle Mariners,5,6
+662198,2022-07-10,137,SF,San Francisco Giants,135,SD,San Diego Padres,12,0
+662215,2022-07-10,117,HOU,Houston Astros,133,OAK,Oakland Athletics,6,1
+662496,2022-07-10,146,MIA,Miami Marlins,121,NYM,New York Mets,2,0
+662662,2022-07-10,114,CLE,Cleveland Guardians,118,KC,Kansas City Royals,1,5
+662729,2022-07-10,112,CHC,Chicago Cubs,119,LAD,Los Angeles Dodgers,9,11
+663048,2022-07-10,139,TB,Tampa Bay Rays,113,CIN,Cincinnati Reds,5,10
+663232,2022-07-10,147,NYY,New York Yankees,111,BOS,Boston Red Sox,6,11
+663307,2022-07-10,115,COL,Colorado Rockies,109,AZ,Arizona Diamondbacks,3,2
+661120,2022-07-11,143,PHI,Philadelphia Phillies,138,STL,St. Louis Cardinals,1,6
+661324,2022-07-11,134,PIT,Pittsburgh Pirates,146,MIA,Miami Marlins,5,1
+661507,2022-07-11,121,NYM,New York Mets,144,ATL,Atlanta Braves,4,1
+661814,2022-07-11,133,OAK,Oakland Athletics,140,TEX,Texas Rangers,8,10
+661878,2022-07-11,111,BOS,Boston Red Sox,139,TB,Tampa Bay Rays,5,10
+662100,2022-07-11,109,AZ,Arizona Diamondbacks,137,SF,San Francisco Giants,4,3
+662661,2022-07-11,116,DET,Detroit Tigers,118,KC,Kansas City Royals,3,7
+662700,2022-07-11,116,DET,Detroit Tigers,118,KC,Kansas City Royals,1,3
+662956,2022-07-11,145,CWS,Chicago White Sox,114,CLE,Cleveland Guardians,4,8
+662996,2022-07-11,135,SD,San Diego Padres,115,COL,Colorado Rockies,6,5
+661119,2022-07-12,119,LAD,Los Angeles Dodgers,138,STL,St. Louis Cardinals,6,7
+661262,2022-07-12,113,CIN,Cincinnati Reds,147,NYY,New York Yankees,4,3
+661377,2022-07-12,134,PIT,Pittsburgh Pirates,146,MIA,Miami Marlins,3,2
+661506,2022-07-12,121,NYM,New York Mets,144,ATL,Atlanta Braves,1,4
+661688,2022-07-12,158,MIL,Milwaukee Brewers,142,MIN,Minnesota Twins,6,3
+661722,2022-07-12,143,PHI,Philadelphia Phillies,141,TOR,Toronto Blue Jays,3,4
+661813,2022-07-12,133,OAK,Oakland Athletics,140,TEX,Texas Rangers,14,7
+661877,2022-07-12,111,BOS,Boston Red Sox,139,TB,Tampa Bay Rays,2,3
+662108,2022-07-12,109,AZ,Arizona Diamondbacks,137,SF,San Francisco Giants,0,13
+662660,2022-07-12,116,DET,Detroit Tigers,118,KC,Kansas City Royals,7,5
+662976,2022-07-12,145,CWS,Chicago White Sox,114,CLE,Cleveland Guardians,7,0
+662984,2022-07-12,135,SD,San Diego Padres,115,COL,Colorado Rockies,3,5
+663087,2022-07-12,145,CWS,Chicago White Sox,114,CLE,Cleveland Guardians,1,4
+663187,2022-07-12,110,BAL,Baltimore Orioles,112,CHC,Chicago Cubs,4,2
+663402,2022-07-12,117,HOU,Houston Astros,108,LAA,Los Angeles Angels,6,5
+661118,2022-07-13,119,LAD,Los Angeles Dodgers,138,STL,St. Louis Cardinals,7,6
+661269,2022-07-13,113,CIN,Cincinnati Reds,147,NYY,New York Yankees,6,7
+661376,2022-07-13,134,PIT,Pittsburgh Pirates,146,MIA,Miami Marlins,4,5
+661505,2022-07-13,121,NYM,New York Mets,144,ATL,Atlanta Braves,7,3
+661687,2022-07-13,158,MIL,Milwaukee Brewers,142,MIN,Minnesota Twins,1,4
+661721,2022-07-13,143,PHI,Philadelphia Phillies,141,TOR,Toronto Blue Jays,2,8
+661812,2022-07-13,133,OAK,Oakland Athletics,140,TEX,Texas Rangers,2,5
+661876,2022-07-13,111,BOS,Boston Red Sox,139,TB,Tampa Bay Rays,1,4
+662107,2022-07-13,109,AZ,Arizona Diamondbacks,137,SF,San Francisco Giants,3,4
+662517,2022-07-13,136,SEA,Seattle Mariners,120,WSH,Washington Nationals,6,4
+662531,2022-07-13,136,SEA,Seattle Mariners,120,WSH,Washington Nationals,2,1
+662659,2022-07-13,116,DET,Detroit Tigers,118,KC,Kansas City Royals,2,5
+662895,2022-07-13,135,SD,San Diego Padres,115,COL,Colorado Rockies,6,10
+662949,2022-07-13,145,CWS,Chicago White Sox,114,CLE,Cleveland Guardians,2,1
+663230,2022-07-13,110,BAL,Baltimore Orioles,112,CHC,Chicago Cubs,7,1
+663401,2022-07-13,117,HOU,Houston Astros,108,LAA,Los Angeles Angels,1,7
+661100,2022-07-14,135,SD,San Diego Padres,115,COL,Colorado Rockies,5,8
+661101,2022-07-14,121,NYM,New York Mets,112,CHC,Chicago Cubs,8,0
+661117,2022-07-14,119,LAD,Los Angeles Dodgers,138,STL,St. Louis Cardinals,4,0
+661261,2022-07-14,113,CIN,Cincinnati Reds,147,NYY,New York Yankees,7,6
+661375,2022-07-14,134,PIT,Pittsburgh Pirates,146,MIA,Miami Marlins,2,3
+661675,2022-07-14,145,CWS,Chicago White Sox,142,MIN,Minnesota Twins,12,2
+661720,2022-07-14,118,KC,Kansas City Royals,141,TOR,Toronto Blue Jays,3,1
+661811,2022-07-14,136,SEA,Seattle Mariners,140,TEX,Texas Rangers,6,5
+661875,2022-07-14,111,BOS,Boston Red Sox,139,TB,Tampa Bay Rays,4,5
+662109,2022-07-14,158,MIL,Milwaukee Brewers,137,SF,San Francisco Giants,3,2
+662518,2022-07-14,144,ATL,Atlanta Braves,120,WSH,Washington Nationals,5,4
+663123,2022-07-14,116,DET,Detroit Tigers,114,CLE,Cleveland Guardians,0,4
+663386,2022-07-14,117,HOU,Houston Astros,108,LAA,Los Angeles Angels,3,2
+661113,2022-07-15,134,PIT,Pittsburgh Pirates,115,COL,Colorado Rockies,2,13
+661116,2022-07-15,113,CIN,Cincinnati Reds,138,STL,St. Louis Cardinals,3,7
+661260,2022-07-15,111,BOS,Boston Red Sox,147,NYY,New York Yankees,5,4
+661374,2022-07-15,143,PHI,Philadelphia Phillies,146,MIA,Miami Marlins,2,1
+661674,2022-07-15,145,CWS,Chicago White Sox,142,MIN,Minnesota Twins,6,2
+661719,2022-07-15,118,KC,Kansas City Royals,141,TOR,Toronto Blue Jays,1,8
+661810,2022-07-15,136,SEA,Seattle Mariners,140,TEX,Texas Rangers,8,3
+661874,2022-07-15,110,BAL,Baltimore Orioles,139,TB,Tampa Bay Rays,4,5
+662072,2022-07-15,158,MIL,Milwaukee Brewers,137,SF,San Francisco Giants,5,8
+662197,2022-07-15,109,AZ,Arizona Diamondbacks,135,SD,San Diego Padres,3,5
+662516,2022-07-15,144,ATL,Atlanta Braves,120,WSH,Washington Nationals,8,4
+662923,2022-07-15,133,OAK,Oakland Athletics,117,HOU,Houston Astros,5,1
+662942,2022-07-15,116,DET,Detroit Tigers,114,CLE,Cleveland Guardians,5,6
+663385,2022-07-15,119,LAD,Los Angeles Dodgers,108,LAA,Los Angeles Angels,9,1
+661081,2022-07-16,134,PIT,Pittsburgh Pirates,115,COL,Colorado Rockies,0,2
+661114,2022-07-16,121,NYM,New York Mets,112,CHC,Chicago Cubs,2,1
+661115,2022-07-16,121,NYM,New York Mets,112,CHC,Chicago Cubs,4,3
+661259,2022-07-16,111,BOS,Boston Red Sox,147,NYY,New York Yankees,1,14
+661359,2022-07-16,143,PHI,Philadelphia Phillies,146,MIA,Miami Marlins,10,0
+661673,2022-07-16,145,CWS,Chicago White Sox,142,MIN,Minnesota Twins,3,6
+661718,2022-07-16,118,KC,Kansas City Royals,141,TOR,Toronto Blue Jays,5,6
+661809,2022-07-16,136,SEA,Seattle Mariners,140,TEX,Texas Rangers,3,2
+661873,2022-07-16,110,BAL,Baltimore Orioles,139,TB,Tampa Bay Rays,6,4
+661966,2022-07-16,113,CIN,Cincinnati Reds,138,STL,St. Louis Cardinals,3,11
+662113,2022-07-16,158,MIL,Milwaukee Brewers,137,SF,San Francisco Giants,1,2
+662271,2022-07-16,109,AZ,Arizona Diamondbacks,135,SD,San Diego Padres,3,4
+662483,2022-07-16,144,ATL,Atlanta Braves,120,WSH,Washington Nationals,6,3
+662909,2022-07-16,133,OAK,Oakland Athletics,117,HOU,Houston Astros,0,5
+662952,2022-07-16,116,DET,Detroit Tigers,114,CLE,Cleveland Guardians,0,10
+663415,2022-07-16,119,LAD,Los Angeles Dodgers,108,LAA,Los Angeles Angels,7,1
+661080,2022-07-17,134,PIT,Pittsburgh Pirates,115,COL,Colorado Rockies,8,3
+661082,2022-07-17,121,NYM,New York Mets,112,CHC,Chicago Cubs,2,3
+661258,2022-07-17,111,BOS,Boston Red Sox,147,NYY,New York Yankees,2,13
+661373,2022-07-17,143,PHI,Philadelphia Phillies,146,MIA,Miami Marlins,4,0
+661672,2022-07-17,145,CWS,Chicago White Sox,142,MIN,Minnesota Twins,11,0
+661717,2022-07-17,118,KC,Kansas City Royals,141,TOR,Toronto Blue Jays,2,4
+661821,2022-07-17,136,SEA,Seattle Mariners,140,TEX,Texas Rangers,6,2
+661872,2022-07-17,110,BAL,Baltimore Orioles,139,TB,Tampa Bay Rays,5,7
+662059,2022-07-17,158,MIL,Milwaukee Brewers,137,SF,San Francisco Giants,5,9
+662269,2022-07-17,109,AZ,Arizona Diamondbacks,135,SD,San Diego Padres,3,1
+662530,2022-07-17,144,ATL,Atlanta Braves,120,WSH,Washington Nationals,3,7
+662908,2022-07-17,133,OAK,Oakland Athletics,117,HOU,Houston Astros,4,3
+661421,2022-07-21,140,TEX,Texas Rangers,146,MIA,Miami Marlins,8,0
+662408,2022-07-21,116,DET,Detroit Tigers,133,OAK,Oakland Athletics,0,5
+662411,2022-07-21,116,DET,Detroit Tigers,133,OAK,Oakland Athletics,7,2
+662685,2022-07-21,137,SF,San Francisco Giants,119,LAD,Los Angeles Dodgers,6,9
+662775,2022-07-21,147,NYY,New York Yankees,117,HOU,Houston Astros,5,7
+662776,2022-07-21,147,NYY,New York Yankees,117,HOU,Houston Astros,2,3
+661072,2022-07-22,147,NYY,New York Yankees,110,BAL,Baltimore Orioles,7,6
+661193,2022-07-22,115,COL,Colorado Rockies,158,MIL,Milwaukee Brewers,5,6
+661409,2022-07-22,114,CLE,Cleveland Guardians,145,CWS,Chicago White Sox,8,2
+661504,2022-07-22,108,LAA,Los Angeles Angels,144,ATL,Atlanta Braves,1,8
+661560,2022-07-22,112,CHC,Chicago Cubs,143,PHI,Philadelphia Phillies,15,2
+662167,2022-07-22,117,HOU,Houston Astros,136,SEA,Seattle Mariners,5,2
+662327,2022-07-22,146,MIA,Miami Marlins,134,PIT,Pittsburgh Pirates,8,1
+662344,2022-07-22,140,TEX,Texas Rangers,133,OAK,Oakland Athletics,4,5
+662481,2022-07-22,135,SD,San Diego Padres,121,NYM,New York Mets,4,1
+662589,2022-07-22,137,SF,San Francisco Giants,119,LAD,Los Angeles Dodgers,1,5
+662658,2022-07-22,139,TB,Tampa Bay Rays,118,KC,Kansas City Royals,7,3
+663060,2022-07-22,138,STL,St. Louis Cardinals,113,CIN,Cincinnati Reds,5,9
+663222,2022-07-22,141,TOR,Toronto Blue Jays,111,BOS,Boston Red Sox,28,5
+663306,2022-07-22,120,WSH,Washington Nationals,109,AZ,Arizona Diamondbacks,1,10
+661057,2022-07-23,147,NYY,New York Yankees,110,BAL,Baltimore Orioles,3,6
+661201,2022-07-23,115,COL,Colorado Rockies,158,MIL,Milwaukee Brewers,4,9
+661408,2022-07-23,114,CLE,Cleveland Guardians,145,CWS,Chicago White Sox,4,5
+661503,2022-07-23,108,LAA,Los Angeles Angels,144,ATL,Atlanta Braves,2,7
+661523,2022-07-23,114,CLE,Cleveland Guardians,145,CWS,Chicago White Sox,7,4
+661559,2022-07-23,112,CHC,Chicago Cubs,143,PHI,Philadelphia Phillies,6,2
+662146,2022-07-23,117,HOU,Houston Astros,136,SEA,Seattle Mariners,3,1
+662348,2022-07-23,140,TEX,Texas Rangers,133,OAK,Oakland Athletics,1,3
+662436,2022-07-23,146,MIA,Miami Marlins,134,PIT,Pittsburgh Pirates,0,1
+662495,2022-07-23,135,SD,San Diego Padres,121,NYM,New York Mets,2,1
+662608,2022-07-23,137,SF,San Francisco Giants,119,LAD,Los Angeles Dodgers,2,4
+662657,2022-07-23,139,TB,Tampa Bay Rays,118,KC,Kansas City Royals,3,6
+662902,2022-07-23,142,MIN,Minnesota Twins,116,DET,Detroit Tigers,8,4
+663047,2022-07-23,138,STL,St. Louis Cardinals,113,CIN,Cincinnati Reds,6,3
+663221,2022-07-23,141,TOR,Toronto Blue Jays,111,BOS,Boston Red Sox,4,1
+663305,2022-07-23,120,WSH,Washington Nationals,109,AZ,Arizona Diamondbacks,2,7
+661056,2022-07-24,147,NYY,New York Yankees,110,BAL,Baltimore Orioles,6,0
+661184,2022-07-24,115,COL,Colorado Rockies,158,MIL,Milwaukee Brewers,9,10
+661407,2022-07-24,114,CLE,Cleveland Guardians,145,CWS,Chicago White Sox,3,6
+661502,2022-07-24,108,LAA,Los Angeles Angels,144,ATL,Atlanta Braves,9,1
+661556,2022-07-24,112,CHC,Chicago Cubs,143,PHI,Philadelphia Phillies,4,3
+662145,2022-07-24,117,HOU,Houston Astros,136,SEA,Seattle Mariners,8,5
+662343,2022-07-24,140,TEX,Texas Rangers,133,OAK,Oakland Athletics,11,8
+662357,2022-07-24,146,MIA,Miami Marlins,134,PIT,Pittsburgh Pirates,6,5
+662458,2022-07-24,135,SD,San Diego Padres,121,NYM,New York Mets,5,8
+662656,2022-07-24,139,TB,Tampa Bay Rays,118,KC,Kansas City Royals,2,4
+662682,2022-07-24,137,SF,San Francisco Giants,119,LAD,Los Angeles Dodgers,4,7
+662901,2022-07-24,142,MIN,Minnesota Twins,116,DET,Detroit Tigers,9,1
+663059,2022-07-24,138,STL,St. Louis Cardinals,113,CIN,Cincinnati Reds,3,6
+663220,2022-07-24,141,TOR,Toronto Blue Jays,111,BOS,Boston Red Sox,8,4
+663316,2022-07-24,120,WSH,Washington Nationals,109,AZ,Arizona Diamondbacks,4,3
+661055,2022-07-25,139,TB,Tampa Bay Rays,110,BAL,Baltimore Orioles,1,5
+661065,2022-07-25,134,PIT,Pittsburgh Pirates,112,CHC,Chicago Cubs,2,3
+661231,2022-07-25,115,COL,Colorado Rockies,158,MIL,Milwaukee Brewers,2,0
+661555,2022-07-25,144,ATL,Atlanta Braves,143,PHI,Philadelphia Phillies,4,6
+662166,2022-07-25,140,TEX,Texas Rangers,136,SEA,Seattle Mariners,3,4
+662347,2022-07-25,117,HOU,Houston Astros,133,OAK,Oakland Athletics,5,7
+662576,2022-07-25,120,WSH,Washington Nationals,119,LAD,Los Angeles Dodgers,4,1
+662655,2022-07-25,108,LAA,Los Angeles Angels,118,KC,Kansas City Royals,0,7
+662809,2022-07-25,135,SD,San Diego Padres,116,DET,Detroit Tigers,4,12
+663046,2022-07-25,146,MIA,Miami Marlins,113,CIN,Cincinnati Reds,2,11
+663219,2022-07-25,114,CLE,Cleveland Guardians,111,BOS,Boston Red Sox,1,3
+663315,2022-07-25,137,SF,San Francisco Giants,109,AZ,Arizona Diamondbacks,0,7
+661054,2022-07-26,139,TB,Tampa Bay Rays,110,BAL,Baltimore Orioles,3,5
+661064,2022-07-26,134,PIT,Pittsburgh Pirates,112,CHC,Chicago Cubs,2,4
+661079,2022-07-26,145,CWS,Chicago White Sox,115,COL,Colorado Rockies,2,1
+661281,2022-07-26,142,MIN,Minnesota Twins,158,MIL,Milwaukee Brewers,6,7
+661563,2022-07-26,144,ATL,Atlanta Braves,143,PHI,Philadelphia Phillies,6,3
+661716,2022-07-26,138,STL,St. Louis Cardinals,141,TOR,Toronto Blue Jays,3,10
+662184,2022-07-26,140,TEX,Texas Rangers,136,SEA,Seattle Mariners,4,5
+662346,2022-07-26,117,HOU,Houston Astros,133,OAK,Oakland Athletics,3,5
+662438,2022-07-26,147,NYY,New York Yankees,121,NYM,New York Mets,3,6
+662573,2022-07-26,120,WSH,Washington Nationals,119,LAD,Los Angeles Dodgers,8,3
+662653,2022-07-26,108,LAA,Los Angeles Angels,118,KC,Kansas City Royals,6,0
+662813,2022-07-26,135,SD,San Diego Padres,116,DET,Detroit Tigers,6,4
+663029,2022-07-26,146,MIA,Miami Marlins,113,CIN,Cincinnati Reds,2,1
+663203,2022-07-26,114,CLE,Cleveland Guardians,111,BOS,Boston Red Sox,8,3
+663314,2022-07-26,137,SF,San Francisco Giants,109,AZ,Arizona Diamondbacks,3,7
+661053,2022-07-27,139,TB,Tampa Bay Rays,110,BAL,Baltimore Orioles,6,4
+661078,2022-07-27,145,CWS,Chicago White Sox,115,COL,Colorado Rockies,5,6
+661249,2022-07-27,142,MIN,Minnesota Twins,158,MIL,Milwaukee Brewers,4,10
+661554,2022-07-27,144,ATL,Atlanta Braves,143,PHI,Philadelphia Phillies,2,7
+661715,2022-07-27,138,STL,St. Louis Cardinals,141,TOR,Toronto Blue Jays,6,1
+662165,2022-07-27,140,TEX,Texas Rangers,136,SEA,Seattle Mariners,2,4
+662345,2022-07-27,117,HOU,Houston Astros,133,OAK,Oakland Athletics,2,4
+662420,2022-07-27,147,NYY,New York Yankees,121,NYM,New York Mets,2,3
+662565,2022-07-27,120,WSH,Washington Nationals,119,LAD,Los Angeles Dodgers,1,7
+662652,2022-07-27,108,LAA,Los Angeles Angels,118,KC,Kansas City Royals,4,0
+662900,2022-07-27,135,SD,San Diego Padres,116,DET,Detroit Tigers,3,4
+663028,2022-07-27,146,MIA,Miami Marlins,113,CIN,Cincinnati Reds,3,5
+663191,2022-07-27,114,CLE,Cleveland Guardians,111,BOS,Boston Red Sox,7,6
+663294,2022-07-27,137,SF,San Francisco Giants,109,AZ,Arizona Diamondbacks,3,5
+661052,2022-07-28,139,TB,Tampa Bay Rays,110,BAL,Baltimore Orioles,0,3
+661077,2022-07-28,119,LAD,Los Angeles Dodgers,115,COL,Colorado Rockies,13,0
+661257,2022-07-28,118,KC,Kansas City Royals,147,NYY,New York Yankees,0,1
+661714,2022-07-28,116,DET,Detroit Tigers,141,TOR,Toronto Blue Jays,3,5
+662058,2022-07-28,112,CHC,Chicago Cubs,137,SF,San Francisco Giants,2,4
+662326,2022-07-28,143,PHI,Philadelphia Phillies,134,PIT,Pittsburgh Pirates,8,7
+662907,2022-07-28,136,SEA,Seattle Mariners,117,HOU,Houston Astros,2,4
+663027,2022-07-28,146,MIA,Miami Marlins,113,CIN,Cincinnati Reds,7,6
+663200,2022-07-28,114,CLE,Cleveland Guardians,111,BOS,Boston Red Sox,2,4
+663380,2022-07-28,140,TEX,Texas Rangers,108,LAA,Los Angeles Angels,2,0
+661076,2022-07-29,119,LAD,Los Angeles Dodgers,115,COL,Colorado Rockies,5,4
+661256,2022-07-29,118,KC,Kansas City Royals,147,NYY,New York Yankees,5,11
+661372,2022-07-29,121,NYM,New York Mets,146,MIA,Miami Marlins,6,4
+661406,2022-07-29,133,OAK,Oakland Athletics,145,CWS,Chicago White Sox,7,3
+661501,2022-07-29,109,AZ,Arizona Diamondbacks,144,ATL,Atlanta Braves,2,5
+661713,2022-07-29,116,DET,Detroit Tigers,141,TOR,Toronto Blue Jays,4,2
+661871,2022-07-29,114,CLE,Cleveland Guardians,139,TB,Tampa Bay Rays,4,1
+662057,2022-07-29,112,CHC,Chicago Cubs,137,SF,San Francisco Giants,4,2
+662268,2022-07-29,142,MIN,Minnesota Twins,135,SD,San Diego Padres,1,10
+662435,2022-07-29,143,PHI,Philadelphia Phillies,134,PIT,Pittsburgh Pirates,4,2
+662477,2022-07-29,138,STL,St. Louis Cardinals,120,WSH,Washington Nationals,6,2
+662745,2022-07-29,136,SEA,Seattle Mariners,117,HOU,Houston Astros,1,11
+663026,2022-07-29,110,BAL,Baltimore Orioles,113,CIN,Cincinnati Reds,6,2
+663190,2022-07-29,158,MIL,Milwaukee Brewers,111,BOS,Boston Red Sox,4,1
+663379,2022-07-29,140,TEX,Texas Rangers,108,LAA,Los Angeles Angels,7,2
+661255,2022-07-30,118,KC,Kansas City Royals,147,NYY,New York Yankees,2,8
+661371,2022-07-30,121,NYM,New York Mets,146,MIA,Miami Marlins,4,0
+661451,2022-07-30,133,OAK,Oakland Athletics,145,CWS,Chicago White Sox,2,3
+661499,2022-07-30,109,AZ,Arizona Diamondbacks,144,ATL,Atlanta Braves,2,6
+661712,2022-07-30,116,DET,Detroit Tigers,141,TOR,Toronto Blue Jays,3,5
+661870,2022-07-30,114,CLE,Cleveland Guardians,139,TB,Tampa Bay Rays,4,6
+662112,2022-07-30,112,CHC,Chicago Cubs,137,SF,San Francisco Giants,4,5
+662196,2022-07-30,142,MIN,Minnesota Twins,135,SD,San Diego Padres,7,4
+662415,2022-07-30,143,PHI,Philadelphia Phillies,134,PIT,Pittsburgh Pirates,2,1
+662476,2022-07-30,138,STL,St. Louis Cardinals,120,WSH,Washington Nationals,6,7
+662738,2022-07-30,136,SEA,Seattle Mariners,117,HOU,Houston Astros,5,4
+662989,2022-07-30,119,LAD,Los Angeles Dodgers,115,COL,Colorado Rockies,3,5
+663025,2022-07-30,110,BAL,Baltimore Orioles,113,CIN,Cincinnati Reds,2,8
+663192,2022-07-30,158,MIL,Milwaukee Brewers,111,BOS,Boston Red Sox,9,4
+663378,2022-07-30,140,TEX,Texas Rangers,108,LAA,Los Angeles Angels,7,9
+661254,2022-07-31,118,KC,Kansas City Royals,147,NYY,New York Yankees,8,6
+661370,2022-07-31,121,NYM,New York Mets,146,MIA,Miami Marlins,9,3
+661388,2022-07-31,133,OAK,Oakland Athletics,145,CWS,Chicago White Sox,1,4
+661498,2022-07-31,109,AZ,Arizona Diamondbacks,144,ATL,Atlanta Braves,0,1
+661711,2022-07-31,116,DET,Detroit Tigers,141,TOR,Toronto Blue Jays,1,4
+661869,2022-07-31,114,CLE,Cleveland Guardians,139,TB,Tampa Bay Rays,5,3
+662071,2022-07-31,112,CHC,Chicago Cubs,137,SF,San Francisco Giants,0,4
+662267,2022-07-31,142,MIN,Minnesota Twins,135,SD,San Diego Padres,2,3
+662414,2022-07-31,143,PHI,Philadelphia Phillies,134,PIT,Pittsburgh Pirates,8,2
+662475,2022-07-31,138,STL,St. Louis Cardinals,120,WSH,Washington Nationals,5,0
+662918,2022-07-31,136,SEA,Seattle Mariners,117,HOU,Houston Astros,2,3
+662988,2022-07-31,119,LAD,Los Angeles Dodgers,115,COL,Colorado Rockies,7,3
+663024,2022-07-31,110,BAL,Baltimore Orioles,113,CIN,Cincinnati Reds,2,3
+663189,2022-07-31,158,MIL,Milwaukee Brewers,111,BOS,Boston Red Sox,2,7
+663377,2022-07-31,140,TEX,Texas Rangers,108,LAA,Los Angeles Angels,5,2
+661268,2022-08-01,136,SEA,Seattle Mariners,147,NYY,New York Yankees,2,7
+661369,2022-08-01,113,CIN,Cincinnati Reds,146,MIA,Miami Marlins,3,1
+661387,2022-08-01,118,KC,Kansas City Royals,145,CWS,Chicago White Sox,2,1
+661671,2022-08-01,116,DET,Detroit Tigers,142,MIN,Minnesota Twins,3,5
+661820,2022-08-01,110,BAL,Baltimore Orioles,140,TEX,Texas Rangers,7,2
+662070,2022-08-01,119,LAD,Los Angeles Dodgers,137,SF,San Francisco Giants,8,2
+662224,2022-08-01,115,COL,Colorado Rockies,135,SD,San Diego Padres,1,4
+662474,2022-08-01,121,NYM,New York Mets,120,WSH,Washington Nationals,7,3
+662737,2022-08-01,111,BOS,Boston Red Sox,117,HOU,Houston Astros,3,2
+662947,2022-08-01,109,AZ,Arizona Diamondbacks,114,CLE,Cleveland Guardians,5,6
+661253,2022-08-02,136,SEA,Seattle Mariners,147,NYY,New York Yankees,8,6
+661368,2022-08-02,113,CIN,Cincinnati Reds,146,MIA,Miami Marlins,2,1
+661386,2022-08-02,118,KC,Kansas City Royals,145,CWS,Chicago White Sox,2,9
+661496,2022-08-02,143,PHI,Philadelphia Phillies,144,ATL,Atlanta Braves,1,13
+661661,2022-08-02,116,DET,Detroit Tigers,142,MIN,Minnesota Twins,5,3
+661819,2022-08-02,110,BAL,Baltimore Orioles,140,TEX,Texas Rangers,8,2
+661868,2022-08-02,141,TOR,Toronto Blue Jays,139,TB,Tampa Bay Rays,3,1
+661959,2022-08-02,112,CHC,Chicago Cubs,138,STL,St. Louis Cardinals,0,6
+662056,2022-08-02,119,LAD,Los Angeles Dodgers,137,SF,San Francisco Giants,9,5
+662220,2022-08-02,115,COL,Colorado Rockies,135,SD,San Diego Padres,2,3
+662250,2022-08-02,115,COL,Colorado Rockies,135,SD,San Diego Padres,5,13
+662298,2022-08-02,158,MIL,Milwaukee Brewers,134,PIT,Pittsburgh Pirates,3,5
+662529,2022-08-02,121,NYM,New York Mets,120,WSH,Washington Nationals,1,5
+662736,2022-08-02,111,BOS,Boston Red Sox,117,HOU,Houston Astros,2,1
+662941,2022-08-02,109,AZ,Arizona Diamondbacks,114,CLE,Cleveland Guardians,6,3
+663376,2022-08-02,133,OAK,Oakland Athletics,108,LAA,Los Angeles Angels,1,3
+661293,2022-08-03,136,SEA,Seattle Mariners,147,NYY,New York Yankees,7,3
+661367,2022-08-03,113,CIN,Cincinnati Reds,146,MIA,Miami Marlins,0,3
+661385,2022-08-03,118,KC,Kansas City Royals,145,CWS,Chicago White Sox,1,4
+661500,2022-08-03,143,PHI,Philadelphia Phillies,144,ATL,Atlanta Braves,3,1
+661664,2022-08-03,116,DET,Detroit Tigers,142,MIN,Minnesota Twins,1,4
+661818,2022-08-03,110,BAL,Baltimore Orioles,140,TEX,Texas Rangers,6,3
+661867,2022-08-03,141,TOR,Toronto Blue Jays,139,TB,Tampa Bay Rays,2,3
+662055,2022-08-03,119,LAD,Los Angeles Dodgers,137,SF,San Francisco Giants,3,0
+662244,2022-08-03,115,COL,Colorado Rockies,135,SD,San Diego Padres,1,9
+662324,2022-08-03,158,MIL,Milwaukee Brewers,134,PIT,Pittsburgh Pirates,7,8
+662552,2022-08-03,121,NYM,New York Mets,120,WSH,Washington Nationals,9,5
+662725,2022-08-03,111,BOS,Boston Red Sox,117,HOU,Houston Astros,1,6
+662946,2022-08-03,109,AZ,Arizona Diamondbacks,114,CLE,Cleveland Guardians,4,7
+663375,2022-08-03,133,OAK,Oakland Athletics,108,LAA,Los Angeles Angels,3,1
+661565,2022-08-04,120,WSH,Washington Nationals,143,PHI,Philadelphia Phillies,4,5
+661660,2022-08-04,141,TOR,Toronto Blue Jays,142,MIN,Minnesota Twins,9,3
+661817,2022-08-04,145,CWS,Chicago White Sox,140,TEX,Texas Rangers,2,3
+661932,2022-08-04,112,CHC,Chicago Cubs,138,STL,St. Louis Cardinals,2,7
+661945,2022-08-04,112,CHC,Chicago Cubs,138,STL,St. Louis Cardinals,3,4
+662114,2022-08-04,119,LAD,Los Angeles Dodgers,137,SF,San Francisco Giants,5,3
+662219,2022-08-04,115,COL,Colorado Rockies,135,SD,San Diego Padres,7,3
+662303,2022-08-04,158,MIL,Milwaukee Brewers,134,PIT,Pittsburgh Pirates,4,5
+662419,2022-08-04,144,ATL,Atlanta Braves,121,NYM,New York Mets,4,6
+662651,2022-08-04,111,BOS,Boston Red Sox,118,KC,Kansas City Royals,3,7
+662812,2022-08-04,139,TB,Tampa Bay Rays,116,DET,Detroit Tigers,6,2
+662975,2022-08-04,117,HOU,Houston Astros,114,CLE,Cleveland Guardians,6,0
+663374,2022-08-04,133,OAK,Oakland Athletics,108,LAA,Los Angeles Angels,8,7
+661048,2022-08-05,134,PIT,Pittsburgh Pirates,110,BAL,Baltimore Orioles,0,1
+661063,2022-08-05,146,MIA,Miami Marlins,112,CHC,Chicago Cubs,1,2
+661174,2022-08-05,113,CIN,Cincinnati Reds,158,MIL,Milwaukee Brewers,1,5
+661562,2022-08-05,120,WSH,Washington Nationals,143,PHI,Philadelphia Phillies,2,7
+661659,2022-08-05,141,TOR,Toronto Blue Jays,142,MIN,Minnesota Twins,5,6
+661816,2022-08-05,145,CWS,Chicago White Sox,140,TEX,Texas Rangers,2,1
+661946,2022-08-05,147,NYY,New York Yankees,138,STL,St. Louis Cardinals,3,4
+662164,2022-08-05,108,LAA,Los Angeles Angels,136,SEA,Seattle Mariners,4,3
+662418,2022-08-05,144,ATL,Atlanta Braves,121,NYM,New York Mets,9,6
+662564,2022-08-05,135,SD,San Diego Padres,119,LAD,Los Angeles Dodgers,1,8
+662650,2022-08-05,111,BOS,Boston Red Sox,118,KC,Kansas City Royals,7,4
+662811,2022-08-05,139,TB,Tampa Bay Rays,116,DET,Detroit Tigers,5,3
+662945,2022-08-05,117,HOU,Houston Astros,114,CLE,Cleveland Guardians,9,3
+663313,2022-08-05,115,COL,Colorado Rockies,109,AZ,Arizona Diamondbacks,5,6
+661050,2022-08-06,134,PIT,Pittsburgh Pirates,110,BAL,Baltimore Orioles,3,6
+661062,2022-08-06,146,MIA,Miami Marlins,112,CHC,Chicago Cubs,0,4
+661173,2022-08-06,113,CIN,Cincinnati Reds,158,MIL,Milwaukee Brewers,7,5
+661561,2022-08-06,120,WSH,Washington Nationals,143,PHI,Philadelphia Phillies,5,11
+661662,2022-08-06,141,TOR,Toronto Blue Jays,142,MIN,Minnesota Twins,3,7
+661815,2022-08-06,145,CWS,Chicago White Sox,140,TEX,Texas Rangers,0,8
+661949,2022-08-06,147,NYY,New York Yankees,138,STL,St. Louis Cardinals,0,1
+662154,2022-08-06,108,LAA,Los Angeles Angels,136,SEA,Seattle Mariners,1,2
+662193,2022-08-06,108,LAA,Los Angeles Angels,136,SEA,Seattle Mariners,7,1
+662308,2022-08-06,137,SF,San Francisco Giants,133,OAK,Oakland Athletics,7,3
+662417,2022-08-06,144,ATL,Atlanta Braves,121,NYM,New York Mets,2,6
+662499,2022-08-06,144,ATL,Atlanta Braves,121,NYM,New York Mets,5,8
+662649,2022-08-06,111,BOS,Boston Red Sox,118,KC,Kansas City Royals,4,5
+662654,2022-08-06,135,SD,San Diego Padres,119,LAD,Los Angeles Dodgers,3,8
+662856,2022-08-06,139,TB,Tampa Bay Rays,116,DET,Detroit Tigers,1,9
+662937,2022-08-06,117,HOU,Houston Astros,114,CLE,Cleveland Guardians,1,4
+663288,2022-08-06,115,COL,Colorado Rockies,109,AZ,Arizona Diamondbacks,3,2
+661049,2022-08-07,134,PIT,Pittsburgh Pirates,110,BAL,Baltimore Orioles,8,1
+661061,2022-08-07,146,MIA,Miami Marlins,112,CHC,Chicago Cubs,3,0
+661172,2022-08-07,113,CIN,Cincinnati Reds,158,MIL,Milwaukee Brewers,4,2
+661558,2022-08-07,120,WSH,Washington Nationals,143,PHI,Philadelphia Phillies,1,13
+661653,2022-08-07,141,TOR,Toronto Blue Jays,142,MIN,Minnesota Twins,3,2
+661835,2022-08-07,145,CWS,Chicago White Sox,140,TEX,Texas Rangers,8,2
+661948,2022-08-07,147,NYY,New York Yankees,138,STL,St. Louis Cardinals,9,12
+662153,2022-08-07,108,LAA,Los Angeles Angels,136,SEA,Seattle Mariners,3,6
+662332,2022-08-07,137,SF,San Francisco Giants,133,OAK,Oakland Athletics,6,4
+662416,2022-08-07,144,ATL,Atlanta Braves,121,NYM,New York Mets,2,5
+662563,2022-08-07,135,SD,San Diego Padres,119,LAD,Los Angeles Dodgers,0,4
+662648,2022-08-07,111,BOS,Boston Red Sox,118,KC,Kansas City Royals,5,13
+662810,2022-08-07,139,TB,Tampa Bay Rays,116,DET,Detroit Tigers,7,0
+662944,2022-08-07,117,HOU,Houston Astros,114,CLE,Cleveland Guardians,0,1
+663300,2022-08-07,115,COL,Colorado Rockies,109,AZ,Arizona Diamondbacks,4,6
+661047,2022-08-08,141,TOR,Toronto Blue Jays,110,BAL,Baltimore Orioles,4,7
+661060,2022-08-08,120,WSH,Washington Nationals,112,CHC,Chicago Cubs,3,6
+662152,2022-08-08,147,NYY,New York Yankees,136,SEA,Seattle Mariners,9,4
+662218,2022-08-08,137,SF,San Francisco Giants,135,SD,San Diego Padres,1,0
+662331,2022-08-08,108,LAA,Los Angeles Angels,133,OAK,Oakland Athletics,1,0
+662445,2022-08-08,113,CIN,Cincinnati Reds,121,NYM,New York Mets,1,5
+663304,2022-08-08,134,PIT,Pittsburgh Pirates,109,AZ,Arizona Diamondbacks,0,3
+661046,2022-08-09,141,TOR,Toronto Blue Jays,110,BAL,Baltimore Orioles,5,6
+661059,2022-08-09,120,WSH,Washington Nationals,112,CHC,Chicago Cubs,6,5
+661182,2022-08-09,139,TB,Tampa Bay Rays,158,MIL,Milwaukee Brewers,3,5
+661553,2022-08-09,146,MIA,Miami Marlins,143,PHI,Philadelphia Phillies,1,4
+662148,2022-08-09,147,NYY,New York Yankees,136,SEA,Seattle Mariners,0,1
+662246,2022-08-09,137,SF,San Francisco Giants,135,SD,San Diego Padres,4,7
+662330,2022-08-09,108,LAA,Los Angeles Angels,133,OAK,Oakland Athletics,5,1
+662444,2022-08-09,113,CIN,Cincinnati Reds,121,NYM,New York Mets,2,6
+662562,2022-08-09,142,MIN,Minnesota Twins,119,LAD,Los Angeles Dodgers,3,10
+662647,2022-08-09,145,CWS,Chicago White Sox,118,KC,Kansas City Royals,2,4
+662724,2022-08-09,140,TEX,Texas Rangers,117,HOU,Houston Astros,5,7
+662779,2022-08-09,145,CWS,Chicago White Sox,118,KC,Kansas City Royals,3,2
+662793,2022-08-09,114,CLE,Cleveland Guardians,116,DET,Detroit Tigers,5,2
+662979,2022-08-09,138,STL,St. Louis Cardinals,115,COL,Colorado Rockies,5,16
+663201,2022-08-09,144,ATL,Atlanta Braves,111,BOS,Boston Red Sox,9,7
+663303,2022-08-09,134,PIT,Pittsburgh Pirates,109,AZ,Arizona Diamondbacks,4,6
+661207,2022-08-10,139,TB,Tampa Bay Rays,158,MIL,Milwaukee Brewers,3,4
+661557,2022-08-10,146,MIA,Miami Marlins,143,PHI,Philadelphia Phillies,3,4
+662185,2022-08-10,147,NYY,New York Yankees,136,SEA,Seattle Mariners,3,4
+662217,2022-08-10,137,SF,San Francisco Giants,135,SD,San Diego Padres,7,13
+662316,2022-08-10,108,LAA,Los Angeles Angels,133,OAK,Oakland Athletics,5,4
+662443,2022-08-10,113,CIN,Cincinnati Reds,121,NYM,New York Mets,2,10
+662575,2022-08-10,142,MIN,Minnesota Twins,119,LAD,Los Angeles Dodgers,5,8
+662639,2022-08-10,145,CWS,Chicago White Sox,118,KC,Kansas City Royals,3,8
+662723,2022-08-10,140,TEX,Texas Rangers,117,HOU,Houston Astros,8,4
+662791,2022-08-10,114,CLE,Cleveland Guardians,116,DET,Detroit Tigers,3,2
+662892,2022-08-10,138,STL,St. Louis Cardinals,115,COL,Colorado Rockies,9,5
+663188,2022-08-10,144,ATL,Atlanta Braves,111,BOS,Boston Red Sox,8,4
+663229,2022-08-10,120,WSH,Washington Nationals,112,CHC,Chicago Cubs,2,4
+663302,2022-08-10,134,PIT,Pittsburgh Pirates,109,AZ,Arizona Diamondbacks,6,4
+661608,2022-08-11,146,MIA,Miami Marlins,143,PHI,Philadelphia Phillies,3,0
+662645,2022-08-11,145,CWS,Chicago White Sox,118,KC,Kansas City Royals,3,5
+662722,2022-08-11,140,TEX,Texas Rangers,117,HOU,Houston Astros,3,7
+662790,2022-08-11,114,CLE,Cleveland Guardians,116,DET,Detroit Tigers,4,3
+662891,2022-08-11,138,STL,St. Louis Cardinals,115,COL,Colorado Rockies,6,8
+663023,2022-08-11,112,CHC,Chicago Cubs,113,CIN,Cincinnati Reds,4,2
+663274,2022-08-11,110,BAL,Baltimore Orioles,111,BOS,Boston Red Sox,3,4
+663293,2022-08-11,134,PIT,Pittsburgh Pirates,109,AZ,Arizona Diamondbacks,3,9
+661366,2022-08-12,144,ATL,Atlanta Braves,146,MIA,Miami Marlins,4,3
+661384,2022-08-12,116,DET,Detroit Tigers,145,CWS,Chicago White Sox,0,2
+661710,2022-08-12,114,CLE,Cleveland Guardians,141,TOR,Toronto Blue Jays,8,0
+661791,2022-08-12,136,SEA,Seattle Mariners,140,TEX,Texas Rangers,6,2
+661866,2022-08-12,110,BAL,Baltimore Orioles,139,TB,Tampa Bay Rays,10,3
+661947,2022-08-12,158,MIL,Milwaukee Brewers,138,STL,St. Louis Cardinals,1,3
+662111,2022-08-12,134,PIT,Pittsburgh Pirates,137,SF,San Francisco Giants,3,5
+662434,2022-08-12,143,PHI,Philadelphia Phillies,121,NYM,New York Mets,2,1
+662551,2022-08-12,135,SD,San Diego Padres,120,WSH,Washington Nationals,10,5
+662671,2022-08-12,119,LAD,Los Angeles Dodgers,118,KC,Kansas City Royals,8,3
+662817,2022-08-12,133,OAK,Oakland Athletics,117,HOU,Houston Astros,5,7
+662978,2022-08-12,109,AZ,Arizona Diamondbacks,115,COL,Colorado Rockies,3,5
+663177,2022-08-12,147,NYY,New York Yankees,111,BOS,Boston Red Sox,2,3
+663373,2022-08-12,142,MIN,Minnesota Twins,108,LAA,Los Angeles Angels,4,0
+661360,2022-08-13,144,ATL,Atlanta Braves,146,MIA,Miami Marlins,6,2
+661383,2022-08-13,116,DET,Detroit Tigers,145,CWS,Chicago White Sox,4,6
+661428,2022-08-13,144,ATL,Atlanta Braves,146,MIA,Miami Marlins,5,2
+661709,2022-08-13,114,CLE,Cleveland Guardians,141,TOR,Toronto Blue Jays,1,2
+661790,2022-08-13,136,SEA,Seattle Mariners,140,TEX,Texas Rangers,4,7
+661865,2022-08-13,110,BAL,Baltimore Orioles,139,TB,Tampa Bay Rays,2,8
+661951,2022-08-13,158,MIL,Milwaukee Brewers,138,STL,St. Louis Cardinals,3,2
+662110,2022-08-13,134,PIT,Pittsburgh Pirates,137,SF,San Francisco Giants,0,2
+662428,2022-08-13,143,PHI,Philadelphia Phillies,121,NYM,New York Mets,0,1
+662473,2022-08-13,135,SD,San Diego Padres,120,WSH,Washington Nationals,3,4
+662670,2022-08-13,119,LAD,Los Angeles Dodgers,118,KC,Kansas City Royals,13,3
+662824,2022-08-13,133,OAK,Oakland Athletics,117,HOU,Houston Astros,0,8
+662882,2022-08-13,109,AZ,Arizona Diamondbacks,115,COL,Colorado Rockies,6,0
+663022,2022-08-13,112,CHC,Chicago Cubs,113,CIN,Cincinnati Reds,7,2
+663176,2022-08-13,147,NYY,New York Yankees,111,BOS,Boston Red Sox,3,2
+663372,2022-08-13,142,MIN,Minnesota Twins,108,LAA,Los Angeles Angels,3,5
+661338,2022-08-14,144,ATL,Atlanta Braves,146,MIA,Miami Marlins,3,1
+661450,2022-08-14,116,DET,Detroit Tigers,145,CWS,Chicago White Sox,3,5
+661708,2022-08-14,114,CLE,Cleveland Guardians,141,TOR,Toronto Blue Jays,7,2
+661789,2022-08-14,136,SEA,Seattle Mariners,140,TEX,Texas Rangers,3,5
+661864,2022-08-14,110,BAL,Baltimore Orioles,139,TB,Tampa Bay Rays,1,4
+661957,2022-08-14,158,MIL,Milwaukee Brewers,138,STL,St. Louis Cardinals,3,6
+662035,2022-08-14,134,PIT,Pittsburgh Pirates,137,SF,San Francisco Giants,7,8
+662427,2022-08-14,143,PHI,Philadelphia Phillies,121,NYM,New York Mets,0,6
+662472,2022-08-14,135,SD,San Diego Padres,120,WSH,Washington Nationals,6,0
+662669,2022-08-14,119,LAD,Los Angeles Dodgers,118,KC,Kansas City Royals,0,4
+662801,2022-08-14,133,OAK,Oakland Athletics,117,HOU,Houston Astros,3,6
+662881,2022-08-14,109,AZ,Arizona Diamondbacks,115,COL,Colorado Rockies,7,4
+663021,2022-08-14,112,CHC,Chicago Cubs,113,CIN,Cincinnati Reds,5,8
+663175,2022-08-14,147,NYY,New York Yankees,111,BOS,Boston Red Sox,0,3
+663371,2022-08-14,142,MIN,Minnesota Twins,108,LAA,Los Angeles Angels,2,4
+661199,2022-08-15,119,LAD,Los Angeles Dodgers,158,MIL,Milwaukee Brewers,4,0
+661283,2022-08-15,139,TB,Tampa Bay Rays,147,NYY,New York Yankees,4,0
+661358,2022-08-15,135,SD,San Diego Padres,146,MIA,Miami Marlins,0,3
+661449,2022-08-15,117,HOU,Houston Astros,145,CWS,Chicago White Sox,2,4
+661497,2022-08-15,121,NYM,New York Mets,144,ATL,Atlanta Braves,1,13
+661676,2022-08-15,118,KC,Kansas City Royals,142,MIN,Minnesota Twins,2,4
+661707,2022-08-15,110,BAL,Baltimore Orioles,141,TOR,Toronto Blue Jays,7,3
+661834,2022-08-15,133,OAK,Oakland Athletics,140,TEX,Texas Rangers,1,2
+662034,2022-08-15,109,AZ,Arizona Diamondbacks,137,SF,San Francisco Giants,1,6
+662471,2022-08-15,112,CHC,Chicago Cubs,120,WSH,Washington Nationals,4,5
+662948,2022-08-15,116,DET,Detroit Tigers,114,CLE,Cleveland Guardians,7,5
+662977,2022-08-15,116,DET,Detroit Tigers,114,CLE,Cleveland Guardians,1,4
+663020,2022-08-15,143,PHI,Philadelphia Phillies,113,CIN,Cincinnati Reds,4,3
+663370,2022-08-15,136,SEA,Seattle Mariners,108,LAA,Los Angeles Angels,6,2
+661191,2022-08-16,119,LAD,Los Angeles Dodgers,158,MIL,Milwaukee Brewers,4,5
+661250,2022-08-16,139,TB,Tampa Bay Rays,147,NYY,New York Yankees,3,1
+661357,2022-08-16,135,SD,San Diego Padres,146,MIA,Miami Marlins,3,4
+661448,2022-08-16,117,HOU,Houston Astros,145,CWS,Chicago White Sox,3,4
+661495,2022-08-16,121,NYM,New York Mets,144,ATL,Atlanta Braves,0,5
+661682,2022-08-16,118,KC,Kansas City Royals,142,MIN,Minnesota Twins,0,9
+661706,2022-08-16,110,BAL,Baltimore Orioles,141,TOR,Toronto Blue Jays,4,2
+661833,2022-08-16,133,OAK,Oakland Athletics,140,TEX,Texas Rangers,5,1
+661955,2022-08-16,115,COL,Colorado Rockies,138,STL,St. Louis Cardinals,4,5
+662004,2022-08-16,109,AZ,Arizona Diamondbacks,137,SF,San Francisco Giants,1,2
+662302,2022-08-16,111,BOS,Boston Red Sox,134,PIT,Pittsburgh Pirates,5,3
+662550,2022-08-16,112,CHC,Chicago Cubs,120,WSH,Washington Nationals,7,5
+662943,2022-08-16,116,DET,Detroit Tigers,114,CLE,Cleveland Guardians,4,3
+663019,2022-08-16,143,PHI,Philadelphia Phillies,113,CIN,Cincinnati Reds,11,4
+663369,2022-08-16,136,SEA,Seattle Mariners,108,LAA,Los Angeles Angels,8,2
+661171,2022-08-17,119,LAD,Los Angeles Dodgers,158,MIL,Milwaukee Brewers,2,1
+661266,2022-08-17,139,TB,Tampa Bay Rays,147,NYY,New York Yankees,7,8
+661356,2022-08-17,135,SD,San Diego Padres,146,MIA,Miami Marlins,10,3
+661447,2022-08-17,117,HOU,Houston Astros,145,CWS,Chicago White Sox,3,2
+661494,2022-08-17,121,NYM,New York Mets,144,ATL,Atlanta Braves,9,7
+661654,2022-08-17,118,KC,Kansas City Royals,142,MIN,Minnesota Twins,0,4
+661705,2022-08-17,110,BAL,Baltimore Orioles,141,TOR,Toronto Blue Jays,1,6
+661788,2022-08-17,133,OAK,Oakland Athletics,140,TEX,Texas Rangers,7,2
+661938,2022-08-17,115,COL,Colorado Rockies,138,STL,St. Louis Cardinals,1,5
+662003,2022-08-17,109,AZ,Arizona Diamondbacks,137,SF,San Francisco Giants,3,2
+662301,2022-08-17,111,BOS,Boston Red Sox,134,PIT,Pittsburgh Pirates,8,3
+662470,2022-08-17,112,CHC,Chicago Cubs,120,WSH,Washington Nationals,3,2
+662951,2022-08-17,116,DET,Detroit Tigers,114,CLE,Cleveland Guardians,4,8
+663017,2022-08-17,143,PHI,Philadelphia Phillies,113,CIN,Cincinnati Reds,0,1
+663408,2022-08-17,136,SEA,Seattle Mariners,108,LAA,Los Angeles Angels,11,7
+661109,2022-08-18,112,CHC,Chicago Cubs,110,BAL,Baltimore Orioles,3,2
+661179,2022-08-18,119,LAD,Los Angeles Dodgers,158,MIL,Milwaukee Brewers,3,5
+661265,2022-08-18,141,TOR,Toronto Blue Jays,147,NYY,New York Yankees,9,2
+661446,2022-08-18,117,HOU,Houston Astros,145,CWS,Chicago White Sox,21,5
+661493,2022-08-18,121,NYM,New York Mets,144,ATL,Atlanta Braves,2,3
+661787,2022-08-18,133,OAK,Oakland Athletics,140,TEX,Texas Rangers,3,10
+661863,2022-08-18,118,KC,Kansas City Royals,139,TB,Tampa Bay Rays,1,7
+661937,2022-08-18,115,COL,Colorado Rockies,138,STL,St. Louis Cardinals,0,13
+662002,2022-08-18,109,AZ,Arizona Diamondbacks,137,SF,San Francisco Giants,5,0
+662182,2022-08-18,120,WSH,Washington Nationals,135,SD,San Diego Padres,3,1
+662413,2022-08-18,111,BOS,Boston Red Sox,134,PIT,Pittsburgh Pirates,2,8
+661044,2022-08-19,111,BOS,Boston Red Sox,110,BAL,Baltimore Orioles,10,15
+661319,2022-08-19,141,TOR,Toronto Blue Jays,147,NYY,New York Yankees,4,0
+661492,2022-08-19,117,HOU,Houston Astros,144,ATL,Atlanta Braves,2,6
+661607,2022-08-19,121,NYM,New York Mets,143,PHI,Philadelphia Phillies,7,2
+661655,2022-08-19,140,TEX,Texas Rangers,142,MIN,Minnesota Twins,1,2
+661862,2022-08-19,118,KC,Kansas City Royals,139,TB,Tampa Bay Rays,3,2
+662181,2022-08-19,120,WSH,Washington Nationals,135,SD,San Diego Padres,6,3
+662341,2022-08-19,136,SEA,Seattle Mariners,133,OAK,Oakland Athletics,10,2
+662396,2022-08-19,113,CIN,Cincinnati Reds,134,PIT,Pittsburgh Pirates,4,5
+662574,2022-08-19,146,MIA,Miami Marlins,119,LAD,Los Angeles Dodgers,1,2
+662808,2022-08-19,108,LAA,Los Angeles Angels,116,DET,Detroit Tigers,1,0
+662880,2022-08-19,137,SF,San Francisco Giants,115,COL,Colorado Rockies,4,7
+662936,2022-08-19,145,CWS,Chicago White Sox,114,CLE,Cleveland Guardians,2,5
+663228,2022-08-19,158,MIL,Milwaukee Brewers,112,CHC,Chicago Cubs,7,8
+663292,2022-08-19,138,STL,St. Louis Cardinals,109,AZ,Arizona Diamondbacks,5,1
+661043,2022-08-20,111,BOS,Boston Red Sox,110,BAL,Baltimore Orioles,4,3
+661240,2022-08-20,141,TOR,Toronto Blue Jays,147,NYY,New York Yankees,5,2
+661606,2022-08-20,121,NYM,New York Mets,143,PHI,Philadelphia Phillies,1,4
+661610,2022-08-20,117,HOU,Houston Astros,144,ATL,Atlanta Braves,4,5
+661628,2022-08-20,121,NYM,New York Mets,143,PHI,Philadelphia Phillies,8,2
+661670,2022-08-20,140,TEX,Texas Rangers,142,MIN,Minnesota Twins,4,3
+661861,2022-08-20,118,KC,Kansas City Royals,139,TB,Tampa Bay Rays,2,5
+662180,2022-08-20,120,WSH,Washington Nationals,135,SD,San Diego Padres,1,2
+662340,2022-08-20,136,SEA,Seattle Mariners,133,OAK,Oakland Athletics,3,4
+662395,2022-08-20,113,CIN,Cincinnati Reds,134,PIT,Pittsburgh Pirates,10,1
+662561,2022-08-20,146,MIA,Miami Marlins,119,LAD,Los Angeles Dodgers,0,7
+662879,2022-08-20,137,SF,San Francisco Giants,115,COL,Colorado Rockies,3,4
+662917,2022-08-20,108,LAA,Los Angeles Angels,116,DET,Detroit Tigers,3,4
+662953,2022-08-20,145,CWS,Chicago White Sox,114,CLE,Cleveland Guardians,2,0
+663116,2022-08-20,158,MIL,Milwaukee Brewers,112,CHC,Chicago Cubs,5,6
+663291,2022-08-20,138,STL,St. Louis Cardinals,109,AZ,Arizona Diamondbacks,16,7
+661051,2022-08-21,111,BOS,Boston Red Sox,110,BAL,Baltimore Orioles,3,5
+661239,2022-08-21,141,TOR,Toronto Blue Jays,147,NYY,New York Yankees,2,4
+661480,2022-08-21,117,HOU,Houston Astros,144,ATL,Atlanta Braves,5,4
+661602,2022-08-21,121,NYM,New York Mets,143,PHI,Philadelphia Phillies,10,9
+661652,2022-08-21,140,TEX,Texas Rangers,142,MIN,Minnesota Twins,7,0
+661860,2022-08-21,118,KC,Kansas City Royals,139,TB,Tampa Bay Rays,2,3
+662179,2022-08-21,120,WSH,Washington Nationals,135,SD,San Diego Padres,1,2
+662300,2022-08-21,113,CIN,Cincinnati Reds,134,PIT,Pittsburgh Pirates,9,5
+662315,2022-08-21,136,SEA,Seattle Mariners,133,OAK,Oakland Athletics,3,5
+662600,2022-08-21,146,MIA,Miami Marlins,119,LAD,Los Angeles Dodgers,3,10
+662805,2022-08-21,108,LAA,Los Angeles Angels,116,DET,Detroit Tigers,0,4
+662878,2022-08-21,137,SF,San Francisco Giants,115,COL,Colorado Rockies,9,8
+663115,2022-08-21,158,MIL,Milwaukee Brewers,112,CHC,Chicago Cubs,5,2
+663301,2022-08-21,138,STL,St. Louis Cardinals,109,AZ,Arizona Diamondbacks,6,4
+661238,2022-08-22,121,NYM,New York Mets,147,NYY,New York Yankees,2,4
+661601,2022-08-22,113,CIN,Cincinnati Reds,143,PHI,Philadelphia Phillies,1,4
+661658,2022-08-22,140,TEX,Texas Rangers,142,MIN,Minnesota Twins,2,1
+661859,2022-08-22,108,LAA,Los Angeles Angels,139,TB,Tampa Bay Rays,1,2
+662314,2022-08-22,146,MIA,Miami Marlins,133,OAK,Oakland Athletics,3,0
+662394,2022-08-22,144,ATL,Atlanta Braves,134,PIT,Pittsburgh Pirates,2,1
+662594,2022-08-22,158,MIL,Milwaukee Brewers,119,LAD,Los Angeles Dodgers,4,0
+662767,2022-08-22,145,CWS,Chicago White Sox,118,KC,Kansas City Royals,4,6
+663114,2022-08-22,138,STL,St. Louis Cardinals,112,CHC,Chicago Cubs,1,0
+661237,2022-08-23,121,NYM,New York Mets,147,NYY,New York Yankees,2,4
+661600,2022-08-23,113,CIN,Cincinnati Reds,143,PHI,Philadelphia Phillies,6,7
+661858,2022-08-23,108,LAA,Los Angeles Angels,139,TB,Tampa Bay Rays,1,11
+662142,2022-08-23,120,WSH,Washington Nationals,136,SEA,Seattle Mariners,2,4
+662213,2022-08-23,114,CLE,Cleveland Guardians,135,SD,San Diego Padres,3,1
+662339,2022-08-23,146,MIA,Miami Marlins,133,OAK,Oakland Athletics,5,3
+662383,2022-08-23,144,ATL,Atlanta Braves,134,PIT,Pittsburgh Pirates,6,1
+662605,2022-08-23,158,MIL,Milwaukee Brewers,119,LAD,Los Angeles Dodgers,1,10
+662668,2022-08-23,109,AZ,Arizona Diamondbacks,118,KC,Kansas City Royals,7,3
+662800,2022-08-23,142,MIN,Minnesota Twins,117,HOU,Houston Astros,2,4
+662876,2022-08-23,140,TEX,Texas Rangers,115,COL,Colorado Rockies,6,7
+662914,2022-08-23,137,SF,San Francisco Giants,116,DET,Detroit Tigers,3,1
+663113,2022-08-23,138,STL,St. Louis Cardinals,112,CHC,Chicago Cubs,13,3
+663163,2022-08-23,138,STL,St. Louis Cardinals,112,CHC,Chicago Cubs,0,2
+663174,2022-08-23,141,TOR,Toronto Blue Jays,111,BOS,Boston Red Sox,9,3
+663461,2022-08-23,145,CWS,Chicago White Sox,110,BAL,Baltimore Orioles,3,5
+661605,2022-08-24,113,CIN,Cincinnati Reds,143,PHI,Philadelphia Phillies,5,7
+661857,2022-08-24,108,LAA,Los Angeles Angels,139,TB,Tampa Bay Rays,3,4
+662144,2022-08-24,120,WSH,Washington Nationals,136,SEA,Seattle Mariners,3,1
+662212,2022-08-24,114,CLE,Cleveland Guardians,135,SD,San Diego Padres,7,0
+662338,2022-08-24,146,MIA,Miami Marlins,133,OAK,Oakland Athletics,2,3
+662371,2022-08-24,144,ATL,Atlanta Braves,134,PIT,Pittsburgh Pirates,14,2
+662604,2022-08-24,158,MIL,Milwaukee Brewers,119,LAD,Los Angeles Dodgers,6,12
+662640,2022-08-24,109,AZ,Arizona Diamondbacks,118,KC,Kansas City Royals,3,5
+662799,2022-08-24,142,MIN,Minnesota Twins,117,HOU,Houston Astros,3,5
+662877,2022-08-24,140,TEX,Texas Rangers,115,COL,Colorado Rockies,16,4
+662916,2022-08-24,137,SF,San Francisco Giants,116,DET,Detroit Tigers,1,6
+663173,2022-08-24,141,TOR,Toronto Blue Jays,111,BOS,Boston Red Sox,3,2
+663216,2022-08-24,138,STL,St. Louis Cardinals,112,CHC,Chicago Cubs,1,7
+663460,2022-08-24,145,CWS,Chicago White Sox,110,BAL,Baltimore Orioles,5,3
+661604,2022-08-25,113,CIN,Cincinnati Reds,143,PHI,Philadelphia Phillies,0,4
+661856,2022-08-25,108,LAA,Los Angeles Angels,139,TB,Tampa Bay Rays,3,8
+662141,2022-08-25,114,CLE,Cleveland Guardians,136,SEA,Seattle Mariners,1,3
+662337,2022-08-25,147,NYY,New York Yankees,133,OAK,Oakland Athletics,13,4
+662433,2022-08-25,115,COL,Colorado Rockies,121,NYM,New York Mets,1,3
+662711,2022-08-25,142,MIN,Minnesota Twins,117,HOU,Houston Astros,3,6
+663172,2022-08-25,141,TOR,Toronto Blue Jays,111,BOS,Boston Red Sox,6,5
+663240,2022-08-25,138,STL,St. Louis Cardinals,112,CHC,Chicago Cubs,8,3
+663459,2022-08-25,145,CWS,Chicago White Sox,110,BAL,Baltimore Orioles,3,4
+661189,2022-08-26,112,CHC,Chicago Cubs,158,MIL,Milwaukee Brewers,4,3
+661355,2022-08-26,119,LAD,Los Angeles Dodgers,146,MIA,Miami Marlins,10,6
+661445,2022-08-26,109,AZ,Arizona Diamondbacks,145,CWS,Chicago White Sox,7,2
+661603,2022-08-26,134,PIT,Pittsburgh Pirates,143,PHI,Philadelphia Phillies,4,7
+661669,2022-08-26,137,SF,San Francisco Giants,142,MIN,Minnesota Twins,0,9
+661704,2022-08-26,108,LAA,Los Angeles Angels,141,TOR,Toronto Blue Jays,12,0
+661786,2022-08-26,116,DET,Detroit Tigers,140,TEX,Texas Rangers,6,7
+661940,2022-08-26,144,ATL,Atlanta Braves,138,STL,St. Louis Cardinals,11,4
+662143,2022-08-26,114,CLE,Cleveland Guardians,136,SEA,Seattle Mariners,2,3
+662342,2022-08-26,147,NYY,New York Yankees,133,OAK,Oakland Athletics,3,2
+662432,2022-08-26,115,COL,Colorado Rockies,121,NYM,New York Mets,6,7
+662469,2022-08-26,113,CIN,Cincinnati Reds,120,WSH,Washington Nationals,7,3
+662667,2022-08-26,135,SD,San Diego Padres,118,KC,Kansas City Royals,13,5
+662710,2022-08-26,110,BAL,Baltimore Orioles,117,HOU,Houston Astros,2,0
+663171,2022-08-26,139,TB,Tampa Bay Rays,111,BOS,Boston Red Sox,8,9
+661090,2022-08-27,110,BAL,Baltimore Orioles,117,HOU,Houston Astros,3,1
+661180,2022-08-27,112,CHC,Chicago Cubs,158,MIL,Milwaukee Brewers,0,7
+661354,2022-08-27,119,LAD,Los Angeles Dodgers,146,MIA,Miami Marlins,1,2
+661444,2022-08-27,109,AZ,Arizona Diamondbacks,145,CWS,Chicago White Sox,10,5
+661599,2022-08-27,134,PIT,Pittsburgh Pirates,143,PHI,Philadelphia Phillies,0,6
+661657,2022-08-27,137,SF,San Francisco Giants,142,MIN,Minnesota Twins,2,3
+661703,2022-08-27,108,LAA,Los Angeles Angels,141,TOR,Toronto Blue Jays,2,0
+661785,2022-08-27,116,DET,Detroit Tigers,140,TEX,Texas Rangers,11,2
+661939,2022-08-27,144,ATL,Atlanta Braves,138,STL,St. Louis Cardinals,5,6
+662140,2022-08-27,114,CLE,Cleveland Guardians,136,SEA,Seattle Mariners,4,3
+662336,2022-08-27,147,NYY,New York Yankees,133,OAK,Oakland Athletics,2,3
+662442,2022-08-27,115,COL,Colorado Rockies,121,NYM,New York Mets,0,3
+662468,2022-08-27,113,CIN,Cincinnati Reds,120,WSH,Washington Nationals,6,2
+662666,2022-08-27,135,SD,San Diego Padres,118,KC,Kansas City Royals,4,3
+663170,2022-08-27,139,TB,Tampa Bay Rays,111,BOS,Boston Red Sox,1,5
+661089,2022-08-28,110,BAL,Baltimore Orioles,117,HOU,Houston Astros,1,3
+661168,2022-08-28,112,CHC,Chicago Cubs,158,MIL,Milwaukee Brewers,7,9
+661353,2022-08-28,119,LAD,Los Angeles Dodgers,146,MIA,Miami Marlins,8,1
+661443,2022-08-28,109,AZ,Arizona Diamondbacks,145,CWS,Chicago White Sox,3,2
+661598,2022-08-28,134,PIT,Pittsburgh Pirates,143,PHI,Philadelphia Phillies,5,0
+661663,2022-08-28,137,SF,San Francisco Giants,142,MIN,Minnesota Twins,3,8
+661773,2022-08-28,108,LAA,Los Angeles Angels,141,TOR,Toronto Blue Jays,8,3
+661784,2022-08-28,116,DET,Detroit Tigers,140,TEX,Texas Rangers,9,8
+661950,2022-08-28,144,ATL,Atlanta Braves,138,STL,St. Louis Cardinals,3,6
+662139,2022-08-28,114,CLE,Cleveland Guardians,136,SEA,Seattle Mariners,0,4
+662335,2022-08-28,147,NYY,New York Yankees,133,OAK,Oakland Athletics,1,4
+662446,2022-08-28,115,COL,Colorado Rockies,121,NYM,New York Mets,1,0
+662467,2022-08-28,113,CIN,Cincinnati Reds,120,WSH,Washington Nationals,2,3
+662638,2022-08-28,135,SD,San Diego Padres,118,KC,Kansas City Royals,7,15
+663211,2022-08-28,139,TB,Tampa Bay Rays,111,BOS,Boston Red Sox,12,4
+661167,2022-08-29,134,PIT,Pittsburgh Pirates,158,MIL,Milwaukee Brewers,5,7
+661352,2022-08-29,119,LAD,Los Angeles Dodgers,146,MIA,Miami Marlins,3,2
+661651,2022-08-29,111,BOS,Boston Red Sox,142,MIN,Minnesota Twins,2,4
+661801,2022-08-29,112,CHC,Chicago Cubs,141,TOR,Toronto Blue Jays,4,5
+662001,2022-08-29,135,SD,San Diego Padres,137,SF,San Francisco Giants,6,5
+663018,2022-08-29,138,STL,St. Louis Cardinals,113,CIN,Cincinnati Reds,13,4
+663332,2022-08-29,143,PHI,Philadelphia Phillies,109,AZ,Arizona Diamondbacks,7,13
+663424,2022-08-29,147,NYY,New York Yankees,108,LAA,Los Angeles Angels,3,4
+661166,2022-08-30,134,PIT,Pittsburgh Pirates,158,MIL,Milwaukee Brewers,4,2
+661351,2022-08-30,139,TB,Tampa Bay Rays,146,MIA,Miami Marlins,7,2
+661442,2022-08-30,118,KC,Kansas City Royals,145,CWS,Chicago White Sox,9,7
+661479,2022-08-30,115,COL,Colorado Rockies,144,ATL,Atlanta Braves,3,2
+661648,2022-08-30,111,BOS,Boston Red Sox,142,MIN,Minnesota Twins,5,10
+661800,2022-08-30,112,CHC,Chicago Cubs,141,TOR,Toronto Blue Jays,3,5
+661832,2022-08-30,117,HOU,Houston Astros,140,TEX,Texas Rangers,4,2
+662000,2022-08-30,135,SD,San Diego Padres,137,SF,San Francisco Giants,4,3
+662426,2022-08-30,119,LAD,Los Angeles Dodgers,121,NYM,New York Mets,4,3
+662466,2022-08-30,133,OAK,Oakland Athletics,120,WSH,Washington Nationals,10,6
+662804,2022-08-30,136,SEA,Seattle Mariners,116,DET,Detroit Tigers,9,3
+662973,2022-08-30,110,BAL,Baltimore Orioles,114,CLE,Cleveland Guardians,1,5
+663137,2022-08-30,138,STL,St. Louis Cardinals,113,CIN,Cincinnati Reds,1,5
+663286,2022-08-30,143,PHI,Philadelphia Phillies,109,AZ,Arizona Diamondbacks,3,12
+663437,2022-08-30,147,NYY,New York Yankees,108,LAA,Los Angeles Angels,7,4
+661165,2022-08-31,134,PIT,Pittsburgh Pirates,158,MIL,Milwaukee Brewers,1,6
+661350,2022-08-31,139,TB,Tampa Bay Rays,146,MIA,Miami Marlins,2,1
+661441,2022-08-31,118,KC,Kansas City Royals,145,CWS,Chicago White Sox,2,4
+661478,2022-08-31,115,COL,Colorado Rockies,144,ATL,Atlanta Braves,2,3
+661649,2022-08-31,111,BOS,Boston Red Sox,142,MIN,Minnesota Twins,6,5
+661779,2022-08-31,112,CHC,Chicago Cubs,141,TOR,Toronto Blue Jays,7,5
+661831,2022-08-31,117,HOU,Houston Astros,140,TEX,Texas Rangers,5,3
+662033,2022-08-31,135,SD,San Diego Padres,137,SF,San Francisco Giants,5,4
+662447,2022-08-31,119,LAD,Los Angeles Dodgers,121,NYM,New York Mets,1,2
+662465,2022-08-31,133,OAK,Oakland Athletics,120,WSH,Washington Nationals,1,5
+662903,2022-08-31,136,SEA,Seattle Mariners,116,DET,Detroit Tigers,5,3
+662972,2022-08-31,110,BAL,Baltimore Orioles,114,CLE,Cleveland Guardians,4,0
+662995,2022-08-31,138,STL,St. Louis Cardinals,113,CIN,Cincinnati Reds,5,3
+663312,2022-08-31,143,PHI,Philadelphia Phillies,109,AZ,Arizona Diamondbacks,18,2
+663410,2022-08-31,147,NYY,New York Yankees,108,LAA,Los Angeles Angels,2,3
+661440,2022-09-01,118,KC,Kansas City Royals,145,CWS,Chicago White Sox,1,7
+661477,2022-09-01,115,COL,Colorado Rockies,144,ATL,Atlanta Braves,0,3
+662410,2022-09-01,119,LAD,Los Angeles Dodgers,121,NYM,New York Mets,3,5
+662491,2022-09-01,133,OAK,Oakland Athletics,120,WSH,Washington Nationals,5,7
+662785,2022-09-01,136,SEA,Seattle Mariners,116,DET,Detroit Tigers,7,0
+662971,2022-09-01,110,BAL,Baltimore Orioles,114,CLE,Cleveland Guardians,3,0
+663210,2022-09-01,140,TEX,Texas Rangers,111,BOS,Boston Red Sox,8,9
+663290,2022-09-01,158,MIL,Milwaukee Brewers,109,AZ,Arizona Diamondbacks,0,5
+661439,2022-09-02,142,MIN,Minnesota Twins,145,CWS,Chicago White Sox,3,4
+661476,2022-09-02,146,MIA,Miami Marlins,144,ATL,Atlanta Braves,1,8
+661855,2022-09-02,147,NYY,New York Yankees,139,TB,Tampa Bay Rays,0,9
+661920,2022-09-02,112,CHC,Chicago Cubs,138,STL,St. Louis Cardinals,0,8
+662032,2022-09-02,143,PHI,Philadelphia Phillies,137,SF,San Francisco Giants,1,13
+662356,2022-09-02,141,TOR,Toronto Blue Jays,134,PIT,Pittsburgh Pirates,4,0
+662409,2022-09-02,120,WSH,Washington Nationals,121,NYM,New York Mets,3,7
+662603,2022-09-02,135,SD,San Diego Padres,119,LAD,Los Angeles Dodgers,7,1
+662915,2022-09-02,118,KC,Kansas City Royals,116,DET,Detroit Tigers,4,5
+662961,2022-09-02,136,SEA,Seattle Mariners,114,CLE,Cleveland Guardians,6,1
+663133,2022-09-02,115,COL,Colorado Rockies,113,CIN,Cincinnati Reds,2,3
+663212,2022-09-02,140,TEX,Texas Rangers,111,BOS,Boston Red Sox,1,9
+663285,2022-09-02,158,MIL,Milwaukee Brewers,109,AZ,Arizona Diamondbacks,1,2
+663356,2022-09-02,133,OAK,Oakland Athletics,110,BAL,Baltimore Orioles,2,5
+663428,2022-09-02,117,HOU,Houston Astros,108,LAA,Los Angeles Angels,4,2
+661438,2022-09-03,142,MIN,Minnesota Twins,145,CWS,Chicago White Sox,0,13
+661475,2022-09-03,146,MIA,Miami Marlins,144,ATL,Atlanta Braves,1,2
+661854,2022-09-03,147,NYY,New York Yankees,139,TB,Tampa Bay Rays,1,2
+661928,2022-09-03,112,CHC,Chicago Cubs,138,STL,St. Louis Cardinals,4,8
+662031,2022-09-03,143,PHI,Philadelphia Phillies,137,SF,San Francisco Giants,4,5
+662286,2022-09-03,141,TOR,Toronto Blue Jays,134,PIT,Pittsburgh Pirates,4,1
+662425,2022-09-03,120,WSH,Washington Nationals,121,NYM,New York Mets,7,1
+662597,2022-09-03,135,SD,San Diego Padres,119,LAD,Los Angeles Dodgers,1,12
+662803,2022-09-03,118,KC,Kansas City Royals,116,DET,Detroit Tigers,12,2
+662963,2022-09-03,136,SEA,Seattle Mariners,114,CLE,Cleveland Guardians,4,0
+663214,2022-09-03,140,TEX,Texas Rangers,111,BOS,Boston Red Sox,3,5
+663321,2022-09-03,158,MIL,Milwaukee Brewers,109,AZ,Arizona Diamondbacks,8,6
+663355,2022-09-03,133,OAK,Oakland Athletics,110,BAL,Baltimore Orioles,1,8
+663436,2022-09-03,117,HOU,Houston Astros,108,LAA,Los Angeles Angels,1,2
+661437,2022-09-04,142,MIN,Minnesota Twins,145,CWS,Chicago White Sox,5,1
+661474,2022-09-04,146,MIA,Miami Marlins,144,ATL,Atlanta Braves,1,7
+661853,2022-09-04,147,NYY,New York Yankees,139,TB,Tampa Bay Rays,2,1
+661927,2022-09-04,112,CHC,Chicago Cubs,138,STL,St. Louis Cardinals,0,2
+662030,2022-09-04,143,PHI,Philadelphia Phillies,137,SF,San Francisco Giants,3,5
+662299,2022-09-04,141,TOR,Toronto Blue Jays,134,PIT,Pittsburgh Pirates,4,3
+662424,2022-09-04,120,WSH,Washington Nationals,121,NYM,New York Mets,7,1
+662599,2022-09-04,135,SD,San Diego Padres,119,LAD,Los Angeles Dodgers,4,9
+662786,2022-09-04,118,KC,Kansas City Royals,116,DET,Detroit Tigers,3,2
+662962,2022-09-04,136,SEA,Seattle Mariners,114,CLE,Cleveland Guardians,6,3
+663107,2022-09-04,115,COL,Colorado Rockies,113,CIN,Cincinnati Reds,8,4
+663108,2022-09-04,115,COL,Colorado Rockies,113,CIN,Cincinnati Reds,0,10
+663213,2022-09-04,140,TEX,Texas Rangers,111,BOS,Boston Red Sox,2,5
+663311,2022-09-04,158,MIL,Milwaukee Brewers,109,AZ,Arizona Diamondbacks,1,5
+663354,2022-09-04,133,OAK,Oakland Athletics,110,BAL,Baltimore Orioles,5,0
+663435,2022-09-04,117,HOU,Houston Astros,108,LAA,Los Angeles Angels,9,1
+661045,2022-09-05,141,TOR,Toronto Blue Jays,110,BAL,Baltimore Orioles,8,4
+661088,2022-09-05,140,TEX,Texas Rangers,117,HOU,Houston Astros,0,1
+661236,2022-09-05,142,MIN,Minnesota Twins,147,NYY,New York Yankees,2,5
+661852,2022-09-05,111,BOS,Boston Red Sox,139,TB,Tampa Bay Rays,3,4
+661926,2022-09-05,120,WSH,Washington Nationals,138,STL,St. Louis Cardinals,6,0
+662121,2022-09-05,145,CWS,Chicago White Sox,136,SEA,Seattle Mariners,3,2
+662211,2022-09-05,109,AZ,Arizona Diamondbacks,135,SD,San Diego Padres,5,0
+662602,2022-09-05,137,SF,San Francisco Giants,119,LAD,Los Angeles Dodgers,7,4
+662646,2022-09-05,114,CLE,Cleveland Guardians,118,KC,Kansas City Royals,6,5
+662860,2022-09-05,158,MIL,Milwaukee Brewers,115,COL,Colorado Rockies,6,4
+663353,2022-09-05,141,TOR,Toronto Blue Jays,110,BAL,Baltimore Orioles,7,3
+663434,2022-09-05,116,DET,Detroit Tigers,108,LAA,Los Angeles Angels,0,10
+661087,2022-09-06,140,TEX,Texas Rangers,117,HOU,Houston Astros,4,3
+661597,2022-09-06,146,MIA,Miami Marlins,143,PHI,Philadelphia Phillies,2,3
+661925,2022-09-06,120,WSH,Washington Nationals,138,STL,St. Louis Cardinals,1,4
+662043,2022-09-06,111,BOS,Boston Red Sox,139,TB,Tampa Bay Rays,4,8
+662138,2022-09-06,145,CWS,Chicago White Sox,136,SEA,Seattle Mariners,0,3
+662205,2022-09-06,109,AZ,Arizona Diamondbacks,135,SD,San Diego Padres,5,6
+662282,2022-09-06,121,NYM,New York Mets,134,PIT,Pittsburgh Pirates,2,8
+662313,2022-09-06,144,ATL,Atlanta Braves,133,OAK,Oakland Athletics,10,9
+662601,2022-09-06,137,SF,San Francisco Giants,119,LAD,Los Angeles Dodgers,3,6
+662644,2022-09-06,114,CLE,Cleveland Guardians,118,KC,Kansas City Royals,4,1
+662859,2022-09-06,158,MIL,Milwaukee Brewers,115,COL,Colorado Rockies,7,10
+663242,2022-09-06,113,CIN,Cincinnati Reds,112,CHC,Chicago Cubs,3,9
+663407,2022-09-06,116,DET,Detroit Tigers,108,LAA,Los Angeles Angels,4,5
+663458,2022-09-06,141,TOR,Toronto Blue Jays,110,BAL,Baltimore Orioles,6,9
+661086,2022-09-07,140,TEX,Texas Rangers,117,HOU,Houston Astros,3,4
+661235,2022-09-07,142,MIN,Minnesota Twins,147,NYY,New York Yankees,1,7
+661251,2022-09-07,142,MIN,Minnesota Twins,147,NYY,New York Yankees,4,5
+661596,2022-09-07,146,MIA,Miami Marlins,143,PHI,Philadelphia Phillies,3,4
+661924,2022-09-07,120,WSH,Washington Nationals,138,STL,St. Louis Cardinals,5,6
+662065,2022-09-07,111,BOS,Boston Red Sox,139,TB,Tampa Bay Rays,0,1
+662137,2022-09-07,145,CWS,Chicago White Sox,136,SEA,Seattle Mariners,9,6
+662216,2022-09-07,109,AZ,Arizona Diamondbacks,135,SD,San Diego Padres,3,6
+662283,2022-09-07,121,NYM,New York Mets,134,PIT,Pittsburgh Pirates,5,1
+662285,2022-09-07,121,NYM,New York Mets,134,PIT,Pittsburgh Pirates,10,0
+662312,2022-09-07,144,ATL,Atlanta Braves,133,OAK,Oakland Athletics,7,3
+662582,2022-09-07,137,SF,San Francisco Giants,119,LAD,Los Angeles Dodgers,3,7
+662643,2022-09-07,114,CLE,Cleveland Guardians,118,KC,Kansas City Royals,1,2
+662871,2022-09-07,158,MIL,Milwaukee Brewers,115,COL,Colorado Rockies,4,8
+663168,2022-09-07,113,CIN,Cincinnati Reds,112,CHC,Chicago Cubs,7,1
+663409,2022-09-07,116,DET,Detroit Tigers,108,LAA,Los Angeles Angels,5,4
+663457,2022-09-07,141,TOR,Toronto Blue Jays,110,BAL,Baltimore Orioles,4,1
+661219,2022-09-08,137,SF,San Francisco Giants,158,MIL,Milwaukee Brewers,1,2
+661233,2022-09-08,137,SF,San Francisco Giants,158,MIL,Milwaukee Brewers,2,4
+661252,2022-09-08,142,MIN,Minnesota Twins,147,NYY,New York Yankees,4,3
+661595,2022-09-08,146,MIA,Miami Marlins,143,PHI,Philadelphia Phillies,6,5
+661923,2022-09-08,120,WSH,Washington Nationals,138,STL,St. Louis Cardinals,11,6
+662334,2022-09-08,145,CWS,Chicago White Sox,133,OAK,Oakland Athletics,14,2
+663241,2022-09-08,113,CIN,Cincinnati Reds,112,CHC,Chicago Cubs,4,3
+661085,2022-09-09,108,LAA,Los Angeles Angels,117,HOU,Houston Astros,3,4
+661185,2022-09-09,113,CIN,Cincinnati Reds,158,MIL,Milwaukee Brewers,8,2
+661234,2022-09-09,139,TB,Tampa Bay Rays,147,NYY,New York Yankees,4,2
+661337,2022-09-09,121,NYM,New York Mets,146,MIA,Miami Marlins,3,6
+661594,2022-09-09,120,WSH,Washington Nationals,143,PHI,Philadelphia Phillies,3,5
+661650,2022-09-09,114,CLE,Cleveland Guardians,142,MIN,Minnesota Twins,7,6
+661830,2022-09-09,141,TOR,Toronto Blue Jays,140,TEX,Texas Rangers,4,3
+661850,2022-09-09,119,LAD,Los Angeles Dodgers,135,SD,San Diego Padres,4,5
+662136,2022-09-09,144,ATL,Atlanta Braves,136,SEA,Seattle Mariners,6,4
+662284,2022-09-09,138,STL,St. Louis Cardinals,134,PIT,Pittsburgh Pirates,2,8
+662333,2022-09-09,145,CWS,Chicago White Sox,133,OAK,Oakland Athletics,5,3
+662637,2022-09-09,116,DET,Detroit Tigers,118,KC,Kansas City Royals,10,2
+662870,2022-09-09,109,AZ,Arizona Diamondbacks,115,COL,Colorado Rockies,10,13
+663217,2022-09-09,137,SF,San Francisco Giants,112,CHC,Chicago Cubs,2,4
+663456,2022-09-09,111,BOS,Boston Red Sox,110,BAL,Baltimore Orioles,2,3
+661084,2022-09-10,108,LAA,Los Angeles Angels,117,HOU,Houston Astros,6,1
+661175,2022-09-10,113,CIN,Cincinnati Reds,158,MIL,Milwaukee Brewers,1,5
+661282,2022-09-10,139,TB,Tampa Bay Rays,147,NYY,New York Yankees,3,10
+661323,2022-09-10,121,NYM,New York Mets,146,MIA,Miami Marlins,11,3
+661593,2022-09-10,120,WSH,Washington Nationals,143,PHI,Philadelphia Phillies,5,8
+661665,2022-09-10,114,CLE,Cleveland Guardians,142,MIN,Minnesota Twins,6,4
+661841,2022-09-10,141,TOR,Toronto Blue Jays,140,TEX,Texas Rangers,11,7
+661849,2022-09-10,119,LAD,Los Angeles Dodgers,135,SD,San Diego Padres,8,4
+662088,2022-09-10,144,ATL,Atlanta Braves,136,SEA,Seattle Mariners,1,3
+662265,2022-09-10,138,STL,St. Louis Cardinals,134,PIT,Pittsburgh Pirates,7,5
+662322,2022-09-10,145,CWS,Chicago White Sox,133,OAK,Oakland Athletics,10,2
+662636,2022-09-10,116,DET,Detroit Tigers,118,KC,Kansas City Royals,8,4
+662869,2022-09-10,109,AZ,Arizona Diamondbacks,115,COL,Colorado Rockies,1,4
+663127,2022-09-10,137,SF,San Francisco Giants,112,CHC,Chicago Cubs,5,2
+663455,2022-09-10,111,BOS,Boston Red Sox,110,BAL,Baltimore Orioles,17,4
+661083,2022-09-11,108,LAA,Los Angeles Angels,117,HOU,Houston Astros,4,12
+661176,2022-09-11,113,CIN,Cincinnati Reds,158,MIL,Milwaukee Brewers,6,7
+661232,2022-09-11,139,TB,Tampa Bay Rays,147,NYY,New York Yankees,4,10
+661322,2022-09-11,121,NYM,New York Mets,146,MIA,Miami Marlins,9,3
+661592,2022-09-11,120,WSH,Washington Nationals,143,PHI,Philadelphia Phillies,5,7
+661647,2022-09-11,114,CLE,Cleveland Guardians,142,MIN,Minnesota Twins,4,1
+661839,2022-09-11,141,TOR,Toronto Blue Jays,140,TEX,Texas Rangers,1,4
+661848,2022-09-11,119,LAD,Los Angeles Dodgers,135,SD,San Diego Padres,11,2
+662120,2022-09-11,144,ATL,Atlanta Braves,136,SEA,Seattle Mariners,7,8
+662323,2022-09-11,145,CWS,Chicago White Sox,133,OAK,Oakland Athletics,3,10
+662325,2022-09-11,138,STL,St. Louis Cardinals,134,PIT,Pittsburgh Pirates,4,3
+662635,2022-09-11,116,DET,Detroit Tigers,118,KC,Kansas City Royals,0,4
+662868,2022-09-11,109,AZ,Arizona Diamondbacks,115,COL,Colorado Rockies,12,6
+663130,2022-09-11,137,SF,San Francisco Giants,112,CHC,Chicago Cubs,4,2
+663264,2022-09-11,111,BOS,Boston Red Sox,110,BAL,Baltimore Orioles,1,0
+661419,2022-09-12,140,TEX,Texas Rangers,146,MIA,Miami Marlins,6,10
+661420,2022-09-12,140,TEX,Texas Rangers,146,MIA,Miami Marlins,3,2
+661799,2022-09-12,139,TB,Tampa Bay Rays,141,TOR,Toronto Blue Jays,2,3
+662029,2022-09-12,144,ATL,Atlanta Braves,137,SF,San Francisco Giants,2,3
+662423,2022-09-12,112,CHC,Chicago Cubs,121,NYM,New York Mets,5,2
+662782,2022-09-12,117,HOU,Houston Astros,116,DET,Detroit Tigers,7,0
+662970,2022-09-12,108,LAA,Los Angeles Angels,114,CLE,Cleveland Guardians,4,5
+663085,2022-09-12,134,PIT,Pittsburgh Pirates,113,CIN,Cincinnati Reds,6,3
+663324,2022-09-12,119,LAD,Los Angeles Dodgers,109,AZ,Arizona Diamondbacks,6,0
+661320,2022-09-13,143,PHI,Philadelphia Phillies,146,MIA,Miami Marlins,2,1
+661436,2022-09-13,115,COL,Colorado Rockies,145,CWS,Chicago White Sox,2,4
+661645,2022-09-13,118,KC,Kansas City Royals,142,MIN,Minnesota Twins,3,6
+661798,2022-09-13,139,TB,Tampa Bay Rays,141,TOR,Toronto Blue Jays,2,7
+661838,2022-09-13,133,OAK,Oakland Athletics,140,TEX,Texas Rangers,7,8
+661840,2022-09-13,139,TB,Tampa Bay Rays,141,TOR,Toronto Blue Jays,4,2
+661922,2022-09-13,158,MIL,Milwaukee Brewers,138,STL,St. Louis Cardinals,8,4
+662028,2022-09-13,144,ATL,Atlanta Braves,137,SF,San Francisco Giants,5,1
+662119,2022-09-13,135,SD,San Diego Padres,136,SEA,Seattle Mariners,2,0
+662430,2022-09-13,112,CHC,Chicago Cubs,121,NYM,New York Mets,4,1
+662464,2022-09-13,110,BAL,Baltimore Orioles,120,WSH,Washington Nationals,4,3
+662787,2022-09-13,117,HOU,Houston Astros,116,DET,Detroit Tigers,6,3
+662965,2022-09-13,108,LAA,Los Angeles Angels,114,CLE,Cleveland Guardians,1,3
+663106,2022-09-13,134,PIT,Pittsburgh Pirates,113,CIN,Cincinnati Reds,1,0
+663158,2022-09-13,134,PIT,Pittsburgh Pirates,113,CIN,Cincinnati Reds,6,1
+663160,2022-09-13,147,NYY,New York Yankees,111,BOS,Boston Red Sox,7,6
+663323,2022-09-13,119,LAD,Los Angeles Dodgers,109,AZ,Arizona Diamondbacks,4,0
+661336,2022-09-14,143,PHI,Philadelphia Phillies,146,MIA,Miami Marlins,6,1
+661435,2022-09-14,115,COL,Colorado Rockies,145,CWS,Chicago White Sox,3,0
+661646,2022-09-14,118,KC,Kansas City Royals,142,MIN,Minnesota Twins,0,4
+661770,2022-09-14,139,TB,Tampa Bay Rays,141,TOR,Toronto Blue Jays,1,5
+661829,2022-09-14,133,OAK,Oakland Athletics,140,TEX,Texas Rangers,8,7
+661921,2022-09-14,158,MIL,Milwaukee Brewers,138,STL,St. Louis Cardinals,1,4
+662027,2022-09-14,144,ATL,Atlanta Braves,137,SF,San Francisco Giants,1,4
+662118,2022-09-14,135,SD,San Diego Padres,136,SEA,Seattle Mariners,1,6
+662422,2022-09-14,112,CHC,Chicago Cubs,121,NYM,New York Mets,6,3
+662463,2022-09-14,110,BAL,Baltimore Orioles,120,WSH,Washington Nationals,6,2
+662792,2022-09-14,117,HOU,Houston Astros,116,DET,Detroit Tigers,2,1
+662969,2022-09-14,108,LAA,Los Angeles Angels,114,CLE,Cleveland Guardians,3,5
+663006,2022-09-14,134,PIT,Pittsburgh Pirates,113,CIN,Cincinnati Reds,10,4
+663159,2022-09-14,147,NYY,New York Yankees,111,BOS,Boston Red Sox,5,3
+663322,2022-09-14,119,LAD,Los Angeles Dodgers,109,AZ,Arizona Diamondbacks,3,5
+661321,2022-09-15,143,PHI,Philadelphia Phillies,146,MIA,Miami Marlins,3,5
+661644,2022-09-15,118,KC,Kansas City Royals,142,MIN,Minnesota Twins,2,3
+661822,2022-09-15,139,TB,Tampa Bay Rays,141,TOR,Toronto Blue Jays,11,0
+661919,2022-09-15,113,CIN,Cincinnati Reds,138,STL,St. Louis Cardinals,3,2
+662398,2022-09-15,134,PIT,Pittsburgh Pirates,121,NYM,New York Mets,1,7
+662709,2022-09-15,133,OAK,Oakland Athletics,117,HOU,Houston Astros,2,5
+662974,2022-09-15,145,CWS,Chicago White Sox,114,CLE,Cleveland Guardians,8,2
+663284,2022-09-15,135,SD,San Diego Padres,109,AZ,Arizona Diamondbacks,0,4
+661164,2022-09-16,147,NYY,New York Yankees,158,MIL,Milwaukee Brewers,6,7
+661473,2022-09-16,143,PHI,Philadelphia Phillies,144,ATL,Atlanta Braves,2,7
+661776,2022-09-16,110,BAL,Baltimore Orioles,141,TOR,Toronto Blue Jays,3,6
+661953,2022-09-16,113,CIN,Cincinnati Reds,138,STL,St. Louis Cardinals,5,6
+662026,2022-09-16,119,LAD,Los Angeles Dodgers,137,SF,San Francisco Giants,5,0
+662064,2022-09-16,140,TEX,Texas Rangers,139,TB,Tampa Bay Rays,4,3
+662404,2022-09-16,134,PIT,Pittsburgh Pirates,121,NYM,New York Mets,3,4
+662490,2022-09-16,146,MIA,Miami Marlins,120,WSH,Washington Nationals,4,5
+662740,2022-09-16,133,OAK,Oakland Athletics,117,HOU,Houston Astros,0,5
+662781,2022-09-16,145,CWS,Chicago White Sox,116,DET,Detroit Tigers,2,3
+662959,2022-09-16,142,MIN,Minnesota Twins,114,CLE,Cleveland Guardians,3,4
+663126,2022-09-16,115,COL,Colorado Rockies,112,CHC,Chicago Cubs,1,2
+663209,2022-09-16,118,KC,Kansas City Royals,111,BOS,Boston Red Sox,1,2
+663283,2022-09-16,135,SD,San Diego Padres,109,AZ,Arizona Diamondbacks,12,3
+663427,2022-09-16,136,SEA,Seattle Mariners,108,LAA,Los Angeles Angels,7,8
+661163,2022-09-17,147,NYY,New York Yankees,158,MIL,Milwaukee Brewers,1,4
+661472,2022-09-17,143,PHI,Philadelphia Phillies,144,ATL,Atlanta Braves,3,4
+661769,2022-09-17,110,BAL,Baltimore Orioles,141,TOR,Toronto Blue Jays,3,6
+661952,2022-09-17,113,CIN,Cincinnati Reds,138,STL,St. Louis Cardinals,0,1
+661965,2022-09-17,113,CIN,Cincinnati Reds,138,STL,St. Louis Cardinals,1,5
+662015,2022-09-17,140,TEX,Texas Rangers,139,TB,Tampa Bay Rays,1,5
+662024,2022-09-17,119,LAD,Los Angeles Dodgers,137,SF,San Francisco Giants,7,2
+662403,2022-09-17,134,PIT,Pittsburgh Pirates,121,NYM,New York Mets,1,5
+662462,2022-09-17,146,MIA,Miami Marlins,120,WSH,Washington Nationals,3,5
+662784,2022-09-17,145,CWS,Chicago White Sox,116,DET,Detroit Tigers,4,3
+662823,2022-09-17,133,OAK,Oakland Athletics,117,HOU,Houston Astros,8,5
+662958,2022-09-17,142,MIN,Minnesota Twins,114,CLE,Cleveland Guardians,6,7
+663129,2022-09-17,115,COL,Colorado Rockies,112,CHC,Chicago Cubs,3,1
+663141,2022-09-17,142,MIN,Minnesota Twins,114,CLE,Cleveland Guardians,1,5
+663208,2022-09-17,118,KC,Kansas City Royals,111,BOS,Boston Red Sox,9,0
+663289,2022-09-17,135,SD,San Diego Padres,109,AZ,Arizona Diamondbacks,2,0
+663426,2022-09-17,136,SEA,Seattle Mariners,108,LAA,Los Angeles Angels,1,2
+661162,2022-09-18,147,NYY,New York Yankees,158,MIL,Milwaukee Brewers,12,8
+661471,2022-09-18,143,PHI,Philadelphia Phillies,144,ATL,Atlanta Braves,2,5
+661780,2022-09-18,110,BAL,Baltimore Orioles,141,TOR,Toronto Blue Jays,5,4
+661930,2022-09-18,113,CIN,Cincinnati Reds,138,STL,St. Louis Cardinals,3,0
+661994,2022-09-18,140,TEX,Texas Rangers,139,TB,Tampa Bay Rays,3,5
+662025,2022-09-18,119,LAD,Los Angeles Dodgers,137,SF,San Francisco Giants,4,3
+662402,2022-09-18,134,PIT,Pittsburgh Pirates,121,NYM,New York Mets,3,7
+662461,2022-09-18,146,MIA,Miami Marlins,120,WSH,Washington Nationals,3,1
+662783,2022-09-18,145,CWS,Chicago White Sox,116,DET,Detroit Tigers,11,5
+662822,2022-09-18,133,OAK,Oakland Athletics,117,HOU,Houston Astros,2,11
+662968,2022-09-18,142,MIN,Minnesota Twins,114,CLE,Cleveland Guardians,3,0
+663112,2022-09-18,115,COL,Colorado Rockies,112,CHC,Chicago Cubs,4,3
+663207,2022-09-18,118,KC,Kansas City Royals,111,BOS,Boston Red Sox,3,13
+663287,2022-09-18,135,SD,San Diego Padres,109,AZ,Arizona Diamondbacks,6,1
+663425,2022-09-18,136,SEA,Seattle Mariners,108,LAA,Los Angeles Angels,1,5
+661161,2022-09-19,121,NYM,New York Mets,158,MIL,Milwaukee Brewers,7,2
+661299,2022-09-19,112,CHC,Chicago Cubs,146,MIA,Miami Marlins,3,10
+661470,2022-09-19,120,WSH,Washington Nationals,144,ATL,Atlanta Braves,2,5
+662013,2022-09-19,117,HOU,Houston Astros,139,TB,Tampa Bay Rays,4,0
+662622,2022-09-19,109,AZ,Arizona Diamondbacks,119,LAD,Los Angeles Dodgers,2,5
+662886,2022-09-19,137,SF,San Francisco Giants,115,COL,Colorado Rockies,10,7
+663044,2022-09-19,142,MIN,Minnesota Twins,114,CLE,Cleveland Guardians,4,11
+663263,2022-09-19,116,DET,Detroit Tigers,110,BAL,Baltimore Orioles,11,0
+663423,2022-09-19,136,SEA,Seattle Mariners,108,LAA,Los Angeles Angels,9,1
+661159,2022-09-20,121,NYM,New York Mets,158,MIL,Milwaukee Brewers,7,5
+661229,2022-09-20,134,PIT,Pittsburgh Pirates,147,NYY,New York Yankees,8,9
+661298,2022-09-20,112,CHC,Chicago Cubs,146,MIA,Miami Marlins,2,1
+661434,2022-09-20,114,CLE,Cleveland Guardians,145,CWS,Chicago White Sox,10,7
+661469,2022-09-20,120,WSH,Washington Nationals,144,ATL,Atlanta Braves,2,3
+661591,2022-09-20,141,TOR,Toronto Blue Jays,143,PHI,Philadelphia Phillies,18,11
+661837,2022-09-20,108,LAA,Los Angeles Angels,140,TEX,Texas Rangers,5,2
+662012,2022-09-20,117,HOU,Houston Astros,139,TB,Tampa Bay Rays,5,0
+662204,2022-09-20,138,STL,St. Louis Cardinals,135,SD,San Diego Padres,0,5
+662321,2022-09-20,136,SEA,Seattle Mariners,133,OAK,Oakland Athletics,1,4
+662607,2022-09-20,109,AZ,Arizona Diamondbacks,119,LAD,Los Angeles Dodgers,5,2
+662621,2022-09-20,109,AZ,Arizona Diamondbacks,119,LAD,Los Angeles Dodgers,5,6
+662634,2022-09-20,142,MIN,Minnesota Twins,118,KC,Kansas City Royals,4,5
+662867,2022-09-20,137,SF,San Francisco Giants,115,COL,Colorado Rockies,6,3
+663104,2022-09-20,111,BOS,Boston Red Sox,113,CIN,Cincinnati Reds,5,3
+663262,2022-09-20,116,DET,Detroit Tigers,110,BAL,Baltimore Orioles,3,2
+661070,2022-09-21,111,BOS,Boston Red Sox,113,CIN,Cincinnati Reds,1,5
+661158,2022-09-21,121,NYM,New York Mets,158,MIL,Milwaukee Brewers,0,6
+661228,2022-09-21,134,PIT,Pittsburgh Pirates,147,NYY,New York Yankees,2,14
+661297,2022-09-21,112,CHC,Chicago Cubs,146,MIA,Miami Marlins,4,3
+661433,2022-09-21,114,CLE,Cleveland Guardians,145,CWS,Chicago White Sox,8,2
+661468,2022-09-21,120,WSH,Washington Nationals,144,ATL,Atlanta Braves,3,2
+661588,2022-09-21,141,TOR,Toronto Blue Jays,143,PHI,Philadelphia Phillies,3,4
+661783,2022-09-21,108,LAA,Los Angeles Angels,140,TEX,Texas Rangers,2,7
+662011,2022-09-21,117,HOU,Houston Astros,139,TB,Tampa Bay Rays,5,2
+662203,2022-09-21,138,STL,St. Louis Cardinals,135,SD,San Diego Padres,0,1
+662320,2022-09-21,136,SEA,Seattle Mariners,133,OAK,Oakland Athletics,1,2
+662606,2022-09-21,109,AZ,Arizona Diamondbacks,119,LAD,Los Angeles Dodgers,6,1
+662633,2022-09-21,142,MIN,Minnesota Twins,118,KC,Kansas City Royals,2,5
+662899,2022-09-21,137,SF,San Francisco Giants,115,COL,Colorado Rockies,6,1
+663261,2022-09-21,116,DET,Detroit Tigers,110,BAL,Baltimore Orioles,1,8
+661069,2022-09-22,158,MIL,Milwaukee Brewers,113,CIN,Cincinnati Reds,5,1
+661243,2022-09-22,111,BOS,Boston Red Sox,147,NYY,New York Yankees,4,5
+661432,2022-09-22,114,CLE,Cleveland Guardians,145,CWS,Chicago White Sox,4,2
+661609,2022-09-22,144,ATL,Atlanta Braves,143,PHI,Philadelphia Phillies,0,1
+661806,2022-09-22,108,LAA,Los Angeles Angels,140,TEX,Texas Rangers,3,5
+662041,2022-09-22,141,TOR,Toronto Blue Jays,139,TB,Tampa Bay Rays,5,10
+662202,2022-09-22,138,STL,St. Louis Cardinals,135,SD,San Diego Padres,5,4
+662264,2022-09-22,112,CHC,Chicago Cubs,134,PIT,Pittsburgh Pirates,3,2
+662306,2022-09-22,136,SEA,Seattle Mariners,133,OAK,Oakland Athletics,9,5
+662586,2022-09-22,109,AZ,Arizona Diamondbacks,119,LAD,Los Angeles Dodgers,2,3
+662632,2022-09-22,142,MIN,Minnesota Twins,118,KC,Kansas City Royals,1,4
+662898,2022-09-22,137,SF,San Francisco Giants,115,COL,Colorado Rockies,3,0
+663260,2022-09-22,117,HOU,Houston Astros,110,BAL,Baltimore Orioles,0,2
+661068,2022-09-23,158,MIL,Milwaukee Brewers,113,CIN,Cincinnati Reds,5,3
+661222,2022-09-23,111,BOS,Boston Red Sox,147,NYY,New York Yankees,4,5
+661296,2022-09-23,120,WSH,Washington Nationals,146,MIA,Miami Marlins,2,5
+661431,2022-09-23,116,DET,Detroit Tigers,145,CWS,Chicago White Sox,5,3
+661587,2022-09-23,144,ATL,Atlanta Braves,143,PHI,Philadelphia Phillies,1,9
+661668,2022-09-23,108,LAA,Los Angeles Angels,142,MIN,Minnesota Twins,4,2
+661807,2022-09-23,114,CLE,Cleveland Guardians,140,TEX,Texas Rangers,6,3
+662040,2022-09-23,141,TOR,Toronto Blue Jays,139,TB,Tampa Bay Rays,6,10
+662263,2022-09-23,112,CHC,Chicago Cubs,134,PIT,Pittsburgh Pirates,6,5
+662305,2022-09-23,121,NYM,New York Mets,133,OAK,Oakland Athletics,9,2
+662585,2022-09-23,138,STL,St. Louis Cardinals,119,LAD,Los Angeles Dodgers,11,0
+662642,2022-09-23,136,SEA,Seattle Mariners,118,KC,Kansas City Royals,1,5
+662897,2022-09-23,135,SD,San Diego Padres,115,COL,Colorado Rockies,3,4
+663259,2022-09-23,117,HOU,Houston Astros,110,BAL,Baltimore Orioles,0,6
+663282,2022-09-23,137,SF,San Francisco Giants,109,AZ,Arizona Diamondbacks,6,5
+661067,2022-09-24,158,MIL,Milwaukee Brewers,113,CIN,Cincinnati Reds,10,2
+661221,2022-09-24,111,BOS,Boston Red Sox,147,NYY,New York Yankees,5,7
+661295,2022-09-24,120,WSH,Washington Nationals,146,MIA,Miami Marlins,1,4
+661430,2022-09-24,116,DET,Detroit Tigers,145,CWS,Chicago White Sox,7,2
+661586,2022-09-24,144,ATL,Atlanta Braves,143,PHI,Philadelphia Phillies,6,3
+661656,2022-09-24,108,LAA,Los Angeles Angels,142,MIN,Minnesota Twins,4,8
+661805,2022-09-24,114,CLE,Cleveland Guardians,140,TEX,Texas Rangers,4,2
+662039,2022-09-24,141,TOR,Toronto Blue Jays,139,TB,Tampa Bay Rays,3,1
+662249,2022-09-24,112,CHC,Chicago Cubs,134,PIT,Pittsburgh Pirates,0,6
+662311,2022-09-24,121,NYM,New York Mets,133,OAK,Oakland Athletics,4,10
+662584,2022-09-24,138,STL,St. Louis Cardinals,119,LAD,Los Angeles Dodgers,2,6
+662641,2022-09-24,136,SEA,Seattle Mariners,118,KC,Kansas City Royals,6,5
+662866,2022-09-24,135,SD,San Diego Padres,115,COL,Colorado Rockies,9,3
+663258,2022-09-24,117,HOU,Houston Astros,110,BAL,Baltimore Orioles,11,10
+663281,2022-09-24,137,SF,San Francisco Giants,109,AZ,Arizona Diamondbacks,2,5
+661066,2022-09-25,158,MIL,Milwaukee Brewers,113,CIN,Cincinnati Reds,1,2
+661220,2022-09-25,111,BOS,Boston Red Sox,147,NYY,New York Yankees,0,2
+661294,2022-09-25,120,WSH,Washington Nationals,146,MIA,Miami Marlins,6,1
+661429,2022-09-25,116,DET,Detroit Tigers,145,CWS,Chicago White Sox,4,1
+661585,2022-09-25,144,ATL,Atlanta Braves,143,PHI,Philadelphia Phillies,8,7
+661667,2022-09-25,108,LAA,Los Angeles Angels,142,MIN,Minnesota Twins,10,3
+661828,2022-09-25,114,CLE,Cleveland Guardians,140,TEX,Texas Rangers,10,4
+662063,2022-09-25,141,TOR,Toronto Blue Jays,139,TB,Tampa Bay Rays,7,1
+662243,2022-09-25,112,CHC,Chicago Cubs,134,PIT,Pittsburgh Pirates,8,3
+662310,2022-09-25,121,NYM,New York Mets,133,OAK,Oakland Athletics,13,4
+662598,2022-09-25,138,STL,St. Louis Cardinals,119,LAD,Los Angeles Dodgers,1,4
+662631,2022-09-25,136,SEA,Seattle Mariners,118,KC,Kansas City Royals,12,13
+662865,2022-09-25,135,SD,San Diego Padres,115,COL,Colorado Rockies,13,6
+663280,2022-09-25,137,SF,San Francisco Giants,109,AZ,Arizona Diamondbacks,3,2
+663454,2022-09-25,117,HOU,Houston Astros,110,BAL,Baltimore Orioles,6,3
+661768,2022-09-26,147,NYY,New York Yankees,141,TOR,Toronto Blue Jays,2,3
+662242,2022-09-26,113,CIN,Cincinnati Reds,134,PIT,Pittsburgh Pirates,3,8
+662460,2022-09-26,144,ATL,Atlanta Braves,120,WSH,Washington Nationals,8,0
+663250,2022-09-26,110,BAL,Baltimore Orioles,111,BOS,Boston Red Sox,14,8
+661155,2022-09-27,138,STL,St. Louis Cardinals,158,MIL,Milwaukee Brewers,6,2
+661666,2022-09-27,145,CWS,Chicago White Sox,142,MIN,Minnesota Twins,0,4
+661778,2022-09-27,147,NYY,New York Yankees,141,TOR,Toronto Blue Jays,5,2
+662046,2022-09-27,115,COL,Colorado Rockies,137,SF,San Francisco Giants,2,5
+662117,2022-09-27,140,TEX,Texas Rangers,136,SEA,Seattle Mariners,5,0
+662210,2022-09-27,119,LAD,Los Angeles Dodgers,135,SD,San Diego Padres,3,4
+662241,2022-09-27,113,CIN,Cincinnati Reds,134,PIT,Pittsburgh Pirates,1,4
+662401,2022-09-27,146,MIA,Miami Marlins,121,NYM,New York Mets,6,4
+662489,2022-09-27,144,ATL,Atlanta Braves,120,WSH,Washington Nationals,8,2
+662774,2022-09-27,118,KC,Kansas City Royals,116,DET,Detroit Tigers,3,4
+662821,2022-09-27,109,AZ,Arizona Diamondbacks,117,HOU,Houston Astros,2,10
+662955,2022-09-27,139,TB,Tampa Bay Rays,114,CLE,Cleveland Guardians,6,5
+663128,2022-09-27,143,PHI,Philadelphia Phillies,112,CHC,Chicago Cubs,1,2
+663206,2022-09-27,110,BAL,Baltimore Orioles,111,BOS,Boston Red Sox,9,13
+663422,2022-09-27,133,OAK,Oakland Athletics,108,LAA,Los Angeles Angels,3,4
+661099,2022-09-28,144,ATL,Atlanta Braves,120,WSH,Washington Nationals,2,3
+661112,2022-09-28,140,TEX,Texas Rangers,136,SEA,Seattle Mariners,1,3
+661133,2022-09-28,145,CWS,Chicago White Sox,142,MIN,Minnesota Twins,4,8
+661154,2022-09-28,138,STL,St. Louis Cardinals,158,MIL,Milwaukee Brewers,1,5
+661737,2022-09-28,147,NYY,New York Yankees,141,TOR,Toronto Blue Jays,8,3
+662045,2022-09-28,115,COL,Colorado Rockies,137,SF,San Francisco Giants,3,6
+662214,2022-09-28,119,LAD,Los Angeles Dodgers,135,SD,San Diego Padres,1,0
+662240,2022-09-28,113,CIN,Cincinnati Reds,134,PIT,Pittsburgh Pirates,3,4
+662400,2022-09-28,146,MIA,Miami Marlins,121,NYM,New York Mets,4,5
+662773,2022-09-28,118,KC,Kansas City Royals,116,DET,Detroit Tigers,1,2
+662820,2022-09-28,109,AZ,Arizona Diamondbacks,117,HOU,Houston Astros,5,2
+662967,2022-09-28,139,TB,Tampa Bay Rays,114,CLE,Cleveland Guardians,1,2
+663098,2022-09-28,143,PHI,Philadelphia Phillies,112,CHC,Chicago Cubs,2,4
+663181,2022-09-28,110,BAL,Baltimore Orioles,111,BOS,Boston Red Sox,1,3
+663421,2022-09-28,133,OAK,Oakland Athletics,108,LAA,Los Angeles Angels,1,4
+661128,2022-09-29,140,TEX,Texas Rangers,136,SEA,Seattle Mariners,9,10
+661132,2022-09-29,145,CWS,Chicago White Sox,142,MIN,Minnesota Twins,4,3
+661156,2022-09-29,146,MIA,Miami Marlins,158,MIL,Milwaukee Brewers,4,2
+662050,2022-09-29,115,COL,Colorado Rockies,137,SF,San Francisco Giants,4,6
+662209,2022-09-29,119,LAD,Los Angeles Dodgers,135,SD,San Diego Padres,5,2
+662772,2022-09-29,118,KC,Kansas City Royals,116,DET,Detroit Tigers,3,10
+662932,2022-09-29,139,TB,Tampa Bay Rays,114,CLE,Cleveland Guardians,1,2
+663110,2022-09-29,143,PHI,Philadelphia Phillies,112,CHC,Chicago Cubs,0,2
+663180,2022-09-29,110,BAL,Baltimore Orioles,111,BOS,Boston Red Sox,3,5
+663420,2022-09-29,133,OAK,Oakland Athletics,108,LAA,Los Angeles Angels,2,4
+661097,2022-09-30,143,PHI,Philadelphia Phillies,120,WSH,Washington Nationals,5,1
+661111,2022-09-30,133,OAK,Oakland Athletics,136,SEA,Seattle Mariners,1,2
+661157,2022-09-30,146,MIA,Miami Marlins,158,MIL,Milwaukee Brewers,0,1
+661218,2022-09-30,110,BAL,Baltimore Orioles,147,NYY,New York Yankees,2,1
+661467,2022-09-30,121,NYM,New York Mets,144,ATL,Atlanta Braves,2,5
+661751,2022-09-30,111,BOS,Boston Red Sox,141,TOR,Toronto Blue Jays,0,9
+661958,2022-09-30,134,PIT,Pittsburgh Pirates,138,STL,St. Louis Cardinals,1,2
+662049,2022-09-30,109,AZ,Arizona Diamondbacks,137,SF,San Francisco Giants,4,10
+662208,2022-09-30,145,CWS,Chicago White Sox,135,SD,San Diego Padres,3,1
+662596,2022-09-30,115,COL,Colorado Rockies,119,LAD,Los Angeles Dodgers,1,10
+662771,2022-09-30,142,MIN,Minnesota Twins,116,DET,Detroit Tigers,7,0
+662819,2022-09-30,139,TB,Tampa Bay Rays,117,HOU,Houston Astros,7,3
+662940,2022-09-30,118,KC,Kansas City Royals,114,CLE,Cleveland Guardians,3,6
+663099,2022-09-30,113,CIN,Cincinnati Reds,112,CHC,Chicago Cubs,1,6
+663406,2022-09-30,140,TEX,Texas Rangers,108,LAA,Los Angeles Angels,1,4
+661098,2022-10-01,143,PHI,Philadelphia Phillies,120,WSH,Washington Nationals,8,2
+661110,2022-10-01,133,OAK,Oakland Athletics,136,SEA,Seattle Mariners,1,5
+661152,2022-10-01,146,MIA,Miami Marlins,158,MIL,Milwaukee Brewers,4,3
+661217,2022-10-01,110,BAL,Baltimore Orioles,147,NYY,New York Yankees,0,8
+661466,2022-10-01,121,NYM,New York Mets,144,ATL,Atlanta Braves,2,4
+661736,2022-10-01,111,BOS,Boston Red Sox,141,TOR,Toronto Blue Jays,0,10
+661956,2022-10-01,134,PIT,Pittsburgh Pirates,138,STL,St. Louis Cardinals,3,13
+662023,2022-10-01,109,AZ,Arizona Diamondbacks,137,SF,San Francisco Giants,8,4
+662207,2022-10-01,145,CWS,Chicago White Sox,135,SD,San Diego Padres,2,5
+662572,2022-10-01,143,PHI,Philadelphia Phillies,120,WSH,Washington Nationals,4,13
+662595,2022-10-01,115,COL,Colorado Rockies,119,LAD,Los Angeles Dodgers,4,6
+662770,2022-10-01,142,MIN,Minnesota Twins,116,DET,Detroit Tigers,2,3
+662818,2022-10-01,139,TB,Tampa Bay Rays,117,HOU,Houston Astros,1,2
+662939,2022-10-01,118,KC,Kansas City Royals,114,CLE,Cleveland Guardians,7,1
+663167,2022-10-01,113,CIN,Cincinnati Reds,112,CHC,Chicago Cubs,1,2
+663405,2022-10-01,140,TEX,Texas Rangers,108,LAA,Los Angeles Angels,2,3
+661096,2022-10-02,143,PHI,Philadelphia Phillies,120,WSH,Washington Nationals,8,1
+661153,2022-10-02,146,MIA,Miami Marlins,158,MIL,Milwaukee Brewers,4,3
+661215,2022-10-02,110,BAL,Baltimore Orioles,147,NYY,New York Yankees,3,1
+661465,2022-10-02,121,NYM,New York Mets,144,ATL,Atlanta Braves,3,5
+661735,2022-10-02,111,BOS,Boston Red Sox,141,TOR,Toronto Blue Jays,3,6
+661954,2022-10-02,134,PIT,Pittsburgh Pirates,138,STL,St. Louis Cardinals,7,5
+662022,2022-10-02,109,AZ,Arizona Diamondbacks,137,SF,San Francisco Giants,3,4
+662087,2022-10-02,133,OAK,Oakland Athletics,136,SEA,Seattle Mariners,10,3
+662190,2022-10-02,145,CWS,Chicago White Sox,135,SD,San Diego Padres,2,1
+662581,2022-10-02,115,COL,Colorado Rockies,119,LAD,Los Angeles Dodgers,4,1
+662769,2022-10-02,142,MIN,Minnesota Twins,116,DET,Detroit Tigers,2,5
+662825,2022-10-02,139,TB,Tampa Bay Rays,117,HOU,Houston Astros,1,3
+662938,2022-10-02,118,KC,Kansas City Royals,114,CLE,Cleveland Guardians,5,7
+663097,2022-10-02,113,CIN,Cincinnati Reds,112,CHC,Chicago Cubs,1,8
+663419,2022-10-02,140,TEX,Texas Rangers,108,LAA,Los Angeles Angels,3,8
+661213,2022-10-03,109,AZ,Arizona Diamondbacks,158,MIL,Milwaukee Brewers,5,6
+661424,2022-10-03,144,ATL,Atlanta Braves,146,MIA,Miami Marlins,0,4
+661464,2022-10-03,142,MIN,Minnesota Twins,145,CWS,Chicago White Sox,2,3
+662044,2022-10-03,147,NYY,New York Yankees,140,TEX,Texas Rangers,3,1
+662201,2022-10-03,116,DET,Detroit Tigers,136,SEA,Seattle Mariners,4,3
+662239,2022-10-03,137,SF,San Francisco Giants,135,SD,San Diego Padres,4,7
+662309,2022-10-03,138,STL,St. Louis Cardinals,134,PIT,Pittsburgh Pirates,2,3
+662431,2022-10-03,108,LAA,Los Angeles Angels,133,OAK,Oakland Athletics,4,5
+662629,2022-10-03,115,COL,Colorado Rockies,119,LAD,Los Angeles Dodgers,2,1
+662777,2022-10-03,143,PHI,Philadelphia Phillies,117,HOU,Houston Astros,3,0
+663096,2022-10-03,112,CHC,Chicago Cubs,113,CIN,Cincinnati Reds,1,3
+663105,2022-10-03,118,KC,Kansas City Royals,114,CLE,Cleveland Guardians,5,2
+663273,2022-10-03,141,TOR,Toronto Blue Jays,110,BAL,Baltimore Orioles,5,1
+663453,2022-10-03,139,TB,Tampa Bay Rays,111,BOS,Boston Red Sox,3,4
+661094,2022-10-04,120,WSH,Washington Nationals,121,NYM,New York Mets,2,4
+661095,2022-10-04,120,WSH,Washington Nationals,121,NYM,New York Mets,0,8
+661223,2022-10-04,109,AZ,Arizona Diamondbacks,158,MIL,Milwaukee Brewers,0,3
+661423,2022-10-04,144,ATL,Atlanta Braves,146,MIA,Miami Marlins,2,1
+661463,2022-10-04,142,MIN,Minnesota Twins,145,CWS,Chicago White Sox,3,8
+662010,2022-10-04,147,NYY,New York Yankees,140,TEX,Texas Rangers,2,3
+662062,2022-10-04,147,NYY,New York Yankees,140,TEX,Texas Rangers,5,4
+662199,2022-10-04,116,DET,Detroit Tigers,136,SEA,Seattle Mariners,6,9
+662200,2022-10-04,116,DET,Detroit Tigers,136,SEA,Seattle Mariners,6,7
+662252,2022-10-04,137,SF,San Francisco Giants,135,SD,San Diego Padres,2,6
+662319,2022-10-04,138,STL,St. Louis Cardinals,134,PIT,Pittsburgh Pirates,8,7
+662429,2022-10-04,108,LAA,Los Angeles Angels,133,OAK,Oakland Athletics,1,2
+662624,2022-10-04,115,COL,Colorado Rockies,119,LAD,Los Angeles Dodgers,5,2
+662768,2022-10-04,143,PHI,Philadelphia Phillies,117,HOU,Houston Astros,0,10
+663077,2022-10-04,118,KC,Kansas City Royals,114,CLE,Cleveland Guardians,3,5
+663243,2022-10-04,112,CHC,Chicago Cubs,113,CIN,Cincinnati Reds,2,3
+663452,2022-10-04,139,TB,Tampa Bay Rays,111,BOS,Boston Red Sox,0,6
+661227,2022-10-05,109,AZ,Arizona Diamondbacks,158,MIL,Milwaukee Brewers,4,2
+661422,2022-10-05,144,ATL,Atlanta Braves,146,MIA,Miami Marlins,9,12
+661427,2022-10-05,142,MIN,Minnesota Twins,145,CWS,Chicago White Sox,10,1
+661996,2022-10-05,147,NYY,New York Yankees,140,TEX,Texas Rangers,2,4
+662195,2022-10-05,116,DET,Detroit Tigers,136,SEA,Seattle Mariners,4,5
+662238,2022-10-05,137,SF,San Francisco Giants,135,SD,San Diego Padres,8,1
+662304,2022-10-05,138,STL,St. Louis Cardinals,134,PIT,Pittsburgh Pirates,3,5
+662421,2022-10-05,108,LAA,Los Angeles Angels,133,OAK,Oakland Athletics,2,3
+662488,2022-10-05,120,WSH,Washington Nationals,121,NYM,New York Mets,2,9
+662623,2022-10-05,115,COL,Colorado Rockies,119,LAD,Los Angeles Dodgers,1,6
+662789,2022-10-05,143,PHI,Philadelphia Phillies,117,HOU,Houston Astros,2,3
+663095,2022-10-05,118,KC,Kansas City Royals,114,CLE,Cleveland Guardians,2,9
+663131,2022-10-05,112,CHC,Chicago Cubs,113,CIN,Cincinnati Reds,15,2
+663272,2022-10-05,141,TOR,Toronto Blue Jays,110,BAL,Baltimore Orioles,5,1
+663352,2022-10-05,139,TB,Tampa Bay Rays,111,BOS,Boston Red Sox,3,6
+663451,2022-10-05,141,TOR,Toronto Blue Jays,110,BAL,Baltimore Orioles,4,5

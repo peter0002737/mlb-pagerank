@@ -15,17 +15,20 @@
 單場勝率 = PR(A) / (PR(A) + PR(B))、兩隊都打滿 10 場才計分。
 選參數用「留一球季交叉驗證」：用其他 5 季挑參數，在剩下那一季打分數。
 
-執行： python3 damping_methods_backtest.py   （需先有 mlb_games_2021–2026.csv 快取）
+執行： python3 damping_methods_backtest.py [起始年 結束年]   （預設 2021 2026；需先有對應的 mlb_games_YYYY.csv 快取）
 """
 import csv
 import itertools
 import os
+import sys
 
 import numpy as np
 
 import damping_backtest as b
 
-SEASONS = [2021, 2022, 2023, 2024, 2025, 2026]
+# 可用參數指定球季範圍，例如 python3 damping_methods_backtest.py 2016 2026
+FIRST, LAST = (int(sys.argv[1]), int(sys.argv[2])) if len(sys.argv) == 3 else (2021, 2026)
+SEASONS = list(range(FIRST, LAST + 1))
 MIN_GAMES = 10
 
 ALPHA = np.round(np.concatenate([np.arange(0.05, 0.95, 0.05), [0.95, 0.97, 0.99]]), 3)
@@ -99,6 +102,8 @@ def all_ratings(AH, AA, W, L):
     T = T + stay[:, :, None] * np.eye(n)[None]
     empty = (A.sum(axis=1) + Wm.sum(axis=1)) == 0
     T[:, empty, :] = 1.0 / n
+    # 極小的均勻跳轉：網絡不連通時（例如 2020 年只打同區）仍有唯一穩態，對其他年份幾乎沒有影響
+    T = (1 - 1e-4) * T + 1e-4 / n
     out.append(stationary(T))
     return np.vstack(out)
 
@@ -154,7 +159,7 @@ def main():
     print(f'\n{SEASONS[0]}–{SEASONS[-1]} 共 {N} 場（兩隊皆 ≥ {MIN_GAMES} 場）')
     print(f'對照：勝率較高者勝（log5） 命中率 {sum(r["pct_hits"] for r in res) / N:.4f}，'
           f'log loss {sum(r["pct_ll"] for r in res) / N:.5f}；丟銅板 log loss {np.log(2):.5f}\n')
-    print(f'{"方法":<10} {"六季最佳參數":<14} {"log loss":>9} {"命中率":>7}   {"樣本外 log loss":>14} {"樣本外命中率":>11}   各季挑出的參數')
+    print(f'{"方法":<10} {f"{len(SEASONS)}季最佳參數":<14} {"log loss":>9} {"命中率":>7}   {"樣本外 log loss":>14} {"樣本外命中率":>11}   各季挑出的參數')
     for name, params in METHODS:
         sl = slice(start, start + len(params))
         start += len(params)
@@ -172,7 +177,8 @@ def main():
         rows.append([name, params[best], f'{l_all[best]:.6f}', f'{h_all[best]:.5f}',
                      f'{cv_l / N:.6f}', f'{cv_h / N:.5f}', ' / '.join(picks)]
                     + [f'{r["ll"][sl][best] / r["n"]:.6f}' for r in res])
-    out = os.path.join(b.HERE, 'damping_methods_results.csv')
+    name = 'damping_methods_results.csv' if (FIRST, LAST) == (2021, 2026) else f'damping_methods_results_{FIRST}_{LAST}.csv'
+    out = os.path.join(b.HERE, name)
     with open(out, 'w', newline='') as f:
         w = csv.writer(f)
         w.writerow(['method', 'best_param_2021_2026', 'logloss', 'accuracy', 'cv_logloss', 'cv_accuracy',

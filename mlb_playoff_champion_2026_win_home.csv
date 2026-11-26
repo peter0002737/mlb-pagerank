@@ -1,0 +1,13 @@
+team,abbr,wins,losses,pagerank_rank,p_champion_pagerank,p_champion_winpct,p_champion_coin,actual_champion
+Milwaukee Brewers,MIL,103,59,1,0.1548,0.2507,0.1250,1
+Tampa Bay Rays,TB,98,64,3,0.1418,0.1980,0.1250,0
+Los Angeles Dodgers,LAD,100,62,2,0.1371,0.1920,0.1250,0
+Cleveland Guardians,CLE,85,77,12,0.1073,0.0624,0.1250,0
+Atlanta Braves,ATL,94,68,4,0.0652,0.0556,0.0625,0
+New York Yankees,NYY,93,68,5,0.0650,0.0684,0.0625,0
+Boston Red Sox,BOS,87,75,8,0.0587,0.0308,0.0625,0
+Chicago Cubs,CHC,89,73,6,0.0586,0.0300,0.0625,0
+San Diego Padres,SD,91,71,7,0.0555,0.0388,0.0625,0
+Philadelphia Phillies,PHI,88,74,9,0.0542,0.0261,0.0625,0
+Chicago White Sox,CWS,84,78,13,0.0525,0.0284,0.0625,0
+Houston Astros,HOU,81,81,17,0.0493,0.0188,0.0625,0

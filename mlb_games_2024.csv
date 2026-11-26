@@ -1,0 +1,2430 @@
+gamePk,date,away_id,away_abbr,away_name,home_id,home_abbr,home_name,away_score,home_score
+745444,2024-03-20,119,LAD,Los Angeles Dodgers,135,SD,San Diego Padres,5,2
+746175,2024-03-21,135,SD,San Diego Padres,119,LAD,Los Angeles Dodgers,15,11
+745039,2024-03-28,112,CHC,Chicago Cubs,140,TEX,Texas Rangers,3,4
+745116,2024-03-28,141,TOR,Toronto Blue Jays,139,TB,Tampa Bay Rays,8,2
+745283,2024-03-28,111,BOS,Boston Red Sox,136,SEA,Seattle Mariners,6,4
+745445,2024-03-28,137,SF,San Francisco Giants,135,SD,San Diego Padres,4,6
+745687,2024-03-28,114,CLE,Cleveland Guardians,133,OAK,Oakland Athletics,8,0
+746089,2024-03-28,134,PIT,Pittsburgh Pirates,146,MIA,Miami Marlins,6,5
+746165,2024-03-28,138,STL,St. Louis Cardinals,119,LAD,Los Angeles Dodgers,1,7
+746335,2024-03-28,142,MIN,Minnesota Twins,118,KC,Kansas City Royals,4,1
+746418,2024-03-28,147,NYY,New York Yankees,117,HOU,Houston Astros,5,4
+746737,2024-03-28,120,WSH,Washington Nationals,113,CIN,Cincinnati Reds,2,8
+746821,2024-03-28,116,DET,Detroit Tigers,145,CWS,Chicago White Sox,1,0
+747060,2024-03-28,108,LAA,Los Angeles Angels,110,BAL,Baltimore Orioles,3,11
+747224,2024-03-28,115,COL,Colorado Rockies,109,AZ,Arizona Diamondbacks,1,16
+745117,2024-03-29,141,TOR,Toronto Blue Jays,139,TB,Tampa Bay Rays,2,8
+745276,2024-03-29,111,BOS,Boston Red Sox,136,SEA,Seattle Mariners,0,1
+745435,2024-03-29,137,SF,San Francisco Giants,135,SD,San Diego Padres,8,3
+745604,2024-03-29,144,ATL,Atlanta Braves,143,PHI,Philadelphia Phillies,9,3
+745682,2024-03-29,114,CLE,Cleveland Guardians,133,OAK,Oakland Athletics,6,4
+745848,2024-03-29,158,MIL,Milwaukee Brewers,121,NYM,New York Mets,3,1
+746091,2024-03-29,134,PIT,Pittsburgh Pirates,146,MIA,Miami Marlins,7,2
+746167,2024-03-29,138,STL,St. Louis Cardinals,119,LAD,Los Angeles Dodgers,3,6
+746412,2024-03-29,147,NYY,New York Yankees,117,HOU,Houston Astros,7,1
+747223,2024-03-29,115,COL,Colorado Rockies,109,AZ,Arizona Diamondbacks,3,7
+745037,2024-03-30,112,CHC,Chicago Cubs,140,TEX,Texas Rangers,2,11
+745119,2024-03-30,141,TOR,Toronto Blue Jays,139,TB,Tampa Bay Rays,1,5
+745278,2024-03-30,111,BOS,Boston Red Sox,136,SEA,Seattle Mariners,3,4
+745436,2024-03-30,137,SF,San Francisco Giants,135,SD,San Diego Padres,9,6
+745599,2024-03-30,144,ATL,Atlanta Braves,143,PHI,Philadelphia Phillies,12,4
+745684,2024-03-30,114,CLE,Cleveland Guardians,133,OAK,Oakland Athletics,12,3
+745850,2024-03-30,158,MIL,Milwaukee Brewers,121,NYM,New York Mets,7,6
+746087,2024-03-30,134,PIT,Pittsburgh Pirates,146,MIA,Miami Marlins,9,3
+746168,2024-03-30,138,STL,St. Louis Cardinals,119,LAD,Los Angeles Dodgers,6,5
+746333,2024-03-30,142,MIN,Minnesota Twins,118,KC,Kansas City Royals,5,1
+746410,2024-03-30,147,NYY,New York Yankees,117,HOU,Houston Astros,5,3
+746736,2024-03-30,120,WSH,Washington Nationals,113,CIN,Cincinnati Reds,7,6
+746818,2024-03-30,116,DET,Detroit Tigers,145,CWS,Chicago White Sox,7,6
+747063,2024-03-30,108,LAA,Los Angeles Angels,110,BAL,Baltimore Orioles,4,13
+747221,2024-03-30,115,COL,Colorado Rockies,109,AZ,Arizona Diamondbacks,9,4
+745035,2024-03-31,112,CHC,Chicago Cubs,140,TEX,Texas Rangers,9,5
+745115,2024-03-31,141,TOR,Toronto Blue Jays,139,TB,Tampa Bay Rays,9,2
+745279,2024-03-31,111,BOS,Boston Red Sox,136,SEA,Seattle Mariners,5,1
+745438,2024-03-31,137,SF,San Francisco Giants,135,SD,San Diego Padres,4,13
+745602,2024-03-31,144,ATL,Atlanta Braves,143,PHI,Philadelphia Phillies,4,5
+745683,2024-03-31,114,CLE,Cleveland Guardians,133,OAK,Oakland Athletics,3,4
+745845,2024-03-31,158,MIL,Milwaukee Brewers,121,NYM,New York Mets,4,1
+746090,2024-03-31,134,PIT,Pittsburgh Pirates,146,MIA,Miami Marlins,9,7
+746166,2024-03-31,138,STL,St. Louis Cardinals,119,LAD,Los Angeles Dodgers,4,5
+746332,2024-03-31,142,MIN,Minnesota Twins,118,KC,Kansas City Royals,0,11
+746413,2024-03-31,147,NYY,New York Yankees,117,HOU,Houston Astros,4,3
+746739,2024-03-31,120,WSH,Washington Nationals,113,CIN,Cincinnati Reds,5,6
+746815,2024-03-31,116,DET,Detroit Tigers,145,CWS,Chicago White Sox,3,2
+747062,2024-03-31,108,LAA,Los Angeles Angels,110,BAL,Baltimore Orioles,4,1
+747222,2024-03-31,115,COL,Colorado Rockies,109,AZ,Arizona Diamondbacks,1,5
+744875,2024-04-01,134,PIT,Pittsburgh Pirates,120,WSH,Washington Nationals,8,4
+745109,2024-04-01,140,TEX,Texas Rangers,139,TB,Tampa Bay Rays,9,3
+745277,2024-04-01,114,CLE,Cleveland Guardians,136,SEA,Seattle Mariners,4,5
+745437,2024-04-01,138,STL,St. Louis Cardinals,135,SD,San Diego Padres,6,2
+745600,2024-04-01,113,CIN,Cincinnati Reds,143,PHI,Philadelphia Phillies,6,3
+745675,2024-04-01,111,BOS,Boston Red Sox,133,OAK,Oakland Athletics,9,0
+745842,2024-04-01,116,DET,Detroit Tigers,121,NYM,New York Mets,5,0
+746085,2024-04-01,108,LAA,Los Angeles Angels,146,MIA,Miami Marlins,7,4
+746170,2024-04-01,137,SF,San Francisco Giants,119,LAD,Los Angeles Dodgers,3,8
+746409,2024-04-01,141,TOR,Toronto Blue Jays,117,HOU,Houston Astros,0,10
+746817,2024-04-01,144,ATL,Atlanta Braves,145,CWS,Chicago White Sox,9,0
+746899,2024-04-01,115,COL,Colorado Rockies,112,CHC,Chicago Cubs,0,5
+747058,2024-04-01,118,KC,Kansas City Royals,110,BAL,Baltimore Orioles,4,6
+747218,2024-04-01,147,NYY,New York Yankees,109,AZ,Arizona Diamondbacks,5,2
+745111,2024-04-02,140,TEX,Texas Rangers,139,TB,Tampa Bay Rays,2,5
+745273,2024-04-02,114,CLE,Cleveland Guardians,136,SEA,Seattle Mariners,5,2
+745439,2024-04-02,138,STL,St. Louis Cardinals,135,SD,San Diego Padres,5,2
+745598,2024-04-02,113,CIN,Cincinnati Reds,143,PHI,Philadelphia Phillies,4,9
+745680,2024-04-02,111,BOS,Boston Red Sox,133,OAK,Oakland Athletics,5,4
+746009,2024-04-02,142,MIN,Minnesota Twins,158,MIL,Milwaukee Brewers,2,3
+746086,2024-04-02,108,LAA,Los Angeles Angels,146,MIA,Miami Marlins,3,1
+746169,2024-04-02,137,SF,San Francisco Giants,119,LAD,Los Angeles Dodgers,4,5
+746411,2024-04-02,141,TOR,Toronto Blue Jays,117,HOU,Houston Astros,2,1
+746814,2024-04-02,144,ATL,Atlanta Braves,145,CWS,Chicago White Sox,2,3
+746898,2024-04-02,115,COL,Colorado Rockies,112,CHC,Chicago Cubs,2,12
+747057,2024-04-02,118,KC,Kansas City Royals,110,BAL,Baltimore Orioles,4,1
+747220,2024-04-02,147,NYY,New York Yankees,109,AZ,Arizona Diamondbacks,0,7
+744869,2024-04-03,134,PIT,Pittsburgh Pirates,120,WSH,Washington Nationals,3,5
+745114,2024-04-03,140,TEX,Texas Rangers,139,TB,Tampa Bay Rays,4,1
+745275,2024-04-03,114,CLE,Cleveland Guardians,136,SEA,Seattle Mariners,8,0
+745440,2024-04-03,138,STL,St. Louis Cardinals,135,SD,San Diego Padres,2,3
+745603,2024-04-03,113,CIN,Cincinnati Reds,143,PHI,Philadelphia Phillies,4,1
+745678,2024-04-03,111,BOS,Boston Red Sox,133,OAK,Oakland Athletics,1,0
+746008,2024-04-03,142,MIN,Minnesota Twins,158,MIL,Milwaukee Brewers,7,3
+746083,2024-04-03,108,LAA,Los Angeles Angels,146,MIA,Miami Marlins,10,2
+746163,2024-04-03,137,SF,San Francisco Giants,119,LAD,Los Angeles Dodgers,4,5
+746407,2024-04-03,141,TOR,Toronto Blue Jays,117,HOU,Houston Astros,0,8
+746900,2024-04-03,115,COL,Colorado Rockies,112,CHC,Chicago Cubs,8,9
+747059,2024-04-03,118,KC,Kansas City Royals,110,BAL,Baltimore Orioles,3,4
+747219,2024-04-03,147,NYY,New York Yankees,109,AZ,Arizona Diamondbacks,6,5
+744870,2024-04-04,134,PIT,Pittsburgh Pirates,120,WSH,Washington Nationals,7,4
+745200,2024-04-04,146,MIA,Miami Marlins,138,STL,St. Louis Cardinals,5,8
+745843,2024-04-04,116,DET,Detroit Tigers,121,NYM,New York Mets,1,2
+745844,2024-04-04,116,DET,Detroit Tigers,121,NYM,New York Mets,6,3
+745928,2024-04-04,114,CLE,Cleveland Guardians,142,MIN,Minnesota Twins,4,2
+746327,2024-04-04,145,CWS,Chicago White Sox,118,KC,Kansas City Royals,1,10
+744874,2024-04-05,143,PHI,Philadelphia Phillies,120,WSH,Washington Nationals,4,0
+745033,2024-04-05,117,HOU,Houston Astros,140,TEX,Texas Rangers,2,10
+745361,2024-04-05,135,SD,San Diego Padres,137,SF,San Francisco Giants,2,3
+745524,2024-04-05,110,BAL,Baltimore Orioles,134,PIT,Pittsburgh Pirates,5,2
+745764,2024-04-05,141,TOR,Toronto Blue Jays,147,NYY,New York Yankees,3,0
+746007,2024-04-05,136,SEA,Seattle Mariners,158,MIL,Milwaukee Brewers,5,6
+746249,2024-04-05,111,BOS,Boston Red Sox,108,LAA,Los Angeles Angels,8,6
+746328,2024-04-05,145,CWS,Chicago White Sox,118,KC,Kansas City Royals,1,2
+746497,2024-04-05,133,OAK,Oakland Athletics,116,DET,Detroit Tigers,4,5
+746576,2024-04-05,139,TB,Tampa Bay Rays,115,COL,Colorado Rockies,7,10
+746733,2024-04-05,121,NYM,New York Mets,113,CIN,Cincinnati Reds,3,2
+746897,2024-04-05,119,LAD,Los Angeles Dodgers,112,CHC,Chicago Cubs,7,9
+747143,2024-04-05,109,AZ,Arizona Diamondbacks,144,ATL,Atlanta Braves,5,6
+744873,2024-04-06,143,PHI,Philadelphia Phillies,120,WSH,Washington Nationals,5,2
+745031,2024-04-06,117,HOU,Houston Astros,140,TEX,Texas Rangers,2,7
+745197,2024-04-06,146,MIA,Miami Marlins,138,STL,St. Louis Cardinals,1,3
+745359,2024-04-06,135,SD,San Diego Padres,137,SF,San Francisco Giants,4,0
+745522,2024-04-06,110,BAL,Baltimore Orioles,134,PIT,Pittsburgh Pirates,4,5
+745766,2024-04-06,141,TOR,Toronto Blue Jays,147,NYY,New York Yankees,8,9
+745926,2024-04-06,114,CLE,Cleveland Guardians,142,MIN,Minnesota Twins,3,1
+746006,2024-04-06,136,SEA,Seattle Mariners,158,MIL,Milwaukee Brewers,5,3
+746248,2024-04-06,111,BOS,Boston Red Sox,108,LAA,Los Angeles Angels,1,2
+746329,2024-04-06,145,CWS,Chicago White Sox,118,KC,Kansas City Royals,0,3
+746498,2024-04-06,133,OAK,Oakland Athletics,116,DET,Detroit Tigers,4,0
+746575,2024-04-06,139,TB,Tampa Bay Rays,115,COL,Colorado Rockies,8,6
+746731,2024-04-06,121,NYM,New York Mets,113,CIN,Cincinnati Reds,6,9
+746896,2024-04-06,119,LAD,Los Angeles Dodgers,112,CHC,Chicago Cubs,4,1
+747140,2024-04-06,109,AZ,Arizona Diamondbacks,144,ATL,Atlanta Braves,8,9
+744871,2024-04-07,143,PHI,Philadelphia Phillies,120,WSH,Washington Nationals,2,3
+745032,2024-04-07,117,HOU,Houston Astros,140,TEX,Texas Rangers,3,1
+745198,2024-04-07,146,MIA,Miami Marlins,138,STL,St. Louis Cardinals,10,3
+745362,2024-04-07,135,SD,San Diego Padres,137,SF,San Francisco Giants,2,3
+745523,2024-04-07,110,BAL,Baltimore Orioles,134,PIT,Pittsburgh Pirates,2,3
+745765,2024-04-07,141,TOR,Toronto Blue Jays,147,NYY,New York Yankees,3,8
+746003,2024-04-07,136,SEA,Seattle Mariners,158,MIL,Milwaukee Brewers,4,12
+746251,2024-04-07,111,BOS,Boston Red Sox,108,LAA,Los Angeles Angels,12,2
+746330,2024-04-07,145,CWS,Chicago White Sox,118,KC,Kansas City Royals,3,5
+746493,2024-04-07,133,OAK,Oakland Athletics,116,DET,Detroit Tigers,7,1
+746574,2024-04-07,139,TB,Tampa Bay Rays,115,COL,Colorado Rockies,3,2
+746734,2024-04-07,121,NYM,New York Mets,113,CIN,Cincinnati Reds,3,1
+746895,2024-04-07,119,LAD,Los Angeles Dodgers,112,CHC,Chicago Cubs,1,8
+747141,2024-04-07,109,AZ,Arizona Diamondbacks,144,ATL,Atlanta Braves,2,5
+744956,2024-04-08,136,SEA,Seattle Mariners,141,TOR,Toronto Blue Jays,2,5
+745034,2024-04-08,117,HOU,Houston Astros,140,TEX,Texas Rangers,10,5
+745194,2024-04-08,143,PHI,Philadelphia Phillies,138,STL,St. Louis Cardinals,5,3
+745363,2024-04-08,120,WSH,Washington Nationals,137,SF,San Francisco Giants,8,1
+745432,2024-04-08,112,CHC,Chicago Cubs,135,SD,San Diego Padres,8,9
+745520,2024-04-08,116,DET,Detroit Tigers,134,PIT,Pittsburgh Pirates,4,7
+745761,2024-04-08,146,MIA,Miami Marlins,147,NYY,New York Yankees,0,7
+745925,2024-04-08,119,LAD,Los Angeles Dodgers,142,MIN,Minnesota Twins,4,2
+746252,2024-04-08,139,TB,Tampa Bay Rays,108,LAA,Los Angeles Angels,1,7
+746569,2024-04-08,109,AZ,Arizona Diamondbacks,115,COL,Colorado Rockies,5,7
+746654,2024-04-08,145,CWS,Chicago White Sox,114,CLE,Cleveland Guardians,0,4
+746735,2024-04-08,158,MIL,Milwaukee Brewers,113,CIN,Cincinnati Reds,8,10
+747142,2024-04-08,121,NYM,New York Mets,144,ATL,Atlanta Braves,8,7
+744957,2024-04-09,136,SEA,Seattle Mariners,141,TOR,Toronto Blue Jays,3,5
+745030,2024-04-09,133,OAK,Oakland Athletics,140,TEX,Texas Rangers,4,3
+745195,2024-04-09,143,PHI,Philadelphia Phillies,138,STL,St. Louis Cardinals,0,3
+745357,2024-04-09,120,WSH,Washington Nationals,137,SF,San Francisco Giants,5,3
+745433,2024-04-09,112,CHC,Chicago Cubs,135,SD,San Diego Padres,5,1
+745517,2024-04-09,116,DET,Detroit Tigers,134,PIT,Pittsburgh Pirates,5,3
+745762,2024-04-09,146,MIA,Miami Marlins,147,NYY,New York Yankees,2,3
+745924,2024-04-09,119,LAD,Los Angeles Dodgers,142,MIN,Minnesota Twins,6,3
+746250,2024-04-09,139,TB,Tampa Bay Rays,108,LAA,Los Angeles Angels,6,4
+746326,2024-04-09,117,HOU,Houston Astros,118,KC,Kansas City Royals,3,4
+746571,2024-04-09,109,AZ,Arizona Diamondbacks,115,COL,Colorado Rockies,3,2
+746653,2024-04-09,145,CWS,Chicago White Sox,114,CLE,Cleveland Guardians,7,5
+746732,2024-04-09,158,MIL,Milwaukee Brewers,113,CIN,Cincinnati Reds,9,5
+746981,2024-04-09,110,BAL,Baltimore Orioles,111,BOS,Boston Red Sox,7,1
+747138,2024-04-09,121,NYM,New York Mets,144,ATL,Atlanta Braves,5,6
+744950,2024-04-10,136,SEA,Seattle Mariners,141,TOR,Toronto Blue Jays,6,1
+745024,2024-04-10,133,OAK,Oakland Athletics,140,TEX,Texas Rangers,2,6
+745196,2024-04-10,143,PHI,Philadelphia Phillies,138,STL,St. Louis Cardinals,4,3
+745355,2024-04-10,120,WSH,Washington Nationals,137,SF,San Francisco Giants,1,7
+745429,2024-04-10,112,CHC,Chicago Cubs,135,SD,San Diego Padres,2,10
+745763,2024-04-10,146,MIA,Miami Marlins,147,NYY,New York Yankees,5,2
+745923,2024-04-10,119,LAD,Los Angeles Dodgers,142,MIN,Minnesota Twins,2,3
+746247,2024-04-10,139,TB,Tampa Bay Rays,108,LAA,Los Angeles Angels,4,2
+746323,2024-04-10,117,HOU,Houston Astros,118,KC,Kansas City Royals,2,11
+746573,2024-04-10,109,AZ,Arizona Diamondbacks,115,COL,Colorado Rockies,5,3
+746655,2024-04-10,145,CWS,Chicago White Sox,114,CLE,Cleveland Guardians,6,7
+746728,2024-04-10,158,MIL,Milwaukee Brewers,113,CIN,Cincinnati Reds,7,2
+746980,2024-04-10,110,BAL,Baltimore Orioles,111,BOS,Boston Red Sox,7,5
+745029,2024-04-11,133,OAK,Oakland Athletics,140,TEX,Texas Rangers,1,0
+745601,2024-04-11,134,PIT,Pittsburgh Pirates,143,PHI,Philadelphia Phillies,1,5
+746322,2024-04-11,117,HOU,Houston Astros,118,KC,Kansas City Royals,3,13
+746977,2024-04-11,110,BAL,Baltimore Orioles,111,BOS,Boston Red Sox,9,4
+747137,2024-04-11,121,NYM,New York Mets,144,ATL,Atlanta Braves,16,4
+744954,2024-04-12,115,COL,Colorado Rockies,141,TOR,Toronto Blue Jays,12,4
+745112,2024-04-12,137,SF,San Francisco Giants,139,TB,Tampa Bay Rays,1,2
+745274,2024-04-12,112,CHC,Chicago Cubs,136,SEA,Seattle Mariners,2,4
+745596,2024-04-12,134,PIT,Pittsburgh Pirates,143,PHI,Philadelphia Phillies,5,2
+745679,2024-04-12,120,WSH,Washington Nationals,133,OAK,Oakland Athletics,1,2
+745838,2024-04-12,118,KC,Kansas City Royals,121,NYM,New York Mets,1,6
+746084,2024-04-12,144,ATL,Atlanta Braves,146,MIA,Miami Marlins,8,1
+746162,2024-04-12,135,SD,San Diego Padres,119,LAD,Los Angeles Dodgers,8,7
+746408,2024-04-12,140,TEX,Texas Rangers,117,HOU,Houston Astros,12,8
+746491,2024-04-12,142,MIN,Minnesota Twins,116,DET,Detroit Tigers,2,8
+746812,2024-04-12,113,CIN,Cincinnati Reds,145,CWS,Chicago White Sox,11,1
+746978,2024-04-12,108,LAA,Los Angeles Angels,111,BOS,Boston Red Sox,7,0
+747055,2024-04-12,158,MIL,Milwaukee Brewers,110,BAL,Baltimore Orioles,11,1
+747217,2024-04-12,138,STL,St. Louis Cardinals,109,AZ,Arizona Diamondbacks,9,6
+744953,2024-04-13,115,COL,Colorado Rockies,141,TOR,Toronto Blue Jays,3,5
+745110,2024-04-13,137,SF,San Francisco Giants,139,TB,Tampa Bay Rays,11,2
+745272,2024-04-13,112,CHC,Chicago Cubs,136,SEA,Seattle Mariners,4,1
+745594,2024-04-13,134,PIT,Pittsburgh Pirates,143,PHI,Philadelphia Phillies,3,4
+745676,2024-04-13,120,WSH,Washington Nationals,133,OAK,Oakland Athletics,3,1
+745839,2024-04-13,118,KC,Kansas City Royals,121,NYM,New York Mets,11,7
+746082,2024-04-13,144,ATL,Atlanta Braves,146,MIA,Miami Marlins,1,5
+746161,2024-04-13,135,SD,San Diego Padres,119,LAD,Los Angeles Dodgers,2,5
+746405,2024-04-13,140,TEX,Texas Rangers,117,HOU,Houston Astros,2,9
+746489,2024-04-13,142,MIN,Minnesota Twins,116,DET,Detroit Tigers,11,5
+746490,2024-04-13,142,MIN,Minnesota Twins,116,DET,Detroit Tigers,4,1
+746656,2024-04-13,147,NYY,New York Yankees,114,CLE,Cleveland Guardians,3,2
+746658,2024-04-13,147,NYY,New York Yankees,114,CLE,Cleveland Guardians,8,2
+746811,2024-04-13,113,CIN,Cincinnati Reds,145,CWS,Chicago White Sox,5,0
+746979,2024-04-13,108,LAA,Los Angeles Angels,111,BOS,Boston Red Sox,2,7
+747054,2024-04-13,158,MIL,Milwaukee Brewers,110,BAL,Baltimore Orioles,11,5
+747215,2024-04-13,138,STL,St. Louis Cardinals,109,AZ,Arizona Diamondbacks,2,4
+744952,2024-04-14,115,COL,Colorado Rockies,141,TOR,Toronto Blue Jays,0,5
+745113,2024-04-14,137,SF,San Francisco Giants,139,TB,Tampa Bay Rays,4,9
+745271,2024-04-14,112,CHC,Chicago Cubs,136,SEA,Seattle Mariners,3,2
+745595,2024-04-14,134,PIT,Pittsburgh Pirates,143,PHI,Philadelphia Phillies,9,2
+745681,2024-04-14,120,WSH,Washington Nationals,133,OAK,Oakland Athletics,6,7
+745841,2024-04-14,118,KC,Kansas City Royals,121,NYM,New York Mets,1,2
+746079,2024-04-14,144,ATL,Atlanta Braves,146,MIA,Miami Marlins,9,7
+746164,2024-04-14,135,SD,San Diego Padres,119,LAD,Los Angeles Dodgers,6,3
+746404,2024-04-14,140,TEX,Texas Rangers,117,HOU,Houston Astros,5,8
+746492,2024-04-14,142,MIN,Minnesota Twins,116,DET,Detroit Tigers,3,4
+746648,2024-04-14,147,NYY,New York Yankees,114,CLE,Cleveland Guardians,7,8
+746810,2024-04-14,113,CIN,Cincinnati Reds,145,CWS,Chicago White Sox,11,4
+746975,2024-04-14,108,LAA,Los Angeles Angels,111,BOS,Boston Red Sox,4,5
+747056,2024-04-14,158,MIL,Milwaukee Brewers,110,BAL,Baltimore Orioles,4,6
+747216,2024-04-14,138,STL,St. Louis Cardinals,109,AZ,Arizona Diamondbacks,0,5
+744951,2024-04-15,147,NYY,New York Yankees,141,TOR,Toronto Blue Jays,1,3
+745106,2024-04-15,108,LAA,Los Angeles Angels,139,TB,Tampa Bay Rays,7,3
+745268,2024-04-15,113,CIN,Cincinnati Reds,136,SEA,Seattle Mariners,3,9
+745597,2024-04-15,115,COL,Colorado Rockies,143,PHI,Philadelphia Phillies,1,2
+745677,2024-04-15,138,STL,St. Louis Cardinals,133,OAK,Oakland Athletics,3,1
+745840,2024-04-15,134,PIT,Pittsburgh Pirates,121,NYM,New York Mets,3,6
+746002,2024-04-15,135,SD,San Diego Padres,158,MIL,Milwaukee Brewers,7,3
+746080,2024-04-15,137,SF,San Francisco Giants,146,MIA,Miami Marlins,4,3
+746158,2024-04-15,120,WSH,Washington Nationals,119,LAD,Los Angeles Dodgers,6,4
+746406,2024-04-15,144,ATL,Atlanta Braves,117,HOU,Houston Astros,6,1
+746488,2024-04-15,140,TEX,Texas Rangers,116,DET,Detroit Tigers,1,0
+746813,2024-04-15,118,KC,Kansas City Royals,145,CWS,Chicago White Sox,2,0
+746974,2024-04-15,114,CLE,Cleveland Guardians,111,BOS,Boston Red Sox,6,0
+747053,2024-04-15,142,MIN,Minnesota Twins,110,BAL,Baltimore Orioles,4,7
+747213,2024-04-15,112,CHC,Chicago Cubs,109,AZ,Arizona Diamondbacks,3,2
+744944,2024-04-16,147,NYY,New York Yankees,141,TOR,Toronto Blue Jays,4,5
+745108,2024-04-16,108,LAA,Los Angeles Angels,139,TB,Tampa Bay Rays,6,7
+745270,2024-04-16,113,CIN,Cincinnati Reds,136,SEA,Seattle Mariners,1,3
+745593,2024-04-16,115,COL,Colorado Rockies,143,PHI,Philadelphia Phillies,0,5
+745674,2024-04-16,138,STL,St. Louis Cardinals,133,OAK,Oakland Athletics,3,2
+745837,2024-04-16,134,PIT,Pittsburgh Pirates,121,NYM,New York Mets,1,3
+746004,2024-04-16,135,SD,San Diego Padres,158,MIL,Milwaukee Brewers,6,3
+746081,2024-04-16,137,SF,San Francisco Giants,146,MIA,Miami Marlins,3,6
+746157,2024-04-16,120,WSH,Washington Nationals,119,LAD,Los Angeles Dodgers,2,6
+746400,2024-04-16,144,ATL,Atlanta Braves,117,HOU,Houston Astros,6,2
+746486,2024-04-16,140,TEX,Texas Rangers,116,DET,Detroit Tigers,2,4
+746976,2024-04-16,114,CLE,Cleveland Guardians,111,BOS,Boston Red Sox,10,7
+747051,2024-04-16,142,MIN,Minnesota Twins,110,BAL,Baltimore Orioles,3,11
+747214,2024-04-16,112,CHC,Chicago Cubs,109,AZ,Arizona Diamondbacks,11,12
+744948,2024-04-17,147,NYY,New York Yankees,141,TOR,Toronto Blue Jays,6,4
+745105,2024-04-17,108,LAA,Los Angeles Angels,139,TB,Tampa Bay Rays,5,4
+745267,2024-04-17,113,CIN,Cincinnati Reds,136,SEA,Seattle Mariners,1,5
+745591,2024-04-17,115,COL,Colorado Rockies,143,PHI,Philadelphia Phillies,6,7
+745671,2024-04-17,138,STL,St. Louis Cardinals,133,OAK,Oakland Athletics,3,6
+745836,2024-04-17,134,PIT,Pittsburgh Pirates,121,NYM,New York Mets,1,9
+746005,2024-04-17,135,SD,San Diego Padres,158,MIL,Milwaukee Brewers,0,1
+746076,2024-04-17,137,SF,San Francisco Giants,146,MIA,Miami Marlins,3,1
+746159,2024-04-17,120,WSH,Washington Nationals,119,LAD,Los Angeles Dodgers,2,0
+746401,2024-04-17,144,ATL,Atlanta Braves,117,HOU,Houston Astros,5,4
+746487,2024-04-17,140,TEX,Texas Rangers,116,DET,Detroit Tigers,5,4
+746807,2024-04-17,118,KC,Kansas City Royals,145,CWS,Chicago White Sox,4,2
+746809,2024-04-17,118,KC,Kansas City Royals,145,CWS,Chicago White Sox,1,2
+746973,2024-04-17,114,CLE,Cleveland Guardians,111,BOS,Boston Red Sox,0,2
+747049,2024-04-17,142,MIN,Minnesota Twins,110,BAL,Baltimore Orioles,2,4
+747212,2024-04-17,112,CHC,Chicago Cubs,109,AZ,Arizona Diamondbacks,5,3
+745104,2024-04-18,108,LAA,Los Angeles Angels,139,TB,Tampa Bay Rays,1,2
+745356,2024-04-18,109,AZ,Arizona Diamondbacks,137,SF,San Francisco Giants,0,5
+746485,2024-04-18,140,TEX,Texas Rangers,116,DET,Detroit Tigers,9,7
+746970,2024-04-18,114,CLE,Cleveland Guardians,111,BOS,Boston Red Sox,5,4
+744872,2024-04-19,117,HOU,Houston Astros,120,WSH,Washington Nationals,5,3
+745189,2024-04-19,158,MIL,Milwaukee Brewers,138,STL,St. Louis Cardinals,2,1
+745352,2024-04-19,109,AZ,Arizona Diamondbacks,137,SF,San Francisco Giants,17,1
+745430,2024-04-19,141,TOR,Toronto Blue Jays,135,SD,San Diego Padres,5,1
+745518,2024-04-19,111,BOS,Boston Red Sox,134,PIT,Pittsburgh Pirates,8,1
+745592,2024-04-19,145,CWS,Chicago White Sox,143,PHI,Philadelphia Phillies,0,7
+745758,2024-04-19,139,TB,Tampa Bay Rays,147,NYY,New York Yankees,3,5
+745922,2024-04-19,116,DET,Detroit Tigers,142,MIN,Minnesota Twins,5,4
+746160,2024-04-19,121,NYM,New York Mets,119,LAD,Los Angeles Dodgers,9,4
+746325,2024-04-19,110,BAL,Baltimore Orioles,118,KC,Kansas City Royals,4,9
+746650,2024-04-19,133,OAK,Oakland Athletics,114,CLE,Cleveland Guardians,2,10
+746729,2024-04-19,108,LAA,Los Angeles Angels,113,CIN,Cincinnati Reds,1,7
+746892,2024-04-19,146,MIA,Miami Marlins,112,CHC,Chicago Cubs,3,8
+747136,2024-04-19,140,TEX,Texas Rangers,144,ATL,Atlanta Braves,3,8
+744865,2024-04-20,117,HOU,Houston Astros,120,WSH,Washington Nationals,4,5
+745190,2024-04-20,158,MIL,Milwaukee Brewers,138,STL,St. Louis Cardinals,12,5
+745354,2024-04-20,109,AZ,Arizona Diamondbacks,137,SF,San Francisco Giants,3,7
+745431,2024-04-20,141,TOR,Toronto Blue Jays,135,SD,San Diego Padres,5,2
+745515,2024-04-20,111,BOS,Boston Red Sox,134,PIT,Pittsburgh Pirates,4,2
+745590,2024-04-20,145,CWS,Chicago White Sox,143,PHI,Philadelphia Phillies,5,9
+745760,2024-04-20,139,TB,Tampa Bay Rays,147,NYY,New York Yankees,2,0
+745921,2024-04-20,116,DET,Detroit Tigers,142,MIN,Minnesota Twins,3,4
+746156,2024-04-20,121,NYM,New York Mets,119,LAD,Los Angeles Dodgers,6,4
+746324,2024-04-20,110,BAL,Baltimore Orioles,118,KC,Kansas City Royals,9,7
+746570,2024-04-20,136,SEA,Seattle Mariners,115,COL,Colorado Rockies,7,0
+746651,2024-04-20,133,OAK,Oakland Athletics,114,CLE,Cleveland Guardians,3,6
+746726,2024-04-20,108,LAA,Los Angeles Angels,113,CIN,Cincinnati Reds,5,7
+746891,2024-04-20,146,MIA,Miami Marlins,112,CHC,Chicago Cubs,3,5
+746893,2024-04-20,146,MIA,Miami Marlins,112,CHC,Chicago Cubs,3,2
+747135,2024-04-20,140,TEX,Texas Rangers,144,ATL,Atlanta Braves,2,5
+744866,2024-04-21,117,HOU,Houston Astros,120,WSH,Washington Nationals,0,6
+745192,2024-04-21,158,MIL,Milwaukee Brewers,138,STL,St. Louis Cardinals,2,0
+745353,2024-04-21,109,AZ,Arizona Diamondbacks,137,SF,San Francisco Giants,5,3
+745434,2024-04-21,141,TOR,Toronto Blue Jays,135,SD,San Diego Padres,3,6
+745514,2024-04-21,111,BOS,Boston Red Sox,134,PIT,Pittsburgh Pirates,6,1
+745588,2024-04-21,145,CWS,Chicago White Sox,143,PHI,Philadelphia Phillies,2,8
+745759,2024-04-21,139,TB,Tampa Bay Rays,147,NYY,New York Yankees,4,5
+745920,2024-04-21,116,DET,Detroit Tigers,142,MIN,Minnesota Twins,6,1
+746154,2024-04-21,121,NYM,New York Mets,119,LAD,Los Angeles Dodgers,0,10
+746316,2024-04-21,110,BAL,Baltimore Orioles,118,KC,Kansas City Royals,5,0
+746568,2024-04-21,136,SEA,Seattle Mariners,115,COL,Colorado Rockies,1,2
+746572,2024-04-21,136,SEA,Seattle Mariners,115,COL,Colorado Rockies,10,2
+746652,2024-04-21,133,OAK,Oakland Athletics,114,CLE,Cleveland Guardians,2,6
+746727,2024-04-21,108,LAA,Los Angeles Angels,113,CIN,Cincinnati Reds,0,3
+746894,2024-04-21,146,MIA,Miami Marlins,112,CHC,Chicago Cubs,6,3
+747133,2024-04-21,140,TEX,Texas Rangers,144,ATL,Atlanta Braves,6,4
+745107,2024-04-22,116,DET,Detroit Tigers,139,TB,Tampa Bay Rays,7,1
+745191,2024-04-22,109,AZ,Arizona Diamondbacks,138,STL,St. Louis Cardinals,3,5
+745351,2024-04-22,121,NYM,New York Mets,137,SF,San Francisco Giants,2,5
+745519,2024-04-22,158,MIL,Milwaukee Brewers,134,PIT,Pittsburgh Pirates,2,4
+745757,2024-04-22,133,OAK,Oakland Athletics,147,NYY,New York Yankees,2,0
+745916,2024-04-22,145,CWS,Chicago White Sox,142,MIN,Minnesota Twins,0,7
+746242,2024-04-22,110,BAL,Baltimore Orioles,108,LAA,Los Angeles Angels,4,2
+746319,2024-04-22,141,TOR,Toronto Blue Jays,118,KC,Kansas City Royals,5,3
+746565,2024-04-22,135,SD,San Diego Padres,115,COL,Colorado Rockies,3,1
+746723,2024-04-22,143,PHI,Philadelphia Phillies,113,CIN,Cincinnati Reds,7,0
+747134,2024-04-22,146,MIA,Miami Marlins,144,ATL,Atlanta Braves,0,3
+744863,2024-04-23,119,LAD,Los Angeles Dodgers,120,WSH,Washington Nationals,4,1
+745026,2024-04-23,136,SEA,Seattle Mariners,140,TEX,Texas Rangers,4,0
+745102,2024-04-23,116,DET,Detroit Tigers,139,TB,Tampa Bay Rays,4,2
+745193,2024-04-23,109,AZ,Arizona Diamondbacks,138,STL,St. Louis Cardinals,14,1
+745348,2024-04-23,121,NYM,New York Mets,137,SF,San Francisco Giants,1,5
+745516,2024-04-23,158,MIL,Milwaukee Brewers,134,PIT,Pittsburgh Pirates,1,2
+745754,2024-04-23,133,OAK,Oakland Athletics,147,NYY,New York Yankees,3,4
+745917,2024-04-23,145,CWS,Chicago White Sox,142,MIN,Minnesota Twins,5,6
+746246,2024-04-23,110,BAL,Baltimore Orioles,108,LAA,Los Angeles Angels,4,7
+746321,2024-04-23,141,TOR,Toronto Blue Jays,118,KC,Kansas City Royals,2,3
+746566,2024-04-23,135,SD,San Diego Padres,115,COL,Colorado Rockies,4,7
+746647,2024-04-23,111,BOS,Boston Red Sox,114,CLE,Cleveland Guardians,1,4
+746722,2024-04-23,143,PHI,Philadelphia Phillies,113,CIN,Cincinnati Reds,1,8
+746888,2024-04-23,117,HOU,Houston Astros,112,CHC,Chicago Cubs,2,7
+747130,2024-04-23,146,MIA,Miami Marlins,144,ATL,Atlanta Braves,0,5
+744864,2024-04-24,119,LAD,Los Angeles Dodgers,120,WSH,Washington Nationals,11,2
+745028,2024-04-24,136,SEA,Seattle Mariners,140,TEX,Texas Rangers,1,5
+745099,2024-04-24,116,DET,Detroit Tigers,139,TB,Tampa Bay Rays,5,7
+745188,2024-04-24,109,AZ,Arizona Diamondbacks,138,STL,St. Louis Cardinals,1,5
+745346,2024-04-24,121,NYM,New York Mets,137,SF,San Francisco Giants,8,2
+745513,2024-04-24,158,MIL,Milwaukee Brewers,134,PIT,Pittsburgh Pirates,3,2
+745753,2024-04-24,133,OAK,Oakland Athletics,147,NYY,New York Yankees,3,7
+745919,2024-04-24,145,CWS,Chicago White Sox,142,MIN,Minnesota Twins,3,6
+746244,2024-04-24,110,BAL,Baltimore Orioles,108,LAA,Los Angeles Angels,6,5
+746317,2024-04-24,141,TOR,Toronto Blue Jays,118,KC,Kansas City Royals,2,3
+746567,2024-04-24,135,SD,San Diego Padres,115,COL,Colorado Rockies,5,2
+746649,2024-04-24,111,BOS,Boston Red Sox,114,CLE,Cleveland Guardians,8,0
+746725,2024-04-24,143,PHI,Philadelphia Phillies,113,CIN,Cincinnati Reds,4,7
+746889,2024-04-24,117,HOU,Houston Astros,112,CHC,Chicago Cubs,3,4
+747132,2024-04-24,146,MIA,Miami Marlins,144,ATL,Atlanta Braves,3,4
+744867,2024-04-25,119,LAD,Los Angeles Dodgers,120,WSH,Washington Nationals,2,1
+745027,2024-04-25,136,SEA,Seattle Mariners,140,TEX,Texas Rangers,4,3
+745512,2024-04-25,158,MIL,Milwaukee Brewers,134,PIT,Pittsburgh Pirates,7,5
+745755,2024-04-25,133,OAK,Oakland Athletics,147,NYY,New York Yankees,3,1
+745918,2024-04-25,145,CWS,Chicago White Sox,142,MIN,Minnesota Twins,3,6
+746320,2024-04-25,141,TOR,Toronto Blue Jays,118,KC,Kansas City Royals,1,2
+746564,2024-04-25,135,SD,San Diego Padres,115,COL,Colorado Rockies,9,10
+746646,2024-04-25,111,BOS,Boston Red Sox,114,CLE,Cleveland Guardians,4,6
+746724,2024-04-25,143,PHI,Philadelphia Phillies,113,CIN,Cincinnati Reds,5,0
+746887,2024-04-25,117,HOU,Houston Astros,112,CHC,Chicago Cubs,1,3
+744949,2024-04-26,119,LAD,Los Angeles Dodgers,141,TOR,Toronto Blue Jays,12,2
+745025,2024-04-26,113,CIN,Cincinnati Reds,140,TEX,Texas Rangers,1,2
+745269,2024-04-26,109,AZ,Arizona Diamondbacks,136,SEA,Seattle Mariners,1,6
+745347,2024-04-26,134,PIT,Pittsburgh Pirates,137,SF,San Francisco Giants,0,3
+745424,2024-04-26,143,PHI,Philadelphia Phillies,135,SD,San Diego Padres,9,3
+745835,2024-04-26,138,STL,St. Louis Cardinals,121,NYM,New York Mets,4,2
+746000,2024-04-26,147,NYY,New York Yankees,158,MIL,Milwaukee Brewers,6,7
+746078,2024-04-26,120,WSH,Washington Nationals,146,MIA,Miami Marlins,3,1
+746243,2024-04-26,142,MIN,Minnesota Twins,108,LAA,Los Angeles Angels,5,3
+746482,2024-04-26,118,KC,Kansas City Royals,116,DET,Detroit Tigers,8,0
+746808,2024-04-26,139,TB,Tampa Bay Rays,145,CWS,Chicago White Sox,4,9
+746972,2024-04-26,112,CHC,Chicago Cubs,111,BOS,Boston Red Sox,7,1
+747050,2024-04-26,133,OAK,Oakland Athletics,110,BAL,Baltimore Orioles,3,2
+747129,2024-04-26,114,CLE,Cleveland Guardians,144,ATL,Atlanta Braves,2,6
+744946,2024-04-27,119,LAD,Los Angeles Dodgers,141,TOR,Toronto Blue Jays,4,2
+745020,2024-04-27,113,CIN,Cincinnati Reds,140,TEX,Texas Rangers,8,4
+745266,2024-04-27,109,AZ,Arizona Diamondbacks,136,SEA,Seattle Mariners,1,3
+745350,2024-04-27,134,PIT,Pittsburgh Pirates,137,SF,San Francisco Giants,4,3
+745425,2024-04-27,143,PHI,Philadelphia Phillies,135,SD,San Diego Padres,5,1
+745833,2024-04-27,138,STL,St. Louis Cardinals,121,NYM,New York Mets,7,4
+745998,2024-04-27,147,NYY,New York Yankees,158,MIL,Milwaukee Brewers,15,3
+746075,2024-04-27,120,WSH,Washington Nationals,146,MIA,Miami Marlins,11,4
+746245,2024-04-27,142,MIN,Minnesota Twins,108,LAA,Los Angeles Angels,16,5
+746484,2024-04-27,118,KC,Kansas City Royals,116,DET,Detroit Tigers,5,6
+746560,2024-04-27,117,HOU,Houston Astros,115,COL,Colorado Rockies,12,4
+746803,2024-04-27,139,TB,Tampa Bay Rays,145,CWS,Chicago White Sox,7,8
+746971,2024-04-27,112,CHC,Chicago Cubs,111,BOS,Boston Red Sox,0,17
+747052,2024-04-27,133,OAK,Oakland Athletics,110,BAL,Baltimore Orioles,0,7
+747131,2024-04-27,114,CLE,Cleveland Guardians,144,ATL,Atlanta Braves,4,2
+744947,2024-04-28,119,LAD,Los Angeles Dodgers,141,TOR,Toronto Blue Jays,1,3
+745022,2024-04-28,113,CIN,Cincinnati Reds,140,TEX,Texas Rangers,3,4
+745265,2024-04-28,109,AZ,Arizona Diamondbacks,136,SEA,Seattle Mariners,3,2
+745349,2024-04-28,134,PIT,Pittsburgh Pirates,137,SF,San Francisco Giants,2,3
+745428,2024-04-28,143,PHI,Philadelphia Phillies,135,SD,San Diego Padres,8,6
+745834,2024-04-28,138,STL,St. Louis Cardinals,121,NYM,New York Mets,2,4
+746001,2024-04-28,147,NYY,New York Yankees,158,MIL,Milwaukee Brewers,15,5
+746077,2024-04-28,120,WSH,Washington Nationals,146,MIA,Miami Marlins,12,9
+746237,2024-04-28,142,MIN,Minnesota Twins,108,LAA,Los Angeles Angels,11,5
+746483,2024-04-28,118,KC,Kansas City Royals,116,DET,Detroit Tigers,1,4
+746561,2024-04-28,117,HOU,Houston Astros,115,COL,Colorado Rockies,8,2
+746805,2024-04-28,139,TB,Tampa Bay Rays,145,CWS,Chicago White Sox,2,4
+746967,2024-04-28,112,CHC,Chicago Cubs,111,BOS,Boston Red Sox,4,5
+747045,2024-04-28,133,OAK,Oakland Athletics,110,BAL,Baltimore Orioles,7,6
+747125,2024-04-28,114,CLE,Cleveland Guardians,144,ATL,Atlanta Braves,3,4
+744945,2024-04-29,118,KC,Kansas City Royals,141,TOR,Toronto Blue Jays,5,6
+745263,2024-04-29,144,ATL,Atlanta Braves,136,SEA,Seattle Mariners,1,2
+745427,2024-04-29,113,CIN,Cincinnati Reds,135,SD,San Diego Padres,5,2
+745672,2024-04-29,134,PIT,Pittsburgh Pirates,133,OAK,Oakland Athletics,1,5
+745832,2024-04-29,112,CHC,Chicago Cubs,121,NYM,New York Mets,3,1
+745999,2024-04-29,139,TB,Tampa Bay Rays,158,MIL,Milwaukee Brewers,1,0
+746074,2024-04-29,120,WSH,Washington Nationals,146,MIA,Miami Marlins,7,2
+746236,2024-04-29,143,PHI,Philadelphia Phillies,108,LAA,Los Angeles Angels,5,6
+746804,2024-04-29,142,MIN,Minnesota Twins,145,CWS,Chicago White Sox,3,2
+747046,2024-04-29,147,NYY,New York Yankees,110,BAL,Baltimore Orioles,0,2
+747211,2024-04-29,119,LAD,Los Angeles Dodgers,109,AZ,Arizona Diamondbacks,8,4
+744942,2024-04-30,118,KC,Kansas City Royals,141,TOR,Toronto Blue Jays,4,1
+745018,2024-04-30,120,WSH,Washington Nationals,140,TEX,Texas Rangers,1,7
+745260,2024-04-30,144,ATL,Atlanta Braves,136,SEA,Seattle Mariners,2,3
+745426,2024-04-30,113,CIN,Cincinnati Reds,135,SD,San Diego Padres,4,6
+745673,2024-04-30,134,PIT,Pittsburgh Pirates,133,OAK,Oakland Athletics,2,5
+745831,2024-04-30,112,CHC,Chicago Cubs,121,NYM,New York Mets,2,4
+745997,2024-04-30,139,TB,Tampa Bay Rays,158,MIL,Milwaukee Brewers,2,8
+746073,2024-04-30,115,COL,Colorado Rockies,146,MIA,Miami Marlins,6,7
+746239,2024-04-30,143,PHI,Philadelphia Phillies,108,LAA,Los Angeles Angels,7,5
+746398,2024-04-30,114,CLE,Cleveland Guardians,117,HOU,Houston Astros,9,10
+746477,2024-04-30,138,STL,St. Louis Cardinals,116,DET,Detroit Tigers,2,1
+746481,2024-04-30,138,STL,St. Louis Cardinals,116,DET,Detroit Tigers,6,11
+746806,2024-04-30,142,MIN,Minnesota Twins,145,CWS,Chicago White Sox,6,5
+746968,2024-04-30,137,SF,San Francisco Giants,111,BOS,Boston Red Sox,0,4
+747047,2024-04-30,147,NYY,New York Yankees,110,BAL,Baltimore Orioles,2,4
+747210,2024-04-30,119,LAD,Los Angeles Dodgers,109,AZ,Arizona Diamondbacks,3,4
+744939,2024-05-01,118,KC,Kansas City Royals,141,TOR,Toronto Blue Jays,6,1
+745023,2024-05-01,120,WSH,Washington Nationals,140,TEX,Texas Rangers,1,0
+745261,2024-05-01,144,ATL,Atlanta Braves,136,SEA,Seattle Mariners,5,2
+745423,2024-05-01,113,CIN,Cincinnati Reds,135,SD,San Diego Padres,2,6
+745670,2024-05-01,134,PIT,Pittsburgh Pirates,133,OAK,Oakland Athletics,0,4
+745829,2024-05-01,112,CHC,Chicago Cubs,121,NYM,New York Mets,1,0
+745996,2024-05-01,139,TB,Tampa Bay Rays,158,MIL,Milwaukee Brewers,1,7
+746072,2024-05-01,115,COL,Colorado Rockies,146,MIA,Miami Marlins,1,4
+746238,2024-05-01,143,PHI,Philadelphia Phillies,108,LAA,Los Angeles Angels,2,1
+746399,2024-05-01,114,CLE,Cleveland Guardians,117,HOU,Houston Astros,3,2
+746478,2024-05-01,138,STL,St. Louis Cardinals,116,DET,Detroit Tigers,1,4
+746800,2024-05-01,142,MIN,Minnesota Twins,145,CWS,Chicago White Sox,10,5
+746966,2024-05-01,137,SF,San Francisco Giants,111,BOS,Boston Red Sox,2,6
+747048,2024-05-01,147,NYY,New York Yankees,110,BAL,Baltimore Orioles,2,0
+747207,2024-05-01,119,LAD,Los Angeles Dodgers,109,AZ,Arizona Diamondbacks,8,0
+745021,2024-05-02,120,WSH,Washington Nationals,140,TEX,Texas Rangers,0,6
+745830,2024-05-02,112,CHC,Chicago Cubs,121,NYM,New York Mets,6,7
+746070,2024-05-02,115,COL,Colorado Rockies,146,MIA,Miami Marlins,4,5
+746403,2024-05-02,114,CLE,Cleveland Guardians,117,HOU,Houston Astros,2,8
+746969,2024-05-02,137,SF,San Francisco Giants,111,BOS,Boston Red Sox,3,1
+747044,2024-05-02,147,NYY,New York Yankees,110,BAL,Baltimore Orioles,2,7
+744868,2024-05-03,141,TOR,Toronto Blue Jays,120,WSH,Washington Nationals,3,9
+745101,2024-05-03,121,NYM,New York Mets,139,TB,Tampa Bay Rays,8,10
+745187,2024-05-03,145,CWS,Chicago White Sox,138,STL,St. Louis Cardinals,0,3
+745510,2024-05-03,115,COL,Colorado Rockies,134,PIT,Pittsburgh Pirates,3,2
+745589,2024-05-03,137,SF,San Francisco Giants,143,PHI,Philadelphia Phillies,3,4
+745665,2024-05-03,146,MIA,Miami Marlins,133,OAK,Oakland Athletics,1,3
+745756,2024-05-03,116,DET,Detroit Tigers,147,NYY,New York Yankees,1,2
+745914,2024-05-03,111,BOS,Boston Red Sox,142,MIN,Minnesota Twins,2,5
+746152,2024-05-03,144,ATL,Atlanta Braves,119,LAD,Los Angeles Dodgers,3,4
+746318,2024-05-03,140,TEX,Texas Rangers,118,KC,Kansas City Royals,1,7
+746402,2024-05-03,136,SEA,Seattle Mariners,117,HOU,Houston Astros,3,5
+746645,2024-05-03,108,LAA,Los Angeles Angels,114,CLE,Cleveland Guardians,6,0
+746721,2024-05-03,110,BAL,Baltimore Orioles,113,CIN,Cincinnati Reds,3,0
+746890,2024-05-03,158,MIL,Milwaukee Brewers,112,CHC,Chicago Cubs,3,1
+747208,2024-05-03,135,SD,San Diego Padres,109,AZ,Arizona Diamondbacks,7,1
+744862,2024-05-04,141,TOR,Toronto Blue Jays,120,WSH,Washington Nationals,6,3
+745100,2024-05-04,121,NYM,New York Mets,139,TB,Tampa Bay Rays,1,3
+745183,2024-05-04,145,CWS,Chicago White Sox,138,STL,St. Louis Cardinals,6,5
+745511,2024-05-04,115,COL,Colorado Rockies,134,PIT,Pittsburgh Pirates,0,1
+745583,2024-05-04,137,SF,San Francisco Giants,143,PHI,Philadelphia Phillies,3,14
+745666,2024-05-04,146,MIA,Miami Marlins,133,OAK,Oakland Athletics,4,20
+745750,2024-05-04,116,DET,Detroit Tigers,147,NYY,New York Yankees,3,5
+745911,2024-05-04,111,BOS,Boston Red Sox,142,MIN,Minnesota Twins,1,3
+746155,2024-05-04,144,ATL,Atlanta Braves,119,LAD,Los Angeles Dodgers,2,11
+746311,2024-05-04,140,TEX,Texas Rangers,118,KC,Kansas City Royals,15,4
+746394,2024-05-04,136,SEA,Seattle Mariners,117,HOU,Houston Astros,5,0
+746644,2024-05-04,108,LAA,Los Angeles Angels,114,CLE,Cleveland Guardians,1,7
+746720,2024-05-04,110,BAL,Baltimore Orioles,113,CIN,Cincinnati Reds,2,1
+746884,2024-05-04,158,MIL,Milwaukee Brewers,112,CHC,Chicago Cubs,5,6
+747209,2024-05-04,135,SD,San Diego Padres,109,AZ,Arizona Diamondbacks,13,1
+744861,2024-05-05,141,TOR,Toronto Blue Jays,120,WSH,Washington Nationals,8,11
+745103,2024-05-05,121,NYM,New York Mets,139,TB,Tampa Bay Rays,6,7
+745185,2024-05-05,145,CWS,Chicago White Sox,138,STL,St. Louis Cardinals,5,1
+745504,2024-05-05,115,COL,Colorado Rockies,134,PIT,Pittsburgh Pirates,3,5
+745587,2024-05-05,137,SF,San Francisco Giants,143,PHI,Philadelphia Phillies,4,5
+745667,2024-05-05,146,MIA,Miami Marlins,133,OAK,Oakland Athletics,12,3
+745751,2024-05-05,116,DET,Detroit Tigers,147,NYY,New York Yankees,2,5
+745913,2024-05-05,111,BOS,Boston Red Sox,142,MIN,Minnesota Twins,9,2
+746153,2024-05-05,144,ATL,Atlanta Braves,119,LAD,Los Angeles Dodgers,1,5
+746314,2024-05-05,140,TEX,Texas Rangers,118,KC,Kansas City Royals,3,2
+746395,2024-05-05,136,SEA,Seattle Mariners,117,HOU,Houston Astros,5,4
+746643,2024-05-05,108,LAA,Los Angeles Angels,114,CLE,Cleveland Guardians,1,4
+746719,2024-05-05,110,BAL,Baltimore Orioles,113,CIN,Cincinnati Reds,11,1
+746883,2024-05-05,158,MIL,Milwaukee Brewers,112,CHC,Chicago Cubs,0,5
+747206,2024-05-05,135,SD,San Diego Padres,109,AZ,Arizona Diamondbacks,4,11
+745098,2024-05-06,145,CWS,Chicago White Sox,139,TB,Tampa Bay Rays,2,8
+745182,2024-05-06,121,NYM,New York Mets,138,STL,St. Louis Cardinals,4,3
+745509,2024-05-06,108,LAA,Los Angeles Angels,134,PIT,Pittsburgh Pirates,1,4
+745585,2024-05-06,137,SF,San Francisco Giants,143,PHI,Philadelphia Phillies,1,6
+745669,2024-05-06,140,TEX,Texas Rangers,133,OAK,Oakland Athletics,4,2
+745912,2024-05-06,136,SEA,Seattle Mariners,142,MIN,Minnesota Twins,1,3
+746149,2024-05-06,146,MIA,Miami Marlins,119,LAD,Los Angeles Dodgers,3,6
+746313,2024-05-06,158,MIL,Milwaukee Brewers,118,KC,Kansas City Royals,2,3
+746639,2024-05-06,116,DET,Detroit Tigers,114,CLE,Cleveland Guardians,1,2
+746886,2024-05-06,135,SD,San Diego Padres,112,CHC,Chicago Cubs,6,3
+744859,2024-05-07,110,BAL,Baltimore Orioles,120,WSH,Washington Nationals,0,3
+745095,2024-05-07,145,CWS,Chicago White Sox,139,TB,Tampa Bay Rays,1,5
+745186,2024-05-07,121,NYM,New York Mets,138,STL,St. Louis Cardinals,7,5
+745508,2024-05-07,108,LAA,Los Angeles Angels,134,PIT,Pittsburgh Pirates,9,0
+745586,2024-05-07,141,TOR,Toronto Blue Jays,143,PHI,Philadelphia Phillies,1,10
+745668,2024-05-07,140,TEX,Texas Rangers,133,OAK,Oakland Athletics,15,8
+745752,2024-05-07,117,HOU,Houston Astros,147,NYY,New York Yankees,3,10
+745915,2024-05-07,136,SEA,Seattle Mariners,142,MIN,Minnesota Twins,10,6
+746147,2024-05-07,146,MIA,Miami Marlins,119,LAD,Los Angeles Dodgers,2,8
+746315,2024-05-07,158,MIL,Milwaukee Brewers,118,KC,Kansas City Royals,6,5
+746559,2024-05-07,137,SF,San Francisco Giants,115,COL,Colorado Rockies,5,0
+746638,2024-05-07,116,DET,Detroit Tigers,114,CLE,Cleveland Guardians,11,7
+746718,2024-05-07,109,AZ,Arizona Diamondbacks,113,CIN,Cincinnati Reds,6,2
+746885,2024-05-07,135,SD,San Diego Padres,112,CHC,Chicago Cubs,2,3
+747126,2024-05-07,111,BOS,Boston Red Sox,144,ATL,Atlanta Braves,2,4
+744858,2024-05-08,110,BAL,Baltimore Orioles,120,WSH,Washington Nationals,7,6
+745097,2024-05-08,145,CWS,Chicago White Sox,139,TB,Tampa Bay Rays,4,1
+745507,2024-05-08,108,LAA,Los Angeles Angels,134,PIT,Pittsburgh Pirates,5,4
+745584,2024-05-08,141,TOR,Toronto Blue Jays,143,PHI,Philadelphia Phillies,5,3
+745659,2024-05-08,140,TEX,Texas Rangers,133,OAK,Oakland Athletics,12,11
+745664,2024-05-08,140,TEX,Texas Rangers,133,OAK,Oakland Athletics,4,9
+745749,2024-05-08,117,HOU,Houston Astros,147,NYY,New York Yankees,4,9
+745906,2024-05-08,136,SEA,Seattle Mariners,142,MIN,Minnesota Twins,3,6
+746151,2024-05-08,146,MIA,Miami Marlins,119,LAD,Los Angeles Dodgers,1,3
+746312,2024-05-08,158,MIL,Milwaukee Brewers,118,KC,Kansas City Royals,4,6
+746562,2024-05-08,137,SF,San Francisco Giants,115,COL,Colorado Rockies,8,6
+746640,2024-05-08,116,DET,Detroit Tigers,114,CLE,Cleveland Guardians,4,5
+746717,2024-05-08,109,AZ,Arizona Diamondbacks,113,CIN,Cincinnati Reds,4,3
+746879,2024-05-08,135,SD,San Diego Padres,112,CHC,Chicago Cubs,3,0
+747127,2024-05-08,111,BOS,Boston Red Sox,144,ATL,Atlanta Braves,0,5
+745748,2024-05-09,117,HOU,Houston Astros,147,NYY,New York Yankees,4,3
+745910,2024-05-09,136,SEA,Seattle Mariners,142,MIN,Minnesota Twins,1,11
+745995,2024-05-09,138,STL,St. Louis Cardinals,158,MIL,Milwaukee Brewers,1,7
+746241,2024-05-09,118,KC,Kansas City Royals,108,LAA,Los Angeles Angels,10,4
+746563,2024-05-09,137,SF,San Francisco Giants,115,COL,Colorado Rockies,1,9
+746715,2024-05-09,109,AZ,Arizona Diamondbacks,113,CIN,Cincinnati Reds,5,4
+746802,2024-05-09,114,CLE,Cleveland Guardians,145,CWS,Chicago White Sox,2,3
+744940,2024-05-10,142,MIN,Minnesota Twins,141,TOR,Toronto Blue Jays,3,2
+745094,2024-05-10,147,NYY,New York Yankees,139,TB,Tampa Bay Rays,2,0
+745264,2024-05-10,133,OAK,Oakland Athletics,136,SEA,Seattle Mariners,1,8
+745340,2024-05-10,113,CIN,Cincinnati Reds,137,SF,San Francisco Giants,4,2
+745421,2024-05-10,119,LAD,Los Angeles Dodgers,135,SD,San Diego Padres,1,2
+745506,2024-05-10,112,CHC,Chicago Cubs,134,PIT,Pittsburgh Pirates,7,2
+745827,2024-05-10,144,ATL,Atlanta Braves,121,NYM,New York Mets,4,2
+745993,2024-05-10,138,STL,St. Louis Cardinals,158,MIL,Milwaukee Brewers,2,11
+746071,2024-05-10,143,PHI,Philadelphia Phillies,146,MIA,Miami Marlins,8,2
+746240,2024-05-10,118,KC,Kansas City Royals,108,LAA,Los Angeles Angels,2,1
+746479,2024-05-10,117,HOU,Houston Astros,116,DET,Detroit Tigers,5,2
+746553,2024-05-10,140,TEX,Texas Rangers,115,COL,Colorado Rockies,2,4
+746801,2024-05-10,114,CLE,Cleveland Guardians,145,CWS,Chicago White Sox,3,6
+746964,2024-05-10,120,WSH,Washington Nationals,111,BOS,Boston Red Sox,5,1
+747043,2024-05-10,109,AZ,Arizona Diamondbacks,110,BAL,Baltimore Orioles,2,4
+744943,2024-05-11,142,MIN,Minnesota Twins,141,TOR,Toronto Blue Jays,8,10
+745096,2024-05-11,147,NYY,New York Yankees,139,TB,Tampa Bay Rays,2,7
+745262,2024-05-11,133,OAK,Oakland Athletics,136,SEA,Seattle Mariners,8,1
+745344,2024-05-11,113,CIN,Cincinnati Reds,137,SF,San Francisco Giants,1,5
+745422,2024-05-11,119,LAD,Los Angeles Dodgers,135,SD,San Diego Padres,5,0
+745505,2024-05-11,112,CHC,Chicago Cubs,134,PIT,Pittsburgh Pirates,9,10
+745828,2024-05-11,144,ATL,Atlanta Braves,121,NYM,New York Mets,4,1
+745994,2024-05-11,138,STL,St. Louis Cardinals,158,MIL,Milwaukee Brewers,3,5
+746069,2024-05-11,143,PHI,Philadelphia Phillies,146,MIA,Miami Marlins,8,3
+746232,2024-05-11,118,KC,Kansas City Royals,108,LAA,Los Angeles Angels,3,9
+746480,2024-05-11,117,HOU,Houston Astros,116,DET,Detroit Tigers,2,8
+746554,2024-05-11,140,TEX,Texas Rangers,115,COL,Colorado Rockies,3,8
+746797,2024-05-11,114,CLE,Cleveland Guardians,145,CWS,Chicago White Sox,1,3
+746963,2024-05-11,120,WSH,Washington Nationals,111,BOS,Boston Red Sox,2,4
+747041,2024-05-11,109,AZ,Arizona Diamondbacks,110,BAL,Baltimore Orioles,4,5
+744941,2024-05-12,142,MIN,Minnesota Twins,141,TOR,Toronto Blue Jays,5,1
+745092,2024-05-12,147,NYY,New York Yankees,139,TB,Tampa Bay Rays,10,6
+745255,2024-05-12,133,OAK,Oakland Athletics,136,SEA,Seattle Mariners,4,8
+745345,2024-05-12,113,CIN,Cincinnati Reds,137,SF,San Francisco Giants,5,6
+745419,2024-05-12,119,LAD,Los Angeles Dodgers,135,SD,San Diego Padres,0,4
+745499,2024-05-12,112,CHC,Chicago Cubs,134,PIT,Pittsburgh Pirates,5,4
+745825,2024-05-12,144,ATL,Atlanta Braves,121,NYM,New York Mets,3,4
+745990,2024-05-12,138,STL,St. Louis Cardinals,158,MIL,Milwaukee Brewers,4,3
+746068,2024-05-12,143,PHI,Philadelphia Phillies,146,MIA,Miami Marlins,6,7
+746234,2024-05-12,118,KC,Kansas City Royals,108,LAA,Los Angeles Angels,4,2
+746476,2024-05-12,117,HOU,Houston Astros,116,DET,Detroit Tigers,9,3
+746555,2024-05-12,140,TEX,Texas Rangers,115,COL,Colorado Rockies,1,3
+746798,2024-05-12,114,CLE,Cleveland Guardians,145,CWS,Chicago White Sox,7,0
+746965,2024-05-12,120,WSH,Washington Nationals,111,BOS,Boston Red Sox,2,3
+747042,2024-05-12,109,AZ,Arizona Diamondbacks,110,BAL,Baltimore Orioles,9,2
+745019,2024-05-13,114,CLE,Cleveland Guardians,140,TEX,Texas Rangers,7,0
+745256,2024-05-13,118,KC,Kansas City Royals,136,SEA,Seattle Mariners,2,6
+745343,2024-05-13,119,LAD,Los Angeles Dodgers,137,SF,San Francisco Giants,6,4
+745420,2024-05-13,115,COL,Colorado Rockies,135,SD,San Diego Padres,5,4
+745826,2024-05-13,143,PHI,Philadelphia Phillies,121,NYM,New York Mets,5,4
+745991,2024-05-13,134,PIT,Pittsburgh Pirates,158,MIL,Milwaukee Brewers,8,6
+746233,2024-05-13,138,STL,St. Louis Cardinals,108,LAA,Los Angeles Angels,10,5
+746393,2024-05-13,133,OAK,Oakland Athletics,117,HOU,Houston Astros,2,9
+746471,2024-05-13,146,MIA,Miami Marlins,116,DET,Detroit Tigers,5,6
+746961,2024-05-13,139,TB,Tampa Bay Rays,111,BOS,Boston Red Sox,5,3
+747040,2024-05-13,141,TOR,Toronto Blue Jays,110,BAL,Baltimore Orioles,3,2
+747128,2024-05-13,112,CHC,Chicago Cubs,144,ATL,Atlanta Braves,0,2
+747204,2024-05-13,113,CIN,Cincinnati Reds,109,AZ,Arizona Diamondbacks,5,6
+745014,2024-05-14,114,CLE,Cleveland Guardians,140,TEX,Texas Rangers,7,4
+745257,2024-05-14,118,KC,Kansas City Royals,136,SEA,Seattle Mariners,4,2
+745342,2024-05-14,119,LAD,Los Angeles Dodgers,137,SF,San Francisco Giants,10,2
+745418,2024-05-14,115,COL,Colorado Rockies,135,SD,San Diego Padres,6,3
+745821,2024-05-14,143,PHI,Philadelphia Phillies,121,NYM,New York Mets,4,0
+745909,2024-05-14,147,NYY,New York Yankees,142,MIN,Minnesota Twins,5,1
+745989,2024-05-14,134,PIT,Pittsburgh Pirates,158,MIL,Milwaukee Brewers,3,4
+746235,2024-05-14,138,STL,St. Louis Cardinals,108,LAA,Los Angeles Angels,7,6
+746396,2024-05-14,133,OAK,Oakland Athletics,117,HOU,Houston Astros,1,2
+746473,2024-05-14,146,MIA,Miami Marlins,116,DET,Detroit Tigers,1,0
+746796,2024-05-14,120,WSH,Washington Nationals,145,CWS,Chicago White Sox,6,3
+746799,2024-05-14,120,WSH,Washington Nationals,145,CWS,Chicago White Sox,0,4
+746962,2024-05-14,139,TB,Tampa Bay Rays,111,BOS,Boston Red Sox,4,5
+747124,2024-05-14,112,CHC,Chicago Cubs,144,ATL,Atlanta Braves,0,7
+747205,2024-05-14,113,CIN,Cincinnati Reds,109,AZ,Arizona Diamondbacks,6,2
+745015,2024-05-15,114,CLE,Cleveland Guardians,140,TEX,Texas Rangers,0,4
+745259,2024-05-15,118,KC,Kansas City Royals,136,SEA,Seattle Mariners,2,4
+745341,2024-05-15,119,LAD,Los Angeles Dodgers,137,SF,San Francisco Giants,1,4
+745417,2024-05-15,115,COL,Colorado Rockies,135,SD,San Diego Padres,8,0
+745582,2024-05-15,121,NYM,New York Mets,143,PHI,Philadelphia Phillies,5,10
+745908,2024-05-15,147,NYY,New York Yankees,142,MIN,Minnesota Twins,4,0
+745992,2024-05-15,134,PIT,Pittsburgh Pirates,158,MIL,Milwaukee Brewers,2,10
+746231,2024-05-15,138,STL,St. Louis Cardinals,108,LAA,Los Angeles Angels,2,7
+746397,2024-05-15,133,OAK,Oakland Athletics,117,HOU,Houston Astros,0,3
+746472,2024-05-15,146,MIA,Miami Marlins,116,DET,Detroit Tigers,2,0
+746795,2024-05-15,120,WSH,Washington Nationals,145,CWS,Chicago White Sox,0,2
+746960,2024-05-15,139,TB,Tampa Bay Rays,111,BOS,Boston Red Sox,4,3
+747038,2024-05-15,141,TOR,Toronto Blue Jays,110,BAL,Baltimore Orioles,2,3
+747123,2024-05-15,112,CHC,Chicago Cubs,144,ATL,Atlanta Braves,7,1
+747203,2024-05-15,113,CIN,Cincinnati Reds,109,AZ,Arizona Diamondbacks,1,2
+745580,2024-05-16,121,NYM,New York Mets,143,PHI,Philadelphia Phillies,6,5
+745907,2024-05-16,147,NYY,New York Yankees,142,MIN,Minnesota Twins,5,0
+746150,2024-05-16,113,CIN,Cincinnati Reds,119,LAD,Los Angeles Dodgers,7,2
+746391,2024-05-16,133,OAK,Oakland Athletics,117,HOU,Houston Astros,1,8
+746881,2024-05-16,134,PIT,Pittsburgh Pirates,112,CHC,Chicago Cubs,5,4
+746959,2024-05-16,139,TB,Tampa Bay Rays,111,BOS,Boston Red Sox,7,5
+744934,2024-05-17,139,TB,Tampa Bay Rays,141,TOR,Toronto Blue Jays,4,3
+745016,2024-05-17,108,LAA,Los Angeles Angels,140,TEX,Texas Rangers,9,3
+745178,2024-05-17,111,BOS,Boston Red Sox,138,STL,St. Louis Cardinals,6,10
+745335,2024-05-17,115,COL,Colorado Rockies,137,SF,San Francisco Giants,5,10
+745579,2024-05-17,120,WSH,Washington Nationals,143,PHI,Philadelphia Phillies,2,4
+745747,2024-05-17,145,CWS,Chicago White Sox,147,NYY,New York Yankees,2,4
+746065,2024-05-17,121,NYM,New York Mets,146,MIA,Miami Marlins,0,8
+746148,2024-05-17,113,CIN,Cincinnati Reds,119,LAD,Los Angeles Dodgers,3,7
+746310,2024-05-17,133,OAK,Oakland Athletics,118,KC,Kansas City Royals,2,6
+746388,2024-05-17,158,MIL,Milwaukee Brewers,117,HOU,Houston Astros,4,5
+746641,2024-05-17,142,MIN,Minnesota Twins,114,CLE,Cleveland Guardians,2,3
+746878,2024-05-17,134,PIT,Pittsburgh Pirates,112,CHC,Chicago Cubs,9,3
+747037,2024-05-17,136,SEA,Seattle Mariners,110,BAL,Baltimore Orioles,2,9
+747122,2024-05-17,135,SD,San Diego Padres,144,ATL,Atlanta Braves,3,1
+747201,2024-05-17,116,DET,Detroit Tigers,109,AZ,Arizona Diamondbacks,13,0
+744938,2024-05-18,139,TB,Tampa Bay Rays,141,TOR,Toronto Blue Jays,5,4
+745013,2024-05-18,108,LAA,Los Angeles Angels,140,TEX,Texas Rangers,2,3
+745177,2024-05-18,111,BOS,Boston Red Sox,138,STL,St. Louis Cardinals,2,7
+745339,2024-05-18,115,COL,Colorado Rockies,137,SF,San Francisco Giants,4,14
+745581,2024-05-18,120,WSH,Washington Nationals,143,PHI,Philadelphia Phillies,3,4
+745744,2024-05-18,145,CWS,Chicago White Sox,147,NYY,New York Yankees,1,6
+746067,2024-05-18,121,NYM,New York Mets,146,MIA,Miami Marlins,9,10
+746142,2024-05-18,113,CIN,Cincinnati Reds,119,LAD,Los Angeles Dodgers,0,4
+746308,2024-05-18,133,OAK,Oakland Athletics,118,KC,Kansas City Royals,3,5
+746389,2024-05-18,158,MIL,Milwaukee Brewers,117,HOU,Houston Astros,4,2
+746642,2024-05-18,142,MIN,Minnesota Twins,114,CLE,Cleveland Guardians,4,11
+746882,2024-05-18,134,PIT,Pittsburgh Pirates,112,CHC,Chicago Cubs,0,1
+747036,2024-05-18,136,SEA,Seattle Mariners,110,BAL,Baltimore Orioles,4,3
+747202,2024-05-18,116,DET,Detroit Tigers,109,AZ,Arizona Diamondbacks,8,3
+744937,2024-05-19,139,TB,Tampa Bay Rays,141,TOR,Toronto Blue Jays,2,5
+745012,2024-05-19,108,LAA,Los Angeles Angels,140,TEX,Texas Rangers,4,1
+745179,2024-05-19,111,BOS,Boston Red Sox,138,STL,St. Louis Cardinals,11,3
+745336,2024-05-19,115,COL,Colorado Rockies,137,SF,San Francisco Giants,1,4
+745577,2024-05-19,120,WSH,Washington Nationals,143,PHI,Philadelphia Phillies,5,11
+745745,2024-05-19,145,CWS,Chicago White Sox,147,NYY,New York Yankees,2,7
+746064,2024-05-19,121,NYM,New York Mets,146,MIA,Miami Marlins,7,3
+746144,2024-05-19,113,CIN,Cincinnati Reds,119,LAD,Los Angeles Dodgers,2,3
+746306,2024-05-19,133,OAK,Oakland Athletics,118,KC,Kansas City Royals,4,8
+746392,2024-05-19,158,MIL,Milwaukee Brewers,117,HOU,Houston Astros,4,9
+746636,2024-05-19,142,MIN,Minnesota Twins,114,CLE,Cleveland Guardians,2,5
+746880,2024-05-19,134,PIT,Pittsburgh Pirates,112,CHC,Chicago Cubs,3,2
+747035,2024-05-19,136,SEA,Seattle Mariners,110,BAL,Baltimore Orioles,3,6
+747120,2024-05-19,135,SD,San Diego Padres,144,ATL,Atlanta Braves,9,1
+747198,2024-05-19,116,DET,Detroit Tigers,109,AZ,Arizona Diamondbacks,4,6
+744857,2024-05-20,142,MIN,Minnesota Twins,120,WSH,Washington Nationals,3,12
+744935,2024-05-20,145,CWS,Chicago White Sox,141,TOR,Toronto Blue Jays,3,9
+745093,2024-05-20,111,BOS,Boston Red Sox,139,TB,Tampa Bay Rays,5,0
+745181,2024-05-20,110,BAL,Baltimore Orioles,138,STL,St. Louis Cardinals,3,6
+745746,2024-05-20,136,SEA,Seattle Mariners,147,NYY,New York Yankees,5,4
+746066,2024-05-20,158,MIL,Milwaukee Brewers,146,MIA,Miami Marlins,2,3
+746146,2024-05-20,109,AZ,Arizona Diamondbacks,119,LAD,Los Angeles Dodgers,4,6
+746307,2024-05-20,116,DET,Detroit Tigers,118,KC,Kansas City Royals,3,8
+746390,2024-05-20,108,LAA,Los Angeles Angels,117,HOU,Houston Astros,9,7
+746637,2024-05-20,121,NYM,New York Mets,114,CLE,Cleveland Guardians,1,3
+747119,2024-05-20,135,SD,San Diego Padres,144,ATL,Atlanta Braves,6,5
+747121,2024-05-20,135,SD,San Diego Padres,144,ATL,Atlanta Braves,0,3
+744860,2024-05-21,142,MIN,Minnesota Twins,120,WSH,Washington Nationals,10,0
+744936,2024-05-21,145,CWS,Chicago White Sox,141,TOR,Toronto Blue Jays,5,0
+745090,2024-05-21,111,BOS,Boston Red Sox,139,TB,Tampa Bay Rays,5,2
+745180,2024-05-21,110,BAL,Baltimore Orioles,138,STL,St. Louis Cardinals,1,3
+745503,2024-05-21,137,SF,San Francisco Giants,134,PIT,Pittsburgh Pirates,6,7
+745578,2024-05-21,140,TEX,Texas Rangers,143,PHI,Philadelphia Phillies,2,5
+745662,2024-05-21,115,COL,Colorado Rockies,133,OAK,Oakland Athletics,4,5
+745742,2024-05-21,136,SEA,Seattle Mariners,147,NYY,New York Yankees,6,3
+746058,2024-05-21,158,MIL,Milwaukee Brewers,146,MIA,Miami Marlins,7,5
+746145,2024-05-21,109,AZ,Arizona Diamondbacks,119,LAD,Los Angeles Dodgers,7,3
+746309,2024-05-21,116,DET,Detroit Tigers,118,KC,Kansas City Royals,3,10
+746385,2024-05-21,108,LAA,Los Angeles Angels,117,HOU,Houston Astros,5,6
+746633,2024-05-21,121,NYM,New York Mets,114,CLE,Cleveland Guardians,6,7
+746716,2024-05-21,135,SD,San Diego Padres,113,CIN,Cincinnati Reds,0,2
+746875,2024-05-21,144,ATL,Atlanta Braves,112,CHC,Chicago Cubs,3,4
+744856,2024-05-22,142,MIN,Minnesota Twins,120,WSH,Washington Nationals,3,2
+744933,2024-05-22,145,CWS,Chicago White Sox,141,TOR,Toronto Blue Jays,2,9
+745089,2024-05-22,111,BOS,Boston Red Sox,139,TB,Tampa Bay Rays,8,5
+745173,2024-05-22,110,BAL,Baltimore Orioles,138,STL,St. Louis Cardinals,4,5
+745502,2024-05-22,137,SF,San Francisco Giants,134,PIT,Pittsburgh Pirates,9,5
+745576,2024-05-22,140,TEX,Texas Rangers,143,PHI,Philadelphia Phillies,4,11
+745661,2024-05-22,115,COL,Colorado Rockies,133,OAK,Oakland Athletics,4,3
+745743,2024-05-22,136,SEA,Seattle Mariners,147,NYY,New York Yankees,3,7
+746063,2024-05-22,158,MIL,Milwaukee Brewers,146,MIA,Miami Marlins,0,1
+746143,2024-05-22,109,AZ,Arizona Diamondbacks,119,LAD,Los Angeles Dodgers,6,0
+746304,2024-05-22,116,DET,Detroit Tigers,118,KC,Kansas City Royals,3,8
+746386,2024-05-22,108,LAA,Los Angeles Angels,117,HOU,Houston Astros,2,1
+746634,2024-05-22,121,NYM,New York Mets,114,CLE,Cleveland Guardians,3,6
+746712,2024-05-22,135,SD,San Diego Padres,113,CIN,Cincinnati Reds,7,3
+746876,2024-05-22,144,ATL,Atlanta Braves,112,CHC,Chicago Cubs,9,2
+745500,2024-05-23,137,SF,San Francisco Giants,134,PIT,Pittsburgh Pirates,7,6
+745573,2024-05-23,140,TEX,Texas Rangers,143,PHI,Philadelphia Phillies,2,5
+745660,2024-05-23,115,COL,Colorado Rockies,133,OAK,Oakland Athletics,9,10
+745741,2024-05-23,136,SEA,Seattle Mariners,147,NYY,New York Yankees,0,5
+746474,2024-05-23,141,TOR,Toronto Blue Jays,116,DET,Detroit Tigers,9,1
+746714,2024-05-23,135,SD,San Diego Padres,113,CIN,Cincinnati Reds,6,4
+746792,2024-05-23,110,BAL,Baltimore Orioles,145,CWS,Chicago White Sox,8,6
+746874,2024-05-23,144,ATL,Atlanta Braves,112,CHC,Chicago Cubs,3,0
+744853,2024-05-24,136,SEA,Seattle Mariners,120,WSH,Washington Nationals,1,6
+745087,2024-05-24,118,KC,Kansas City Royals,139,TB,Tampa Bay Rays,8,1
+745415,2024-05-24,147,NYY,New York Yankees,135,SD,San Diego Padres,8,0
+745501,2024-05-24,144,ATL,Atlanta Braves,134,PIT,Pittsburgh Pirates,5,11
+745663,2024-05-24,117,HOU,Houston Astros,133,OAK,Oakland Athletics,6,3
+745822,2024-05-24,137,SF,San Francisco Giants,121,NYM,New York Mets,8,7
+745905,2024-05-24,140,TEX,Texas Rangers,142,MIN,Minnesota Twins,2,3
+746227,2024-05-24,114,CLE,Cleveland Guardians,108,LAA,Los Angeles Angels,10,4
+746475,2024-05-24,141,TOR,Toronto Blue Jays,116,DET,Detroit Tigers,2,6
+746558,2024-05-24,143,PHI,Philadelphia Phillies,115,COL,Colorado Rockies,2,3
+746713,2024-05-24,119,LAD,Los Angeles Dodgers,113,CIN,Cincinnati Reds,6,9
+746793,2024-05-24,110,BAL,Baltimore Orioles,145,CWS,Chicago White Sox,6,4
+746956,2024-05-24,158,MIL,Milwaukee Brewers,111,BOS,Boston Red Sox,7,2
+747200,2024-05-24,146,MIA,Miami Marlins,109,AZ,Arizona Diamondbacks,3,0
+744851,2024-05-25,136,SEA,Seattle Mariners,120,WSH,Washington Nationals,1,3
+745086,2024-05-25,118,KC,Kansas City Royals,139,TB,Tampa Bay Rays,7,4
+745176,2024-05-25,112,CHC,Chicago Cubs,138,STL,St. Louis Cardinals,6,7
+745411,2024-05-25,147,NYY,New York Yankees,135,SD,San Diego Padres,4,1
+745493,2024-05-25,144,ATL,Atlanta Braves,134,PIT,Pittsburgh Pirates,1,4
+745658,2024-05-25,117,HOU,Houston Astros,133,OAK,Oakland Athletics,1,3
+745823,2024-05-25,137,SF,San Francisco Giants,121,NYM,New York Mets,7,2
+745901,2024-05-25,140,TEX,Texas Rangers,142,MIN,Minnesota Twins,3,5
+746226,2024-05-25,114,CLE,Cleveland Guardians,108,LAA,Los Angeles Angels,4,3
+746470,2024-05-25,141,TOR,Toronto Blue Jays,116,DET,Detroit Tigers,1,2
+746556,2024-05-25,143,PHI,Philadelphia Phillies,115,COL,Colorado Rockies,8,4
+746710,2024-05-25,119,LAD,Los Angeles Dodgers,113,CIN,Cincinnati Reds,1,3
+746794,2024-05-25,110,BAL,Baltimore Orioles,145,CWS,Chicago White Sox,5,3
+746958,2024-05-25,158,MIL,Milwaukee Brewers,111,BOS,Boston Red Sox,6,3
+747199,2024-05-25,146,MIA,Miami Marlins,109,AZ,Arizona Diamondbacks,2,3
+744855,2024-05-26,136,SEA,Seattle Mariners,120,WSH,Washington Nationals,9,5
+745088,2024-05-26,118,KC,Kansas City Royals,139,TB,Tampa Bay Rays,1,4
+745172,2024-05-26,112,CHC,Chicago Cubs,138,STL,St. Louis Cardinals,3,4
+745413,2024-05-26,147,NYY,New York Yankees,135,SD,San Diego Padres,2,5
+745498,2024-05-26,144,ATL,Atlanta Braves,134,PIT,Pittsburgh Pirates,8,1
+745653,2024-05-26,117,HOU,Houston Astros,133,OAK,Oakland Athletics,5,2
+745824,2024-05-26,137,SF,San Francisco Giants,121,NYM,New York Mets,3,4
+745902,2024-05-26,140,TEX,Texas Rangers,142,MIN,Minnesota Twins,6,2
+746230,2024-05-26,114,CLE,Cleveland Guardians,108,LAA,Los Angeles Angels,5,4
+746469,2024-05-26,141,TOR,Toronto Blue Jays,116,DET,Detroit Tigers,11,14
+746557,2024-05-26,143,PHI,Philadelphia Phillies,115,COL,Colorado Rockies,2,5
+746711,2024-05-26,119,LAD,Los Angeles Dodgers,113,CIN,Cincinnati Reds,1,4
+746789,2024-05-26,110,BAL,Baltimore Orioles,145,CWS,Chicago White Sox,4,1
+746957,2024-05-26,158,MIL,Milwaukee Brewers,111,BOS,Boston Red Sox,1,2
+747197,2024-05-26,146,MIA,Miami Marlins,109,AZ,Arizona Diamondbacks,3,1
+745254,2024-05-27,117,HOU,Houston Astros,136,SEA,Seattle Mariners,2,3
+745338,2024-05-27,143,PHI,Philadelphia Phillies,137,SF,San Francisco Giants,4,8
+745416,2024-05-27,146,MIA,Miami Marlins,135,SD,San Diego Padres,1,2
+745904,2024-05-27,118,KC,Kansas City Royals,142,MIN,Minnesota Twins,5,6
+745986,2024-05-27,112,CHC,Chicago Cubs,158,MIL,Milwaukee Brewers,1,5
+746549,2024-05-27,114,CLE,Cleveland Guardians,115,COL,Colorado Rockies,6,8
+746708,2024-05-27,138,STL,St. Louis Cardinals,113,CIN,Cincinnati Reds,1,3
+746788,2024-05-27,141,TOR,Toronto Blue Jays,145,CWS,Chicago White Sox,5,1
+747034,2024-05-27,111,BOS,Boston Red Sox,110,BAL,Baltimore Orioles,3,11
+747118,2024-05-27,120,WSH,Washington Nationals,144,ATL,Atlanta Braves,8,4
+745017,2024-05-28,109,AZ,Arizona Diamondbacks,140,TEX,Texas Rangers,2,4
+745091,2024-05-28,133,OAK,Oakland Athletics,139,TB,Tampa Bay Rays,3,0
+745258,2024-05-28,117,HOU,Houston Astros,136,SEA,Seattle Mariners,2,4
+745337,2024-05-28,143,PHI,Philadelphia Phillies,137,SF,San Francisco Giants,0,1
+745412,2024-05-28,146,MIA,Miami Marlins,135,SD,San Diego Padres,0,4
+745816,2024-05-28,119,LAD,Los Angeles Dodgers,121,NYM,New York Mets,3,0
+745818,2024-05-28,119,LAD,Los Angeles Dodgers,121,NYM,New York Mets,5,2
+745903,2024-05-28,118,KC,Kansas City Royals,142,MIN,Minnesota Twins,2,4
+745987,2024-05-28,112,CHC,Chicago Cubs,158,MIL,Milwaukee Brewers,6,3
+746229,2024-05-28,147,NYY,New York Yankees,108,LAA,Los Angeles Angels,3,4
+746552,2024-05-28,114,CLE,Cleveland Guardians,115,COL,Colorado Rockies,13,7
+746709,2024-05-28,138,STL,St. Louis Cardinals,113,CIN,Cincinnati Reds,7,1
+746791,2024-05-28,141,TOR,Toronto Blue Jays,145,CWS,Chicago White Sox,7,2
+747033,2024-05-28,111,BOS,Boston Red Sox,110,BAL,Baltimore Orioles,8,3
+747115,2024-05-28,120,WSH,Washington Nationals,144,ATL,Atlanta Braves,0,2
+745011,2024-05-29,109,AZ,Arizona Diamondbacks,140,TEX,Texas Rangers,1,6
+745084,2024-05-29,133,OAK,Oakland Athletics,139,TB,Tampa Bay Rays,3,4
+745250,2024-05-29,117,HOU,Houston Astros,136,SEA,Seattle Mariners,1,2
+745333,2024-05-29,143,PHI,Philadelphia Phillies,137,SF,San Francisco Giants,6,1
+745414,2024-05-29,146,MIA,Miami Marlins,135,SD,San Diego Padres,9,1
+745817,2024-05-29,119,LAD,Los Angeles Dodgers,121,NYM,New York Mets,10,3
+745900,2024-05-29,118,KC,Kansas City Royals,142,MIN,Minnesota Twins,6,1
+745988,2024-05-29,112,CHC,Chicago Cubs,158,MIL,Milwaukee Brewers,6,10
+746228,2024-05-29,147,NYY,New York Yankees,108,LAA,Los Angeles Angels,2,1
+746467,2024-05-29,134,PIT,Pittsburgh Pirates,116,DET,Detroit Tigers,0,8
+746468,2024-05-29,134,PIT,Pittsburgh Pirates,116,DET,Detroit Tigers,10,2
+746551,2024-05-29,114,CLE,Cleveland Guardians,115,COL,Colorado Rockies,4,7
+746706,2024-05-29,138,STL,St. Louis Cardinals,113,CIN,Cincinnati Reds,5,3
+746790,2024-05-29,141,TOR,Toronto Blue Jays,145,CWS,Chicago White Sox,3,1
+747031,2024-05-29,111,BOS,Boston Red Sox,110,BAL,Baltimore Orioles,1,6
+747117,2024-05-29,120,WSH,Washington Nationals,144,ATL,Atlanta Braves,7,2
+745081,2024-05-30,133,OAK,Oakland Athletics,139,TB,Tampa Bay Rays,5,6
+745249,2024-05-30,117,HOU,Houston Astros,136,SEA,Seattle Mariners,4,0
+745819,2024-05-30,109,AZ,Arizona Diamondbacks,121,NYM,New York Mets,2,3
+745898,2024-05-30,118,KC,Kansas City Royals,142,MIN,Minnesota Twins,6,7
+745985,2024-05-30,112,CHC,Chicago Cubs,158,MIL,Milwaukee Brewers,4,6
+746225,2024-05-30,147,NYY,New York Yankees,108,LAA,Los Angeles Angels,8,3
+746954,2024-05-30,116,DET,Detroit Tigers,111,BOS,Boston Red Sox,5,0
+747114,2024-05-30,120,WSH,Washington Nationals,144,ATL,Atlanta Braves,3,1
+744928,2024-05-31,134,PIT,Pittsburgh Pirates,141,TOR,Toronto Blue Jays,3,5
+745253,2024-05-31,108,LAA,Los Angeles Angels,136,SEA,Seattle Mariners,4,5
+745331,2024-05-31,147,NYY,New York Yankees,137,SF,San Francisco Giants,6,2
+745574,2024-05-31,138,STL,St. Louis Cardinals,143,PHI,Philadelphia Phillies,2,4
+745820,2024-05-31,109,AZ,Arizona Diamondbacks,121,NYM,New York Mets,9,10
+745983,2024-05-31,145,CWS,Chicago White Sox,158,MIL,Milwaukee Brewers,5,12
+746059,2024-05-31,140,TEX,Texas Rangers,146,MIA,Miami Marlins,2,8
+746140,2024-05-31,115,COL,Colorado Rockies,119,LAD,Los Angeles Dodgers,4,1
+746303,2024-05-31,135,SD,San Diego Padres,118,KC,Kansas City Royals,11,8
+746387,2024-05-31,142,MIN,Minnesota Twins,117,HOU,Houston Astros,6,1
+746635,2024-05-31,120,WSH,Washington Nationals,114,CLE,Cleveland Guardians,1,7
+746877,2024-05-31,113,CIN,Cincinnati Reds,112,CHC,Chicago Cubs,5,4
+746955,2024-05-31,116,DET,Detroit Tigers,111,BOS,Boston Red Sox,3,7
+747032,2024-05-31,139,TB,Tampa Bay Rays,110,BAL,Baltimore Orioles,1,3
+747116,2024-05-31,133,OAK,Oakland Athletics,144,ATL,Atlanta Braves,2,4
+744932,2024-06-01,134,PIT,Pittsburgh Pirates,141,TOR,Toronto Blue Jays,8,1
+745251,2024-06-01,108,LAA,Los Angeles Angels,136,SEA,Seattle Mariners,0,9
+745332,2024-06-01,147,NYY,New York Yankees,137,SF,San Francisco Giants,7,3
+745575,2024-06-01,138,STL,St. Louis Cardinals,143,PHI,Philadelphia Phillies,1,6
+745812,2024-06-01,109,AZ,Arizona Diamondbacks,121,NYM,New York Mets,10,5
+745980,2024-06-01,145,CWS,Chicago White Sox,158,MIL,Milwaukee Brewers,3,4
+746062,2024-06-01,140,TEX,Texas Rangers,146,MIA,Miami Marlins,7,0
+746138,2024-06-01,115,COL,Colorado Rockies,119,LAD,Los Angeles Dodgers,1,4
+746305,2024-06-01,135,SD,San Diego Padres,118,KC,Kansas City Royals,7,3
+746384,2024-06-01,142,MIN,Minnesota Twins,117,HOU,Houston Astros,2,5
+746629,2024-06-01,120,WSH,Washington Nationals,114,CLE,Cleveland Guardians,2,3
+746870,2024-06-01,113,CIN,Cincinnati Reds,112,CHC,Chicago Cubs,5,7
+746952,2024-06-01,116,DET,Detroit Tigers,111,BOS,Boston Red Sox,3,6
+747029,2024-06-01,139,TB,Tampa Bay Rays,110,BAL,Baltimore Orioles,5,9
+747111,2024-06-01,133,OAK,Oakland Athletics,144,ATL,Atlanta Braves,11,9
+744929,2024-06-02,134,PIT,Pittsburgh Pirates,141,TOR,Toronto Blue Jays,4,5
+745252,2024-06-02,108,LAA,Los Angeles Angels,136,SEA,Seattle Mariners,1,5
+745330,2024-06-02,147,NYY,New York Yankees,137,SF,San Francisco Giants,7,5
+745572,2024-06-02,138,STL,St. Louis Cardinals,143,PHI,Philadelphia Phillies,5,4
+745813,2024-06-02,109,AZ,Arizona Diamondbacks,121,NYM,New York Mets,5,4
+745984,2024-06-02,145,CWS,Chicago White Sox,158,MIL,Milwaukee Brewers,3,6
+746061,2024-06-02,140,TEX,Texas Rangers,146,MIA,Miami Marlins,6,0
+746141,2024-06-02,115,COL,Colorado Rockies,119,LAD,Los Angeles Dodgers,0,4
+746301,2024-06-02,135,SD,San Diego Padres,118,KC,Kansas City Royals,3,4
+746383,2024-06-02,142,MIN,Minnesota Twins,117,HOU,Houston Astros,4,3
+746632,2024-06-02,120,WSH,Washington Nationals,114,CLE,Cleveland Guardians,5,2
+746871,2024-06-02,113,CIN,Cincinnati Reds,112,CHC,Chicago Cubs,5,2
+746953,2024-06-02,116,DET,Detroit Tigers,111,BOS,Boston Red Sox,8,4
+747030,2024-06-02,139,TB,Tampa Bay Rays,110,BAL,Baltimore Orioles,4,3
+747110,2024-06-02,133,OAK,Oakland Athletics,144,ATL,Atlanta Braves,1,3
+744854,2024-06-03,121,NYM,New York Mets,120,WSH,Washington Nationals,8,7
+744930,2024-06-03,110,BAL,Baltimore Orioles,141,TOR,Toronto Blue Jays,7,2
+745009,2024-06-03,116,DET,Detroit Tigers,140,TEX,Texas Rangers,2,1
+745569,2024-06-03,158,MIL,Milwaukee Brewers,143,PHI,Philadelphia Phillies,1,3
+746224,2024-06-03,135,SD,San Diego Padres,108,LAA,Los Angeles Angels,1,2
+746382,2024-06-03,138,STL,St. Louis Cardinals,117,HOU,Houston Astros,4,7
+746548,2024-06-03,113,CIN,Cincinnati Reds,115,COL,Colorado Rockies,13,3
+747194,2024-06-03,137,SF,San Francisco Giants,109,AZ,Arizona Diamondbacks,2,4
+744850,2024-06-04,121,NYM,New York Mets,120,WSH,Washington Nationals,6,3
+744931,2024-06-04,110,BAL,Baltimore Orioles,141,TOR,Toronto Blue Jays,10,1
+745010,2024-06-04,116,DET,Detroit Tigers,140,TEX,Texas Rangers,3,1
+745497,2024-06-04,119,LAD,Los Angeles Dodgers,134,PIT,Pittsburgh Pirates,0,1
+745568,2024-06-04,158,MIL,Milwaukee Brewers,143,PHI,Philadelphia Phillies,1,2
+745656,2024-06-04,136,SEA,Seattle Mariners,133,OAK,Oakland Athletics,4,3
+745739,2024-06-04,142,MIN,Minnesota Twins,147,NYY,New York Yankees,1,5
+746060,2024-06-04,139,TB,Tampa Bay Rays,146,MIA,Miami Marlins,9,5
+746222,2024-06-04,135,SD,San Diego Padres,108,LAA,Los Angeles Angels,2,4
+746380,2024-06-04,138,STL,St. Louis Cardinals,117,HOU,Houston Astros,5,8
+746550,2024-06-04,113,CIN,Cincinnati Reds,115,COL,Colorado Rockies,4,1
+746630,2024-06-04,118,KC,Kansas City Royals,114,CLE,Cleveland Guardians,5,8
+746872,2024-06-04,145,CWS,Chicago White Sox,112,CHC,Chicago Cubs,6,7
+746949,2024-06-04,144,ATL,Atlanta Braves,111,BOS,Boston Red Sox,8,3
+747196,2024-06-04,137,SF,San Francisco Giants,109,AZ,Arizona Diamondbacks,5,8
+744852,2024-06-05,121,NYM,New York Mets,120,WSH,Washington Nationals,9,1
+744927,2024-06-05,110,BAL,Baltimore Orioles,141,TOR,Toronto Blue Jays,2,3
+745007,2024-06-05,116,DET,Detroit Tigers,140,TEX,Texas Rangers,1,9
+745494,2024-06-05,119,LAD,Los Angeles Dodgers,134,PIT,Pittsburgh Pirates,6,10
+745570,2024-06-05,158,MIL,Milwaukee Brewers,143,PHI,Philadelphia Phillies,0,2
+745654,2024-06-05,136,SEA,Seattle Mariners,133,OAK,Oakland Athletics,1,2
+745740,2024-06-05,142,MIN,Minnesota Twins,147,NYY,New York Yankees,5,9
+746056,2024-06-05,139,TB,Tampa Bay Rays,146,MIA,Miami Marlins,5,3
+746221,2024-06-05,135,SD,San Diego Padres,108,LAA,Los Angeles Angels,2,3
+746379,2024-06-05,138,STL,St. Louis Cardinals,117,HOU,Houston Astros,4,2
+746544,2024-06-05,113,CIN,Cincinnati Reds,115,COL,Colorado Rockies,12,7
+746873,2024-06-05,145,CWS,Chicago White Sox,112,CHC,Chicago Cubs,6,7
+746950,2024-06-05,144,ATL,Atlanta Braves,111,BOS,Boston Red Sox,0,9
+747195,2024-06-05,137,SF,San Francisco Giants,109,AZ,Arizona Diamondbacks,9,3
+744844,2024-06-06,144,ATL,Atlanta Braves,120,WSH,Washington Nationals,5,2
+744923,2024-06-06,110,BAL,Baltimore Orioles,141,TOR,Toronto Blue Jays,5,6
+745174,2024-06-06,115,COL,Colorado Rockies,138,STL,St. Louis Cardinals,3,2
+745408,2024-06-06,109,AZ,Arizona Diamondbacks,135,SD,San Diego Padres,4,3
+745495,2024-06-06,119,LAD,Los Angeles Dodgers,134,PIT,Pittsburgh Pirates,11,7
+745657,2024-06-06,136,SEA,Seattle Mariners,133,OAK,Oakland Athletics,3,0
+745738,2024-06-06,142,MIN,Minnesota Twins,147,NYY,New York Yankees,5,8
+746631,2024-06-06,118,KC,Kansas City Royals,114,CLE,Cleveland Guardians,4,3
+746707,2024-06-06,112,CHC,Chicago Cubs,113,CIN,Cincinnati Reds,4,8
+746784,2024-06-06,111,BOS,Boston Red Sox,145,CWS,Chicago White Sox,14,2
+744845,2024-06-07,144,ATL,Atlanta Braves,120,WSH,Washington Nationals,1,2
+745008,2024-06-07,137,SF,San Francisco Giants,140,TEX,Texas Rangers,5,2
+745083,2024-06-07,110,BAL,Baltimore Orioles,139,TB,Tampa Bay Rays,6,3
+745169,2024-06-07,115,COL,Colorado Rockies,138,STL,St. Louis Cardinals,5,8
+745406,2024-06-07,109,AZ,Arizona Diamondbacks,135,SD,San Diego Padres,3,10
+745496,2024-06-07,142,MIN,Minnesota Twins,134,PIT,Pittsburgh Pirates,0,3
+745655,2024-06-07,141,TOR,Toronto Blue Jays,133,OAK,Oakland Athletics,1,2
+745737,2024-06-07,119,LAD,Los Angeles Dodgers,147,NYY,New York Yankees,2,1
+746053,2024-06-07,114,CLE,Cleveland Guardians,146,MIA,Miami Marlins,2,3
+746220,2024-06-07,117,HOU,Houston Astros,108,LAA,Los Angeles Angels,7,1
+746302,2024-06-07,136,SEA,Seattle Mariners,118,KC,Kansas City Royals,9,10
+746466,2024-06-07,158,MIL,Milwaukee Brewers,116,DET,Detroit Tigers,10,0
+746704,2024-06-07,112,CHC,Chicago Cubs,113,CIN,Cincinnati Reds,2,3
+746785,2024-06-07,111,BOS,Boston Red Sox,145,CWS,Chicago White Sox,2,7
+744848,2024-06-08,144,ATL,Atlanta Braves,120,WSH,Washington Nationals,3,7
+745001,2024-06-08,137,SF,San Francisco Giants,140,TEX,Texas Rangers,3,1
+745082,2024-06-08,110,BAL,Baltimore Orioles,139,TB,Tampa Bay Rays,5,0
+745166,2024-06-08,115,COL,Colorado Rockies,138,STL,St. Louis Cardinals,6,5
+745410,2024-06-08,109,AZ,Arizona Diamondbacks,135,SD,San Diego Padres,1,13
+745492,2024-06-08,142,MIN,Minnesota Twins,134,PIT,Pittsburgh Pirates,0,4
+745652,2024-06-08,141,TOR,Toronto Blue Jays,133,OAK,Oakland Athletics,7,0
+745735,2024-06-08,119,LAD,Los Angeles Dodgers,147,NYY,New York Yankees,11,3
+745814,2024-06-08,143,PHI,Philadelphia Phillies,121,NYM,New York Mets,7,2
+746057,2024-06-08,114,CLE,Cleveland Guardians,146,MIA,Miami Marlins,8,0
+746223,2024-06-08,117,HOU,Houston Astros,108,LAA,Los Angeles Angels,6,1
+746300,2024-06-08,136,SEA,Seattle Mariners,118,KC,Kansas City Royals,4,8
+746461,2024-06-08,158,MIL,Milwaukee Brewers,116,DET,Detroit Tigers,5,4
+746703,2024-06-08,112,CHC,Chicago Cubs,113,CIN,Cincinnati Reds,3,4
+746786,2024-06-08,111,BOS,Boston Red Sox,145,CWS,Chicago White Sox,1,6
+744849,2024-06-09,144,ATL,Atlanta Braves,120,WSH,Washington Nationals,5,8
+745003,2024-06-09,137,SF,San Francisco Giants,140,TEX,Texas Rangers,2,7
+745085,2024-06-09,110,BAL,Baltimore Orioles,139,TB,Tampa Bay Rays,9,2
+745167,2024-06-09,115,COL,Colorado Rockies,138,STL,St. Louis Cardinals,1,5
+745407,2024-06-09,109,AZ,Arizona Diamondbacks,135,SD,San Diego Padres,9,3
+745491,2024-06-09,142,MIN,Minnesota Twins,134,PIT,Pittsburgh Pirates,11,5
+745571,2024-06-09,121,NYM,New York Mets,143,PHI,Philadelphia Phillies,6,5
+745651,2024-06-09,141,TOR,Toronto Blue Jays,133,OAK,Oakland Athletics,6,4
+745736,2024-06-09,119,LAD,Los Angeles Dodgers,147,NYY,New York Yankees,4,6
+746054,2024-06-09,114,CLE,Cleveland Guardians,146,MIA,Miami Marlins,6,3
+746216,2024-06-09,117,HOU,Houston Astros,108,LAA,Los Angeles Angels,7,9
+746297,2024-06-09,136,SEA,Seattle Mariners,118,KC,Kansas City Royals,6,5
+746463,2024-06-09,158,MIL,Milwaukee Brewers,116,DET,Detroit Tigers,2,10
+746705,2024-06-09,112,CHC,Chicago Cubs,113,CIN,Cincinnati Reds,4,2
+746787,2024-06-09,111,BOS,Boston Red Sox,145,CWS,Chicago White Sox,6,4
+745080,2024-06-10,110,BAL,Baltimore Orioles,139,TB,Tampa Bay Rays,5,2
+745248,2024-06-10,145,CWS,Chicago White Sox,136,SEA,Seattle Mariners,4,8
+745334,2024-06-10,117,HOU,Houston Astros,137,SF,San Francisco Giants,3,4
+745409,2024-06-10,133,OAK,Oakland Athletics,135,SD,San Diego Padres,1,6
+745897,2024-06-10,115,COL,Colorado Rockies,142,MIN,Minnesota Twins,0,5
+745982,2024-06-10,141,TOR,Toronto Blue Jays,158,MIL,Milwaukee Brewers,1,3
+746295,2024-06-10,147,NYY,New York Yankees,118,KC,Kansas City Royals,4,2
+745077,2024-06-11,112,CHC,Chicago Cubs,139,TB,Tampa Bay Rays,2,5
+745170,2024-06-11,134,PIT,Pittsburgh Pirates,138,STL,St. Louis Cardinals,2,1
+745244,2024-06-11,145,CWS,Chicago White Sox,136,SEA,Seattle Mariners,3,4
+745327,2024-06-11,117,HOU,Houston Astros,137,SF,San Francisco Giants,3,1
+745404,2024-06-11,133,OAK,Oakland Athletics,135,SD,San Diego Padres,3,4
+745815,2024-06-11,146,MIA,Miami Marlins,121,NYM,New York Mets,4,2
+745899,2024-06-11,115,COL,Colorado Rockies,142,MIN,Minnesota Twins,5,4
+745981,2024-06-11,141,TOR,Toronto Blue Jays,158,MIL,Milwaukee Brewers,3,0
+746139,2024-06-11,140,TEX,Texas Rangers,119,LAD,Los Angeles Dodgers,2,15
+746296,2024-06-11,147,NYY,New York Yankees,118,KC,Kansas City Royals,10,1
+746464,2024-06-11,120,WSH,Washington Nationals,116,DET,Detroit Tigers,5,4
+746702,2024-06-11,114,CLE,Cleveland Guardians,113,CIN,Cincinnati Reds,5,3
+746951,2024-06-11,143,PHI,Philadelphia Phillies,111,BOS,Boston Red Sox,4,1
+747027,2024-06-11,144,ATL,Atlanta Braves,110,BAL,Baltimore Orioles,0,4
+747190,2024-06-11,108,LAA,Los Angeles Angels,109,AZ,Arizona Diamondbacks,4,9
+745079,2024-06-12,112,CHC,Chicago Cubs,139,TB,Tampa Bay Rays,4,3
+745171,2024-06-12,134,PIT,Pittsburgh Pirates,138,STL,St. Louis Cardinals,2,4
+745246,2024-06-12,145,CWS,Chicago White Sox,136,SEA,Seattle Mariners,1,2
+745328,2024-06-12,117,HOU,Houston Astros,137,SF,San Francisco Giants,3,5
+745405,2024-06-12,133,OAK,Oakland Athletics,135,SD,San Diego Padres,4,5
+745811,2024-06-12,146,MIA,Miami Marlins,121,NYM,New York Mets,4,10
+745896,2024-06-12,115,COL,Colorado Rockies,142,MIN,Minnesota Twins,9,17
+745978,2024-06-12,141,TOR,Toronto Blue Jays,158,MIL,Milwaukee Brewers,4,5
+746137,2024-06-12,140,TEX,Texas Rangers,119,LAD,Los Angeles Dodgers,3,2
+746294,2024-06-12,147,NYY,New York Yankees,118,KC,Kansas City Royals,11,5
+746462,2024-06-12,120,WSH,Washington Nationals,116,DET,Detroit Tigers,7,5
+746701,2024-06-12,114,CLE,Cleveland Guardians,113,CIN,Cincinnati Reds,2,4
+746948,2024-06-12,143,PHI,Philadelphia Phillies,111,BOS,Boston Red Sox,6,8
+747028,2024-06-12,144,ATL,Atlanta Braves,110,BAL,Baltimore Orioles,2,4
+747193,2024-06-12,108,LAA,Los Angeles Angels,109,AZ,Arizona Diamondbacks,8,3
+745075,2024-06-13,112,CHC,Chicago Cubs,139,TB,Tampa Bay Rays,2,3
+745168,2024-06-13,134,PIT,Pittsburgh Pirates,138,STL,St. Louis Cardinals,3,4
+745245,2024-06-13,145,CWS,Chicago White Sox,136,SEA,Seattle Mariners,3,2
+745809,2024-06-13,146,MIA,Miami Marlins,121,NYM,New York Mets,2,3
+745894,2024-06-13,133,OAK,Oakland Athletics,142,MIN,Minnesota Twins,2,6
+746136,2024-06-13,140,TEX,Texas Rangers,119,LAD,Los Angeles Dodgers,3,1
+746299,2024-06-13,147,NYY,New York Yankees,118,KC,Kansas City Royals,3,4
+746465,2024-06-13,120,WSH,Washington Nationals,116,DET,Detroit Tigers,2,7
+746944,2024-06-13,143,PHI,Philadelphia Phillies,111,BOS,Boston Red Sox,3,9
+747026,2024-06-13,144,ATL,Atlanta Braves,110,BAL,Baltimore Orioles,6,3
+747192,2024-06-13,108,LAA,Los Angeles Angels,109,AZ,Arizona Diamondbacks,1,11
+744847,2024-06-14,146,MIA,Miami Marlins,120,WSH,Washington Nationals,1,8
+744924,2024-06-14,114,CLE,Cleveland Guardians,141,TOR,Toronto Blue Jays,3,1
+745247,2024-06-14,140,TEX,Texas Rangers,136,SEA,Seattle Mariners,2,3
+745326,2024-06-14,108,LAA,Los Angeles Angels,137,SF,San Francisco Giants,8,6
+745810,2024-06-14,135,SD,San Diego Padres,121,NYM,New York Mets,1,2
+745892,2024-06-14,133,OAK,Oakland Athletics,142,MIN,Minnesota Twins,5,6
+745979,2024-06-14,113,CIN,Cincinnati Reds,158,MIL,Milwaukee Brewers,6,5
+746134,2024-06-14,118,KC,Kansas City Royals,119,LAD,Los Angeles Dodgers,3,4
+746378,2024-06-14,116,DET,Detroit Tigers,117,HOU,Houston Astros,0,4
+746545,2024-06-14,134,PIT,Pittsburgh Pirates,115,COL,Colorado Rockies,5,2
+746869,2024-06-14,138,STL,St. Louis Cardinals,112,CHC,Chicago Cubs,3,0
+746947,2024-06-14,147,NYY,New York Yankees,111,BOS,Boston Red Sox,8,1
+747025,2024-06-14,143,PHI,Philadelphia Phillies,110,BAL,Baltimore Orioles,5,3
+747112,2024-06-14,139,TB,Tampa Bay Rays,144,ATL,Atlanta Braves,3,7
+747191,2024-06-14,145,CWS,Chicago White Sox,109,AZ,Arizona Diamondbacks,1,7
+744846,2024-06-15,146,MIA,Miami Marlins,120,WSH,Washington Nationals,0,4
+744925,2024-06-15,114,CLE,Cleveland Guardians,141,TOR,Toronto Blue Jays,0,5
+745241,2024-06-15,140,TEX,Texas Rangers,136,SEA,Seattle Mariners,5,7
+745329,2024-06-15,108,LAA,Los Angeles Angels,137,SF,San Francisco Giants,4,3
+745805,2024-06-15,135,SD,San Diego Padres,121,NYM,New York Mets,1,5
+745976,2024-06-15,113,CIN,Cincinnati Reds,158,MIL,Milwaukee Brewers,1,3
+746135,2024-06-15,118,KC,Kansas City Royals,119,LAD,Los Angeles Dodgers,7,2
+746381,2024-06-15,116,DET,Detroit Tigers,117,HOU,Houston Astros,13,5
+746547,2024-06-15,134,PIT,Pittsburgh Pirates,115,COL,Colorado Rockies,4,16
+746865,2024-06-15,138,STL,St. Louis Cardinals,112,CHC,Chicago Cubs,1,5
+746946,2024-06-15,147,NYY,New York Yankees,111,BOS,Boston Red Sox,4,8
+747024,2024-06-15,143,PHI,Philadelphia Phillies,110,BAL,Baltimore Orioles,2,6
+747113,2024-06-15,139,TB,Tampa Bay Rays,144,ATL,Atlanta Braves,2,9
+747187,2024-06-15,145,CWS,Chicago White Sox,109,AZ,Arizona Diamondbacks,9,2
+744839,2024-06-16,146,MIA,Miami Marlins,120,WSH,Washington Nationals,1,3
+744926,2024-06-16,114,CLE,Cleveland Guardians,141,TOR,Toronto Blue Jays,6,7
+745242,2024-06-16,140,TEX,Texas Rangers,136,SEA,Seattle Mariners,0,5
+745321,2024-06-16,108,LAA,Los Angeles Angels,137,SF,San Francisco Giants,6,13
+745807,2024-06-16,135,SD,San Diego Padres,121,NYM,New York Mets,6,11
+745891,2024-06-16,133,OAK,Oakland Athletics,142,MIN,Minnesota Twins,7,8
+745895,2024-06-16,133,OAK,Oakland Athletics,142,MIN,Minnesota Twins,2,6
+745977,2024-06-16,113,CIN,Cincinnati Reds,158,MIL,Milwaukee Brewers,4,5
+746130,2024-06-16,118,KC,Kansas City Royals,119,LAD,Los Angeles Dodgers,0,3
+746377,2024-06-16,116,DET,Detroit Tigers,117,HOU,Houston Astros,1,4
+746546,2024-06-16,134,PIT,Pittsburgh Pirates,115,COL,Colorado Rockies,8,2
+746866,2024-06-16,138,STL,St. Louis Cardinals,112,CHC,Chicago Cubs,2,1
+746945,2024-06-16,147,NYY,New York Yankees,111,BOS,Boston Red Sox,3,9
+747023,2024-06-16,143,PHI,Philadelphia Phillies,110,BAL,Baltimore Orioles,3,8
+747109,2024-06-16,139,TB,Tampa Bay Rays,144,ATL,Atlanta Braves,8,6
+747189,2024-06-16,145,CWS,Chicago White Sox,109,AZ,Arizona Diamondbacks,5,12
+744918,2024-06-17,111,BOS,Boston Red Sox,141,TOR,Toronto Blue Jays,7,3
+745005,2024-06-17,121,NYM,New York Mets,140,TEX,Texas Rangers,14,2
+745490,2024-06-17,113,CIN,Cincinnati Reds,134,PIT,Pittsburgh Pirates,1,4
+745567,2024-06-17,135,SD,San Diego Padres,143,PHI,Philadelphia Phillies,2,9
+746055,2024-06-17,138,STL,St. Louis Cardinals,146,MIA,Miami Marlins,7,6
+746215,2024-06-17,158,MIL,Milwaukee Brewers,108,LAA,Los Angeles Angels,3,5
+746543,2024-06-17,119,LAD,Los Angeles Dodgers,115,COL,Colorado Rockies,9,5
+746868,2024-06-17,137,SF,San Francisco Giants,112,CHC,Chicago Cubs,7,6
+747108,2024-06-17,116,DET,Detroit Tigers,144,ATL,Atlanta Braves,1,2
+744843,2024-06-18,109,AZ,Arizona Diamondbacks,120,WSH,Washington Nationals,5,0
+744917,2024-06-18,111,BOS,Boston Red Sox,141,TOR,Toronto Blue Jays,4,3
+745004,2024-06-18,121,NYM,New York Mets,140,TEX,Texas Rangers,7,6
+745488,2024-06-18,113,CIN,Cincinnati Reds,134,PIT,Pittsburgh Pirates,2,1
+745563,2024-06-18,135,SD,San Diego Padres,143,PHI,Philadelphia Phillies,3,4
+745650,2024-06-18,118,KC,Kansas City Royals,133,OAK,Oakland Athletics,5,7
+745733,2024-06-18,110,BAL,Baltimore Orioles,147,NYY,New York Yankees,2,4
+745893,2024-06-18,139,TB,Tampa Bay Rays,142,MIN,Minnesota Twins,6,7
+746049,2024-06-18,138,STL,St. Louis Cardinals,146,MIA,Miami Marlins,8,9
+746217,2024-06-18,158,MIL,Milwaukee Brewers,108,LAA,Los Angeles Angels,6,3
+746542,2024-06-18,119,LAD,Los Angeles Dodgers,115,COL,Colorado Rockies,11,9
+746627,2024-06-18,136,SEA,Seattle Mariners,114,CLE,Cleveland Guardians,8,5
+746783,2024-06-18,117,HOU,Houston Astros,145,CWS,Chicago White Sox,0,2
+746867,2024-06-18,137,SF,San Francisco Giants,112,CHC,Chicago Cubs,2,5
+747107,2024-06-18,116,DET,Detroit Tigers,144,ATL,Atlanta Braves,1,2
+744842,2024-06-19,109,AZ,Arizona Diamondbacks,120,WSH,Washington Nationals,1,3
+744920,2024-06-19,111,BOS,Boston Red Sox,141,TOR,Toronto Blue Jays,7,3
+745002,2024-06-19,121,NYM,New York Mets,140,TEX,Texas Rangers,3,5
+745489,2024-06-19,113,CIN,Cincinnati Reds,134,PIT,Pittsburgh Pirates,0,1
+745561,2024-06-19,135,SD,San Diego Padres,143,PHI,Philadelphia Phillies,5,2
+745646,2024-06-19,118,KC,Kansas City Royals,133,OAK,Oakland Athletics,1,5
+745732,2024-06-19,110,BAL,Baltimore Orioles,147,NYY,New York Yankees,7,6
+745887,2024-06-19,139,TB,Tampa Bay Rays,142,MIN,Minnesota Twins,3,2
+746050,2024-06-19,138,STL,St. Louis Cardinals,146,MIA,Miami Marlins,3,4
+746219,2024-06-19,158,MIL,Milwaukee Brewers,108,LAA,Los Angeles Angels,2,0
+746538,2024-06-19,119,LAD,Los Angeles Dodgers,115,COL,Colorado Rockies,6,7
+746625,2024-06-19,136,SEA,Seattle Mariners,114,CLE,Cleveland Guardians,0,8
+746781,2024-06-19,117,HOU,Houston Astros,145,CWS,Chicago White Sox,4,1
+746864,2024-06-19,137,SF,San Francisco Giants,112,CHC,Chicago Cubs,5,6
+747106,2024-06-19,116,DET,Detroit Tigers,144,ATL,Atlanta Braves,0,7
+744841,2024-06-20,109,AZ,Arizona Diamondbacks,120,WSH,Washington Nationals,5,2
+745164,2024-06-20,137,SF,San Francisco Giants,138,STL,St. Louis Cardinals,5,6
+745401,2024-06-20,158,MIL,Milwaukee Brewers,135,SD,San Diego Padres,6,7
+745645,2024-06-20,118,KC,Kansas City Royals,133,OAK,Oakland Athletics,3,2
+745734,2024-06-20,110,BAL,Baltimore Orioles,147,NYY,New York Yankees,17,5
+745889,2024-06-20,139,TB,Tampa Bay Rays,142,MIN,Minnesota Twins,7,6
+746539,2024-06-20,119,LAD,Los Angeles Dodgers,115,COL,Colorado Rockies,5,3
+746626,2024-06-20,136,SEA,Seattle Mariners,114,CLE,Cleveland Guardians,3,6
+746782,2024-06-20,117,HOU,Houston Astros,145,CWS,Chicago White Sox,5,3
+745006,2024-06-21,118,KC,Kansas City Royals,140,TEX,Texas Rangers,2,6
+745403,2024-06-21,158,MIL,Milwaukee Brewers,135,SD,San Diego Padres,5,9
+745483,2024-06-21,139,TB,Tampa Bay Rays,134,PIT,Pittsburgh Pirates,10,3
+745562,2024-06-21,109,AZ,Arizona Diamondbacks,143,PHI,Philadelphia Phillies,5,4
+745649,2024-06-21,142,MIN,Minnesota Twins,133,OAK,Oakland Athletics,5,6
+745729,2024-06-21,144,ATL,Atlanta Braves,147,NYY,New York Yankees,8,1
+746052,2024-06-21,136,SEA,Seattle Mariners,146,MIA,Miami Marlins,2,3
+746131,2024-06-21,108,LAA,Los Angeles Angels,119,LAD,Los Angeles Dodgers,3,2
+746375,2024-06-21,110,BAL,Baltimore Orioles,117,HOU,Houston Astros,11,14
+746460,2024-06-21,145,CWS,Chicago White Sox,116,DET,Detroit Tigers,1,2
+746540,2024-06-21,120,WSH,Washington Nationals,115,COL,Colorado Rockies,11,5
+746624,2024-06-21,141,TOR,Toronto Blue Jays,114,CLE,Cleveland Guardians,1,7
+746698,2024-06-21,111,BOS,Boston Red Sox,113,CIN,Cincinnati Reds,2,5
+746861,2024-06-21,121,NYM,New York Mets,112,CHC,Chicago Cubs,11,1
+744997,2024-06-22,118,KC,Kansas City Royals,140,TEX,Texas Rangers,0,6
+745163,2024-06-22,137,SF,San Francisco Giants,138,STL,St. Louis Cardinals,4,9
+745402,2024-06-22,158,MIL,Milwaukee Brewers,135,SD,San Diego Padres,4,6
+745486,2024-06-22,139,TB,Tampa Bay Rays,134,PIT,Pittsburgh Pirates,3,4
+745564,2024-06-22,109,AZ,Arizona Diamondbacks,143,PHI,Philadelphia Phillies,1,12
+745644,2024-06-22,142,MIN,Minnesota Twins,133,OAK,Oakland Athletics,10,2
+745731,2024-06-22,144,ATL,Atlanta Braves,147,NYY,New York Yankees,3,8
+746048,2024-06-22,136,SEA,Seattle Mariners,146,MIA,Miami Marlins,9,0
+746132,2024-06-22,108,LAA,Los Angeles Angels,119,LAD,Los Angeles Dodgers,2,7
+746376,2024-06-22,110,BAL,Baltimore Orioles,117,HOU,Houston Astros,1,5
+746459,2024-06-22,145,CWS,Chicago White Sox,116,DET,Detroit Tigers,5,1
+746541,2024-06-22,120,WSH,Washington Nationals,115,COL,Colorado Rockies,7,8
+746622,2024-06-22,141,TOR,Toronto Blue Jays,114,CLE,Cleveland Guardians,3,6
+746700,2024-06-22,111,BOS,Boston Red Sox,113,CIN,Cincinnati Reds,4,3
+746863,2024-06-22,121,NYM,New York Mets,112,CHC,Chicago Cubs,1,8
+745000,2024-06-23,118,KC,Kansas City Royals,140,TEX,Texas Rangers,0,4
+745165,2024-06-23,137,SF,San Francisco Giants,138,STL,St. Louis Cardinals,3,5
+745396,2024-06-23,158,MIL,Milwaukee Brewers,135,SD,San Diego Padres,6,2
+745485,2024-06-23,139,TB,Tampa Bay Rays,134,PIT,Pittsburgh Pirates,3,1
+745566,2024-06-23,109,AZ,Arizona Diamondbacks,143,PHI,Philadelphia Phillies,1,4
+745648,2024-06-23,142,MIN,Minnesota Twins,133,OAK,Oakland Athletics,3,0
+745727,2024-06-23,144,ATL,Atlanta Braves,147,NYY,New York Yankees,3,1
+746051,2024-06-23,136,SEA,Seattle Mariners,146,MIA,Miami Marlins,4,6
+746373,2024-06-23,110,BAL,Baltimore Orioles,117,HOU,Houston Astros,1,8
+746457,2024-06-23,145,CWS,Chicago White Sox,116,DET,Detroit Tigers,2,11
+746536,2024-06-23,120,WSH,Washington Nationals,115,COL,Colorado Rockies,2,1
+746621,2024-06-23,141,TOR,Toronto Blue Jays,114,CLE,Cleveland Guardians,5,6
+746699,2024-06-23,111,BOS,Boston Red Sox,113,CIN,Cincinnati Reds,7,4
+746862,2024-06-23,121,NYM,New York Mets,112,CHC,Chicago Cubs,5,2
+745078,2024-06-24,136,SEA,Seattle Mariners,139,TB,Tampa Bay Rays,3,4
+745160,2024-06-24,144,ATL,Atlanta Braves,138,STL,St. Louis Cardinals,3,4
+745323,2024-06-24,112,CHC,Chicago Cubs,137,SF,San Francisco Giants,4,5
+745397,2024-06-24,120,WSH,Washington Nationals,135,SD,San Diego Padres,6,7
+745974,2024-06-24,140,TEX,Texas Rangers,158,MIL,Milwaukee Brewers,3,6
+746218,2024-06-24,133,OAK,Oakland Athletics,108,LAA,Los Angeles Angels,1,5
+746298,2024-06-24,146,MIA,Miami Marlins,118,KC,Kansas City Royals,1,4
+746458,2024-06-24,143,PHI,Philadelphia Phillies,116,DET,Detroit Tigers,8,1
+746696,2024-06-24,134,PIT,Pittsburgh Pirates,113,CIN,Cincinnati Reds,5,11
+746780,2024-06-24,119,LAD,Los Angeles Dodgers,145,CWS,Chicago White Sox,3,0
+746941,2024-06-24,141,TOR,Toronto Blue Jays,111,BOS,Boston Red Sox,6,7
+747021,2024-06-24,114,CLE,Cleveland Guardians,110,BAL,Baltimore Orioles,3,2
+745076,2024-06-25,136,SEA,Seattle Mariners,139,TB,Tampa Bay Rays,3,11
+745322,2024-06-25,112,CHC,Chicago Cubs,137,SF,San Francisco Giants,1,5
+745399,2024-06-25,120,WSH,Washington Nationals,135,SD,San Diego Padres,7,9
+745806,2024-06-25,147,NYY,New York Yankees,121,NYM,New York Mets,7,9
+745973,2024-06-25,140,TEX,Texas Rangers,158,MIL,Milwaukee Brewers,1,3
+746213,2024-06-25,133,OAK,Oakland Athletics,108,LAA,Los Angeles Angels,5,7
+746293,2024-06-25,146,MIA,Miami Marlins,118,KC,Kansas City Royals,2,1
+746372,2024-06-25,115,COL,Colorado Rockies,117,HOU,Houston Astros,2,5
+746454,2024-06-25,143,PHI,Philadelphia Phillies,116,DET,Detroit Tigers,1,4
+746697,2024-06-25,134,PIT,Pittsburgh Pirates,113,CIN,Cincinnati Reds,9,5
+746775,2024-06-25,119,LAD,Los Angeles Dodgers,145,CWS,Chicago White Sox,4,3
+746943,2024-06-25,141,TOR,Toronto Blue Jays,111,BOS,Boston Red Sox,9,4
+747022,2024-06-25,114,CLE,Cleveland Guardians,110,BAL,Baltimore Orioles,10,8
+747188,2024-06-25,142,MIN,Minnesota Twins,109,AZ,Arizona Diamondbacks,4,5
+745073,2024-06-26,136,SEA,Seattle Mariners,139,TB,Tampa Bay Rays,5,2
+745157,2024-06-26,144,ATL,Atlanta Braves,138,STL,St. Louis Cardinals,6,2
+745158,2024-06-26,144,ATL,Atlanta Braves,138,STL,St. Louis Cardinals,1,4
+745325,2024-06-26,112,CHC,Chicago Cubs,137,SF,San Francisco Giants,3,4
+745400,2024-06-26,120,WSH,Washington Nationals,135,SD,San Diego Padres,5,8
+745808,2024-06-26,147,NYY,New York Yankees,121,NYM,New York Mets,2,12
+745975,2024-06-26,140,TEX,Texas Rangers,158,MIL,Milwaukee Brewers,5,6
+746212,2024-06-26,133,OAK,Oakland Athletics,108,LAA,Los Angeles Angels,2,5
+746291,2024-06-26,146,MIA,Miami Marlins,118,KC,Kansas City Royals,1,5
+746374,2024-06-26,115,COL,Colorado Rockies,117,HOU,Houston Astros,1,7
+746456,2024-06-26,143,PHI,Philadelphia Phillies,116,DET,Detroit Tigers,6,2
+746695,2024-06-26,134,PIT,Pittsburgh Pirates,113,CIN,Cincinnati Reds,6,1
+746777,2024-06-26,119,LAD,Los Angeles Dodgers,145,CWS,Chicago White Sox,4,0
+746942,2024-06-26,141,TOR,Toronto Blue Jays,111,BOS,Boston Red Sox,4,1
+747019,2024-06-26,114,CLE,Cleveland Guardians,110,BAL,Baltimore Orioles,2,4
+747184,2024-06-26,142,MIN,Minnesota Twins,109,AZ,Arizona Diamondbacks,8,3
+744919,2024-06-27,147,NYY,New York Yankees,141,TOR,Toronto Blue Jays,2,9
+745162,2024-06-27,113,CIN,Cincinnati Reds,138,STL,St. Louis Cardinals,11,4
+745324,2024-06-27,112,CHC,Chicago Cubs,137,SF,San Francisco Giants,5,3
+745565,2024-06-27,146,MIA,Miami Marlins,143,PHI,Philadelphia Phillies,7,4
+746210,2024-06-27,116,DET,Detroit Tigers,108,LAA,Los Angeles Angels,0,5
+746288,2024-06-27,114,CLE,Cleveland Guardians,118,KC,Kansas City Royals,1,2
+746816,2024-06-27,144,ATL,Atlanta Braves,145,CWS,Chicago White Sox,0,1
+747020,2024-06-27,140,TEX,Texas Rangers,110,BAL,Baltimore Orioles,2,11
+747185,2024-06-27,142,MIN,Minnesota Twins,109,AZ,Arizona Diamondbacks,13,6
+744922,2024-06-28,147,NYY,New York Yankees,141,TOR,Toronto Blue Jays,16,5
+745070,2024-06-28,120,WSH,Washington Nationals,139,TB,Tampa Bay Rays,1,3
+745161,2024-06-28,113,CIN,Cincinnati Reds,138,STL,St. Louis Cardinals,0,1
+745238,2024-06-28,142,MIN,Minnesota Twins,136,SEA,Seattle Mariners,2,3
+745319,2024-06-28,119,LAD,Los Angeles Dodgers,137,SF,San Francisco Giants,3,5
+745560,2024-06-28,146,MIA,Miami Marlins,143,PHI,Philadelphia Phillies,0,2
+745804,2024-06-28,117,HOU,Houston Astros,121,NYM,New York Mets,2,7
+745970,2024-06-28,112,CHC,Chicago Cubs,158,MIL,Milwaukee Brewers,2,4
+746214,2024-06-28,116,DET,Detroit Tigers,108,LAA,Los Angeles Angels,2,5
+746292,2024-06-28,114,CLE,Cleveland Guardians,118,KC,Kansas City Royals,3,10
+746776,2024-06-28,115,COL,Colorado Rockies,145,CWS,Chicago White Sox,3,5
+746939,2024-06-28,135,SD,San Diego Padres,111,BOS,Boston Red Sox,9,2
+747017,2024-06-28,140,TEX,Texas Rangers,110,BAL,Baltimore Orioles,1,2
+747105,2024-06-28,134,PIT,Pittsburgh Pirates,144,ATL,Atlanta Braves,1,6
+747183,2024-06-28,133,OAK,Oakland Athletics,109,AZ,Arizona Diamondbacks,9,4
+744921,2024-06-29,147,NYY,New York Yankees,141,TOR,Toronto Blue Jays,3,9
+745071,2024-06-29,120,WSH,Washington Nationals,139,TB,Tampa Bay Rays,8,1
+745159,2024-06-29,113,CIN,Cincinnati Reds,138,STL,St. Louis Cardinals,9,4
+745239,2024-06-29,142,MIN,Minnesota Twins,136,SEA,Seattle Mariners,5,1
+745317,2024-06-29,119,LAD,Los Angeles Dodgers,137,SF,San Francisco Giants,14,7
+745559,2024-06-29,146,MIA,Miami Marlins,143,PHI,Philadelphia Phillies,3,2
+745801,2024-06-29,117,HOU,Houston Astros,121,NYM,New York Mets,9,6
+745972,2024-06-29,112,CHC,Chicago Cubs,158,MIL,Milwaukee Brewers,5,3
+746211,2024-06-29,116,DET,Detroit Tigers,108,LAA,Los Angeles Angels,5,6
+746289,2024-06-29,114,CLE,Cleveland Guardians,118,KC,Kansas City Royals,7,2
+746778,2024-06-29,115,COL,Colorado Rockies,145,CWS,Chicago White Sox,3,11
+746940,2024-06-29,135,SD,San Diego Padres,111,BOS,Boston Red Sox,11,1
+747018,2024-06-29,140,TEX,Texas Rangers,110,BAL,Baltimore Orioles,5,6
+747104,2024-06-29,134,PIT,Pittsburgh Pirates,144,ATL,Atlanta Braves,1,2
+747186,2024-06-29,133,OAK,Oakland Athletics,109,AZ,Arizona Diamondbacks,0,3
+744916,2024-06-30,147,NYY,New York Yankees,141,TOR,Toronto Blue Jays,8,1
+745072,2024-06-30,120,WSH,Washington Nationals,139,TB,Tampa Bay Rays,0,5
+745154,2024-06-30,113,CIN,Cincinnati Reds,138,STL,St. Louis Cardinals,0,2
+745243,2024-06-30,142,MIN,Minnesota Twins,136,SEA,Seattle Mariners,5,3
+745320,2024-06-30,119,LAD,Los Angeles Dodgers,137,SF,San Francisco Giants,4,10
+745555,2024-06-30,146,MIA,Miami Marlins,143,PHI,Philadelphia Phillies,6,7
+745802,2024-06-30,117,HOU,Houston Astros,121,NYM,New York Mets,10,5
+745971,2024-06-30,112,CHC,Chicago Cubs,158,MIL,Milwaukee Brewers,1,7
+746209,2024-06-30,116,DET,Detroit Tigers,108,LAA,Los Angeles Angels,7,6
+746290,2024-06-30,114,CLE,Cleveland Guardians,118,KC,Kansas City Royals,2,6
+746779,2024-06-30,115,COL,Colorado Rockies,145,CWS,Chicago White Sox,5,4
+746938,2024-06-30,135,SD,San Diego Padres,111,BOS,Boston Red Sox,1,4
+747016,2024-06-30,140,TEX,Texas Rangers,110,BAL,Baltimore Orioles,11,2
+747101,2024-06-30,134,PIT,Pittsburgh Pirates,144,ATL,Atlanta Braves,4,2
+747182,2024-06-30,133,OAK,Oakland Athletics,109,AZ,Arizona Diamondbacks,1,5
+744840,2024-07-01,121,NYM,New York Mets,120,WSH,Washington Nationals,9,7
+744914,2024-07-01,117,HOU,Houston Astros,141,TOR,Toronto Blue Jays,3,1
+746535,2024-07-01,158,MIL,Milwaukee Brewers,115,COL,Colorado Rockies,7,8
+744838,2024-07-02,121,NYM,New York Mets,120,WSH,Washington Nationals,7,2
+744913,2024-07-02,117,HOU,Houston Astros,141,TOR,Toronto Blue Jays,6,7
+744999,2024-07-02,135,SD,San Diego Padres,140,TEX,Texas Rangers,0,7
+745240,2024-07-02,110,BAL,Baltimore Orioles,136,SEA,Seattle Mariners,2,0
+745482,2024-07-02,138,STL,St. Louis Cardinals,134,PIT,Pittsburgh Pirates,7,4
+745647,2024-07-02,108,LAA,Los Angeles Angels,133,OAK,Oakland Athletics,5,7
+745730,2024-07-02,113,CIN,Cincinnati Reds,147,NYY,New York Yankees,5,4
+745886,2024-07-02,116,DET,Detroit Tigers,142,MIN,Minnesota Twins,3,5
+746047,2024-07-02,111,BOS,Boston Red Sox,146,MIA,Miami Marlins,8,3
+746133,2024-07-02,109,AZ,Arizona Diamondbacks,119,LAD,Los Angeles Dodgers,5,6
+746282,2024-07-02,139,TB,Tampa Bay Rays,118,KC,Kansas City Royals,5,1
+746537,2024-07-02,158,MIL,Milwaukee Brewers,115,COL,Colorado Rockies,4,3
+746623,2024-07-02,145,CWS,Chicago White Sox,114,CLE,Cleveland Guardians,6,7
+746860,2024-07-02,143,PHI,Philadelphia Phillies,112,CHC,Chicago Cubs,6,4
+747102,2024-07-02,137,SF,San Francisco Giants,144,ATL,Atlanta Braves,5,3
+744837,2024-07-03,121,NYM,New York Mets,120,WSH,Washington Nationals,5,7
+744915,2024-07-03,117,HOU,Houston Astros,141,TOR,Toronto Blue Jays,9,2
+744998,2024-07-03,135,SD,San Diego Padres,140,TEX,Texas Rangers,6,4
+745234,2024-07-03,110,BAL,Baltimore Orioles,136,SEA,Seattle Mariners,4,1
+745487,2024-07-03,138,STL,St. Louis Cardinals,134,PIT,Pittsburgh Pirates,4,5
+745643,2024-07-03,108,LAA,Los Angeles Angels,133,OAK,Oakland Athletics,0,5
+745728,2024-07-03,113,CIN,Cincinnati Reds,147,NYY,New York Yankees,3,2
+745888,2024-07-03,116,DET,Detroit Tigers,142,MIN,Minnesota Twins,9,2
+746045,2024-07-03,111,BOS,Boston Red Sox,146,MIA,Miami Marlins,7,2
+746128,2024-07-03,109,AZ,Arizona Diamondbacks,119,LAD,Los Angeles Dodgers,12,4
+746283,2024-07-03,139,TB,Tampa Bay Rays,118,KC,Kansas City Royals,2,4
+746534,2024-07-03,158,MIL,Milwaukee Brewers,115,COL,Colorado Rockies,3,0
+746617,2024-07-03,145,CWS,Chicago White Sox,114,CLE,Cleveland Guardians,8,2
+746858,2024-07-03,143,PHI,Philadelphia Phillies,112,CHC,Chicago Cubs,5,3
+747100,2024-07-03,137,SF,San Francisco Giants,144,ATL,Atlanta Braves,1,3
+744834,2024-07-04,121,NYM,New York Mets,120,WSH,Washington Nationals,0,1
+744912,2024-07-04,117,HOU,Houston Astros,141,TOR,Toronto Blue Jays,5,3
+744996,2024-07-04,135,SD,San Diego Padres,140,TEX,Texas Rangers,3,1
+745236,2024-07-04,110,BAL,Baltimore Orioles,136,SEA,Seattle Mariners,3,7
+745484,2024-07-04,138,STL,St. Louis Cardinals,134,PIT,Pittsburgh Pirates,3,2
+745641,2024-07-04,108,LAA,Los Angeles Angels,133,OAK,Oakland Athletics,0,5
+745726,2024-07-04,113,CIN,Cincinnati Reds,147,NYY,New York Yankees,8,4
+745890,2024-07-04,116,DET,Detroit Tigers,142,MIN,Minnesota Twins,3,12
+746043,2024-07-04,111,BOS,Boston Red Sox,146,MIA,Miami Marlins,6,5
+746126,2024-07-04,109,AZ,Arizona Diamondbacks,119,LAD,Los Angeles Dodgers,9,3
+746285,2024-07-04,139,TB,Tampa Bay Rays,118,KC,Kansas City Royals,10,8
+746532,2024-07-04,158,MIL,Milwaukee Brewers,115,COL,Colorado Rockies,3,4
+746619,2024-07-04,145,CWS,Chicago White Sox,114,CLE,Cleveland Guardians,4,8
+746857,2024-07-04,143,PHI,Philadelphia Phillies,112,CHC,Chicago Cubs,2,10
+747103,2024-07-04,137,SF,San Francisco Giants,144,ATL,Atlanta Braves,4,2
+744836,2024-07-05,138,STL,St. Louis Cardinals,120,WSH,Washington Nationals,7,6
+744992,2024-07-05,139,TB,Tampa Bay Rays,140,TEX,Texas Rangers,0,3
+745237,2024-07-05,141,TOR,Toronto Blue Jays,136,SEA,Seattle Mariners,1,2
+745398,2024-07-05,109,AZ,Arizona Diamondbacks,135,SD,San Diego Padres,8,10
+745479,2024-07-05,121,NYM,New York Mets,134,PIT,Pittsburgh Pirates,2,14
+745639,2024-07-05,110,BAL,Baltimore Orioles,133,OAK,Oakland Athletics,3,2
+745725,2024-07-05,111,BOS,Boston Red Sox,147,NYY,New York Yankees,5,3
+745884,2024-07-05,117,HOU,Houston Astros,142,MIN,Minnesota Twins,13,12
+746046,2024-07-05,145,CWS,Chicago White Sox,146,MIA,Miami Marlins,3,2
+746127,2024-07-05,158,MIL,Milwaukee Brewers,119,LAD,Los Angeles Dodgers,5,8
+746533,2024-07-05,118,KC,Kansas City Royals,115,COL,Colorado Rockies,2,4
+746620,2024-07-05,137,SF,San Francisco Giants,114,CLE,Cleveland Guardians,4,2
+746693,2024-07-05,116,DET,Detroit Tigers,113,CIN,Cincinnati Reds,5,4
+746859,2024-07-05,108,LAA,Los Angeles Angels,112,CHC,Chicago Cubs,1,5
+747097,2024-07-05,143,PHI,Philadelphia Phillies,144,ATL,Atlanta Braves,8,6
+744835,2024-07-06,138,STL,St. Louis Cardinals,120,WSH,Washington Nationals,6,14
+744995,2024-07-06,139,TB,Tampa Bay Rays,140,TEX,Texas Rangers,3,4
+745235,2024-07-06,141,TOR,Toronto Blue Jays,136,SEA,Seattle Mariners,5,4
+745395,2024-07-06,109,AZ,Arizona Diamondbacks,135,SD,San Diego Padres,7,5
+745476,2024-07-06,121,NYM,New York Mets,134,PIT,Pittsburgh Pirates,5,2
+745642,2024-07-06,110,BAL,Baltimore Orioles,133,OAK,Oakland Athletics,8,19
+745724,2024-07-06,111,BOS,Boston Red Sox,147,NYY,New York Yankees,4,14
+745885,2024-07-06,117,HOU,Houston Astros,142,MIN,Minnesota Twins,3,9
+746044,2024-07-06,145,CWS,Chicago White Sox,146,MIA,Miami Marlins,3,4
+746129,2024-07-06,158,MIL,Milwaukee Brewers,119,LAD,Los Angeles Dodgers,3,5
+746529,2024-07-06,118,KC,Kansas City Royals,115,COL,Colorado Rockies,1,3
+746615,2024-07-06,137,SF,San Francisco Giants,114,CLE,Cleveland Guardians,4,5
+746694,2024-07-06,116,DET,Detroit Tigers,113,CIN,Cincinnati Reds,5,3
+746856,2024-07-06,108,LAA,Los Angeles Angels,112,CHC,Chicago Cubs,7,0
+747099,2024-07-06,143,PHI,Philadelphia Phillies,144,ATL,Atlanta Braves,1,5
+744832,2024-07-07,138,STL,St. Louis Cardinals,120,WSH,Washington Nationals,8,3
+744993,2024-07-07,139,TB,Tampa Bay Rays,140,TEX,Texas Rangers,2,13
+745233,2024-07-07,141,TOR,Toronto Blue Jays,136,SEA,Seattle Mariners,5,4
+745391,2024-07-07,109,AZ,Arizona Diamondbacks,135,SD,San Diego Padres,9,1
+745477,2024-07-07,121,NYM,New York Mets,134,PIT,Pittsburgh Pirates,3,2
+745637,2024-07-07,110,BAL,Baltimore Orioles,133,OAK,Oakland Athletics,6,3
+745723,2024-07-07,111,BOS,Boston Red Sox,147,NYY,New York Yankees,3,0
+745883,2024-07-07,117,HOU,Houston Astros,142,MIN,Minnesota Twins,2,3
+746039,2024-07-07,145,CWS,Chicago White Sox,146,MIA,Miami Marlins,4,7
+746122,2024-07-07,158,MIL,Milwaukee Brewers,119,LAD,Los Angeles Dodgers,9,2
+746530,2024-07-07,118,KC,Kansas City Royals,115,COL,Colorado Rockies,10,1
+746616,2024-07-07,137,SF,San Francisco Giants,114,CLE,Cleveland Guardians,4,5
+746691,2024-07-07,116,DET,Detroit Tigers,113,CIN,Cincinnati Reds,5,1
+746855,2024-07-07,108,LAA,Los Angeles Angels,112,CHC,Chicago Cubs,0,5
+747098,2024-07-07,143,PHI,Philadelphia Phillies,144,ATL,Atlanta Braves,0,6
+744833,2024-07-08,138,STL,St. Louis Cardinals,120,WSH,Washington Nationals,6,0
+745480,2024-07-08,121,NYM,New York Mets,134,PIT,Pittsburgh Pirates,2,8
+746208,2024-07-08,140,TEX,Texas Rangers,108,LAA,Los Angeles Angels,9,4
+746455,2024-07-08,114,CLE,Cleveland Guardians,116,DET,Detroit Tigers,0,1
+746692,2024-07-08,115,COL,Colorado Rockies,113,CIN,Cincinnati Reds,0,6
+746771,2024-07-08,142,MIN,Minnesota Twins,145,CWS,Chicago White Sox,8,6
+747181,2024-07-08,144,ATL,Atlanta Braves,109,AZ,Arizona Diamondbacks,5,4
+745074,2024-07-09,147,NYY,New York Yankees,139,TB,Tampa Bay Rays,3,5
+745316,2024-07-09,141,TOR,Toronto Blue Jays,137,SF,San Francisco Giants,3,4
+745393,2024-07-09,136,SEA,Seattle Mariners,135,SD,San Diego Padres,8,3
+745557,2024-07-09,119,LAD,Los Angeles Dodgers,143,PHI,Philadelphia Phillies,1,10
+745803,2024-07-09,120,WSH,Washington Nationals,121,NYM,New York Mets,5,7
+745968,2024-07-09,134,PIT,Pittsburgh Pirates,158,MIL,Milwaukee Brewers,12,2
+746206,2024-07-09,140,TEX,Texas Rangers,108,LAA,Los Angeles Angels,5,4
+746368,2024-07-09,146,MIA,Miami Marlins,117,HOU,Houston Astros,3,4
+746451,2024-07-09,114,CLE,Cleveland Guardians,116,DET,Detroit Tigers,9,8
+746690,2024-07-09,115,COL,Colorado Rockies,113,CIN,Cincinnati Reds,6,12
+746937,2024-07-09,133,OAK,Oakland Athletics,111,BOS,Boston Red Sox,9,12
+747014,2024-07-09,112,CHC,Chicago Cubs,110,BAL,Baltimore Orioles,9,2
+747180,2024-07-09,144,ATL,Atlanta Braves,109,AZ,Arizona Diamondbacks,6,2
+745069,2024-07-10,147,NYY,New York Yankees,139,TB,Tampa Bay Rays,2,1
+745155,2024-07-10,118,KC,Kansas City Royals,138,STL,St. Louis Cardinals,6,4
+745156,2024-07-10,118,KC,Kansas City Royals,138,STL,St. Louis Cardinals,8,5
+745318,2024-07-10,141,TOR,Toronto Blue Jays,137,SF,San Francisco Giants,10,6
+745394,2024-07-10,136,SEA,Seattle Mariners,135,SD,San Diego Padres,2,0
+745556,2024-07-10,119,LAD,Los Angeles Dodgers,143,PHI,Philadelphia Phillies,3,4
+745796,2024-07-10,120,WSH,Washington Nationals,121,NYM,New York Mets,2,6
+745969,2024-07-10,134,PIT,Pittsburgh Pirates,158,MIL,Milwaukee Brewers,0,9
+746205,2024-07-10,140,TEX,Texas Rangers,108,LAA,Los Angeles Angels,2,7
+746366,2024-07-10,146,MIA,Miami Marlins,117,HOU,Houston Astros,1,9
+746453,2024-07-10,114,CLE,Cleveland Guardians,116,DET,Detroit Tigers,4,5
+746689,2024-07-10,115,COL,Colorado Rockies,113,CIN,Cincinnati Reds,6,5
+746772,2024-07-10,142,MIN,Minnesota Twins,145,CWS,Chicago White Sox,1,3
+746773,2024-07-10,142,MIN,Minnesota Twins,145,CWS,Chicago White Sox,3,2
+746934,2024-07-10,133,OAK,Oakland Athletics,111,BOS,Boston Red Sox,5,2
+747015,2024-07-10,112,CHC,Chicago Cubs,110,BAL,Baltimore Orioles,4,0
+747179,2024-07-10,144,ATL,Atlanta Braves,109,AZ,Arizona Diamondbacks,5,7
+745065,2024-07-11,147,NYY,New York Yankees,139,TB,Tampa Bay Rays,4,5
+745313,2024-07-11,141,TOR,Toronto Blue Jays,137,SF,San Francisco Giants,5,3
+745558,2024-07-11,119,LAD,Los Angeles Dodgers,143,PHI,Philadelphia Phillies,1,5
+745799,2024-07-11,120,WSH,Washington Nationals,121,NYM,New York Mets,0,7
+745967,2024-07-11,134,PIT,Pittsburgh Pirates,158,MIL,Milwaukee Brewers,1,0
+746204,2024-07-11,136,SEA,Seattle Mariners,108,LAA,Los Angeles Angels,11,0
+746367,2024-07-11,146,MIA,Miami Marlins,117,HOU,Houston Astros,3,6
+746452,2024-07-11,114,CLE,Cleveland Guardians,116,DET,Detroit Tigers,1,10
+746688,2024-07-11,115,COL,Colorado Rockies,113,CIN,Cincinnati Reds,1,8
+746935,2024-07-11,133,OAK,Oakland Athletics,111,BOS,Boston Red Sox,0,7
+747011,2024-07-11,112,CHC,Chicago Cubs,110,BAL,Baltimore Orioles,8,0
+747178,2024-07-11,144,ATL,Atlanta Braves,109,AZ,Arizona Diamondbacks,0,1
+745064,2024-07-12,114,CLE,Cleveland Guardians,139,TB,Tampa Bay Rays,0,2
+745153,2024-07-12,112,CHC,Chicago Cubs,138,STL,St. Louis Cardinals,5,1
+745312,2024-07-12,142,MIN,Minnesota Twins,137,SF,San Francisco Giants,1,7
+745390,2024-07-12,144,ATL,Atlanta Braves,135,SD,San Diego Padres,6,1
+745552,2024-07-12,133,OAK,Oakland Athletics,143,PHI,Philadelphia Phillies,6,2
+745800,2024-07-12,115,COL,Colorado Rockies,121,NYM,New York Mets,6,7
+745965,2024-07-12,120,WSH,Washington Nationals,158,MIL,Milwaukee Brewers,5,2
+746207,2024-07-12,136,SEA,Seattle Mariners,108,LAA,Los Angeles Angels,5,6
+746371,2024-07-12,140,TEX,Texas Rangers,117,HOU,Houston Astros,3,6
+746450,2024-07-12,119,LAD,Los Angeles Dodgers,116,DET,Detroit Tigers,4,3
+746685,2024-07-12,146,MIA,Miami Marlins,113,CIN,Cincinnati Reds,4,7
+746774,2024-07-12,134,PIT,Pittsburgh Pirates,145,CWS,Chicago White Sox,4,1
+746936,2024-07-12,118,KC,Kansas City Royals,111,BOS,Boston Red Sox,6,1
+747012,2024-07-12,147,NYY,New York Yankees,110,BAL,Baltimore Orioles,4,1
+747175,2024-07-12,141,TOR,Toronto Blue Jays,109,AZ,Arizona Diamondbacks,4,5
+745067,2024-07-13,114,CLE,Cleveland Guardians,139,TB,Tampa Bay Rays,4,2
+745152,2024-07-13,112,CHC,Chicago Cubs,138,STL,St. Louis Cardinals,3,11
+745175,2024-07-13,112,CHC,Chicago Cubs,138,STL,St. Louis Cardinals,4,5
+745311,2024-07-13,142,MIN,Minnesota Twins,137,SF,San Francisco Giants,4,2
+745392,2024-07-13,144,ATL,Atlanta Braves,135,SD,San Diego Padres,0,4
+745549,2024-07-13,133,OAK,Oakland Athletics,143,PHI,Philadelphia Phillies,5,11
+745798,2024-07-13,115,COL,Colorado Rockies,121,NYM,New York Mets,3,7
+745963,2024-07-13,120,WSH,Washington Nationals,158,MIL,Milwaukee Brewers,6,5
+746202,2024-07-13,136,SEA,Seattle Mariners,108,LAA,Los Angeles Angels,1,2
+746369,2024-07-13,140,TEX,Texas Rangers,117,HOU,Houston Astros,2,1
+746447,2024-07-13,119,LAD,Los Angeles Dodgers,116,DET,Detroit Tigers,9,11
+746687,2024-07-13,146,MIA,Miami Marlins,113,CIN,Cincinnati Reds,6,10
+746766,2024-07-13,134,PIT,Pittsburgh Pirates,145,CWS,Chicago White Sox,6,2
+746930,2024-07-13,118,KC,Kansas City Royals,111,BOS,Boston Red Sox,0,5
+747013,2024-07-13,147,NYY,New York Yankees,110,BAL,Baltimore Orioles,6,1
+747177,2024-07-13,141,TOR,Toronto Blue Jays,109,AZ,Arizona Diamondbacks,1,12
+745066,2024-07-14,114,CLE,Cleveland Guardians,139,TB,Tampa Bay Rays,0,2
+745151,2024-07-14,112,CHC,Chicago Cubs,138,STL,St. Louis Cardinals,8,3
+745314,2024-07-14,142,MIN,Minnesota Twins,137,SF,San Francisco Giants,2,3
+745385,2024-07-14,144,ATL,Atlanta Braves,135,SD,San Diego Padres,6,3
+745551,2024-07-14,133,OAK,Oakland Athletics,143,PHI,Philadelphia Phillies,18,3
+745797,2024-07-14,115,COL,Colorado Rockies,121,NYM,New York Mets,8,5
+745962,2024-07-14,120,WSH,Washington Nationals,158,MIL,Milwaukee Brewers,3,9
+746201,2024-07-14,136,SEA,Seattle Mariners,108,LAA,Los Angeles Angels,2,3
+746370,2024-07-14,140,TEX,Texas Rangers,117,HOU,Houston Astros,4,2
+746449,2024-07-14,119,LAD,Los Angeles Dodgers,116,DET,Detroit Tigers,3,4
+746686,2024-07-14,146,MIA,Miami Marlins,113,CIN,Cincinnati Reds,3,2
+746769,2024-07-14,134,PIT,Pittsburgh Pirates,145,CWS,Chicago White Sox,9,4
+746932,2024-07-14,118,KC,Kansas City Royals,111,BOS,Boston Red Sox,4,5
+747009,2024-07-14,147,NYY,New York Yankees,110,BAL,Baltimore Orioles,5,6
+747176,2024-07-14,141,TOR,Toronto Blue Jays,109,AZ,Arizona Diamondbacks,8,7
+744829,2024-07-19,113,CIN,Cincinnati Reds,120,WSH,Washington Nationals,5,8
+744911,2024-07-19,116,DET,Detroit Tigers,141,TOR,Toronto Blue Jays,5,4
+744990,2024-07-19,110,BAL,Baltimore Orioles,140,TEX,Texas Rangers,9,1
+745228,2024-07-19,117,HOU,Houston Astros,136,SEA,Seattle Mariners,3,0
+745481,2024-07-19,143,PHI,Philadelphia Phillies,134,PIT,Pittsburgh Pirates,7,8
+745640,2024-07-19,108,LAA,Los Angeles Angels,133,OAK,Oakland Athletics,3,13
+745721,2024-07-19,139,TB,Tampa Bay Rays,147,NYY,New York Yankees,1,6
+746040,2024-07-19,121,NYM,New York Mets,146,MIA,Miami Marlins,4,6
+746123,2024-07-19,111,BOS,Boston Red Sox,119,LAD,Los Angeles Dodgers,1,4
+746284,2024-07-19,145,CWS,Chicago White Sox,118,KC,Kansas City Royals,1,7
+746531,2024-07-19,137,SF,San Francisco Giants,115,COL,Colorado Rockies,3,7
+746618,2024-07-19,135,SD,San Diego Padres,114,CLE,Cleveland Guardians,0,7
+746854,2024-07-19,109,AZ,Arizona Diamondbacks,112,CHC,Chicago Cubs,5,2
+744830,2024-07-20,113,CIN,Cincinnati Reds,120,WSH,Washington Nationals,4,5
+744910,2024-07-20,116,DET,Detroit Tigers,141,TOR,Toronto Blue Jays,7,3
+744994,2024-07-20,110,BAL,Baltimore Orioles,140,TEX,Texas Rangers,8,4
+745229,2024-07-20,117,HOU,Houston Astros,136,SEA,Seattle Mariners,4,2
+745478,2024-07-20,143,PHI,Philadelphia Phillies,134,PIT,Pittsburgh Pirates,1,4
+745638,2024-07-20,108,LAA,Los Angeles Angels,133,OAK,Oakland Athletics,2,8
+745720,2024-07-20,139,TB,Tampa Bay Rays,147,NYY,New York Yankees,9,1
+745880,2024-07-20,158,MIL,Milwaukee Brewers,142,MIN,Minnesota Twins,8,4
+746041,2024-07-20,121,NYM,New York Mets,146,MIA,Miami Marlins,1,0
+746121,2024-07-20,111,BOS,Boston Red Sox,119,LAD,Los Angeles Dodgers,6,7
+746286,2024-07-20,145,CWS,Chicago White Sox,118,KC,Kansas City Royals,1,6
+746527,2024-07-20,137,SF,San Francisco Giants,115,COL,Colorado Rockies,3,4
+746613,2024-07-20,135,SD,San Diego Padres,114,CLE,Cleveland Guardians,7,0
+746852,2024-07-20,109,AZ,Arizona Diamondbacks,112,CHC,Chicago Cubs,3,0
+747093,2024-07-20,138,STL,St. Louis Cardinals,144,ATL,Atlanta Braves,2,3
+747096,2024-07-20,138,STL,St. Louis Cardinals,144,ATL,Atlanta Braves,9,5
+744831,2024-07-21,113,CIN,Cincinnati Reds,120,WSH,Washington Nationals,2,5
+744909,2024-07-21,116,DET,Detroit Tigers,141,TOR,Toronto Blue Jays,4,5
+744991,2024-07-21,110,BAL,Baltimore Orioles,140,TEX,Texas Rangers,2,3
+745230,2024-07-21,117,HOU,Houston Astros,136,SEA,Seattle Mariners,4,6
+745470,2024-07-21,143,PHI,Philadelphia Phillies,134,PIT,Pittsburgh Pirates,6,0
+745633,2024-07-21,108,LAA,Los Angeles Angels,133,OAK,Oakland Athletics,8,5
+745722,2024-07-21,139,TB,Tampa Bay Rays,147,NYY,New York Yankees,6,4
+745882,2024-07-21,158,MIL,Milwaukee Brewers,142,MIN,Minnesota Twins,8,7
+746042,2024-07-21,121,NYM,New York Mets,146,MIA,Miami Marlins,2,4
+746125,2024-07-21,111,BOS,Boston Red Sox,119,LAD,Los Angeles Dodgers,6,9
+746287,2024-07-21,145,CWS,Chicago White Sox,118,KC,Kansas City Royals,1,4
+746528,2024-07-21,137,SF,San Francisco Giants,115,COL,Colorado Rockies,3,2
+746610,2024-07-21,135,SD,San Diego Padres,114,CLE,Cleveland Guardians,2,1
+746853,2024-07-21,109,AZ,Arizona Diamondbacks,112,CHC,Chicago Cubs,1,2
+747094,2024-07-21,138,STL,St. Louis Cardinals,144,ATL,Atlanta Braves,6,2
+744988,2024-07-22,145,CWS,Chicago White Sox,140,TEX,Texas Rangers,3,4
+745232,2024-07-22,108,LAA,Los Angeles Angels,136,SEA,Seattle Mariners,3,1
+745473,2024-07-22,138,STL,St. Louis Cardinals,134,PIT,Pittsburgh Pirates,1,2
+745635,2024-07-22,117,HOU,Houston Astros,133,OAK,Oakland Athletics,0,4
+745717,2024-07-22,139,TB,Tampa Bay Rays,147,NYY,New York Yankees,1,9
+745881,2024-07-22,143,PHI,Philadelphia Phillies,142,MIN,Minnesota Twins,2,7
+746034,2024-07-22,121,NYM,New York Mets,146,MIA,Miami Marlins,6,4
+746124,2024-07-22,137,SF,San Francisco Giants,119,LAD,Los Angeles Dodgers,2,3
+746280,2024-07-22,109,AZ,Arizona Diamondbacks,118,KC,Kansas City Royals,4,10
+746526,2024-07-22,111,BOS,Boston Red Sox,115,COL,Colorado Rockies,8,9
+746612,2024-07-22,116,DET,Detroit Tigers,114,CLE,Cleveland Guardians,8,2
+746850,2024-07-22,158,MIL,Milwaukee Brewers,112,CHC,Chicago Cubs,1,3
+747095,2024-07-22,113,CIN,Cincinnati Reds,144,ATL,Atlanta Braves,4,1
+744828,2024-07-23,135,SD,San Diego Padres,120,WSH,Washington Nationals,4,0
+744904,2024-07-23,139,TB,Tampa Bay Rays,141,TOR,Toronto Blue Jays,4,2
+744985,2024-07-23,145,CWS,Chicago White Sox,140,TEX,Texas Rangers,2,3
+745227,2024-07-23,108,LAA,Los Angeles Angels,136,SEA,Seattle Mariners,5,1
+745475,2024-07-23,138,STL,St. Louis Cardinals,134,PIT,Pittsburgh Pirates,2,1
+745632,2024-07-23,117,HOU,Houston Astros,133,OAK,Oakland Athletics,2,8
+745715,2024-07-23,121,NYM,New York Mets,147,NYY,New York Yankees,3,2
+745878,2024-07-23,143,PHI,Philadelphia Phillies,142,MIN,Minnesota Twins,3,0
+746036,2024-07-23,110,BAL,Baltimore Orioles,146,MIA,Miami Marlins,3,6
+746118,2024-07-23,137,SF,San Francisco Giants,119,LAD,Los Angeles Dodgers,2,5
+746281,2024-07-23,109,AZ,Arizona Diamondbacks,118,KC,Kansas City Royals,6,2
+746524,2024-07-23,111,BOS,Boston Red Sox,115,COL,Colorado Rockies,6,0
+746614,2024-07-23,116,DET,Detroit Tigers,114,CLE,Cleveland Guardians,4,5
+746848,2024-07-23,158,MIL,Milwaukee Brewers,112,CHC,Chicago Cubs,1,0
+744824,2024-07-24,135,SD,San Diego Padres,120,WSH,Washington Nationals,12,3
+744905,2024-07-24,139,TB,Tampa Bay Rays,141,TOR,Toronto Blue Jays,3,6
+744989,2024-07-24,145,CWS,Chicago White Sox,140,TEX,Texas Rangers,2,10
+745231,2024-07-24,108,LAA,Los Angeles Angels,136,SEA,Seattle Mariners,2,1
+745472,2024-07-24,138,STL,St. Louis Cardinals,134,PIT,Pittsburgh Pirates,0,5
+745634,2024-07-24,117,HOU,Houston Astros,133,OAK,Oakland Athletics,8,1
+745716,2024-07-24,121,NYM,New York Mets,147,NYY,New York Yankees,12,3
+745877,2024-07-24,143,PHI,Philadelphia Phillies,142,MIN,Minnesota Twins,4,5
+746035,2024-07-24,110,BAL,Baltimore Orioles,146,MIA,Miami Marlins,3,6
+746119,2024-07-24,137,SF,San Francisco Giants,119,LAD,Los Angeles Dodgers,8,3
+746279,2024-07-24,109,AZ,Arizona Diamondbacks,118,KC,Kansas City Royals,8,6
+746525,2024-07-24,111,BOS,Boston Red Sox,115,COL,Colorado Rockies,7,20
+746611,2024-07-24,116,DET,Detroit Tigers,114,CLE,Cleveland Guardians,1,2
+746851,2024-07-24,158,MIL,Milwaukee Brewers,112,CHC,Chicago Cubs,3,2
+747091,2024-07-24,113,CIN,Cincinnati Reds,144,ATL,Atlanta Braves,9,4
+744827,2024-07-25,135,SD,San Diego Padres,120,WSH,Washington Nationals,3,0
+744907,2024-07-25,139,TB,Tampa Bay Rays,141,TOR,Toronto Blue Jays,13,0
+744984,2024-07-25,145,CWS,Chicago White Sox,140,TEX,Texas Rangers,1,2
+745794,2024-07-25,144,ATL,Atlanta Braves,121,NYM,New York Mets,2,3
+746037,2024-07-25,110,BAL,Baltimore Orioles,146,MIA,Miami Marlins,7,6
+746117,2024-07-25,137,SF,San Francisco Giants,119,LAD,Los Angeles Dodgers,4,6
+746199,2024-07-25,133,OAK,Oakland Athletics,108,LAA,Los Angeles Angels,6,5
+746609,2024-07-25,116,DET,Detroit Tigers,114,CLE,Cleveland Guardians,3,0
+744906,2024-07-26,140,TEX,Texas Rangers,141,TOR,Toronto Blue Jays,5,6
+745068,2024-07-26,113,CIN,Cincinnati Reds,139,TB,Tampa Bay Rays,3,2
+745146,2024-07-26,120,WSH,Washington Nationals,138,STL,St. Louis Cardinals,10,8
+745315,2024-07-26,115,COL,Colorado Rockies,137,SF,San Francisco Giants,4,11
+745554,2024-07-26,114,CLE,Cleveland Guardians,143,PHI,Philadelphia Phillies,3,1
+745792,2024-07-26,144,ATL,Atlanta Braves,121,NYM,New York Mets,4,8
+745964,2024-07-26,146,MIA,Miami Marlins,158,MIL,Milwaukee Brewers,6,2
+746200,2024-07-26,133,OAK,Oakland Athletics,108,LAA,Los Angeles Angels,5,4
+746277,2024-07-26,112,CHC,Chicago Cubs,118,KC,Kansas City Royals,0,6
+746361,2024-07-26,119,LAD,Los Angeles Dodgers,117,HOU,Houston Astros,0,5
+746448,2024-07-26,142,MIN,Minnesota Twins,116,DET,Detroit Tigers,9,3
+746767,2024-07-26,136,SEA,Seattle Mariners,145,CWS,Chicago White Sox,10,0
+746933,2024-07-26,147,NYY,New York Yankees,111,BOS,Boston Red Sox,7,9
+747010,2024-07-26,135,SD,San Diego Padres,110,BAL,Baltimore Orioles,6,4
+747174,2024-07-26,134,PIT,Pittsburgh Pirates,109,AZ,Arizona Diamondbacks,3,4
+744908,2024-07-27,140,TEX,Texas Rangers,141,TOR,Toronto Blue Jays,3,7
+745059,2024-07-27,113,CIN,Cincinnati Reds,139,TB,Tampa Bay Rays,0,4
+745150,2024-07-27,120,WSH,Washington Nationals,138,STL,St. Louis Cardinals,14,3
+745307,2024-07-27,115,COL,Colorado Rockies,137,SF,San Francisco Giants,1,4
+745310,2024-07-27,115,COL,Colorado Rockies,137,SF,San Francisco Giants,0,5
+745553,2024-07-27,114,CLE,Cleveland Guardians,143,PHI,Philadelphia Phillies,0,8
+745793,2024-07-27,144,ATL,Atlanta Braves,121,NYM,New York Mets,4,0
+745966,2024-07-27,146,MIA,Miami Marlins,158,MIL,Milwaukee Brewers,7,3
+746203,2024-07-27,133,OAK,Oakland Athletics,108,LAA,Los Angeles Angels,3,1
+746278,2024-07-27,112,CHC,Chicago Cubs,118,KC,Kansas City Royals,9,4
+746362,2024-07-27,119,LAD,Los Angeles Dodgers,117,HOU,Houston Astros,6,7
+746446,2024-07-27,142,MIN,Minnesota Twins,116,DET,Detroit Tigers,2,7
+746768,2024-07-27,136,SEA,Seattle Mariners,145,CWS,Chicago White Sox,6,3
+746931,2024-07-27,147,NYY,New York Yankees,111,BOS,Boston Red Sox,11,8
+747006,2024-07-27,135,SD,San Diego Padres,110,BAL,Baltimore Orioles,9,4
+747171,2024-07-27,134,PIT,Pittsburgh Pirates,109,AZ,Arizona Diamondbacks,5,9
+744902,2024-07-28,140,TEX,Texas Rangers,141,TOR,Toronto Blue Jays,3,7
+745063,2024-07-28,113,CIN,Cincinnati Reds,139,TB,Tampa Bay Rays,1,2
+745145,2024-07-28,120,WSH,Washington Nationals,138,STL,St. Louis Cardinals,3,4
+745305,2024-07-28,115,COL,Colorado Rockies,137,SF,San Francisco Giants,4,5
+745550,2024-07-28,114,CLE,Cleveland Guardians,143,PHI,Philadelphia Phillies,4,3
+745795,2024-07-28,144,ATL,Atlanta Braves,121,NYM,New York Mets,9,2
+745961,2024-07-28,146,MIA,Miami Marlins,158,MIL,Milwaukee Brewers,2,6
+746195,2024-07-28,133,OAK,Oakland Athletics,108,LAA,Los Angeles Angels,6,8
+746274,2024-07-28,112,CHC,Chicago Cubs,118,KC,Kansas City Royals,7,3
+746364,2024-07-28,119,LAD,Los Angeles Dodgers,117,HOU,Houston Astros,6,2
+746445,2024-07-28,142,MIN,Minnesota Twins,116,DET,Detroit Tigers,5,0
+746770,2024-07-28,136,SEA,Seattle Mariners,145,CWS,Chicago White Sox,6,3
+746929,2024-07-28,147,NYY,New York Yankees,111,BOS,Boston Red Sox,8,2
+747008,2024-07-28,135,SD,San Diego Padres,110,BAL,Baltimore Orioles,6,8
+747173,2024-07-28,134,PIT,Pittsburgh Pirates,109,AZ,Arizona Diamondbacks,6,5
+745147,2024-07-29,140,TEX,Texas Rangers,138,STL,St. Louis Cardinals,6,3
+745547,2024-07-29,147,NYY,New York Yankees,143,PHI,Philadelphia Phillies,14,4
+745791,2024-07-29,142,MIN,Minnesota Twins,121,NYM,New York Mets,2,15
+745959,2024-07-29,144,ATL,Atlanta Braves,158,MIL,Milwaukee Brewers,3,8
+746360,2024-07-29,134,PIT,Pittsburgh Pirates,117,HOU,Houston Astros,5,3
+746444,2024-07-29,114,CLE,Cleveland Guardians,116,DET,Detroit Tigers,8,4
+746684,2024-07-29,112,CHC,Chicago Cubs,113,CIN,Cincinnati Reds,1,7
+746765,2024-07-29,118,KC,Kansas City Royals,145,CWS,Chicago White Sox,8,5
+746928,2024-07-29,136,SEA,Seattle Mariners,111,BOS,Boston Red Sox,7,14
+747007,2024-07-29,141,TOR,Toronto Blue Jays,110,BAL,Baltimore Orioles,5,11
+747039,2024-07-29,141,TOR,Toronto Blue Jays,110,BAL,Baltimore Orioles,8,4
+747172,2024-07-29,120,WSH,Washington Nationals,109,AZ,Arizona Diamondbacks,8,9
+745060,2024-07-30,146,MIA,Miami Marlins,139,TB,Tampa Bay Rays,3,9
+745149,2024-07-30,140,TEX,Texas Rangers,138,STL,St. Louis Cardinals,1,8
+745309,2024-07-30,133,OAK,Oakland Athletics,137,SF,San Francisco Giants,5,2
+745389,2024-07-30,119,LAD,Los Angeles Dodgers,135,SD,San Diego Padres,5,6
+745546,2024-07-30,147,NYY,New York Yankees,143,PHI,Philadelphia Phillies,7,6
+745787,2024-07-30,142,MIN,Minnesota Twins,121,NYM,New York Mets,0,2
+745958,2024-07-30,144,ATL,Atlanta Braves,158,MIL,Milwaukee Brewers,5,1
+746197,2024-07-30,115,COL,Colorado Rockies,108,LAA,Los Angeles Angels,7,10
+746365,2024-07-30,134,PIT,Pittsburgh Pirates,117,HOU,Houston Astros,6,2
+746441,2024-07-30,114,CLE,Cleveland Guardians,116,DET,Detroit Tigers,5,0
+746683,2024-07-30,112,CHC,Chicago Cubs,113,CIN,Cincinnati Reds,3,6
+746763,2024-07-30,118,KC,Kansas City Royals,145,CWS,Chicago White Sox,4,3
+746926,2024-07-30,136,SEA,Seattle Mariners,111,BOS,Boston Red Sox,10,6
+747005,2024-07-30,141,TOR,Toronto Blue Jays,110,BAL,Baltimore Orioles,2,6
+747167,2024-07-30,120,WSH,Washington Nationals,109,AZ,Arizona Diamondbacks,0,17
+745061,2024-07-31,146,MIA,Miami Marlins,139,TB,Tampa Bay Rays,6,2
+745148,2024-07-31,140,TEX,Texas Rangers,138,STL,St. Louis Cardinals,1,10
+745306,2024-07-31,133,OAK,Oakland Athletics,137,SF,San Francisco Giants,0,1
+745386,2024-07-31,119,LAD,Los Angeles Dodgers,135,SD,San Diego Padres,1,8
+745543,2024-07-31,147,NYY,New York Yankees,143,PHI,Philadelphia Phillies,6,5
+745789,2024-07-31,142,MIN,Minnesota Twins,121,NYM,New York Mets,8,3
+745960,2024-07-31,144,ATL,Atlanta Braves,158,MIL,Milwaukee Brewers,6,2
+746198,2024-07-31,115,COL,Colorado Rockies,108,LAA,Los Angeles Angels,2,1
+746363,2024-07-31,134,PIT,Pittsburgh Pirates,117,HOU,Houston Astros,4,5
+746678,2024-07-31,112,CHC,Chicago Cubs,113,CIN,Cincinnati Reds,13,4
+746764,2024-07-31,118,KC,Kansas City Royals,145,CWS,Chicago White Sox,10,3
+746925,2024-07-31,136,SEA,Seattle Mariners,111,BOS,Boston Red Sox,2,3
+747003,2024-07-31,141,TOR,Toronto Blue Jays,110,BAL,Baltimore Orioles,4,10
+747170,2024-07-31,120,WSH,Washington Nationals,109,AZ,Arizona Diamondbacks,4,5
+746196,2024-08-01,115,COL,Colorado Rockies,108,LAA,Los Angeles Angels,5,4
+746442,2024-08-01,118,KC,Kansas City Royals,116,DET,Detroit Tigers,7,1
+746607,2024-08-01,110,BAL,Baltimore Orioles,114,CLE,Cleveland Guardians,3,10
+746849,2024-08-01,138,STL,St. Louis Cardinals,112,CHC,Chicago Cubs,4,5
+747092,2024-08-01,146,MIA,Miami Marlins,144,ATL,Atlanta Braves,2,4
+744825,2024-08-02,158,MIL,Milwaukee Brewers,120,WSH,Washington Nationals,8,3
+744986,2024-08-02,111,BOS,Boston Red Sox,140,TEX,Texas Rangers,11,6
+745224,2024-08-02,143,PHI,Philadelphia Phillies,136,SEA,Seattle Mariners,2,10
+745387,2024-08-02,115,COL,Colorado Rockies,135,SD,San Diego Padres,5,2
+745471,2024-08-02,109,AZ,Arizona Diamondbacks,134,PIT,Pittsburgh Pirates,9,8
+745631,2024-08-02,119,LAD,Los Angeles Dodgers,133,OAK,Oakland Athletics,5,6
+745719,2024-08-02,141,TOR,Toronto Blue Jays,147,NYY,New York Yankees,8,5
+745875,2024-08-02,145,CWS,Chicago White Sox,142,MIN,Minnesota Twins,2,10
+746193,2024-08-02,121,NYM,New York Mets,108,LAA,Los Angeles Angels,5,1
+746354,2024-08-02,139,TB,Tampa Bay Rays,117,HOU,Houston Astros,2,3
+746443,2024-08-02,118,KC,Kansas City Royals,116,DET,Detroit Tigers,9,2
+746605,2024-08-02,110,BAL,Baltimore Orioles,114,CLE,Cleveland Guardians,4,8
+746679,2024-08-02,137,SF,San Francisco Giants,113,CIN,Cincinnati Reds,3,0
+746845,2024-08-02,138,STL,St. Louis Cardinals,112,CHC,Chicago Cubs,3,6
+747089,2024-08-02,146,MIA,Miami Marlins,144,ATL,Atlanta Braves,3,5
+744823,2024-08-03,158,MIL,Milwaukee Brewers,120,WSH,Washington Nationals,4,6
+744987,2024-08-03,111,BOS,Boston Red Sox,140,TEX,Texas Rangers,4,7
+745225,2024-08-03,143,PHI,Philadelphia Phillies,136,SEA,Seattle Mariners,5,6
+745388,2024-08-03,115,COL,Colorado Rockies,135,SD,San Diego Padres,2,3
+745474,2024-08-03,109,AZ,Arizona Diamondbacks,134,PIT,Pittsburgh Pirates,2,4
+745636,2024-08-03,119,LAD,Los Angeles Dodgers,133,OAK,Oakland Athletics,10,0
+745714,2024-08-03,141,TOR,Toronto Blue Jays,147,NYY,New York Yankees,3,8
+745876,2024-08-03,145,CWS,Chicago White Sox,142,MIN,Minnesota Twins,2,6
+746194,2024-08-03,121,NYM,New York Mets,108,LAA,Los Angeles Angels,4,5
+746358,2024-08-03,139,TB,Tampa Bay Rays,117,HOU,Houston Astros,6,1
+746440,2024-08-03,118,KC,Kansas City Royals,116,DET,Detroit Tigers,5,6
+746608,2024-08-03,110,BAL,Baltimore Orioles,114,CLE,Cleveland Guardians,7,4
+746681,2024-08-03,137,SF,San Francisco Giants,113,CIN,Cincinnati Reds,4,6
+746846,2024-08-03,138,STL,St. Louis Cardinals,112,CHC,Chicago Cubs,5,4
+747087,2024-08-03,146,MIA,Miami Marlins,144,ATL,Atlanta Braves,4,3
+744826,2024-08-04,158,MIL,Milwaukee Brewers,120,WSH,Washington Nationals,3,4
+744979,2024-08-04,111,BOS,Boston Red Sox,140,TEX,Texas Rangers,7,2
+745222,2024-08-04,143,PHI,Philadelphia Phillies,136,SEA,Seattle Mariners,6,0
+745384,2024-08-04,115,COL,Colorado Rockies,135,SD,San Diego Padres,2,10
+745468,2024-08-04,109,AZ,Arizona Diamondbacks,134,PIT,Pittsburgh Pirates,6,5
+745627,2024-08-04,119,LAD,Los Angeles Dodgers,133,OAK,Oakland Athletics,3,2
+745718,2024-08-04,141,TOR,Toronto Blue Jays,147,NYY,New York Yankees,3,4
+745879,2024-08-04,145,CWS,Chicago White Sox,142,MIN,Minnesota Twins,7,13
+746191,2024-08-04,121,NYM,New York Mets,108,LAA,Los Angeles Angels,2,3
+746356,2024-08-04,139,TB,Tampa Bay Rays,117,HOU,Houston Astros,1,0
+746439,2024-08-04,118,KC,Kansas City Royals,116,DET,Detroit Tigers,3,2
+746606,2024-08-04,110,BAL,Baltimore Orioles,114,CLE,Cleveland Guardians,9,5
+746680,2024-08-04,137,SF,San Francisco Giants,113,CIN,Cincinnati Reds,8,2
+746844,2024-08-04,138,STL,St. Louis Cardinals,112,CHC,Chicago Cubs,2,6
+747088,2024-08-04,146,MIA,Miami Marlins,144,ATL,Atlanta Braves,7,0
+744821,2024-08-05,137,SF,San Francisco Giants,120,WSH,Washington Nationals,4,1
+744982,2024-08-05,117,HOU,Houston Astros,140,TEX,Texas Rangers,3,4
+745184,2024-08-05,121,NYM,New York Mets,138,STL,St. Louis Cardinals,6,0
+745628,2024-08-05,145,CWS,Chicago White Sox,133,OAK,Oakland Athletics,1,5
+746038,2024-08-05,113,CIN,Cincinnati Reds,146,MIA,Miami Marlins,10,3
+746116,2024-08-05,143,PHI,Philadelphia Phillies,119,LAD,Los Angeles Dodgers,3,5
+746276,2024-08-05,111,BOS,Boston Red Sox,118,KC,Kansas City Royals,9,5
+746600,2024-08-05,109,AZ,Arizona Diamondbacks,114,CLE,Cleveland Guardians,7,6
+746847,2024-08-05,142,MIN,Minnesota Twins,112,CHC,Chicago Cubs,3,0
+744817,2024-08-06,137,SF,San Francisco Giants,120,WSH,Washington Nationals,5,11
+744901,2024-08-06,110,BAL,Baltimore Orioles,141,TOR,Toronto Blue Jays,2,5
+744983,2024-08-06,117,HOU,Houston Astros,140,TEX,Texas Rangers,4,2
+745141,2024-08-06,139,TB,Tampa Bay Rays,138,STL,St. Louis Cardinals,3,4
+745221,2024-08-06,116,DET,Detroit Tigers,136,SEA,Seattle Mariners,4,2
+745467,2024-08-06,135,SD,San Diego Padres,134,PIT,Pittsburgh Pirates,6,0
+745629,2024-08-06,145,CWS,Chicago White Sox,133,OAK,Oakland Athletics,5,1
+746033,2024-08-06,113,CIN,Cincinnati Reds,146,MIA,Miami Marlins,8,2
+746120,2024-08-06,143,PHI,Philadelphia Phillies,119,LAD,Los Angeles Dodgers,6,2
+746273,2024-08-06,111,BOS,Boston Red Sox,118,KC,Kansas City Royals,6,5
+746519,2024-08-06,121,NYM,New York Mets,115,COL,Colorado Rockies,3,6
+746840,2024-08-06,142,MIN,Minnesota Twins,112,CHC,Chicago Cubs,3,7
+747086,2024-08-06,158,MIL,Milwaukee Brewers,144,ATL,Atlanta Braves,10,0
+744822,2024-08-07,137,SF,San Francisco Giants,120,WSH,Washington Nationals,7,4
+744903,2024-08-07,110,BAL,Baltimore Orioles,141,TOR,Toronto Blue Jays,7,3
+744981,2024-08-07,117,HOU,Houston Astros,140,TEX,Texas Rangers,6,4
+745142,2024-08-07,139,TB,Tampa Bay Rays,138,STL,St. Louis Cardinals,2,5
+745223,2024-08-07,116,DET,Detroit Tigers,136,SEA,Seattle Mariners,6,2
+745469,2024-08-07,135,SD,San Diego Padres,134,PIT,Pittsburgh Pirates,9,8
+745630,2024-08-07,145,CWS,Chicago White Sox,133,OAK,Oakland Athletics,2,3
+745709,2024-08-07,108,LAA,Los Angeles Angels,147,NYY,New York Yankees,2,5
+745713,2024-08-07,108,LAA,Los Angeles Angels,147,NYY,New York Yankees,8,2
+746031,2024-08-07,113,CIN,Cincinnati Reds,146,MIA,Miami Marlins,4,6
+746115,2024-08-07,143,PHI,Philadelphia Phillies,119,LAD,Los Angeles Dodgers,9,4
+746272,2024-08-07,111,BOS,Boston Red Sox,118,KC,Kansas City Royals,4,8
+746521,2024-08-07,121,NYM,New York Mets,115,COL,Colorado Rockies,5,3
+746602,2024-08-07,109,AZ,Arizona Diamondbacks,114,CLE,Cleveland Guardians,5,3
+746604,2024-08-07,109,AZ,Arizona Diamondbacks,114,CLE,Cleveland Guardians,7,3
+746842,2024-08-07,142,MIN,Minnesota Twins,112,CHC,Chicago Cubs,2,8
+747085,2024-08-07,158,MIL,Milwaukee Brewers,144,ATL,Atlanta Braves,8,5
+744819,2024-08-08,137,SF,San Francisco Giants,120,WSH,Washington Nationals,9,5
+744899,2024-08-08,110,BAL,Baltimore Orioles,141,TOR,Toronto Blue Jays,6,7
+745143,2024-08-08,139,TB,Tampa Bay Rays,138,STL,St. Louis Cardinals,6,4
+745226,2024-08-08,116,DET,Detroit Tigers,136,SEA,Seattle Mariners,3,4
+745466,2024-08-08,135,SD,San Diego Padres,134,PIT,Pittsburgh Pirates,7,6
+745710,2024-08-08,108,LAA,Los Angeles Angels,147,NYY,New York Yankees,9,4
+746030,2024-08-08,113,CIN,Cincinnati Reds,146,MIA,Miami Marlins,10,4
+746522,2024-08-08,121,NYM,New York Mets,115,COL,Colorado Rockies,9,1
+747081,2024-08-08,158,MIL,Milwaukee Brewers,144,ATL,Atlanta Braves,16,7
+747169,2024-08-08,143,PHI,Philadelphia Phillies,109,AZ,Arizona Diamondbacks,6,4
+744818,2024-08-09,108,LAA,Los Angeles Angels,120,WSH,Washington Nationals,2,3
+744900,2024-08-09,133,OAK,Oakland Athletics,141,TOR,Toronto Blue Jays,1,3
+745062,2024-08-09,110,BAL,Baltimore Orioles,139,TB,Tampa Bay Rays,4,1
+745220,2024-08-09,121,NYM,New York Mets,136,SEA,Seattle Mariners,0,6
+745308,2024-08-09,116,DET,Detroit Tigers,137,SF,San Francisco Giants,2,3
+745871,2024-08-09,114,CLE,Cleveland Guardians,142,MIN,Minnesota Twins,3,6
+745927,2024-08-09,114,CLE,Cleveland Guardians,142,MIN,Minnesota Twins,2,4
+745957,2024-08-09,113,CIN,Cincinnati Reds,158,MIL,Milwaukee Brewers,3,8
+746032,2024-08-09,135,SD,San Diego Padres,146,MIA,Miami Marlins,6,2
+746113,2024-08-09,134,PIT,Pittsburgh Pirates,119,LAD,Los Angeles Dodgers,5,9
+746275,2024-08-09,138,STL,St. Louis Cardinals,118,KC,Kansas City Royals,8,5
+746523,2024-08-09,144,ATL,Atlanta Braves,115,COL,Colorado Rockies,5,6
+746760,2024-08-09,112,CHC,Chicago Cubs,145,CWS,Chicago White Sox,7,6
+746927,2024-08-09,117,HOU,Houston Astros,111,BOS,Boston Red Sox,8,4
+747168,2024-08-09,143,PHI,Philadelphia Phillies,109,AZ,Arizona Diamondbacks,2,3
+744820,2024-08-10,108,LAA,Los Angeles Angels,120,WSH,Washington Nationals,4,5
+744897,2024-08-10,133,OAK,Oakland Athletics,141,TOR,Toronto Blue Jays,1,0
+745056,2024-08-10,110,BAL,Baltimore Orioles,139,TB,Tampa Bay Rays,7,5
+745219,2024-08-10,121,NYM,New York Mets,136,SEA,Seattle Mariners,0,4
+745304,2024-08-10,116,DET,Detroit Tigers,137,SF,San Francisco Giants,1,3
+745708,2024-08-10,140,TEX,Texas Rangers,147,NYY,New York Yankees,9,4
+745712,2024-08-10,140,TEX,Texas Rangers,147,NYY,New York Yankees,0,8
+745873,2024-08-10,114,CLE,Cleveland Guardians,142,MIN,Minnesota Twins,2,1
+745955,2024-08-10,113,CIN,Cincinnati Reds,158,MIL,Milwaukee Brewers,0,1
+746026,2024-08-10,135,SD,San Diego Padres,146,MIA,Miami Marlins,9,8
+746112,2024-08-10,134,PIT,Pittsburgh Pirates,119,LAD,Los Angeles Dodgers,1,4
+746269,2024-08-10,138,STL,St. Louis Cardinals,118,KC,Kansas City Royals,3,8
+746520,2024-08-10,144,ATL,Atlanta Braves,115,COL,Colorado Rockies,11,8
+746761,2024-08-10,112,CHC,Chicago Cubs,145,CWS,Chicago White Sox,3,1
+746922,2024-08-10,117,HOU,Houston Astros,111,BOS,Boston Red Sox,5,4
+747164,2024-08-10,143,PHI,Philadelphia Phillies,109,AZ,Arizona Diamondbacks,1,11
+744816,2024-08-11,108,LAA,Los Angeles Angels,120,WSH,Washington Nationals,6,4
+744895,2024-08-11,133,OAK,Oakland Athletics,141,TOR,Toronto Blue Jays,8,4
+745057,2024-08-11,110,BAL,Baltimore Orioles,139,TB,Tampa Bay Rays,1,2
+745216,2024-08-11,121,NYM,New York Mets,136,SEA,Seattle Mariners,1,12
+745303,2024-08-11,116,DET,Detroit Tigers,137,SF,San Francisco Giants,5,4
+745711,2024-08-11,140,TEX,Texas Rangers,147,NYY,New York Yankees,7,8
+745872,2024-08-11,114,CLE,Cleveland Guardians,142,MIN,Minnesota Twins,5,3
+745956,2024-08-11,113,CIN,Cincinnati Reds,158,MIL,Milwaukee Brewers,4,3
+746025,2024-08-11,135,SD,San Diego Padres,146,MIA,Miami Marlins,6,7
+746114,2024-08-11,134,PIT,Pittsburgh Pirates,119,LAD,Los Angeles Dodgers,5,6
+746517,2024-08-11,144,ATL,Atlanta Braves,115,COL,Colorado Rockies,8,9
+746923,2024-08-11,117,HOU,Houston Astros,111,BOS,Boston Red Sox,10,2
+747166,2024-08-11,143,PHI,Philadelphia Phillies,109,AZ,Arizona Diamondbacks,5,12
+745058,2024-08-12,117,HOU,Houston Astros,139,TB,Tampa Bay Rays,6,1
+745300,2024-08-12,144,ATL,Atlanta Braves,137,SF,San Francisco Giants,1,0
+745383,2024-08-12,134,PIT,Pittsburgh Pirates,135,SD,San Diego Padres,1,2
+745874,2024-08-12,118,KC,Kansas City Royals,142,MIN,Minnesota Twins,3,8
+745953,2024-08-12,119,LAD,Los Angeles Dodgers,158,MIL,Milwaukee Brewers,5,2
+746192,2024-08-12,141,TOR,Toronto Blue Jays,108,LAA,Los Angeles Angels,4,2
+746603,2024-08-12,112,CHC,Chicago Cubs,114,CLE,Cleveland Guardians,8,9
+746682,2024-08-12,138,STL,St. Louis Cardinals,113,CIN,Cincinnati Reds,1,6
+746762,2024-08-12,147,NYY,New York Yankees,145,CWS,Chicago White Sox,2,12
+746921,2024-08-12,140,TEX,Texas Rangers,111,BOS,Boston Red Sox,4,5
+747165,2024-08-12,115,COL,Colorado Rockies,109,AZ,Arizona Diamondbacks,4,5
+745055,2024-08-13,117,HOU,Houston Astros,139,TB,Tampa Bay Rays,3,2
+745302,2024-08-13,144,ATL,Atlanta Braves,137,SF,San Francisco Giants,4,3
+745382,2024-08-13,134,PIT,Pittsburgh Pirates,135,SD,San Diego Padres,0,3
+745548,2024-08-13,146,MIA,Miami Marlins,143,PHI,Philadelphia Phillies,5,0
+745788,2024-08-13,133,OAK,Oakland Athletics,121,NYM,New York Mets,9,4
+745867,2024-08-13,118,KC,Kansas City Royals,142,MIN,Minnesota Twins,3,13
+745954,2024-08-13,119,LAD,Los Angeles Dodgers,158,MIL,Milwaukee Brewers,7,2
+746187,2024-08-13,141,TOR,Toronto Blue Jays,108,LAA,Los Angeles Angels,6,1
+746435,2024-08-13,136,SEA,Seattle Mariners,116,DET,Detroit Tigers,1,15
+746601,2024-08-13,112,CHC,Chicago Cubs,114,CLE,Cleveland Guardians,1,2
+746673,2024-08-13,138,STL,St. Louis Cardinals,113,CIN,Cincinnati Reds,1,4
+746757,2024-08-13,147,NYY,New York Yankees,145,CWS,Chicago White Sox,4,1
+746924,2024-08-13,140,TEX,Texas Rangers,111,BOS,Boston Red Sox,4,9
+747004,2024-08-13,120,WSH,Washington Nationals,110,BAL,Baltimore Orioles,9,3
+747160,2024-08-13,115,COL,Colorado Rockies,109,AZ,Arizona Diamondbacks,3,4
+745053,2024-08-14,117,HOU,Houston Astros,139,TB,Tampa Bay Rays,2,1
+745301,2024-08-14,144,ATL,Atlanta Braves,137,SF,San Francisco Giants,13,2
+745381,2024-08-14,134,PIT,Pittsburgh Pirates,135,SD,San Diego Padres,2,8
+745544,2024-08-14,146,MIA,Miami Marlins,143,PHI,Philadelphia Phillies,5,9
+745790,2024-08-14,133,OAK,Oakland Athletics,121,NYM,New York Mets,1,9
+745869,2024-08-14,118,KC,Kansas City Royals,142,MIN,Minnesota Twins,4,1
+745951,2024-08-14,119,LAD,Los Angeles Dodgers,158,MIL,Milwaukee Brewers,4,5
+746188,2024-08-14,141,TOR,Toronto Blue Jays,108,LAA,Los Angeles Angels,9,2
+746436,2024-08-14,136,SEA,Seattle Mariners,116,DET,Detroit Tigers,2,3
+746598,2024-08-14,112,CHC,Chicago Cubs,114,CLE,Cleveland Guardians,1,6
+746677,2024-08-14,138,STL,St. Louis Cardinals,113,CIN,Cincinnati Reds,2,9
+746759,2024-08-14,147,NYY,New York Yankees,145,CWS,Chicago White Sox,10,2
+746919,2024-08-14,140,TEX,Texas Rangers,111,BOS,Boston Red Sox,9,7
+747000,2024-08-14,120,WSH,Washington Nationals,110,BAL,Baltimore Orioles,1,4
+747163,2024-08-14,115,COL,Colorado Rockies,109,AZ,Arizona Diamondbacks,4,11
+744980,2024-08-15,142,MIN,Minnesota Twins,140,TEX,Texas Rangers,3,2
+745298,2024-08-15,144,ATL,Atlanta Braves,137,SF,San Francisco Giants,0,6
+745545,2024-08-15,120,WSH,Washington Nationals,143,PHI,Philadelphia Phillies,3,13
+745783,2024-08-15,133,OAK,Oakland Athletics,121,NYM,New York Mets,7,6
+745950,2024-08-15,119,LAD,Los Angeles Dodgers,158,MIL,Milwaukee Brewers,4,6
+746437,2024-08-15,136,SEA,Seattle Mariners,116,DET,Detroit Tigers,1,2
+747002,2024-08-15,111,BOS,Boston Red Sox,110,BAL,Baltimore Orioles,1,5
+744974,2024-08-16,142,MIN,Minnesota Twins,140,TEX,Texas Rangers,4,3
+745054,2024-08-16,109,AZ,Arizona Diamondbacks,139,TB,Tampa Bay Rays,4,5
+745144,2024-08-16,119,LAD,Los Angeles Dodgers,138,STL,St. Louis Cardinals,7,6
+745462,2024-08-16,136,SEA,Seattle Mariners,134,PIT,Pittsburgh Pirates,3,5
+745542,2024-08-16,120,WSH,Washington Nationals,143,PHI,Philadelphia Phillies,2,3
+745784,2024-08-16,146,MIA,Miami Marlins,121,NYM,New York Mets,3,7
+745949,2024-08-16,114,CLE,Cleveland Guardians,158,MIL,Milwaukee Brewers,3,5
+746189,2024-08-16,144,ATL,Atlanta Braves,108,LAA,Los Angeles Angels,2,3
+746357,2024-08-16,145,CWS,Chicago White Sox,117,HOU,Houston Astros,5,4
+746438,2024-08-16,147,NYY,New York Yankees,116,DET,Detroit Tigers,3,0
+746518,2024-08-16,135,SD,San Diego Padres,115,COL,Colorado Rockies,3,7
+746674,2024-08-16,118,KC,Kansas City Royals,113,CIN,Cincinnati Reds,7,1
+746843,2024-08-16,141,TOR,Toronto Blue Jays,112,CHC,Chicago Cubs,5,6
+747001,2024-08-16,111,BOS,Boston Red Sox,110,BAL,Baltimore Orioles,12,10
+744977,2024-08-17,142,MIN,Minnesota Twins,140,TEX,Texas Rangers,5,2
+745049,2024-08-17,109,AZ,Arizona Diamondbacks,139,TB,Tampa Bay Rays,1,6
+745140,2024-08-17,119,LAD,Los Angeles Dodgers,138,STL,St. Louis Cardinals,2,5
+745463,2024-08-17,136,SEA,Seattle Mariners,134,PIT,Pittsburgh Pirates,2,7
+745537,2024-08-17,120,WSH,Washington Nationals,143,PHI,Philadelphia Phillies,1,5
+745626,2024-08-17,137,SF,San Francisco Giants,133,OAK,Oakland Athletics,0,2
+745785,2024-08-17,146,MIA,Miami Marlins,121,NYM,New York Mets,0,4
+745952,2024-08-17,114,CLE,Cleveland Guardians,158,MIL,Milwaukee Brewers,1,2
+746190,2024-08-17,144,ATL,Atlanta Braves,108,LAA,Los Angeles Angels,11,3
+746355,2024-08-17,145,CWS,Chicago White Sox,117,HOU,Houston Astros,1,6
+746434,2024-08-17,147,NYY,New York Yankees,116,DET,Detroit Tigers,0,4
+746515,2024-08-17,135,SD,San Diego Padres,115,COL,Colorado Rockies,8,3
+746675,2024-08-17,118,KC,Kansas City Royals,113,CIN,Cincinnati Reds,13,1
+746841,2024-08-17,141,TOR,Toronto Blue Jays,112,CHC,Chicago Cubs,2,3
+746997,2024-08-17,111,BOS,Boston Red Sox,110,BAL,Baltimore Orioles,5,1
+744975,2024-08-18,142,MIN,Minnesota Twins,140,TEX,Texas Rangers,5,6
+745051,2024-08-18,109,AZ,Arizona Diamondbacks,139,TB,Tampa Bay Rays,7,8
+745139,2024-08-18,119,LAD,Los Angeles Dodgers,138,STL,St. Louis Cardinals,2,1
+745464,2024-08-18,136,SEA,Seattle Mariners,134,PIT,Pittsburgh Pirates,10,3
+745539,2024-08-18,120,WSH,Washington Nationals,143,PHI,Philadelphia Phillies,6,4
+745621,2024-08-18,137,SF,San Francisco Giants,133,OAK,Oakland Athletics,4,2
+745786,2024-08-18,146,MIA,Miami Marlins,121,NYM,New York Mets,3,2
+745948,2024-08-18,114,CLE,Cleveland Guardians,158,MIL,Milwaukee Brewers,0,2
+746186,2024-08-18,144,ATL,Atlanta Braves,108,LAA,Los Angeles Angels,3,1
+746359,2024-08-18,145,CWS,Chicago White Sox,117,HOU,Houston Astros,0,2
+746431,2024-08-18,147,NYY,New York Yankees,116,DET,Detroit Tigers,2,3
+746516,2024-08-18,135,SD,San Diego Padres,115,COL,Colorado Rockies,2,3
+746676,2024-08-18,118,KC,Kansas City Royals,113,CIN,Cincinnati Reds,8,1
+746838,2024-08-18,141,TOR,Toronto Blue Jays,112,CHC,Chicago Cubs,1,0
+746999,2024-08-18,111,BOS,Boston Red Sox,110,BAL,Baltimore Orioles,2,4
+744898,2024-08-19,113,CIN,Cincinnati Reds,141,TOR,Toronto Blue Jays,6,3
+744976,2024-08-19,134,PIT,Pittsburgh Pirates,140,TEX,Texas Rangers,3,4
+745294,2024-08-19,145,CWS,Chicago White Sox,137,SF,San Francisco Giants,3,5
+745380,2024-08-19,142,MIN,Minnesota Twins,135,SD,San Diego Padres,3,5
+745620,2024-08-19,139,TB,Tampa Bay Rays,133,OAK,Oakland Athletics,0,3
+745780,2024-08-19,110,BAL,Baltimore Orioles,121,NYM,New York Mets,3,4
+746027,2024-08-19,109,AZ,Arizona Diamondbacks,146,MIA,Miami Marlins,9,6
+746109,2024-08-19,136,SEA,Seattle Mariners,119,LAD,Los Angeles Dodgers,0,3
+746270,2024-08-19,108,LAA,Los Angeles Angels,118,KC,Kansas City Royals,3,5
+746351,2024-08-19,111,BOS,Boston Red Sox,117,HOU,Houston Astros,4,5
+744814,2024-08-20,115,COL,Colorado Rockies,120,WSH,Washington Nationals,3,1
+744896,2024-08-20,113,CIN,Cincinnati Reds,141,TOR,Toronto Blue Jays,3,10
+744978,2024-08-20,134,PIT,Pittsburgh Pirates,140,TEX,Texas Rangers,4,0
+745136,2024-08-20,158,MIL,Milwaukee Brewers,138,STL,St. Louis Cardinals,3,2
+745295,2024-08-20,145,CWS,Chicago White Sox,137,SF,San Francisco Giants,1,4
+745374,2024-08-20,142,MIN,Minnesota Twins,135,SD,San Diego Padres,5,7
+745624,2024-08-20,139,TB,Tampa Bay Rays,133,OAK,Oakland Athletics,1,0
+745707,2024-08-20,114,CLE,Cleveland Guardians,147,NYY,New York Yankees,9,5
+745782,2024-08-20,110,BAL,Baltimore Orioles,121,NYM,New York Mets,9,5
+746029,2024-08-20,109,AZ,Arizona Diamondbacks,146,MIA,Miami Marlins,3,1
+746107,2024-08-20,136,SEA,Seattle Mariners,119,LAD,Los Angeles Dodgers,3,6
+746266,2024-08-20,108,LAA,Los Angeles Angels,118,KC,Kansas City Royals,9,5
+746349,2024-08-20,111,BOS,Boston Red Sox,117,HOU,Houston Astros,6,5
+746839,2024-08-20,116,DET,Detroit Tigers,112,CHC,Chicago Cubs,1,3
+747083,2024-08-20,143,PHI,Philadelphia Phillies,144,ATL,Atlanta Braves,1,3
+744812,2024-08-21,115,COL,Colorado Rockies,120,WSH,Washington Nationals,1,6
+744893,2024-08-21,113,CIN,Cincinnati Reds,141,TOR,Toronto Blue Jays,11,7
+744973,2024-08-21,134,PIT,Pittsburgh Pirates,140,TEX,Texas Rangers,0,1
+745138,2024-08-21,158,MIL,Milwaukee Brewers,138,STL,St. Louis Cardinals,6,10
+745297,2024-08-21,145,CWS,Chicago White Sox,137,SF,San Francisco Giants,6,2
+745375,2024-08-21,142,MIN,Minnesota Twins,135,SD,San Diego Padres,11,4
+745622,2024-08-21,139,TB,Tampa Bay Rays,133,OAK,Oakland Athletics,4,2
+745704,2024-08-21,114,CLE,Cleveland Guardians,147,NYY,New York Yankees,1,8
+745781,2024-08-21,110,BAL,Baltimore Orioles,121,NYM,New York Mets,3,4
+746028,2024-08-21,109,AZ,Arizona Diamondbacks,146,MIA,Miami Marlins,10,8
+746110,2024-08-21,136,SEA,Seattle Mariners,119,LAD,Los Angeles Dodgers,4,8
+746267,2024-08-21,108,LAA,Los Angeles Angels,118,KC,Kansas City Royals,0,3
+746350,2024-08-21,111,BOS,Boston Red Sox,117,HOU,Houston Astros,4,1
+746837,2024-08-21,116,DET,Detroit Tigers,112,CHC,Chicago Cubs,8,2
+747084,2024-08-21,143,PHI,Philadelphia Phillies,144,ATL,Atlanta Braves,3,2
+744815,2024-08-22,115,COL,Colorado Rockies,120,WSH,Washington Nationals,3,8
+744894,2024-08-22,108,LAA,Los Angeles Angels,141,TOR,Toronto Blue Jays,3,5
+745137,2024-08-22,158,MIL,Milwaukee Brewers,138,STL,St. Louis Cardinals,0,3
+745379,2024-08-22,121,NYM,New York Mets,135,SD,San Diego Padres,8,3
+745465,2024-08-22,113,CIN,Cincinnati Reds,134,PIT,Pittsburgh Pirates,0,7
+745623,2024-08-22,139,TB,Tampa Bay Rays,133,OAK,Oakland Athletics,1,3
+745705,2024-08-22,114,CLE,Cleveland Guardians,147,NYY,New York Yankees,0,6
+746836,2024-08-22,116,DET,Detroit Tigers,112,CHC,Chicago Cubs,2,10
+746998,2024-08-22,117,HOU,Houston Astros,110,BAL,Baltimore Orioles,6,0
+747082,2024-08-22,143,PHI,Philadelphia Phillies,144,ATL,Atlanta Braves,2,3
+744889,2024-08-23,108,LAA,Los Angeles Angels,141,TOR,Toronto Blue Jays,4,5
+745217,2024-08-23,137,SF,San Francisco Giants,136,SEA,Seattle Mariners,5,6
+745378,2024-08-23,121,NYM,New York Mets,135,SD,San Diego Padres,0,7
+745460,2024-08-23,113,CIN,Cincinnati Reds,134,PIT,Pittsburgh Pirates,5,6
+745625,2024-08-23,158,MIL,Milwaukee Brewers,133,OAK,Oakland Athletics,11,3
+745702,2024-08-23,115,COL,Colorado Rockies,147,NYY,New York Yankees,0,3
+745870,2024-08-23,138,STL,St. Louis Cardinals,142,MIN,Minnesota Twins,6,1
+746024,2024-08-23,112,CHC,Chicago Cubs,146,MIA,Miami Marlins,6,3
+746111,2024-08-23,139,TB,Tampa Bay Rays,119,LAD,Los Angeles Dodgers,3,7
+746268,2024-08-23,143,PHI,Philadelphia Phillies,118,KC,Kansas City Royals,4,7
+746597,2024-08-23,140,TEX,Texas Rangers,114,CLE,Cleveland Guardians,5,3
+746758,2024-08-23,116,DET,Detroit Tigers,145,CWS,Chicago White Sox,5,2
+746920,2024-08-23,109,AZ,Arizona Diamondbacks,111,BOS,Boston Red Sox,12,2
+746995,2024-08-23,117,HOU,Houston Astros,110,BAL,Baltimore Orioles,5,7
+747080,2024-08-23,120,WSH,Washington Nationals,144,ATL,Atlanta Braves,2,3
+744890,2024-08-24,108,LAA,Los Angeles Angels,141,TOR,Toronto Blue Jays,1,3
+745218,2024-08-24,137,SF,San Francisco Giants,136,SEA,Seattle Mariners,4,3
+745377,2024-08-24,121,NYM,New York Mets,135,SD,San Diego Padres,7,1
+745457,2024-08-24,113,CIN,Cincinnati Reds,134,PIT,Pittsburgh Pirates,10,2
+745617,2024-08-24,158,MIL,Milwaukee Brewers,133,OAK,Oakland Athletics,9,5
+745703,2024-08-24,115,COL,Colorado Rockies,147,NYY,New York Yankees,9,2
+745868,2024-08-24,138,STL,St. Louis Cardinals,142,MIN,Minnesota Twins,0,6
+746022,2024-08-24,112,CHC,Chicago Cubs,146,MIA,Miami Marlins,14,2
+746108,2024-08-24,139,TB,Tampa Bay Rays,119,LAD,Los Angeles Dodgers,9,8
+746271,2024-08-24,143,PHI,Philadelphia Phillies,118,KC,Kansas City Royals,11,2
+746599,2024-08-24,140,TEX,Texas Rangers,114,CLE,Cleveland Guardians,5,13
+746756,2024-08-24,116,DET,Detroit Tigers,145,CWS,Chicago White Sox,13,4
+746917,2024-08-24,109,AZ,Arizona Diamondbacks,111,BOS,Boston Red Sox,4,1
+746996,2024-08-24,117,HOU,Houston Astros,110,BAL,Baltimore Orioles,2,3
+747077,2024-08-24,120,WSH,Washington Nationals,144,ATL,Atlanta Braves,2,4
+744892,2024-08-25,108,LAA,Los Angeles Angels,141,TOR,Toronto Blue Jays,2,8
+745212,2024-08-25,137,SF,San Francisco Giants,136,SEA,Seattle Mariners,3,4
+745376,2024-08-25,121,NYM,New York Mets,135,SD,San Diego Padres,2,3
+745459,2024-08-25,113,CIN,Cincinnati Reds,134,PIT,Pittsburgh Pirates,3,4
+745618,2024-08-25,158,MIL,Milwaukee Brewers,133,OAK,Oakland Athletics,3,4
+745706,2024-08-25,115,COL,Colorado Rockies,147,NYY,New York Yankees,3,10
+745863,2024-08-25,138,STL,St. Louis Cardinals,142,MIN,Minnesota Twins,3,2
+746023,2024-08-25,112,CHC,Chicago Cubs,146,MIA,Miami Marlins,2,7
+746106,2024-08-25,139,TB,Tampa Bay Rays,119,LAD,Los Angeles Dodgers,1,3
+746263,2024-08-25,143,PHI,Philadelphia Phillies,118,KC,Kansas City Royals,11,3
+746595,2024-08-25,140,TEX,Texas Rangers,114,CLE,Cleveland Guardians,2,4
+746754,2024-08-25,116,DET,Detroit Tigers,145,CWS,Chicago White Sox,9,4
+746918,2024-08-25,109,AZ,Arizona Diamondbacks,111,BOS,Boston Red Sox,7,5
+746994,2024-08-25,117,HOU,Houston Astros,110,BAL,Baltimore Orioles,6,3
+747078,2024-08-25,120,WSH,Washington Nationals,144,ATL,Atlanta Braves,5,1
+744813,2024-08-26,147,NYY,New York Yankees,120,WSH,Washington Nationals,5,2
+745133,2024-08-26,135,SD,San Diego Padres,138,STL,St. Louis Cardinals,7,4
+745215,2024-08-26,139,TB,Tampa Bay Rays,136,SEA,Seattle Mariners,1,5
+745458,2024-08-26,112,CHC,Chicago Cubs,134,PIT,Pittsburgh Pirates,18,8
+745538,2024-08-26,117,HOU,Houston Astros,143,PHI,Philadelphia Phillies,2,3
+745865,2024-08-26,144,ATL,Atlanta Braves,142,MIN,Minnesota Twins,10,6
+746513,2024-08-26,146,MIA,Miami Marlins,115,COL,Colorado Rockies,2,3
+746596,2024-08-26,118,KC,Kansas City Royals,114,CLE,Cleveland Guardians,9,4
+746628,2024-08-26,118,KC,Kansas City Royals,114,CLE,Cleveland Guardians,4,3
+746753,2024-08-26,116,DET,Detroit Tigers,145,CWS,Chicago White Sox,6,3
+746915,2024-08-26,141,TOR,Toronto Blue Jays,111,BOS,Boston Red Sox,7,3
+744811,2024-08-27,147,NYY,New York Yankees,120,WSH,Washington Nationals,2,4
+745132,2024-08-27,135,SD,San Diego Padres,138,STL,St. Louis Cardinals,7,5
+745213,2024-08-27,139,TB,Tampa Bay Rays,136,SEA,Seattle Mariners,3,2
+745461,2024-08-27,112,CHC,Chicago Cubs,134,PIT,Pittsburgh Pirates,9,5
+745540,2024-08-27,117,HOU,Houston Astros,143,PHI,Philadelphia Phillies,0,5
+745864,2024-08-27,144,ATL,Atlanta Braves,142,MIN,Minnesota Twins,8,6
+745946,2024-08-27,137,SF,San Francisco Giants,158,MIL,Milwaukee Brewers,5,4
+746105,2024-08-27,110,BAL,Baltimore Orioles,119,LAD,Los Angeles Dodgers,3,2
+746429,2024-08-27,108,LAA,Los Angeles Angels,116,DET,Detroit Tigers,2,6
+746510,2024-08-27,146,MIA,Miami Marlins,115,COL,Colorado Rockies,9,8
+746594,2024-08-27,118,KC,Kansas City Royals,114,CLE,Cleveland Guardians,6,1
+746671,2024-08-27,133,OAK,Oakland Athletics,113,CIN,Cincinnati Reds,5,4
+746755,2024-08-27,140,TEX,Texas Rangers,145,CWS,Chicago White Sox,3,1
+746916,2024-08-27,141,TOR,Toronto Blue Jays,111,BOS,Boston Red Sox,3,6
+747162,2024-08-27,121,NYM,New York Mets,109,AZ,Arizona Diamondbacks,8,3
+744809,2024-08-28,147,NYY,New York Yankees,120,WSH,Washington Nationals,2,5
+745134,2024-08-28,135,SD,San Diego Padres,138,STL,St. Louis Cardinals,3,4
+745211,2024-08-28,139,TB,Tampa Bay Rays,136,SEA,Seattle Mariners,2,6
+745452,2024-08-28,112,CHC,Chicago Cubs,134,PIT,Pittsburgh Pirates,14,10
+745541,2024-08-28,117,HOU,Houston Astros,143,PHI,Philadelphia Phillies,10,0
+745866,2024-08-28,144,ATL,Atlanta Braves,142,MIN,Minnesota Twins,5,1
+745943,2024-08-28,137,SF,San Francisco Giants,158,MIL,Milwaukee Brewers,3,5
+746103,2024-08-28,110,BAL,Baltimore Orioles,119,LAD,Los Angeles Dodgers,4,6
+746430,2024-08-28,108,LAA,Los Angeles Angels,116,DET,Detroit Tigers,2,3
+746512,2024-08-28,146,MIA,Miami Marlins,115,COL,Colorado Rockies,2,8
+746589,2024-08-28,118,KC,Kansas City Royals,114,CLE,Cleveland Guardians,5,7
+746672,2024-08-28,133,OAK,Oakland Athletics,113,CIN,Cincinnati Reds,9,6
+746752,2024-08-28,140,TEX,Texas Rangers,145,CWS,Chicago White Sox,4,3
+746913,2024-08-28,141,TOR,Toronto Blue Jays,111,BOS,Boston Red Sox,0,3
+747161,2024-08-28,121,NYM,New York Mets,109,AZ,Arizona Diamondbacks,5,8
+745135,2024-08-29,135,SD,San Diego Padres,138,STL,St. Louis Cardinals,1,4
+745531,2024-08-29,144,ATL,Atlanta Braves,143,PHI,Philadelphia Phillies,4,5
+745945,2024-08-29,137,SF,San Francisco Giants,158,MIL,Milwaukee Brewers,0,6
+746102,2024-08-29,110,BAL,Baltimore Orioles,119,LAD,Los Angeles Dodgers,3,6
+746352,2024-08-29,118,KC,Kansas City Royals,117,HOU,Houston Astros,3,6
+746432,2024-08-29,108,LAA,Los Angeles Angels,116,DET,Detroit Tigers,3,0
+746514,2024-08-29,146,MIA,Miami Marlins,115,COL,Colorado Rockies,12,8
+746670,2024-08-29,133,OAK,Oakland Athletics,113,CIN,Cincinnati Reds,9,10
+746748,2024-08-29,140,TEX,Texas Rangers,145,CWS,Chicago White Sox,2,1
+746914,2024-08-29,141,TOR,Toronto Blue Jays,111,BOS,Boston Red Sox,2,0
+747159,2024-08-29,121,NYM,New York Mets,109,AZ,Arizona Diamondbacks,3,2
+744810,2024-08-30,112,CHC,Chicago Cubs,120,WSH,Washington Nationals,7,6
+744969,2024-08-30,133,OAK,Oakland Athletics,140,TEX,Texas Rangers,9,2
+745052,2024-08-30,135,SD,San Diego Padres,139,TB,Tampa Bay Rays,13,5
+745299,2024-08-30,146,MIA,Miami Marlins,137,SF,San Francisco Giants,1,3
+745533,2024-08-30,144,ATL,Atlanta Braves,143,PHI,Philadelphia Phillies,7,2
+745700,2024-08-30,138,STL,St. Louis Cardinals,147,NYY,New York Yankees,3,6
+745862,2024-08-30,141,TOR,Toronto Blue Jays,142,MIN,Minnesota Twins,0,2
+746184,2024-08-30,136,SEA,Seattle Mariners,108,LAA,Los Angeles Angels,9,5
+746353,2024-08-30,118,KC,Kansas City Royals,117,HOU,Houston Astros,2,3
+746433,2024-08-30,111,BOS,Boston Red Sox,116,DET,Detroit Tigers,7,5
+746511,2024-08-30,110,BAL,Baltimore Orioles,115,COL,Colorado Rockies,5,3
+746593,2024-08-30,134,PIT,Pittsburgh Pirates,114,CLE,Cleveland Guardians,8,10
+746665,2024-08-30,158,MIL,Milwaukee Brewers,113,CIN,Cincinnati Reds,14,0
+746730,2024-08-30,158,MIL,Milwaukee Brewers,113,CIN,Cincinnati Reds,5,4
+746749,2024-08-30,121,NYM,New York Mets,145,CWS,Chicago White Sox,5,1
+747156,2024-08-30,119,LAD,Los Angeles Dodgers,109,AZ,Arizona Diamondbacks,10,9
+744808,2024-08-31,112,CHC,Chicago Cubs,120,WSH,Washington Nationals,5,3
+744971,2024-08-31,133,OAK,Oakland Athletics,140,TEX,Texas Rangers,2,3
+745050,2024-08-31,135,SD,San Diego Padres,139,TB,Tampa Bay Rays,4,11
+745296,2024-08-31,146,MIA,Miami Marlins,137,SF,San Francisco Giants,4,3
+745532,2024-08-31,144,ATL,Atlanta Braves,143,PHI,Philadelphia Phillies,0,3
+745699,2024-08-31,138,STL,St. Louis Cardinals,147,NYY,New York Yankees,6,5
+745859,2024-08-31,141,TOR,Toronto Blue Jays,142,MIN,Minnesota Twins,15,0
+746182,2024-08-31,136,SEA,Seattle Mariners,108,LAA,Los Angeles Angels,4,5
+746348,2024-08-31,118,KC,Kansas City Royals,117,HOU,Houston Astros,2,5
+746424,2024-08-31,111,BOS,Boston Red Sox,116,DET,Detroit Tigers,1,2
+746507,2024-08-31,110,BAL,Baltimore Orioles,115,COL,Colorado Rockies,5,7
+746590,2024-08-31,134,PIT,Pittsburgh Pirates,114,CLE,Cleveland Guardians,3,0
+746667,2024-08-31,158,MIL,Milwaukee Brewers,113,CIN,Cincinnati Reds,5,4
+746751,2024-08-31,121,NYM,New York Mets,145,CWS,Chicago White Sox,5,3
+747158,2024-08-31,119,LAD,Los Angeles Dodgers,109,AZ,Arizona Diamondbacks,8,6
+744806,2024-09-01,112,CHC,Chicago Cubs,120,WSH,Washington Nationals,14,1
+744970,2024-09-01,133,OAK,Oakland Athletics,140,TEX,Texas Rangers,4,6
+745048,2024-09-01,135,SD,San Diego Padres,139,TB,Tampa Bay Rays,4,3
+745292,2024-09-01,146,MIA,Miami Marlins,137,SF,San Francisco Giants,7,5
+745536,2024-09-01,144,ATL,Atlanta Braves,143,PHI,Philadelphia Phillies,2,3
+745701,2024-09-01,138,STL,St. Louis Cardinals,147,NYY,New York Yankees,14,7
+745861,2024-09-01,141,TOR,Toronto Blue Jays,142,MIN,Minnesota Twins,3,4
+746183,2024-09-01,136,SEA,Seattle Mariners,108,LAA,Los Angeles Angels,2,3
+746347,2024-09-01,118,KC,Kansas City Royals,117,HOU,Houston Astros,2,7
+746426,2024-09-01,111,BOS,Boston Red Sox,116,DET,Detroit Tigers,1,4
+746505,2024-09-01,110,BAL,Baltimore Orioles,115,COL,Colorado Rockies,6,1
+746592,2024-09-01,134,PIT,Pittsburgh Pirates,114,CLE,Cleveland Guardians,1,6
+746669,2024-09-01,158,MIL,Milwaukee Brewers,113,CIN,Cincinnati Reds,3,4
+746750,2024-09-01,121,NYM,New York Mets,145,CWS,Chicago White Sox,2,0
+747157,2024-09-01,119,LAD,Los Angeles Dodgers,109,AZ,Arizona Diamondbacks,3,14
+744972,2024-09-02,147,NYY,New York Yankees,140,TEX,Texas Rangers,8,4
+745046,2024-09-02,142,MIN,Minnesota Twins,139,TB,Tampa Bay Rays,5,4
+745373,2024-09-02,116,DET,Detroit Tigers,135,SD,San Diego Padres,0,3
+745619,2024-09-02,136,SEA,Seattle Mariners,133,OAK,Oakland Athletics,4,5
+745779,2024-09-02,111,BOS,Boston Red Sox,121,NYM,New York Mets,1,4
+745947,2024-09-02,138,STL,St. Louis Cardinals,158,MIL,Milwaukee Brewers,3,9
+746265,2024-09-02,114,CLE,Cleveland Guardians,118,KC,Kansas City Royals,4,2
+746668,2024-09-02,117,HOU,Houston Astros,113,CIN,Cincinnati Reds,3,5
+746833,2024-09-02,134,PIT,Pittsburgh Pirates,112,CHC,Chicago Cubs,5,3
+746992,2024-09-02,145,CWS,Chicago White Sox,110,BAL,Baltimore Orioles,3,13
+747155,2024-09-02,119,LAD,Los Angeles Dodgers,109,AZ,Arizona Diamondbacks,11,6
+744891,2024-09-03,143,PHI,Philadelphia Phillies,141,TOR,Toronto Blue Jays,10,9
+744968,2024-09-03,147,NYY,New York Yankees,140,TEX,Texas Rangers,4,7
+745047,2024-09-03,142,MIN,Minnesota Twins,139,TB,Tampa Bay Rays,1,2
+745293,2024-09-03,109,AZ,Arizona Diamondbacks,137,SF,San Francisco Giants,8,7
+745615,2024-09-03,136,SEA,Seattle Mariners,133,OAK,Oakland Athletics,2,3
+745778,2024-09-03,111,BOS,Boston Red Sox,121,NYM,New York Mets,2,7
+745944,2024-09-03,138,STL,St. Louis Cardinals,158,MIL,Milwaukee Brewers,7,4
+746020,2024-09-03,120,WSH,Washington Nationals,146,MIA,Miami Marlins,6,2
+746185,2024-09-03,119,LAD,Los Angeles Dodgers,108,LAA,Los Angeles Angels,6,2
+746264,2024-09-03,114,CLE,Cleveland Guardians,118,KC,Kansas City Royals,7,1
+746834,2024-09-03,134,PIT,Pittsburgh Pirates,112,CHC,Chicago Cubs,5,0
+746991,2024-09-03,145,CWS,Chicago White Sox,110,BAL,Baltimore Orioles,0,9
+747079,2024-09-03,115,COL,Colorado Rockies,144,ATL,Atlanta Braves,0,3
+744887,2024-09-04,143,PHI,Philadelphia Phillies,141,TOR,Toronto Blue Jays,4,2
+744964,2024-09-04,147,NYY,New York Yankees,140,TEX,Texas Rangers,6,10
+745045,2024-09-04,142,MIN,Minnesota Twins,139,TB,Tampa Bay Rays,4,9
+745290,2024-09-04,109,AZ,Arizona Diamondbacks,137,SF,San Francisco Giants,6,4
+745370,2024-09-04,116,DET,Detroit Tigers,135,SD,San Diego Padres,5,6
+745614,2024-09-04,136,SEA,Seattle Mariners,133,OAK,Oakland Athletics,16,3
+745776,2024-09-04,111,BOS,Boston Red Sox,121,NYM,New York Mets,3,8
+745938,2024-09-04,138,STL,St. Louis Cardinals,158,MIL,Milwaukee Brewers,3,2
+746019,2024-09-04,120,WSH,Washington Nationals,146,MIA,Miami Marlins,3,4
+746178,2024-09-04,119,LAD,Los Angeles Dodgers,108,LAA,Los Angeles Angels,1,10
+746262,2024-09-04,114,CLE,Cleveland Guardians,118,KC,Kansas City Royals,1,4
+746666,2024-09-04,117,HOU,Houston Astros,113,CIN,Cincinnati Reds,5,12
+746835,2024-09-04,134,PIT,Pittsburgh Pirates,112,CHC,Chicago Cubs,0,12
+746990,2024-09-04,145,CWS,Chicago White Sox,110,BAL,Baltimore Orioles,8,1
+747075,2024-09-04,115,COL,Colorado Rockies,144,ATL,Atlanta Braves,2,5
+744966,2024-09-05,108,LAA,Los Angeles Angels,140,TEX,Texas Rangers,1,3
+745042,2024-09-05,142,MIN,Minnesota Twins,139,TB,Tampa Bay Rays,4,3
+745289,2024-09-05,109,AZ,Arizona Diamondbacks,137,SF,San Francisco Giants,2,3
+745369,2024-09-05,116,DET,Detroit Tigers,135,SD,San Diego Padres,4,3
+745451,2024-09-05,120,WSH,Washington Nationals,134,PIT,Pittsburgh Pirates,4,9
+745612,2024-09-05,136,SEA,Seattle Mariners,133,OAK,Oakland Athletics,6,4
+746021,2024-09-05,143,PHI,Philadelphia Phillies,146,MIA,Miami Marlins,5,2
+746664,2024-09-05,117,HOU,Houston Astros,113,CIN,Cincinnati Reds,0,1
+747073,2024-09-05,115,COL,Colorado Rockies,144,ATL,Atlanta Braves,3,1
+744967,2024-09-06,108,LAA,Los Angeles Angels,140,TEX,Texas Rangers,5,1
+745131,2024-09-06,136,SEA,Seattle Mariners,138,STL,St. Louis Cardinals,6,1
+745371,2024-09-06,137,SF,San Francisco Giants,135,SD,San Diego Padres,1,5
+745611,2024-09-06,116,DET,Detroit Tigers,133,OAK,Oakland Athletics,6,7
+745777,2024-09-06,113,CIN,Cincinnati Reds,121,NYM,New York Mets,4,6
+745941,2024-09-06,115,COL,Colorado Rockies,158,MIL,Milwaukee Brewers,3,2
+746016,2024-09-06,143,PHI,Philadelphia Phillies,146,MIA,Miami Marlins,16,2
+746104,2024-09-06,114,CLE,Cleveland Guardians,119,LAD,Los Angeles Dodgers,3,1
+746257,2024-09-06,142,MIN,Minnesota Twins,118,KC,Kansas City Royals,0,5
+746343,2024-09-06,109,AZ,Arizona Diamondbacks,117,HOU,Houston Astros,0,8
+746832,2024-09-06,147,NYY,New York Yankees,112,CHC,Chicago Cubs,3,0
+746912,2024-09-06,145,CWS,Chicago White Sox,111,BOS,Boston Red Sox,1,3
+746993,2024-09-06,139,TB,Tampa Bay Rays,110,BAL,Baltimore Orioles,0,2
+747074,2024-09-06,141,TOR,Toronto Blue Jays,144,ATL,Atlanta Braves,1,3
+744963,2024-09-07,108,LAA,Los Angeles Angels,140,TEX,Texas Rangers,4,6
+745125,2024-09-07,136,SEA,Seattle Mariners,138,STL,St. Louis Cardinals,0,2
+745372,2024-09-07,137,SF,San Francisco Giants,135,SD,San Diego Padres,6,3
+745455,2024-09-07,120,WSH,Washington Nationals,134,PIT,Pittsburgh Pirates,5,3
+745456,2024-09-07,120,WSH,Washington Nationals,134,PIT,Pittsburgh Pirates,8,6
+745613,2024-09-07,116,DET,Detroit Tigers,133,OAK,Oakland Athletics,2,1
+745775,2024-09-07,113,CIN,Cincinnati Reds,121,NYM,New York Mets,0,4
+745942,2024-09-07,115,COL,Colorado Rockies,158,MIL,Milwaukee Brewers,2,5
+746018,2024-09-07,143,PHI,Philadelphia Phillies,146,MIA,Miami Marlins,5,9
+746099,2024-09-07,114,CLE,Cleveland Guardians,119,LAD,Los Angeles Dodgers,2,7
+746259,2024-09-07,142,MIN,Minnesota Twins,118,KC,Kansas City Royals,2,4
+746344,2024-09-07,109,AZ,Arizona Diamondbacks,117,HOU,Houston Astros,5,11
+746829,2024-09-07,147,NYY,New York Yankees,112,CHC,Chicago Cubs,2,0
+746911,2024-09-07,145,CWS,Chicago White Sox,111,BOS,Boston Red Sox,5,7
+746986,2024-09-07,139,TB,Tampa Bay Rays,110,BAL,Baltimore Orioles,7,1
+747076,2024-09-07,141,TOR,Toronto Blue Jays,144,ATL,Atlanta Braves,9,5
+744965,2024-09-08,108,LAA,Los Angeles Angels,140,TEX,Texas Rangers,4,7
+745128,2024-09-08,136,SEA,Seattle Mariners,138,STL,St. Louis Cardinals,10,4
+745368,2024-09-08,137,SF,San Francisco Giants,135,SD,San Diego Padres,7,6
+745453,2024-09-08,120,WSH,Washington Nationals,134,PIT,Pittsburgh Pirates,3,7
+745616,2024-09-08,116,DET,Detroit Tigers,133,OAK,Oakland Athletics,9,1
+745774,2024-09-08,113,CIN,Cincinnati Reds,121,NYM,New York Mets,3,1
+745940,2024-09-08,115,COL,Colorado Rockies,158,MIL,Milwaukee Brewers,4,1
+746017,2024-09-08,143,PHI,Philadelphia Phillies,146,MIA,Miami Marlins,1,10
+746098,2024-09-08,114,CLE,Cleveland Guardians,119,LAD,Los Angeles Dodgers,0,4
+746258,2024-09-08,142,MIN,Minnesota Twins,118,KC,Kansas City Royals,0,2
+746345,2024-09-08,109,AZ,Arizona Diamondbacks,117,HOU,Houston Astros,12,6
+746827,2024-09-08,147,NYY,New York Yankees,112,CHC,Chicago Cubs,1,2
+746910,2024-09-08,145,CWS,Chicago White Sox,111,BOS,Boston Red Sox,7,2
+746989,2024-09-08,139,TB,Tampa Bay Rays,110,BAL,Baltimore Orioles,2,0
+747072,2024-09-08,141,TOR,Toronto Blue Jays,144,ATL,Atlanta Braves,3,4
+744888,2024-09-09,121,NYM,New York Mets,141,TOR,Toronto Blue Jays,3,2
+745454,2024-09-09,146,MIA,Miami Marlins,134,PIT,Pittsburgh Pirates,2,3
+745534,2024-09-09,139,TB,Tampa Bay Rays,143,PHI,Philadelphia Phillies,1,2
+745698,2024-09-09,118,KC,Kansas City Royals,147,NYY,New York Yankees,4,10
+745860,2024-09-09,108,LAA,Los Angeles Angels,142,MIN,Minnesota Twins,6,2
+746101,2024-09-09,112,CHC,Chicago Cubs,119,LAD,Los Angeles Dodgers,10,4
+746746,2024-09-09,114,CLE,Cleveland Guardians,145,CWS,Chicago White Sox,5,3
+746909,2024-09-09,110,BAL,Baltimore Orioles,111,BOS,Boston Red Sox,3,12
+747090,2024-09-09,113,CIN,Cincinnati Reds,144,ATL,Atlanta Braves,1,0
+744807,2024-09-10,144,ATL,Atlanta Braves,120,WSH,Washington Nationals,12,0
+744886,2024-09-10,121,NYM,New York Mets,141,TOR,Toronto Blue Jays,2,6
+745126,2024-09-10,113,CIN,Cincinnati Reds,138,STL,St. Louis Cardinals,3,0
+745210,2024-09-10,135,SD,San Diego Padres,136,SEA,Seattle Mariners,7,3
+745291,2024-09-10,158,MIL,Milwaukee Brewers,137,SF,San Francisco Giants,3,2
+745446,2024-09-10,146,MIA,Miami Marlins,134,PIT,Pittsburgh Pirates,4,6
+745535,2024-09-10,139,TB,Tampa Bay Rays,143,PHI,Philadelphia Phillies,4,9
+745694,2024-09-10,118,KC,Kansas City Royals,147,NYY,New York Yankees,5,0
+745856,2024-09-10,108,LAA,Los Angeles Angels,142,MIN,Minnesota Twins,5,10
+746097,2024-09-10,112,CHC,Chicago Cubs,119,LAD,Los Angeles Dodgers,6,3
+746346,2024-09-10,133,OAK,Oakland Athletics,117,HOU,Houston Astros,4,3
+746428,2024-09-10,115,COL,Colorado Rockies,116,DET,Detroit Tigers,0,11
+746747,2024-09-10,114,CLE,Cleveland Guardians,145,CWS,Chicago White Sox,5,0
+746907,2024-09-10,110,BAL,Baltimore Orioles,111,BOS,Boston Red Sox,5,3
+747152,2024-09-10,140,TEX,Texas Rangers,109,AZ,Arizona Diamondbacks,0,6
+744804,2024-09-11,144,ATL,Atlanta Braves,120,WSH,Washington Nationals,1,5
+744881,2024-09-11,121,NYM,New York Mets,141,TOR,Toronto Blue Jays,6,2
+745127,2024-09-11,113,CIN,Cincinnati Reds,138,STL,St. Louis Cardinals,1,2
+745214,2024-09-11,135,SD,San Diego Padres,136,SEA,Seattle Mariners,2,5
+745285,2024-09-11,158,MIL,Milwaukee Brewers,137,SF,San Francisco Giants,2,13
+745450,2024-09-11,146,MIA,Miami Marlins,134,PIT,Pittsburgh Pirates,1,3
+745525,2024-09-11,139,TB,Tampa Bay Rays,143,PHI,Philadelphia Phillies,2,3
+745697,2024-09-11,118,KC,Kansas City Royals,147,NYY,New York Yankees,3,4
+745857,2024-09-11,108,LAA,Los Angeles Angels,142,MIN,Minnesota Twins,4,6
+746100,2024-09-11,112,CHC,Chicago Cubs,119,LAD,Los Angeles Dodgers,8,10
+746342,2024-09-11,133,OAK,Oakland Athletics,117,HOU,Houston Astros,5,4
+746425,2024-09-11,115,COL,Colorado Rockies,116,DET,Detroit Tigers,4,7
+746745,2024-09-11,114,CLE,Cleveland Guardians,145,CWS,Chicago White Sox,6,4
+746908,2024-09-11,110,BAL,Baltimore Orioles,111,BOS,Boston Red Sox,3,5
+747154,2024-09-11,140,TEX,Texas Rangers,109,AZ,Arizona Diamondbacks,4,14
+744805,2024-09-12,146,MIA,Miami Marlins,120,WSH,Washington Nationals,6,3
+745129,2024-09-12,113,CIN,Cincinnati Reds,138,STL,St. Louis Cardinals,1,6
+745208,2024-09-12,140,TEX,Texas Rangers,136,SEA,Seattle Mariners,5,4
+745288,2024-09-12,158,MIL,Milwaukee Brewers,137,SF,San Francisco Giants,3,0
+745695,2024-09-12,111,BOS,Boston Red Sox,147,NYY,New York Yankees,1,2
+746337,2024-09-12,133,OAK,Oakland Athletics,117,HOU,Houston Astros,3,6
+746427,2024-09-12,115,COL,Colorado Rockies,116,DET,Detroit Tigers,4,2
+746591,2024-09-12,139,TB,Tampa Bay Rays,114,CLE,Cleveland Guardians,5,2
+744800,2024-09-13,146,MIA,Miami Marlins,120,WSH,Washington Nationals,1,4
+744882,2024-09-13,138,STL,St. Louis Cardinals,141,TOR,Toronto Blue Jays,3,4
+745207,2024-09-13,140,TEX,Texas Rangers,136,SEA,Seattle Mariners,4,5
+745286,2024-09-13,135,SD,San Diego Padres,137,SF,San Francisco Giants,5,0
+745447,2024-09-13,118,KC,Kansas City Royals,134,PIT,Pittsburgh Pirates,8,3
+745529,2024-09-13,121,NYM,New York Mets,143,PHI,Philadelphia Phillies,11,3
+745696,2024-09-13,111,BOS,Boston Red Sox,147,NYY,New York Yankees,4,5
+745855,2024-09-13,113,CIN,Cincinnati Reds,142,MIN,Minnesota Twins,8,4
+746181,2024-09-13,117,HOU,Houston Astros,108,LAA,Los Angeles Angels,5,3
+746423,2024-09-13,110,BAL,Baltimore Orioles,116,DET,Detroit Tigers,0,1
+746509,2024-09-13,112,CHC,Chicago Cubs,115,COL,Colorado Rockies,5,9
+746586,2024-09-13,139,TB,Tampa Bay Rays,114,CLE,Cleveland Guardians,3,1
+746744,2024-09-13,133,OAK,Oakland Athletics,145,CWS,Chicago White Sox,2,0
+747069,2024-09-13,119,LAD,Los Angeles Dodgers,144,ATL,Atlanta Braves,2,6
+747153,2024-09-13,158,MIL,Milwaukee Brewers,109,AZ,Arizona Diamondbacks,2,1
+744803,2024-09-14,146,MIA,Miami Marlins,120,WSH,Washington Nationals,1,4
+744884,2024-09-14,138,STL,St. Louis Cardinals,141,TOR,Toronto Blue Jays,2,7
+745209,2024-09-14,140,TEX,Texas Rangers,136,SEA,Seattle Mariners,4,5
+745284,2024-09-14,135,SD,San Diego Padres,137,SF,San Francisco Giants,8,0
+745448,2024-09-14,118,KC,Kansas City Royals,134,PIT,Pittsburgh Pirates,5,1
+745528,2024-09-14,121,NYM,New York Mets,143,PHI,Philadelphia Phillies,4,6
+745689,2024-09-14,111,BOS,Boston Red Sox,147,NYY,New York Yankees,7,1
+745858,2024-09-14,113,CIN,Cincinnati Reds,142,MIN,Minnesota Twins,11,1
+746177,2024-09-14,117,HOU,Houston Astros,108,LAA,Los Angeles Angels,5,3
+746422,2024-09-14,110,BAL,Baltimore Orioles,116,DET,Detroit Tigers,4,2
+746508,2024-09-14,112,CHC,Chicago Cubs,115,COL,Colorado Rockies,5,6
+746584,2024-09-14,139,TB,Tampa Bay Rays,114,CLE,Cleveland Guardians,1,6
+746740,2024-09-14,133,OAK,Oakland Athletics,145,CWS,Chicago White Sox,6,7
+747070,2024-09-14,119,LAD,Los Angeles Dodgers,144,ATL,Atlanta Braves,1,10
+747148,2024-09-14,158,MIL,Milwaukee Brewers,109,AZ,Arizona Diamondbacks,15,8
+744801,2024-09-15,146,MIA,Miami Marlins,120,WSH,Washington Nationals,3,4
+744883,2024-09-15,138,STL,St. Louis Cardinals,141,TOR,Toronto Blue Jays,2,3
+745206,2024-09-15,140,TEX,Texas Rangers,136,SEA,Seattle Mariners,0,7
+745287,2024-09-15,135,SD,San Diego Padres,137,SF,San Francisco Giants,4,3
+745449,2024-09-15,118,KC,Kansas City Royals,134,PIT,Pittsburgh Pirates,3,4
+745530,2024-09-15,121,NYM,New York Mets,143,PHI,Philadelphia Phillies,1,2
+745693,2024-09-15,111,BOS,Boston Red Sox,147,NYY,New York Yankees,2,5
+745852,2024-09-15,113,CIN,Cincinnati Reds,142,MIN,Minnesota Twins,2,9
+746180,2024-09-15,117,HOU,Houston Astros,108,LAA,Los Angeles Angels,6,4
+746419,2024-09-15,110,BAL,Baltimore Orioles,116,DET,Detroit Tigers,2,4
+746506,2024-09-15,112,CHC,Chicago Cubs,115,COL,Colorado Rockies,6,2
+746585,2024-09-15,139,TB,Tampa Bay Rays,114,CLE,Cleveland Guardians,0,2
+746741,2024-09-15,133,OAK,Oakland Athletics,145,CWS,Chicago White Sox,3,4
+747071,2024-09-15,119,LAD,Los Angeles Dodgers,144,ATL,Atlanta Braves,9,2
+747151,2024-09-15,158,MIL,Milwaukee Brewers,109,AZ,Arizona Diamondbacks,10,11
+745130,2024-09-16,134,PIT,Pittsburgh Pirates,138,STL,St. Louis Cardinals,0,4
+745367,2024-09-16,117,HOU,Houston Astros,135,SD,San Diego Padres,1,3
+745773,2024-09-16,120,WSH,Washington Nationals,121,NYM,New York Mets,1,2
+745939,2024-09-16,143,PHI,Philadelphia Phillies,158,MIL,Milwaukee Brewers,2,6
+746179,2024-09-16,145,CWS,Chicago White Sox,108,LAA,Los Angeles Angels,8,4
+746260,2024-09-16,116,DET,Detroit Tigers,118,KC,Kansas City Royals,7,6
+746502,2024-09-16,109,AZ,Arizona Diamondbacks,115,COL,Colorado Rockies,2,3
+746588,2024-09-16,142,MIN,Minnesota Twins,114,CLE,Cleveland Guardians,3,4
+746828,2024-09-16,133,OAK,Oakland Athletics,112,CHC,Chicago Cubs,2,9
+747067,2024-09-16,119,LAD,Los Angeles Dodgers,144,ATL,Atlanta Braves,9,0
+744961,2024-09-17,141,TOR,Toronto Blue Jays,140,TEX,Texas Rangers,8,13
+745044,2024-09-17,111,BOS,Boston Red Sox,139,TB,Tampa Bay Rays,3,8
+745122,2024-09-17,134,PIT,Pittsburgh Pirates,138,STL,St. Louis Cardinals,1,3
+745205,2024-09-17,147,NYY,New York Yankees,136,SEA,Seattle Mariners,11,2
+745366,2024-09-17,117,HOU,Houston Astros,135,SD,San Diego Padres,4,3
+745772,2024-09-17,120,WSH,Washington Nationals,121,NYM,New York Mets,1,10
+745935,2024-09-17,143,PHI,Philadelphia Phillies,158,MIL,Milwaukee Brewers,5,1
+746015,2024-09-17,119,LAD,Los Angeles Dodgers,146,MIA,Miami Marlins,9,11
+746176,2024-09-17,145,CWS,Chicago White Sox,108,LAA,Los Angeles Angels,0,5
+746261,2024-09-17,116,DET,Detroit Tigers,118,KC,Kansas City Royals,3,1
+746503,2024-09-17,109,AZ,Arizona Diamondbacks,115,COL,Colorado Rockies,2,8
+746587,2024-09-17,142,MIN,Minnesota Twins,114,CLE,Cleveland Guardians,4,1
+746659,2024-09-17,144,ATL,Atlanta Braves,113,CIN,Cincinnati Reds,5,6
+746830,2024-09-17,133,OAK,Oakland Athletics,112,CHC,Chicago Cubs,4,3
+746987,2024-09-17,137,SF,San Francisco Giants,110,BAL,Baltimore Orioles,10,0
+744959,2024-09-18,141,TOR,Toronto Blue Jays,140,TEX,Texas Rangers,0,2
+745040,2024-09-18,111,BOS,Boston Red Sox,139,TB,Tampa Bay Rays,2,1
+745121,2024-09-18,134,PIT,Pittsburgh Pirates,138,STL,St. Louis Cardinals,5,10
+745199,2024-09-18,147,NYY,New York Yankees,136,SEA,Seattle Mariners,2,1
+745365,2024-09-18,117,HOU,Houston Astros,135,SD,San Diego Padres,0,4
+745771,2024-09-18,120,WSH,Washington Nationals,121,NYM,New York Mets,0,10
+745933,2024-09-18,143,PHI,Philadelphia Phillies,158,MIL,Milwaukee Brewers,1,2
+746014,2024-09-18,119,LAD,Los Angeles Dodgers,146,MIA,Miami Marlins,8,4
+746172,2024-09-18,145,CWS,Chicago White Sox,108,LAA,Los Angeles Angels,3,4
+746254,2024-09-18,116,DET,Detroit Tigers,118,KC,Kansas City Royals,4,2
+746500,2024-09-18,109,AZ,Arizona Diamondbacks,115,COL,Colorado Rockies,9,4
+746582,2024-09-18,142,MIN,Minnesota Twins,114,CLE,Cleveland Guardians,4,5
+746662,2024-09-18,144,ATL,Atlanta Braves,113,CIN,Cincinnati Reds,7,1
+746831,2024-09-18,133,OAK,Oakland Athletics,112,CHC,Chicago Cubs,5,3
+746988,2024-09-18,137,SF,San Francisco Giants,110,BAL,Baltimore Orioles,5,3
+744962,2024-09-19,141,TOR,Toronto Blue Jays,140,TEX,Texas Rangers,4,0
+745041,2024-09-19,111,BOS,Boston Red Sox,139,TB,Tampa Bay Rays,0,2
+745120,2024-09-19,134,PIT,Pittsburgh Pirates,138,STL,St. Louis Cardinals,3,2
+745204,2024-09-19,147,NYY,New York Yankees,136,SEA,Seattle Mariners,2,3
+745769,2024-09-19,143,PHI,Philadelphia Phillies,121,NYM,New York Mets,6,10
+745937,2024-09-19,109,AZ,Arizona Diamondbacks,158,MIL,Milwaukee Brewers,5,1
+746011,2024-09-19,119,LAD,Los Angeles Dodgers,146,MIA,Miami Marlins,20,4
+746341,2024-09-19,108,LAA,Los Angeles Angels,117,HOU,Houston Astros,1,3
+746579,2024-09-19,142,MIN,Minnesota Twins,114,CLE,Cleveland Guardians,2,3
+746663,2024-09-19,144,ATL,Atlanta Braves,113,CIN,Cincinnati Reds,15,3
+746823,2024-09-19,120,WSH,Washington Nationals,112,CHC,Chicago Cubs,6,7
+746985,2024-09-19,137,SF,San Francisco Giants,110,BAL,Baltimore Orioles,3,5
+744960,2024-09-20,136,SEA,Seattle Mariners,140,TEX,Texas Rangers,8,2
+745043,2024-09-20,141,TOR,Toronto Blue Jays,139,TB,Tampa Bay Rays,0,1
+745123,2024-09-20,114,CLE,Cleveland Guardians,138,STL,St. Louis Cardinals,5,1
+745364,2024-09-20,145,CWS,Chicago White Sox,135,SD,San Diego Padres,2,3
+745606,2024-09-20,147,NYY,New York Yankees,133,OAK,Oakland Athletics,4,2
+745770,2024-09-20,143,PHI,Philadelphia Phillies,121,NYM,New York Mets,12,2
+745934,2024-09-20,109,AZ,Arizona Diamondbacks,158,MIL,Milwaukee Brewers,7,4
+746013,2024-09-20,144,ATL,Atlanta Braves,146,MIA,Miami Marlins,3,4
+746094,2024-09-20,115,COL,Colorado Rockies,119,LAD,Los Angeles Dodgers,4,6
+746256,2024-09-20,137,SF,San Francisco Giants,118,KC,Kansas City Royals,2,1
+746340,2024-09-20,108,LAA,Los Angeles Angels,117,HOU,Houston Astros,7,9
+746661,2024-09-20,134,PIT,Pittsburgh Pirates,113,CIN,Cincinnati Reds,3,8
+746824,2024-09-20,120,WSH,Washington Nationals,112,CHC,Chicago Cubs,1,3
+746905,2024-09-20,142,MIN,Minnesota Twins,111,BOS,Boston Red Sox,4,2
+746984,2024-09-20,116,DET,Detroit Tigers,110,BAL,Baltimore Orioles,1,7
+744958,2024-09-21,136,SEA,Seattle Mariners,140,TEX,Texas Rangers,8,4
+745038,2024-09-21,141,TOR,Toronto Blue Jays,139,TB,Tampa Bay Rays,2,3
+745124,2024-09-21,114,CLE,Cleveland Guardians,138,STL,St. Louis Cardinals,5,6
+745360,2024-09-21,145,CWS,Chicago White Sox,135,SD,San Diego Padres,2,6
+745610,2024-09-21,147,NYY,New York Yankees,133,OAK,Oakland Athletics,10,0
+745768,2024-09-21,143,PHI,Philadelphia Phillies,121,NYM,New York Mets,3,6
+745936,2024-09-21,109,AZ,Arizona Diamondbacks,158,MIL,Milwaukee Brewers,5,0
+746012,2024-09-21,144,ATL,Atlanta Braves,146,MIA,Miami Marlins,6,2
+746096,2024-09-21,115,COL,Colorado Rockies,119,LAD,Los Angeles Dodgers,6,3
+746255,2024-09-21,137,SF,San Francisco Giants,118,KC,Kansas City Royals,9,0
+746338,2024-09-21,108,LAA,Los Angeles Angels,117,HOU,Houston Astros,4,10
+746660,2024-09-21,134,PIT,Pittsburgh Pirates,113,CIN,Cincinnati Reds,1,7
+746826,2024-09-21,120,WSH,Washington Nationals,112,CHC,Chicago Cubs,5,1
+746983,2024-09-21,116,DET,Detroit Tigers,110,BAL,Baltimore Orioles,6,4
+744955,2024-09-22,136,SEA,Seattle Mariners,140,TEX,Texas Rangers,5,6
+745036,2024-09-22,141,TOR,Toronto Blue Jays,139,TB,Tampa Bay Rays,3,4
+745118,2024-09-22,114,CLE,Cleveland Guardians,138,STL,St. Louis Cardinals,1,2
+745358,2024-09-22,145,CWS,Chicago White Sox,135,SD,San Diego Padres,2,4
+745608,2024-09-22,147,NYY,New York Yankees,133,OAK,Oakland Athletics,7,4
+745767,2024-09-22,143,PHI,Philadelphia Phillies,121,NYM,New York Mets,1,2
+745929,2024-09-22,109,AZ,Arizona Diamondbacks,158,MIL,Milwaukee Brewers,9,10
+746010,2024-09-22,144,ATL,Atlanta Braves,146,MIA,Miami Marlins,5,4
+746092,2024-09-22,115,COL,Colorado Rockies,119,LAD,Los Angeles Dodgers,5,6
+746253,2024-09-22,137,SF,San Francisco Giants,118,KC,Kansas City Royals,2,0
+746339,2024-09-22,108,LAA,Los Angeles Angels,117,HOU,Houston Astros,9,8
+746657,2024-09-22,134,PIT,Pittsburgh Pirates,113,CIN,Cincinnati Reds,2,0
+746825,2024-09-22,120,WSH,Washington Nationals,112,CHC,Chicago Cubs,0,5
+746903,2024-09-22,142,MIN,Minnesota Twins,111,BOS,Boston Red Sox,1,8
+746906,2024-09-22,142,MIN,Minnesota Twins,111,BOS,Boston Red Sox,3,9
+746982,2024-09-22,116,DET,Detroit Tigers,110,BAL,Baltimore Orioles,4,3
+744885,2024-09-23,111,BOS,Boston Red Sox,141,TOR,Toronto Blue Jays,4,1
+745527,2024-09-23,112,CHC,Chicago Cubs,143,PHI,Philadelphia Phillies,2,6
+746334,2024-09-23,136,SEA,Seattle Mariners,117,HOU,Houston Astros,6,1
+747150,2024-09-23,137,SF,San Francisco Giants,109,AZ,Arizona Diamondbacks,6,3
+744802,2024-09-24,118,KC,Kansas City Royals,120,WSH,Washington Nationals,1,0
+744876,2024-09-24,111,BOS,Boston Red Sox,141,TOR,Toronto Blue Jays,6,5
+745441,2024-09-24,158,MIL,Milwaukee Brewers,134,PIT,Pittsburgh Pirates,7,2
+745526,2024-09-24,112,CHC,Chicago Cubs,143,PHI,Philadelphia Phillies,10,4
+745605,2024-09-24,140,TEX,Texas Rangers,133,OAK,Oakland Athletics,4,5
+745688,2024-09-24,110,BAL,Baltimore Orioles,147,NYY,New York Yankees,5,3
+745851,2024-09-24,146,MIA,Miami Marlins,142,MIN,Minnesota Twins,4,1
+746093,2024-09-24,135,SD,San Diego Padres,119,LAD,Los Angeles Dodgers,4,2
+746336,2024-09-24,136,SEA,Seattle Mariners,117,HOU,Houston Astros,3,4
+746421,2024-09-24,139,TB,Tampa Bay Rays,116,DET,Detroit Tigers,1,2
+746504,2024-09-24,138,STL,St. Louis Cardinals,115,COL,Colorado Rockies,7,3
+746581,2024-09-24,113,CIN,Cincinnati Reds,114,CLE,Cleveland Guardians,1,6
+746743,2024-09-24,108,LAA,Los Angeles Angels,145,CWS,Chicago White Sox,2,3
+747068,2024-09-24,121,NYM,New York Mets,144,ATL,Atlanta Braves,1,5
+747149,2024-09-24,137,SF,San Francisco Giants,109,AZ,Arizona Diamondbacks,11,0
+744795,2024-09-25,118,KC,Kansas City Royals,120,WSH,Washington Nationals,3,0
+744877,2024-09-25,111,BOS,Boston Red Sox,141,TOR,Toronto Blue Jays,1,6
+745442,2024-09-25,158,MIL,Milwaukee Brewers,134,PIT,Pittsburgh Pirates,1,2
+745521,2024-09-25,112,CHC,Chicago Cubs,143,PHI,Philadelphia Phillies,6,9
+745607,2024-09-25,140,TEX,Texas Rangers,133,OAK,Oakland Athletics,5,1
+745690,2024-09-25,110,BAL,Baltimore Orioles,147,NYY,New York Yankees,9,7
+745854,2024-09-25,146,MIA,Miami Marlins,142,MIN,Minnesota Twins,3,8
+746095,2024-09-25,135,SD,San Diego Padres,119,LAD,Los Angeles Dodgers,3,4
+746331,2024-09-25,136,SEA,Seattle Mariners,117,HOU,Houston Astros,8,1
+746420,2024-09-25,139,TB,Tampa Bay Rays,116,DET,Detroit Tigers,1,7
+746501,2024-09-25,138,STL,St. Louis Cardinals,115,COL,Colorado Rockies,5,2
+746583,2024-09-25,113,CIN,Cincinnati Reds,114,CLE,Cleveland Guardians,2,5
+746742,2024-09-25,108,LAA,Los Angeles Angels,145,CWS,Chicago White Sox,3,4
+747144,2024-09-25,137,SF,San Francisco Giants,109,AZ,Arizona Diamondbacks,2,8
+744796,2024-09-26,118,KC,Kansas City Royals,120,WSH,Washington Nationals,7,4
+745443,2024-09-26,158,MIL,Milwaukee Brewers,134,PIT,Pittsburgh Pirates,5,2
+745609,2024-09-26,140,TEX,Texas Rangers,133,OAK,Oakland Athletics,2,3
+745691,2024-09-26,110,BAL,Baltimore Orioles,147,NYY,New York Yankees,1,10
+745853,2024-09-26,146,MIA,Miami Marlins,142,MIN,Minnesota Twins,8,6
+746088,2024-09-26,135,SD,San Diego Padres,119,LAD,Los Angeles Dodgers,2,7
+746415,2024-09-26,139,TB,Tampa Bay Rays,116,DET,Detroit Tigers,3,4
+746495,2024-09-26,138,STL,St. Louis Cardinals,115,COL,Colorado Rockies,8,10
+746738,2024-09-26,108,LAA,Los Angeles Angels,145,CWS,Chicago White Sox,0,7
+744797,2024-09-27,143,PHI,Philadelphia Phillies,120,WSH,Washington Nationals,1,9
+744879,2024-09-27,146,MIA,Miami Marlins,141,TOR,Toronto Blue Jays,15,5
+745202,2024-09-27,133,OAK,Oakland Athletics,136,SEA,Seattle Mariners,0,2
+745280,2024-09-27,138,STL,St. Louis Cardinals,137,SF,San Francisco Giants,6,3
+745692,2024-09-27,134,PIT,Pittsburgh Pirates,147,NYY,New York Yankees,4,2
+745847,2024-09-27,110,BAL,Baltimore Orioles,142,MIN,Minnesota Twins,7,2
+745930,2024-09-27,121,NYM,New York Mets,158,MIL,Milwaukee Brewers,4,8
+746173,2024-09-27,140,TEX,Texas Rangers,108,LAA,Los Angeles Angels,5,2
+746417,2024-09-27,145,CWS,Chicago White Sox,116,DET,Detroit Tigers,1,4
+746494,2024-09-27,119,LAD,Los Angeles Dodgers,115,COL,Colorado Rockies,11,4
+746580,2024-09-27,117,HOU,Houston Astros,114,CLE,Cleveland Guardians,5,2
+746822,2024-09-27,113,CIN,Cincinnati Reds,112,CHC,Chicago Cubs,0,1
+746904,2024-09-27,139,TB,Tampa Bay Rays,111,BOS,Boston Red Sox,2,1
+747065,2024-09-27,118,KC,Kansas City Royals,144,ATL,Atlanta Braves,0,3
+747145,2024-09-27,135,SD,San Diego Padres,109,AZ,Arizona Diamondbacks,5,3
+744799,2024-09-28,143,PHI,Philadelphia Phillies,120,WSH,Washington Nationals,3,6
+744878,2024-09-28,146,MIA,Miami Marlins,141,TOR,Toronto Blue Jays,8,1
+745203,2024-09-28,133,OAK,Oakland Athletics,136,SEA,Seattle Mariners,6,7
+745281,2024-09-28,138,STL,St. Louis Cardinals,137,SF,San Francisco Giants,5,6
+745685,2024-09-28,134,PIT,Pittsburgh Pirates,147,NYY,New York Yankees,9,4
+745849,2024-09-28,110,BAL,Baltimore Orioles,142,MIN,Minnesota Twins,9,2
+745931,2024-09-28,121,NYM,New York Mets,158,MIL,Milwaukee Brewers,0,6
+746171,2024-09-28,140,TEX,Texas Rangers,108,LAA,Los Angeles Angels,9,8
+746414,2024-09-28,145,CWS,Chicago White Sox,116,DET,Detroit Tigers,4,0
+746499,2024-09-28,119,LAD,Los Angeles Dodgers,115,COL,Colorado Rockies,13,2
+746578,2024-09-28,117,HOU,Houston Astros,114,CLE,Cleveland Guardians,4,3
+746819,2024-09-28,113,CIN,Cincinnati Reds,112,CHC,Chicago Cubs,0,3
+746902,2024-09-28,139,TB,Tampa Bay Rays,111,BOS,Boston Red Sox,7,2
+747066,2024-09-28,118,KC,Kansas City Royals,144,ATL,Atlanta Braves,1,2
+747146,2024-09-28,135,SD,San Diego Padres,109,AZ,Arizona Diamondbacks,5,0
+744798,2024-09-29,143,PHI,Philadelphia Phillies,120,WSH,Washington Nationals,6,3
+744880,2024-09-29,146,MIA,Miami Marlins,141,TOR,Toronto Blue Jays,3,1
+745201,2024-09-29,133,OAK,Oakland Athletics,136,SEA,Seattle Mariners,4,6
+745282,2024-09-29,138,STL,St. Louis Cardinals,137,SF,San Francisco Giants,6,1
+745686,2024-09-29,134,PIT,Pittsburgh Pirates,147,NYY,New York Yankees,4,6
+745846,2024-09-29,110,BAL,Baltimore Orioles,142,MIN,Minnesota Twins,6,2
+745932,2024-09-29,121,NYM,New York Mets,158,MIL,Milwaukee Brewers,5,0
+746174,2024-09-29,140,TEX,Texas Rangers,108,LAA,Los Angeles Angels,8,0
+746416,2024-09-29,145,CWS,Chicago White Sox,116,DET,Detroit Tigers,9,5
+746496,2024-09-29,119,LAD,Los Angeles Dodgers,115,COL,Colorado Rockies,2,1
+746820,2024-09-29,113,CIN,Cincinnati Reds,112,CHC,Chicago Cubs,3,0
+746901,2024-09-29,139,TB,Tampa Bay Rays,111,BOS,Boston Red Sox,1,3
+747061,2024-09-29,118,KC,Kansas City Royals,144,ATL,Atlanta Braves,4,2
+747147,2024-09-29,135,SD,San Diego Padres,109,AZ,Arizona Diamondbacks,2,11
+747064,2024-09-30,121,NYM,New York Mets,144,ATL,Atlanta Braves,0,3
+747139,2024-09-30,121,NYM,New York Mets,144,ATL,Atlanta Braves,8,7

@@ -1,0 +1,899 @@
+gamePk,date,away_id,away_abbr,away_name,home_id,home_abbr,home_name,away_score,home_score
+630851,2020-07-23,147,NYY,New York Yankees,120,WSH,Washington Nationals,4,1
+631377,2020-07-23,137,SF,San Francisco Giants,119,LAD,Los Angeles Dodgers,1,8
+630941,2020-07-24,115,COL,Colorado Rockies,140,TEX,Texas Rangers,0,1
+630966,2020-07-24,141,TOR,Toronto Blue Jays,139,TB,Tampa Bay Rays,6,4
+630989,2020-07-24,134,PIT,Pittsburgh Pirates,138,STL,St. Louis Cardinals,4,5
+631091,2020-07-24,109,AZ,Arizona Diamondbacks,135,SD,San Diego Padres,2,7
+631121,2020-07-24,146,MIA,Miami Marlins,143,PHI,Philadelphia Phillies,5,2
+631182,2020-07-24,108,LAA,Los Angeles Angels,133,OAK,Oakland Athletics,3,7
+631242,2020-07-24,144,ATL,Atlanta Braves,121,NYM,New York Mets,0,1
+631378,2020-07-24,137,SF,San Francisco Giants,119,LAD,Los Angeles Dodgers,1,9
+631438,2020-07-24,136,SEA,Seattle Mariners,117,HOU,Houston Astros,2,8
+631514,2020-07-24,142,MIN,Minnesota Twins,145,CWS,Chicago White Sox,10,5
+631563,2020-07-24,118,KC,Kansas City Royals,114,CLE,Cleveland Indians,0,2
+631589,2020-07-24,116,DET,Detroit Tigers,113,CIN,Cincinnati Reds,1,7
+631641,2020-07-24,158,MIL,Milwaukee Brewers,112,CHC,Chicago Cubs,0,3
+631664,2020-07-24,110,BAL,Baltimore Orioles,111,BOS,Boston Red Sox,2,13
+630899,2020-07-25,147,NYY,New York Yankees,120,WSH,Washington Nationals,2,9
+630942,2020-07-25,115,COL,Colorado Rockies,140,TEX,Texas Rangers,3,2
+630967,2020-07-25,141,TOR,Toronto Blue Jays,139,TB,Tampa Bay Rays,1,4
+630992,2020-07-25,134,PIT,Pittsburgh Pirates,138,STL,St. Louis Cardinals,1,9
+631092,2020-07-25,109,AZ,Arizona Diamondbacks,135,SD,San Diego Padres,1,5
+631108,2020-07-25,146,MIA,Miami Marlins,143,PHI,Philadelphia Phillies,1,7
+631181,2020-07-25,108,LAA,Los Angeles Angels,133,OAK,Oakland Athletics,4,1
+631241,2020-07-25,144,ATL,Atlanta Braves,121,NYM,New York Mets,5,3
+631382,2020-07-25,137,SF,San Francisco Giants,119,LAD,Los Angeles Dodgers,5,4
+631453,2020-07-25,136,SEA,Seattle Mariners,117,HOU,Houston Astros,2,7
+631515,2020-07-25,142,MIN,Minnesota Twins,145,CWS,Chicago White Sox,3,10
+631565,2020-07-25,118,KC,Kansas City Royals,114,CLE,Cleveland Indians,3,2
+631603,2020-07-25,116,DET,Detroit Tigers,113,CIN,Cincinnati Reds,6,4
+631642,2020-07-25,158,MIL,Milwaukee Brewers,112,CHC,Chicago Cubs,8,3
+631666,2020-07-25,110,BAL,Baltimore Orioles,111,BOS,Boston Red Sox,7,2
+630856,2020-07-26,147,NYY,New York Yankees,120,WSH,Washington Nationals,3,2
+630943,2020-07-26,115,COL,Colorado Rockies,140,TEX,Texas Rangers,5,2
+630968,2020-07-26,141,TOR,Toronto Blue Jays,139,TB,Tampa Bay Rays,5,6
+630993,2020-07-26,134,PIT,Pittsburgh Pirates,138,STL,St. Louis Cardinals,5,1
+631097,2020-07-26,109,AZ,Arizona Diamondbacks,135,SD,San Diego Padres,4,3
+631126,2020-07-26,146,MIA,Miami Marlins,143,PHI,Philadelphia Phillies,11,6
+631165,2020-07-26,108,LAA,Los Angeles Angels,133,OAK,Oakland Athletics,4,6
+631240,2020-07-26,144,ATL,Atlanta Braves,121,NYM,New York Mets,14,1
+631384,2020-07-26,137,SF,San Francisco Giants,119,LAD,Los Angeles Dodgers,3,1
+631441,2020-07-26,136,SEA,Seattle Mariners,117,HOU,Houston Astros,7,6
+631517,2020-07-26,142,MIN,Minnesota Twins,145,CWS,Chicago White Sox,14,2
+631566,2020-07-26,118,KC,Kansas City Royals,114,CLE,Cleveland Indians,2,9
+631591,2020-07-26,116,DET,Detroit Tigers,113,CIN,Cincinnati Reds,3,2
+631643,2020-07-26,158,MIL,Milwaukee Brewers,112,CHC,Chicago Cubs,1,9
+631668,2020-07-26,110,BAL,Baltimore Orioles,111,BOS,Boston Red Sox,7,4
+630861,2020-07-27,141,TOR,Toronto Blue Jays,120,WSH,Washington Nationals,4,1
+630969,2020-07-27,144,ATL,Atlanta Braves,139,TB,Tampa Bay Rays,5,14
+631098,2020-07-27,109,AZ,Arizona Diamondbacks,135,SD,San Diego Padres,2,6
+631130,2020-07-27,158,MIL,Milwaukee Brewers,134,PIT,Pittsburgh Pirates,6,5
+631168,2020-07-27,108,LAA,Los Angeles Angels,133,OAK,Oakland Athletics,0,3
+631442,2020-07-27,136,SEA,Seattle Mariners,117,HOU,Houston Astros,5,8
+631489,2020-07-27,118,KC,Kansas City Royals,116,DET,Detroit Tigers,14,6
+631592,2020-07-27,112,CHC,Chicago Cubs,113,CIN,Cincinnati Reds,8,7
+631669,2020-07-27,121,NYM,New York Mets,111,BOS,Boston Red Sox,7,4
+630866,2020-07-28,141,TOR,Toronto Blue Jays,120,WSH,Washington Nationals,5,1
+630944,2020-07-28,109,AZ,Arizona Diamondbacks,140,TEX,Texas Rangers,4,1
+630970,2020-07-28,144,ATL,Atlanta Braves,139,TB,Tampa Bay Rays,2,5
+631014,2020-07-28,135,SD,San Diego Padres,137,SF,San Francisco Giants,5,3
+631132,2020-07-28,158,MIL,Milwaukee Brewers,134,PIT,Pittsburgh Pirates,6,8
+631171,2020-07-28,115,COL,Colorado Rockies,133,OAK,Oakland Athletics,8,3
+631269,2020-07-28,138,STL,St. Louis Cardinals,142,MIN,Minnesota Twins,3,6
+631387,2020-07-28,136,SEA,Seattle Mariners,108,LAA,Los Angeles Angels,2,10
+631443,2020-07-28,119,LAD,Los Angeles Dodgers,117,HOU,Houston Astros,5,2
+631490,2020-07-28,118,KC,Kansas City Royals,116,DET,Detroit Tigers,3,4
+631567,2020-07-28,145,CWS,Chicago White Sox,114,CLE,Cleveland Indians,3,5
+631573,2020-07-28,145,CWS,Chicago White Sox,114,CLE,Cleveland Indians,3,4
+631593,2020-07-28,112,CHC,Chicago Cubs,113,CIN,Cincinnati Reds,8,5
+631663,2020-07-28,121,NYM,New York Mets,111,BOS,Boston Red Sox,8,3
+630272,2020-07-29,139,TB,Tampa Bay Rays,144,ATL,Atlanta Braves,4,7
+630495,2020-07-29,147,NYY,New York Yankees,110,BAL,Baltimore Orioles,9,3
+630916,2020-07-29,120,WSH,Washington Nationals,141,TOR,Toronto Blue Jays,4,0
+630940,2020-07-29,109,AZ,Arizona Diamondbacks,140,TEX,Texas Rangers,4,7
+631033,2020-07-29,135,SD,San Diego Padres,137,SF,San Francisco Giants,6,7
+631137,2020-07-29,158,MIL,Milwaukee Brewers,134,PIT,Pittsburgh Pirates,3,0
+631172,2020-07-29,115,COL,Colorado Rockies,133,OAK,Oakland Athletics,5,1
+631239,2020-07-29,111,BOS,Boston Red Sox,121,NYM,New York Mets,6,5
+631270,2020-07-29,138,STL,St. Louis Cardinals,142,MIN,Minnesota Twins,0,3
+631389,2020-07-29,136,SEA,Seattle Mariners,108,LAA,Los Angeles Angels,10,7
+631444,2020-07-29,119,LAD,Los Angeles Dodgers,117,HOU,Houston Astros,4,2
+631492,2020-07-29,118,KC,Kansas City Royals,116,DET,Detroit Tigers,4,5
+631569,2020-07-29,145,CWS,Chicago White Sox,114,CLE,Cleveland Indians,4,0
+631594,2020-07-29,112,CHC,Chicago Cubs,113,CIN,Cincinnati Reds,7,12
+630145,2020-07-30,119,LAD,Los Angeles Dodgers,109,AZ,Arizona Diamondbacks,6,3
+630346,2020-07-30,139,TB,Tampa Bay Rays,144,ATL,Atlanta Braves,1,2
+630496,2020-07-30,147,NYY,New York Yankees,110,BAL,Baltimore Orioles,8,6
+630917,2020-07-30,120,WSH,Washington Nationals,141,TOR,Toronto Blue Jays,6,4
+631018,2020-07-30,135,SD,San Diego Padres,137,SF,San Francisco Giants,12,7
+631238,2020-07-30,111,BOS,Boston Red Sox,121,NYM,New York Mets,4,2
+631271,2020-07-30,114,CLE,Cleveland Indians,142,MIN,Minnesota Twins,2,0
+631390,2020-07-30,136,SEA,Seattle Mariners,108,LAA,Los Angeles Angels,8,5
+631494,2020-07-30,118,KC,Kansas City Royals,116,DET,Detroit Tigers,5,3
+630201,2020-07-31,119,LAD,Los Angeles Dodgers,109,AZ,Arizona Diamondbacks,3,5
+630275,2020-07-31,121,NYM,New York Mets,144,ATL,Atlanta Braves,10,11
+630592,2020-07-31,139,TB,Tampa Bay Rays,110,BAL,Baltimore Orioles,3,6
+631019,2020-07-31,140,TEX,Texas Rangers,137,SF,San Francisco Giants,2,9
+631066,2020-07-31,133,OAK,Oakland Athletics,136,SEA,Seattle Mariners,3,5
+631222,2020-07-31,111,BOS,Boston Red Sox,147,NYY,New York Yankees,1,5
+631272,2020-07-31,114,CLE,Cleveland Indians,142,MIN,Minnesota Twins,1,4
+631391,2020-07-31,117,HOU,Houston Astros,108,LAA,Los Angeles Angels,9,6
+631410,2020-07-31,145,CWS,Chicago White Sox,118,KC,Kansas City Royals,3,2
+631480,2020-07-31,113,CIN,Cincinnati Reds,116,DET,Detroit Tigers,2,7
+631539,2020-07-31,135,SD,San Diego Padres,115,COL,Colorado Rockies,8,7
+631647,2020-07-31,134,PIT,Pittsburgh Pirates,112,CHC,Chicago Cubs,3,6
+630100,2020-08-01,119,LAD,Los Angeles Dodgers,109,AZ,Arizona Diamondbacks,11,2
+630278,2020-08-01,121,NYM,New York Mets,144,ATL,Atlanta Braves,1,7
+630492,2020-08-01,139,TB,Tampa Bay Rays,110,BAL,Baltimore Orioles,4,5
+631020,2020-08-01,140,TEX,Texas Rangers,137,SF,San Francisco Giants,3,7
+631067,2020-08-01,133,OAK,Oakland Athletics,136,SEA,Seattle Mariners,3,2
+631224,2020-08-01,111,BOS,Boston Red Sox,147,NYY,New York Yankees,2,5
+631273,2020-08-01,114,CLE,Cleveland Indians,142,MIN,Minnesota Twins,0,3
+631392,2020-08-01,117,HOU,Houston Astros,108,LAA,Los Angeles Angels,4,5
+631413,2020-08-01,145,CWS,Chicago White Sox,118,KC,Kansas City Royals,11,5
+631540,2020-08-01,135,SD,San Diego Padres,115,COL,Colorado Rockies,1,6
+631622,2020-08-01,134,PIT,Pittsburgh Pirates,112,CHC,Chicago Cubs,3,4
+630101,2020-08-02,119,LAD,Los Angeles Dodgers,109,AZ,Arizona Diamondbacks,3,0
+630280,2020-08-02,121,NYM,New York Mets,144,ATL,Atlanta Braves,0,4
+630493,2020-08-02,139,TB,Tampa Bay Rays,110,BAL,Baltimore Orioles,1,5
+631021,2020-08-02,140,TEX,Texas Rangers,137,SF,San Francisco Giants,9,5
+631068,2020-08-02,133,OAK,Oakland Athletics,136,SEA,Seattle Mariners,3,2
+631210,2020-08-02,111,BOS,Boston Red Sox,147,NYY,New York Yankees,7,9
+631274,2020-08-02,114,CLE,Cleveland Indians,142,MIN,Minnesota Twins,1,3
+631393,2020-08-02,117,HOU,Houston Astros,108,LAA,Los Angeles Angels,6,5
+631415,2020-08-02,145,CWS,Chicago White Sox,118,KC,Kansas City Royals,9,2
+631469,2020-08-02,113,CIN,Cincinnati Reds,116,DET,Detroit Tigers,4,0
+631470,2020-08-02,113,CIN,Cincinnati Reds,116,DET,Detroit Tigers,4,3
+631541,2020-08-02,135,SD,San Diego Padres,115,COL,Colorado Rockies,6,9
+631606,2020-08-02,134,PIT,Pittsburgh Pirates,112,CHC,Chicago Cubs,1,2
+630281,2020-08-03,121,NYM,New York Mets,144,ATL,Atlanta Braves,7,2
+631070,2020-08-03,133,OAK,Oakland Athletics,136,SEA,Seattle Mariners,11,1
+631090,2020-08-03,119,LAD,Los Angeles Dodgers,135,SD,San Diego Padres,4,5
+631219,2020-08-03,143,PHI,Philadelphia Phillies,147,NYY,New York Yankees,3,6
+631275,2020-08-03,134,PIT,Pittsburgh Pirates,142,MIN,Minnesota Twins,4,5
+631293,2020-08-03,145,CWS,Chicago White Sox,158,MIL,Milwaukee Brewers,6,4
+631542,2020-08-03,137,SF,San Francisco Giants,115,COL,Colorado Rockies,6,7
+631596,2020-08-03,114,CLE,Cleveland Indians,113,CIN,Cincinnati Reds,2,3
+631645,2020-08-03,118,KC,Kansas City Royals,112,CHC,Chicago Cubs,0,2
+630109,2020-08-04,117,HOU,Houston Astros,109,AZ,Arizona Diamondbacks,8,2
+630284,2020-08-04,141,TOR,Toronto Blue Jays,144,ATL,Atlanta Braves,1,10
+630575,2020-08-04,146,MIA,Miami Marlins,110,BAL,Baltimore Orioles,4,0
+630874,2020-08-04,121,NYM,New York Mets,120,WSH,Washington Nationals,3,5
+630971,2020-08-04,111,BOS,Boston Red Sox,139,TB,Tampa Bay Rays,1,5
+631057,2020-08-04,108,LAA,Los Angeles Angels,136,SEA,Seattle Mariners,5,3
+631069,2020-08-04,119,LAD,Los Angeles Dodgers,135,SD,San Diego Padres,5,2
+631173,2020-08-04,140,TEX,Texas Rangers,133,OAK,Oakland Athletics,1,5
+631276,2020-08-04,134,PIT,Pittsburgh Pirates,142,MIN,Minnesota Twins,3,7
+631294,2020-08-04,145,CWS,Chicago White Sox,158,MIL,Milwaukee Brewers,3,2
+631543,2020-08-04,137,SF,San Francisco Giants,115,COL,Colorado Rockies,2,5
+631597,2020-08-04,114,CLE,Cleveland Indians,113,CIN,Cincinnati Reds,4,2
+631608,2020-08-04,118,KC,Kansas City Royals,112,CHC,Chicago Cubs,4,5
+630110,2020-08-05,117,HOU,Houston Astros,109,AZ,Arizona Diamondbacks,7,14
+630307,2020-08-05,141,TOR,Toronto Blue Jays,144,ATL,Atlanta Braves,2,1
+630591,2020-08-05,146,MIA,Miami Marlins,110,BAL,Baltimore Orioles,1,0
+630878,2020-08-05,121,NYM,New York Mets,120,WSH,Washington Nationals,3,1
+630972,2020-08-05,111,BOS,Boston Red Sox,139,TB,Tampa Bay Rays,5,0
+631043,2020-08-05,108,LAA,Los Angeles Angels,136,SEA,Seattle Mariners,6,7
+631085,2020-08-05,119,LAD,Los Angeles Dodgers,135,SD,San Diego Padres,7,6
+631127,2020-08-05,147,NYY,New York Yankees,143,PHI,Philadelphia Phillies,3,1
+631140,2020-08-05,142,MIN,Minnesota Twins,134,PIT,Pittsburgh Pirates,5,2
+631174,2020-08-05,140,TEX,Texas Rangers,133,OAK,Oakland Athletics,4,6
+631220,2020-08-05,143,PHI,Philadelphia Phillies,147,NYY,New York Yankees,11,7
+631339,2020-08-05,110,BAL,Baltimore Orioles,146,MIA,Miami Marlins,1,2
+631417,2020-08-05,112,CHC,Chicago Cubs,118,KC,Kansas City Royals,6,1
+631518,2020-08-05,158,MIL,Milwaukee Brewers,145,CWS,Chicago White Sox,1,0
+631544,2020-08-05,137,SF,San Francisco Giants,115,COL,Colorado Rockies,4,3
+631570,2020-08-05,113,CIN,Cincinnati Reds,114,CLE,Cleveland Indians,0,2
+630111,2020-08-06,117,HOU,Houston Astros,109,AZ,Arizona Diamondbacks,4,5
+630313,2020-08-06,141,TOR,Toronto Blue Jays,144,ATL,Atlanta Braves,3,4
+631042,2020-08-06,108,LAA,Los Angeles Angels,136,SEA,Seattle Mariners,6,1
+631129,2020-08-06,147,NYY,New York Yankees,143,PHI,Philadelphia Phillies,4,5
+631148,2020-08-06,142,MIN,Minnesota Twins,134,PIT,Pittsburgh Pirates,5,6
+631175,2020-08-06,140,TEX,Texas Rangers,133,OAK,Oakland Athletics,4,6
+631340,2020-08-06,110,BAL,Baltimore Orioles,146,MIA,Miami Marlins,7,8
+631425,2020-08-06,112,CHC,Chicago Cubs,118,KC,Kansas City Royals,2,13
+631513,2020-08-06,158,MIL,Milwaukee Brewers,145,CWS,Chicago White Sox,8,3
+631545,2020-08-06,137,SF,San Francisco Giants,115,COL,Colorado Rockies,4,6
+631571,2020-08-06,113,CIN,Cincinnati Reds,114,CLE,Cleveland Indians,0,13
+630879,2020-08-07,110,BAL,Baltimore Orioles,120,WSH,Washington Nationals,11,0
+630920,2020-08-07,108,LAA,Los Angeles Angels,140,TEX,Texas Rangers,3,4
+630974,2020-08-07,147,NYY,New York Yankees,139,TB,Tampa Bay Rays,0,1
+631045,2020-08-07,115,COL,Colorado Rockies,136,SEA,Seattle Mariners,8,4
+631073,2020-08-07,109,AZ,Arizona Diamondbacks,135,SD,San Diego Padres,0,3
+631105,2020-08-07,116,DET,Detroit Tigers,134,PIT,Pittsburgh Pirates,17,13
+631176,2020-08-07,117,HOU,Houston Astros,133,OAK,Oakland Athletics,2,3
+631237,2020-08-07,146,MIA,Miami Marlins,121,NYM,New York Mets,4,3
+631295,2020-08-07,113,CIN,Cincinnati Reds,158,MIL,Milwaukee Brewers,8,3
+631358,2020-08-07,137,SF,San Francisco Giants,119,LAD,Los Angeles Dodgers,2,7
+631419,2020-08-07,142,MIN,Minnesota Twins,118,KC,Kansas City Royals,2,3
+631504,2020-08-07,114,CLE,Cleveland Indians,145,CWS,Chicago White Sox,0,2
+631623,2020-08-07,141,TOR,Toronto Blue Jays,111,BOS,Boston Red Sox,3,5
+630880,2020-08-08,110,BAL,Baltimore Orioles,120,WSH,Washington Nationals,5,3
+630935,2020-08-08,108,LAA,Los Angeles Angels,140,TEX,Texas Rangers,0,2
+630962,2020-08-08,147,NYY,New York Yankees,139,TB,Tampa Bay Rays,8,4
+630973,2020-08-08,147,NYY,New York Yankees,139,TB,Tampa Bay Rays,3,5
+631046,2020-08-08,115,COL,Colorado Rockies,136,SEA,Seattle Mariners,5,0
+631074,2020-08-08,109,AZ,Arizona Diamondbacks,135,SD,San Diego Padres,3,2
+631106,2020-08-08,116,DET,Detroit Tigers,134,PIT,Pittsburgh Pirates,11,5
+631133,2020-08-08,144,ATL,Atlanta Braves,143,PHI,Philadelphia Phillies,0,5
+631177,2020-08-08,117,HOU,Houston Astros,133,OAK,Oakland Athletics,1,3
+631236,2020-08-08,146,MIA,Miami Marlins,121,NYM,New York Mets,4,8
+631296,2020-08-08,113,CIN,Cincinnati Reds,158,MIL,Milwaukee Brewers,4,1
+631343,2020-08-08,137,SF,San Francisco Giants,119,LAD,Los Angeles Dodgers,5,4
+631420,2020-08-08,142,MIN,Minnesota Twins,118,KC,Kansas City Royals,6,9
+631503,2020-08-08,114,CLE,Cleveland Indians,145,CWS,Chicago White Sox,7,1
+631658,2020-08-08,141,TOR,Toronto Blue Jays,111,BOS,Boston Red Sox,2,1
+630882,2020-08-09,110,BAL,Baltimore Orioles,120,WSH,Washington Nationals,6,2
+630922,2020-08-09,108,LAA,Los Angeles Angels,140,TEX,Texas Rangers,3,7
+630946,2020-08-09,147,NYY,New York Yankees,139,TB,Tampa Bay Rays,3,4
+631047,2020-08-09,115,COL,Colorado Rockies,136,SEA,Seattle Mariners,3,5
+631075,2020-08-09,109,AZ,Arizona Diamondbacks,135,SD,San Diego Padres,5,9
+631110,2020-08-09,116,DET,Detroit Tigers,134,PIT,Pittsburgh Pirates,2,1
+631131,2020-08-09,144,ATL,Atlanta Braves,143,PHI,Philadelphia Phillies,8,0
+631136,2020-08-09,144,ATL,Atlanta Braves,143,PHI,Philadelphia Phillies,5,2
+631178,2020-08-09,117,HOU,Houston Astros,133,OAK,Oakland Athletics,2,7
+631235,2020-08-09,146,MIA,Miami Marlins,121,NYM,New York Mets,2,4
+631297,2020-08-09,113,CIN,Cincinnati Reds,158,MIL,Milwaukee Brewers,3,9
+631373,2020-08-09,137,SF,San Francisco Giants,119,LAD,Los Angeles Dodgers,2,6
+631421,2020-08-09,142,MIN,Minnesota Twins,118,KC,Kansas City Royals,2,4
+631506,2020-08-09,114,CLE,Cleveland Indians,145,CWS,Chicago White Sox,5,4
+631630,2020-08-09,141,TOR,Toronto Blue Jays,111,BOS,Boston Red Sox,3,5
+630923,2020-08-10,136,SEA,Seattle Mariners,140,TEX,Texas Rangers,10,2
+631138,2020-08-10,144,ATL,Atlanta Braves,143,PHI,Philadelphia Phillies,8,13
+631233,2020-08-10,120,WSH,Washington Nationals,121,NYM,New York Mets,16,4
+631298,2020-08-10,142,MIN,Minnesota Twins,158,MIL,Milwaukee Brewers,4,2
+631346,2020-08-10,135,SD,San Diego Padres,119,LAD,Los Angeles Dodgers,2,1
+631395,2020-08-10,133,OAK,Oakland Athletics,108,LAA,Los Angeles Angels,9,10
+631445,2020-08-10,137,SF,San Francisco Giants,117,HOU,Houston Astros,4,6
+631473,2020-08-10,145,CWS,Chicago White Sox,116,DET,Detroit Tigers,1,5
+631546,2020-08-10,109,AZ,Arizona Diamondbacks,115,COL,Colorado Rockies,12,8
+631631,2020-08-10,139,TB,Tampa Bay Rays,111,BOS,Boston Red Sox,8,7
+630901,2020-08-11,146,MIA,Miami Marlins,141,TOR,Toronto Blue Jays,4,5
+630924,2020-08-11,136,SEA,Seattle Mariners,140,TEX,Texas Rangers,2,4
+631139,2020-08-11,110,BAL,Baltimore Orioles,143,PHI,Philadelphia Phillies,10,9
+631192,2020-08-11,144,ATL,Atlanta Braves,147,NYY,New York Yankees,6,9
+631243,2020-08-11,120,WSH,Washington Nationals,121,NYM,New York Mets,2,1
+631299,2020-08-11,142,MIN,Minnesota Twins,158,MIL,Milwaukee Brewers,4,6
+631347,2020-08-11,135,SD,San Diego Padres,119,LAD,Los Angeles Dodgers,6,2
+631396,2020-08-11,133,OAK,Oakland Athletics,108,LAA,Los Angeles Angels,0,6
+631446,2020-08-11,137,SF,San Francisco Giants,117,HOU,Houston Astros,7,6
+631474,2020-08-11,145,CWS,Chicago White Sox,116,DET,Detroit Tigers,8,4
+631547,2020-08-11,109,AZ,Arizona Diamondbacks,115,COL,Colorado Rockies,7,8
+631572,2020-08-11,112,CHC,Chicago Cubs,114,CLE,Cleveland Indians,7,1
+631598,2020-08-11,118,KC,Kansas City Royals,113,CIN,Cincinnati Reds,5,6
+631646,2020-08-11,139,TB,Tampa Bay Rays,111,BOS,Boston Red Sox,8,2
+630902,2020-08-12,146,MIA,Miami Marlins,141,TOR,Toronto Blue Jays,14,11
+630926,2020-08-12,136,SEA,Seattle Mariners,140,TEX,Texas Rangers,4,7
+631141,2020-08-12,110,BAL,Baltimore Orioles,143,PHI,Philadelphia Phillies,5,4
+631208,2020-08-12,144,ATL,Atlanta Braves,147,NYY,New York Yankees,3,6
+631232,2020-08-12,120,WSH,Washington Nationals,121,NYM,New York Mets,6,11
+631300,2020-08-12,142,MIN,Minnesota Twins,158,MIL,Milwaukee Brewers,12,2
+631350,2020-08-12,135,SD,San Diego Padres,119,LAD,Los Angeles Dodgers,0,6
+631397,2020-08-12,133,OAK,Oakland Athletics,108,LAA,Los Angeles Angels,8,4
+631447,2020-08-12,137,SF,San Francisco Giants,117,HOU,Houston Astros,1,5
+631475,2020-08-12,145,CWS,Chicago White Sox,116,DET,Detroit Tigers,7,5
+631535,2020-08-12,109,AZ,Arizona Diamondbacks,115,COL,Colorado Rockies,13,7
+631568,2020-08-12,112,CHC,Chicago Cubs,114,CLE,Cleveland Indians,7,2
+631599,2020-08-12,118,KC,Kansas City Royals,113,CIN,Cincinnati Reds,5,4
+631648,2020-08-12,139,TB,Tampa Bay Rays,111,BOS,Boston Red Sox,9,5
+631142,2020-08-13,110,BAL,Baltimore Orioles,143,PHI,Philadelphia Phillies,11,4
+631231,2020-08-13,120,WSH,Washington Nationals,121,NYM,New York Mets,2,8
+631351,2020-08-13,135,SD,San Diego Padres,119,LAD,Los Angeles Dodgers,2,11
+631600,2020-08-13,134,PIT,Pittsburgh Pirates,113,CIN,Cincinnati Reds,9,6
+631609,2020-08-13,158,MIL,Milwaukee Brewers,112,CHC,Chicago Cubs,2,4
+631650,2020-08-13,139,TB,Tampa Bay Rays,111,BOS,Boston Red Sox,17,8
+630115,2020-08-14,135,SD,San Diego Padres,109,AZ,Arizona Diamondbacks,1,5
+630903,2020-08-14,139,TB,Tampa Bay Rays,141,TOR,Toronto Blue Jays,4,12
+631022,2020-08-14,133,OAK,Oakland Athletics,137,SF,San Francisco Giants,8,7
+631150,2020-08-14,121,NYM,New York Mets,143,PHI,Philadelphia Phillies,5,6
+631196,2020-08-14,111,BOS,Boston Red Sox,147,NYY,New York Yankees,3,10
+631322,2020-08-14,144,ATL,Atlanta Braves,146,MIA,Miami Marlins,2,8
+631381,2020-08-14,119,LAD,Los Angeles Dodgers,108,LAA,Los Angeles Angels,7,4
+631448,2020-08-14,136,SEA,Seattle Mariners,117,HOU,Houston Astros,1,11
+631476,2020-08-14,114,CLE,Cleveland Indians,116,DET,Detroit Tigers,10,5
+631516,2020-08-14,140,TEX,Texas Rangers,115,COL,Colorado Rockies,3,2
+631601,2020-08-14,134,PIT,Pittsburgh Pirates,113,CIN,Cincinnati Reds,1,8
+631610,2020-08-14,158,MIL,Milwaukee Brewers,112,CHC,Chicago Cubs,4,3
+631683,2020-08-14,120,WSH,Washington Nationals,110,BAL,Baltimore Orioles,15,3
+630116,2020-08-15,135,SD,San Diego Padres,109,AZ,Arizona Diamondbacks,6,7
+630568,2020-08-15,120,WSH,Washington Nationals,110,BAL,Baltimore Orioles,3,7
+630905,2020-08-15,139,TB,Tampa Bay Rays,141,TOR,Toronto Blue Jays,3,2
+631023,2020-08-15,133,OAK,Oakland Athletics,137,SF,San Francisco Giants,7,6
+631151,2020-08-15,121,NYM,New York Mets,143,PHI,Philadelphia Phillies,2,6
+631197,2020-08-15,111,BOS,Boston Red Sox,147,NYY,New York Yankees,5,11
+631279,2020-08-15,118,KC,Kansas City Royals,142,MIN,Minnesota Twins,4,2
+631280,2020-08-15,118,KC,Kansas City Royals,142,MIN,Minnesota Twins,2,4
+631330,2020-08-15,144,ATL,Atlanta Braves,146,MIA,Miami Marlins,2,1
+631363,2020-08-15,119,LAD,Los Angeles Dodgers,108,LAA,Los Angeles Angels,6,5
+631449,2020-08-15,136,SEA,Seattle Mariners,117,HOU,Houston Astros,1,2
+631477,2020-08-15,114,CLE,Cleveland Indians,116,DET,Detroit Tigers,3,1
+631507,2020-08-15,138,STL,St. Louis Cardinals,145,CWS,Chicago White Sox,6,3
+631508,2020-08-15,138,STL,St. Louis Cardinals,145,CWS,Chicago White Sox,5,1
+631533,2020-08-15,140,TEX,Texas Rangers,115,COL,Colorado Rockies,6,4
+631611,2020-08-15,158,MIL,Milwaukee Brewers,112,CHC,Chicago Cubs,6,5
+630117,2020-08-16,135,SD,San Diego Padres,109,AZ,Arizona Diamondbacks,4,5
+630872,2020-08-16,139,TB,Tampa Bay Rays,141,TOR,Toronto Blue Jays,7,5
+631024,2020-08-16,133,OAK,Oakland Athletics,137,SF,San Francisco Giants,15,3
+631124,2020-08-16,121,NYM,New York Mets,143,PHI,Philadelphia Phillies,2,6
+631198,2020-08-16,111,BOS,Boston Red Sox,147,NYY,New York Yankees,2,4
+631252,2020-08-16,118,KC,Kansas City Royals,142,MIN,Minnesota Twins,2,4
+631324,2020-08-16,144,ATL,Atlanta Braves,146,MIA,Miami Marlins,4,0
+631364,2020-08-16,119,LAD,Los Angeles Dodgers,108,LAA,Los Angeles Angels,8,3
+631450,2020-08-16,136,SEA,Seattle Mariners,117,HOU,Houston Astros,2,3
+631479,2020-08-16,114,CLE,Cleveland Indians,116,DET,Detroit Tigers,8,5
+631491,2020-08-16,138,STL,St. Louis Cardinals,145,CWS,Chicago White Sox,2,7
+631521,2020-08-16,140,TEX,Texas Rangers,115,COL,Colorado Rockies,6,10
+631612,2020-08-16,158,MIL,Milwaukee Brewers,112,CHC,Chicago Cubs,6,5
+631679,2020-08-16,120,WSH,Washington Nationals,110,BAL,Baltimore Orioles,6,5
+630118,2020-08-17,133,OAK,Oakland Athletics,109,AZ,Arizona Diamondbacks,3,4
+630316,2020-08-17,120,WSH,Washington Nationals,144,ATL,Atlanta Braves,6,7
+630927,2020-08-17,135,SD,San Diego Padres,140,TEX,Texas Rangers,14,4
+630996,2020-08-17,112,CHC,Chicago Cubs,138,STL,St. Louis Cardinals,5,4
+631199,2020-08-17,111,BOS,Boston Red Sox,147,NYY,New York Yankees,3,6
+631258,2020-08-17,118,KC,Kansas City Royals,142,MIN,Minnesota Twins,1,4
+631325,2020-08-17,121,NYM,New York Mets,146,MIA,Miami Marlins,11,4
+631352,2020-08-17,136,SEA,Seattle Mariners,119,LAD,Los Angeles Dodgers,9,11
+631365,2020-08-17,137,SF,San Francisco Giants,108,LAA,Los Angeles Angels,6,7
+631451,2020-08-17,115,COL,Colorado Rockies,117,HOU,Houston Astros,1,2
+631493,2020-08-17,116,DET,Detroit Tigers,145,CWS,Chicago White Sox,2,7
+631613,2020-08-17,138,STL,St. Louis Cardinals,112,CHC,Chicago Cubs,3,1
+631678,2020-08-17,141,TOR,Toronto Blue Jays,110,BAL,Baltimore Orioles,7,2
+630174,2020-08-18,133,OAK,Oakland Athletics,109,AZ,Arizona Diamondbacks,1,10
+630322,2020-08-18,120,WSH,Washington Nationals,144,ATL,Atlanta Braves,8,5
+630928,2020-08-18,135,SD,San Diego Padres,140,TEX,Texas Rangers,6,4
+631114,2020-08-18,114,CLE,Cleveland Indians,134,PIT,Pittsburgh Pirates,6,3
+631200,2020-08-18,139,TB,Tampa Bay Rays,147,NYY,New York Yankees,6,3
+631260,2020-08-18,158,MIL,Milwaukee Brewers,142,MIN,Minnesota Twins,3,4
+631326,2020-08-18,121,NYM,New York Mets,146,MIA,Miami Marlins,8,3
+631353,2020-08-18,136,SEA,Seattle Mariners,119,LAD,Los Angeles Dodgers,1,2
+631366,2020-08-18,137,SF,San Francisco Giants,108,LAA,Los Angeles Angels,8,2
+631452,2020-08-18,115,COL,Colorado Rockies,117,HOU,Houston Astros,1,2
+631496,2020-08-18,116,DET,Detroit Tigers,145,CWS,Chicago White Sox,4,10
+631620,2020-08-18,138,STL,St. Louis Cardinals,112,CHC,Chicago Cubs,3,6
+631651,2020-08-18,143,PHI,Philadelphia Phillies,111,BOS,Boston Red Sox,13,6
+631681,2020-08-18,141,TOR,Toronto Blue Jays,110,BAL,Baltimore Orioles,8,7
+630997,2020-08-19,112,CHC,Chicago Cubs,138,STL,St. Louis Cardinals,4,2
+631025,2020-08-19,108,LAA,Los Angeles Angels,137,SF,San Francisco Giants,2,7
+631048,2020-08-19,119,LAD,Los Angeles Dodgers,136,SEA,Seattle Mariners,4,6
+631076,2020-08-19,140,TEX,Texas Rangers,135,SD,San Diego Padres,3,6
+631120,2020-08-19,114,CLE,Cleveland Indians,134,PIT,Pittsburgh Pirates,6,1
+631179,2020-08-19,109,AZ,Arizona Diamondbacks,133,OAK,Oakland Athletics,1,4
+631201,2020-08-19,139,TB,Tampa Bay Rays,147,NYY,New York Yankees,4,2
+631249,2020-08-19,158,MIL,Milwaukee Brewers,142,MIN,Minnesota Twins,9,3
+631327,2020-08-19,121,NYM,New York Mets,146,MIA,Miami Marlins,5,3
+631418,2020-08-19,113,CIN,Cincinnati Reds,118,KC,Kansas City Royals,0,4
+631422,2020-08-19,113,CIN,Cincinnati Reds,118,KC,Kansas City Royals,5,0
+631497,2020-08-19,116,DET,Detroit Tigers,145,CWS,Chicago White Sox,3,5
+631522,2020-08-19,117,HOU,Houston Astros,115,COL,Colorado Rockies,13,6
+631621,2020-08-19,138,STL,St. Louis Cardinals,112,CHC,Chicago Cubs,9,3
+631652,2020-08-19,143,PHI,Philadelphia Phillies,111,BOS,Boston Red Sox,3,6
+631682,2020-08-19,141,TOR,Toronto Blue Jays,110,BAL,Baltimore Orioles,5,2
+630918,2020-08-20,143,PHI,Philadelphia Phillies,141,TOR,Toronto Blue Jays,8,9
+630919,2020-08-20,143,PHI,Philadelphia Phillies,141,TOR,Toronto Blue Jays,2,3
+630986,2020-08-20,113,CIN,Cincinnati Reds,138,STL,St. Louis Cardinals,4,5
+631026,2020-08-20,108,LAA,Los Angeles Angels,137,SF,San Francisco Giants,5,10
+631049,2020-08-20,119,LAD,Los Angeles Dodgers,136,SEA,Seattle Mariners,6,1
+631077,2020-08-20,140,TEX,Texas Rangers,135,SD,San Diego Padres,7,8
+631118,2020-08-20,114,CLE,Cleveland Indians,134,PIT,Pittsburgh Pirates,2,0
+631180,2020-08-20,109,AZ,Arizona Diamondbacks,133,OAK,Oakland Athletics,1,5
+631202,2020-08-20,139,TB,Tampa Bay Rays,147,NYY,New York Yankees,10,5
+631248,2020-08-20,158,MIL,Milwaukee Brewers,142,MIN,Minnesota Twins,1,7
+631498,2020-08-20,116,DET,Detroit Tigers,145,CWS,Chicago White Sox,0,9
+631523,2020-08-20,117,HOU,Houston Astros,115,COL,Colorado Rockies,10,8
+631684,2020-08-20,111,BOS,Boston Red Sox,110,BAL,Baltimore Orioles,7,1
+630324,2020-08-21,143,PHI,Philadelphia Phillies,144,ATL,Atlanta Braves,2,11
+630886,2020-08-21,146,MIA,Miami Marlins,120,WSH,Washington Nationals,3,2
+630960,2020-08-21,141,TOR,Toronto Blue Jays,139,TB,Tampa Bay Rays,6,5
+630990,2020-08-21,113,CIN,Cincinnati Reds,138,STL,St. Louis Cardinals,4,2
+631027,2020-08-21,109,AZ,Arizona Diamondbacks,137,SF,San Francisco Giants,2,6
+631050,2020-08-21,140,TEX,Texas Rangers,136,SEA,Seattle Mariners,4,7
+631078,2020-08-21,117,HOU,Houston Astros,135,SD,San Diego Padres,3,4
+631103,2020-08-21,158,MIL,Milwaukee Brewers,134,PIT,Pittsburgh Pirates,2,7
+631186,2020-08-21,108,LAA,Los Angeles Angels,133,OAK,Oakland Athletics,3,5
+631348,2020-08-21,115,COL,Colorado Rockies,119,LAD,Los Angeles Dodgers,1,5
+631409,2020-08-21,142,MIN,Minnesota Twins,118,KC,Kansas City Royals,2,7
+631548,2020-08-21,116,DET,Detroit Tigers,114,CLE,Cleveland Indians,10,5
+631633,2020-08-21,145,CWS,Chicago White Sox,112,CHC,Chicago Cubs,10,1
+631665,2020-08-21,111,BOS,Boston Red Sox,110,BAL,Baltimore Orioles,8,5
+630338,2020-08-22,143,PHI,Philadelphia Phillies,144,ATL,Atlanta Braves,5,6
+630890,2020-08-22,146,MIA,Miami Marlins,120,WSH,Washington Nationals,4,5
+630948,2020-08-22,141,TOR,Toronto Blue Jays,139,TB,Tampa Bay Rays,1,2
+630991,2020-08-22,113,CIN,Cincinnati Reds,138,STL,St. Louis Cardinals,0,3
+631028,2020-08-22,109,AZ,Arizona Diamondbacks,137,SF,San Francisco Giants,1,5
+631051,2020-08-22,140,TEX,Texas Rangers,136,SEA,Seattle Mariners,1,10
+631079,2020-08-22,117,HOU,Houston Astros,135,SD,San Diego Padres,2,13
+631104,2020-08-22,158,MIL,Milwaukee Brewers,134,PIT,Pittsburgh Pirates,5,12
+631154,2020-08-22,108,LAA,Los Angeles Angels,133,OAK,Oakland Athletics,4,3
+631341,2020-08-22,120,WSH,Washington Nationals,146,MIA,Miami Marlins,3,5
+631349,2020-08-22,115,COL,Colorado Rockies,119,LAD,Los Angeles Dodgers,3,4
+631403,2020-08-22,142,MIN,Minnesota Twins,118,KC,Kansas City Royals,7,2
+631564,2020-08-22,116,DET,Detroit Tigers,114,CLE,Cleveland Indians,1,6
+631638,2020-08-22,145,CWS,Chicago White Sox,112,CHC,Chicago Cubs,7,4
+631667,2020-08-22,111,BOS,Boston Red Sox,110,BAL,Baltimore Orioles,4,5
+630273,2020-08-23,143,PHI,Philadelphia Phillies,144,ATL,Atlanta Braves,5,4
+630897,2020-08-23,146,MIA,Miami Marlins,120,WSH,Washington Nationals,3,9
+630949,2020-08-23,141,TOR,Toronto Blue Jays,139,TB,Tampa Bay Rays,4,5
+630976,2020-08-23,113,CIN,Cincinnati Reds,138,STL,St. Louis Cardinals,2,6
+631029,2020-08-23,109,AZ,Arizona Diamondbacks,137,SF,San Francisco Giants,1,6
+631052,2020-08-23,140,TEX,Texas Rangers,136,SEA,Seattle Mariners,1,4
+631080,2020-08-23,117,HOU,Houston Astros,135,SD,San Diego Padres,3,5
+631107,2020-08-23,158,MIL,Milwaukee Brewers,134,PIT,Pittsburgh Pirates,4,5
+631170,2020-08-23,108,LAA,Los Angeles Angels,133,OAK,Oakland Athletics,4,5
+631354,2020-08-23,115,COL,Colorado Rockies,119,LAD,Los Angeles Dodgers,3,11
+631412,2020-08-23,142,MIN,Minnesota Twins,118,KC,Kansas City Royals,5,4
+631551,2020-08-23,116,DET,Detroit Tigers,114,CLE,Cleveland Indians,7,4
+631639,2020-08-23,145,CWS,Chicago White Sox,112,CHC,Chicago Cubs,1,2
+631670,2020-08-23,111,BOS,Boston Red Sox,110,BAL,Baltimore Orioles,4,5
+630193,2020-08-24,115,COL,Colorado Rockies,109,AZ,Arizona Diamondbacks,3,2
+630898,2020-08-24,146,MIA,Miami Marlins,120,WSH,Washington Nationals,11,8
+630929,2020-08-24,133,OAK,Oakland Athletics,140,TEX,Texas Rangers,2,3
+630950,2020-08-24,141,TOR,Toronto Blue Jays,139,TB,Tampa Bay Rays,6,4
+630977,2020-08-24,118,KC,Kansas City Royals,138,STL,St. Louis Cardinals,3,9
+631301,2020-08-24,113,CIN,Cincinnati Reds,158,MIL,Milwaukee Brewers,2,4
+631439,2020-08-24,108,LAA,Los Angeles Angels,117,HOU,Houston Astros,4,11
+631468,2020-08-24,112,CHC,Chicago Cubs,116,DET,Detroit Tigers,9,3
+631552,2020-08-24,142,MIN,Minnesota Twins,114,CLE,Cleveland Indians,3,2
+630194,2020-08-25,115,COL,Colorado Rockies,109,AZ,Arizona Diamondbacks,5,4
+630855,2020-08-25,143,PHI,Philadelphia Phillies,120,WSH,Washington Nationals,8,3
+630862,2020-08-25,111,BOS,Boston Red Sox,141,TOR,Toronto Blue Jays,9,7
+630930,2020-08-25,133,OAK,Oakland Athletics,140,TEX,Texas Rangers,10,3
+630951,2020-08-25,110,BAL,Baltimore Orioles,139,TB,Tampa Bay Rays,2,4
+630978,2020-08-25,118,KC,Kansas City Royals,138,STL,St. Louis Cardinals,5,4
+631015,2020-08-25,119,LAD,Los Angeles Dodgers,137,SF,San Francisco Giants,8,10
+631081,2020-08-25,136,SEA,Seattle Mariners,135,SD,San Diego Padres,8,3
+631227,2020-08-25,146,MIA,Miami Marlins,121,NYM,New York Mets,4,0
+631302,2020-08-25,113,CIN,Cincinnati Reds,158,MIL,Milwaukee Brewers,2,3
+631323,2020-08-25,121,NYM,New York Mets,146,MIA,Miami Marlins,0,3
+631423,2020-08-25,108,LAA,Los Angeles Angels,117,HOU,Houston Astros,3,6
+631426,2020-08-25,108,LAA,Los Angeles Angels,117,HOU,Houston Astros,12,5
+631467,2020-08-25,112,CHC,Chicago Cubs,116,DET,Detroit Tigers,1,7
+631499,2020-08-25,134,PIT,Pittsburgh Pirates,145,CWS,Chicago White Sox,0,4
+631553,2020-08-25,142,MIN,Minnesota Twins,114,CLE,Cleveland Indians,2,4
+630099,2020-08-26,115,COL,Colorado Rockies,109,AZ,Arizona Diamondbacks,8,7
+630360,2020-08-26,147,NYY,New York Yankees,144,ATL,Atlanta Braves,1,2
+630361,2020-08-26,147,NYY,New York Yankees,144,ATL,Atlanta Braves,1,5
+630853,2020-08-26,143,PHI,Philadelphia Phillies,120,WSH,Washington Nationals,3,2
+630863,2020-08-26,111,BOS,Boston Red Sox,141,TOR,Toronto Blue Jays,1,9
+630931,2020-08-26,133,OAK,Oakland Athletics,140,TEX,Texas Rangers,3,1
+630952,2020-08-26,110,BAL,Baltimore Orioles,139,TB,Tampa Bay Rays,3,4
+630979,2020-08-26,118,KC,Kansas City Royals,138,STL,St. Louis Cardinals,5,6
+631226,2020-08-26,146,MIA,Miami Marlins,121,NYM,New York Mets,4,5
+631455,2020-08-26,112,CHC,Chicago Cubs,116,DET,Detroit Tigers,6,7
+631500,2020-08-26,134,PIT,Pittsburgh Pirates,145,CWS,Chicago White Sox,3,10
+631554,2020-08-26,142,MIN,Minnesota Twins,114,CLE,Cleveland Indians,3,6
+630999,2020-08-27,134,PIT,Pittsburgh Pirates,138,STL,St. Louis Cardinals,4,3
+631000,2020-08-27,134,PIT,Pittsburgh Pirates,138,STL,St. Louis Cardinals,2,0
+631001,2020-08-27,119,LAD,Los Angeles Dodgers,137,SF,San Francisco Giants,2,0
+631017,2020-08-27,119,LAD,Los Angeles Dodgers,137,SF,San Francisco Giants,7,0
+631082,2020-08-27,136,SEA,Seattle Mariners,135,SD,San Diego Padres,8,3
+631083,2020-08-27,136,SEA,Seattle Mariners,135,SD,San Diego Padres,7,10
+631290,2020-08-27,113,CIN,Cincinnati Reds,158,MIL,Milwaukee Brewers,6,1
+631303,2020-08-27,113,CIN,Cincinnati Reds,158,MIL,Milwaukee Brewers,6,0
+630216,2020-08-28,137,SF,San Francisco Giants,109,AZ,Arizona Diamondbacks,4,7
+630871,2020-08-28,110,BAL,Baltimore Orioles,141,TOR,Toronto Blue Jays,4,5
+630933,2020-08-28,119,LAD,Los Angeles Dodgers,140,TEX,Texas Rangers,2,6
+630980,2020-08-28,114,CLE,Cleveland Indians,138,STL,St. Louis Cardinals,14,2
+631125,2020-08-28,144,ATL,Atlanta Braves,143,PHI,Philadelphia Phillies,4,7
+631203,2020-08-28,121,NYM,New York Mets,147,NYY,New York Yankees,6,4
+631230,2020-08-28,147,NYY,New York Yankees,121,NYM,New York Mets,3,4
+631291,2020-08-28,134,PIT,Pittsburgh Pirates,158,MIL,Milwaukee Brewers,1,9
+631304,2020-08-28,139,TB,Tampa Bay Rays,146,MIA,Miami Marlins,2,0
+631394,2020-08-28,136,SEA,Seattle Mariners,108,LAA,Los Angeles Angels,2,3
+631501,2020-08-28,118,KC,Kansas City Royals,145,CWS,Chicago White Sox,5,6
+631524,2020-08-28,135,SD,San Diego Padres,115,COL,Colorado Rockies,10,4
+631582,2020-08-28,112,CHC,Chicago Cubs,113,CIN,Cincinnati Reds,5,6
+631653,2020-08-28,120,WSH,Washington Nationals,111,BOS,Boston Red Sox,10,2
+630217,2020-08-29,137,SF,San Francisco Giants,109,AZ,Arizona Diamondbacks,5,2
+630906,2020-08-29,110,BAL,Baltimore Orioles,141,TOR,Toronto Blue Jays,0,5
+630934,2020-08-29,119,LAD,Los Angeles Dodgers,140,TEX,Texas Rangers,7,4
+630981,2020-08-29,114,CLE,Cleveland Indians,138,STL,St. Louis Cardinals,2,1
+631134,2020-08-29,144,ATL,Atlanta Braves,143,PHI,Philadelphia Phillies,1,4
+631204,2020-08-29,121,NYM,New York Mets,147,NYY,New York Yankees,1,2
+631277,2020-08-29,134,PIT,Pittsburgh Pirates,158,MIL,Milwaukee Brewers,6,7
+631319,2020-08-29,139,TB,Tampa Bay Rays,146,MIA,Miami Marlins,4,0
+631369,2020-08-29,136,SEA,Seattle Mariners,108,LAA,Los Angeles Angels,3,16
+631427,2020-08-29,133,OAK,Oakland Athletics,117,HOU,Houston Astros,3,6
+631428,2020-08-29,133,OAK,Oakland Athletics,117,HOU,Houston Astros,2,4
+631457,2020-08-29,142,MIN,Minnesota Twins,116,DET,Detroit Tigers,2,4
+631458,2020-08-29,142,MIN,Minnesota Twins,116,DET,Detroit Tigers,2,8
+631502,2020-08-29,118,KC,Kansas City Royals,145,CWS,Chicago White Sox,9,6
+631525,2020-08-29,135,SD,San Diego Padres,115,COL,Colorado Rockies,3,4
+631581,2020-08-29,112,CHC,Chicago Cubs,113,CIN,Cincinnati Reds,3,0
+631595,2020-08-29,112,CHC,Chicago Cubs,113,CIN,Cincinnati Reds,5,6
+631654,2020-08-29,120,WSH,Washington Nationals,111,BOS,Boston Red Sox,3,5
+630219,2020-08-30,137,SF,San Francisco Giants,109,AZ,Arizona Diamondbacks,4,1
+630852,2020-08-30,110,BAL,Baltimore Orioles,141,TOR,Toronto Blue Jays,5,6
+630921,2020-08-30,119,LAD,Los Angeles Dodgers,140,TEX,Texas Rangers,7,2
+630982,2020-08-30,114,CLE,Cleveland Indians,138,STL,St. Louis Cardinals,2,7
+631135,2020-08-30,144,ATL,Atlanta Braves,143,PHI,Philadelphia Phillies,12,10
+631205,2020-08-30,121,NYM,New York Mets,147,NYY,New York Yankees,7,8
+631229,2020-08-30,147,NYY,New York Yankees,121,NYM,New York Mets,5,2
+631278,2020-08-30,134,PIT,Pittsburgh Pirates,158,MIL,Milwaukee Brewers,5,1
+631306,2020-08-30,139,TB,Tampa Bay Rays,146,MIA,Miami Marlins,12,7
+631371,2020-08-30,136,SEA,Seattle Mariners,108,LAA,Los Angeles Angels,2,1
+631459,2020-08-30,142,MIN,Minnesota Twins,116,DET,Detroit Tigers,2,3
+631505,2020-08-30,118,KC,Kansas City Royals,145,CWS,Chicago White Sox,2,5
+631526,2020-08-30,135,SD,San Diego Padres,115,COL,Colorado Rockies,13,2
+631584,2020-08-30,112,CHC,Chicago Cubs,113,CIN,Cincinnati Reds,10,1
+631655,2020-08-30,120,WSH,Washington Nationals,111,BOS,Boston Red Sox,5,9
+630900,2020-08-31,110,BAL,Baltimore Orioles,141,TOR,Toronto Blue Jays,4,3
+631143,2020-08-31,120,WSH,Washington Nationals,143,PHI,Philadelphia Phillies,6,8
+631206,2020-08-31,139,TB,Tampa Bay Rays,147,NYY,New York Yankees,5,3
+631223,2020-08-31,146,MIA,Miami Marlins,121,NYM,New York Mets,5,3
+631247,2020-08-31,145,CWS,Chicago White Sox,142,MIN,Minnesota Twins,8,5
+631281,2020-08-31,134,PIT,Pittsburgh Pirates,158,MIL,Milwaukee Brewers,5,6
+631374,2020-08-31,136,SEA,Seattle Mariners,108,LAA,Los Angeles Angels,2,1
+631414,2020-08-31,114,CLE,Cleveland Indians,118,KC,Kansas City Royals,1,2
+631527,2020-08-31,135,SD,San Diego Padres,115,COL,Colorado Rockies,6,0
+631585,2020-08-31,138,STL,St. Louis Cardinals,113,CIN,Cincinnati Reds,7,5
+631656,2020-08-31,144,ATL,Atlanta Braves,111,BOS,Boston Red Sox,6,3
+631109,2020-09-01,112,CHC,Chicago Cubs,134,PIT,Pittsburgh Pirates,8,7
+631153,2020-09-01,120,WSH,Washington Nationals,143,PHI,Philadelphia Phillies,0,6
+631207,2020-09-01,139,TB,Tampa Bay Rays,147,NYY,New York Yankees,3,5
+631261,2020-09-01,145,CWS,Chicago White Sox,142,MIN,Minnesota Twins,2,3
+631287,2020-09-01,116,DET,Detroit Tigers,158,MIL,Milwaukee Brewers,12,1
+631307,2020-09-01,141,TOR,Toronto Blue Jays,146,MIA,Miami Marlins,2,3
+631355,2020-09-01,109,AZ,Arizona Diamondbacks,119,LAD,Los Angeles Dodgers,3,6
+631416,2020-09-01,114,CLE,Cleveland Indians,118,KC,Kansas City Royals,10,1
+631430,2020-09-01,140,TEX,Texas Rangers,117,HOU,Houston Astros,6,5
+631528,2020-09-01,137,SF,San Francisco Giants,115,COL,Colorado Rockies,23,5
+631586,2020-09-01,138,STL,St. Louis Cardinals,113,CIN,Cincinnati Reds,16,2
+631657,2020-09-01,144,ATL,Atlanta Braves,111,BOS,Boston Red Sox,10,3
+631671,2020-09-01,121,NYM,New York Mets,110,BAL,Baltimore Orioles,5,9
+631111,2020-09-02,112,CHC,Chicago Cubs,134,PIT,Pittsburgh Pirates,8,2
+631145,2020-09-02,120,WSH,Washington Nationals,143,PHI,Philadelphia Phillies,0,3
+631194,2020-09-02,139,TB,Tampa Bay Rays,147,NYY,New York Yankees,5,2
+631253,2020-09-02,145,CWS,Chicago White Sox,142,MIN,Minnesota Twins,1,8
+631283,2020-09-02,116,DET,Detroit Tigers,158,MIL,Milwaukee Brewers,5,8
+631308,2020-09-02,141,TOR,Toronto Blue Jays,146,MIA,Miami Marlins,2,1
+631356,2020-09-02,109,AZ,Arizona Diamondbacks,119,LAD,Los Angeles Dodgers,2,3
+631379,2020-09-02,135,SD,San Diego Padres,108,LAA,Los Angeles Angels,11,4
+631404,2020-09-02,114,CLE,Cleveland Indians,118,KC,Kansas City Royals,5,0
+631431,2020-09-02,140,TEX,Texas Rangers,117,HOU,Houston Astros,1,2
+631529,2020-09-02,137,SF,San Francisco Giants,115,COL,Colorado Rockies,6,9
+631587,2020-09-02,138,STL,St. Louis Cardinals,113,CIN,Cincinnati Reds,3,4
+631624,2020-09-02,144,ATL,Atlanta Braves,111,BOS,Boston Red Sox,7,5
+631673,2020-09-02,121,NYM,New York Mets,110,BAL,Baltimore Orioles,9,4
+631112,2020-09-03,112,CHC,Chicago Cubs,134,PIT,Pittsburgh Pirates,2,6
+631146,2020-09-03,120,WSH,Washington Nationals,143,PHI,Philadelphia Phillies,5,6
+631234,2020-09-03,147,NYY,New York Yankees,121,NYM,New York Mets,7,9
+631368,2020-09-03,135,SD,San Diego Padres,108,LAA,Los Angeles Angels,0,2
+631370,2020-09-03,109,AZ,Arizona Diamondbacks,119,LAD,Los Angeles Dodgers,1,5
+631405,2020-09-03,145,CWS,Chicago White Sox,118,KC,Kansas City Royals,11,6
+631432,2020-09-03,140,TEX,Texas Rangers,117,HOU,Houston Astros,4,8
+631614,2020-09-03,141,TOR,Toronto Blue Jays,111,BOS,Boston Red Sox,6,2
+630323,2020-09-04,120,WSH,Washington Nationals,144,ATL,Atlanta Braves,10,9
+630371,2020-09-04,120,WSH,Washington Nationals,144,ATL,Atlanta Braves,1,7
+630497,2020-09-04,147,NYY,New York Yankees,110,BAL,Baltimore Orioles,3,6
+630865,2020-09-04,111,BOS,Boston Red Sox,141,TOR,Toronto Blue Jays,3,2
+630954,2020-09-04,146,MIA,Miami Marlins,139,TB,Tampa Bay Rays,4,5
+631003,2020-09-04,109,AZ,Arizona Diamondbacks,137,SF,San Francisco Giants,6,5
+631041,2020-09-04,140,TEX,Texas Rangers,136,SEA,Seattle Mariners,3,6
+631113,2020-09-04,113,CIN,Cincinnati Reds,134,PIT,Pittsburgh Pirates,4,2
+631156,2020-09-04,135,SD,San Diego Padres,133,OAK,Oakland Athletics,7,0
+631221,2020-09-04,143,PHI,Philadelphia Phillies,121,NYM,New York Mets,5,3
+631262,2020-09-04,116,DET,Detroit Tigers,142,MIN,Minnesota Twins,0,2
+631345,2020-09-04,115,COL,Colorado Rockies,119,LAD,Los Angeles Dodgers,6,10
+631357,2020-09-04,117,HOU,Houston Astros,108,LAA,Los Angeles Angels,5,6
+631406,2020-09-04,145,CWS,Chicago White Sox,118,KC,Kansas City Royals,7,4
+631456,2020-09-04,142,MIN,Minnesota Twins,116,DET,Detroit Tigers,3,2
+631555,2020-09-04,158,MIL,Milwaukee Brewers,114,CLE,Cleveland Indians,7,1
+631602,2020-09-04,134,PIT,Pittsburgh Pirates,113,CIN,Cincinnati Reds,4,3
+631644,2020-09-04,138,STL,St. Louis Cardinals,112,CHC,Chicago Cubs,1,4
+631649,2020-09-04,141,TOR,Toronto Blue Jays,111,BOS,Boston Red Sox,8,7
+631674,2020-09-04,147,NYY,New York Yankees,110,BAL,Baltimore Orioles,6,5
+630383,2020-09-05,120,WSH,Washington Nationals,144,ATL,Atlanta Braves,10,4
+630955,2020-09-05,146,MIA,Miami Marlins,139,TB,Tampa Bay Rays,7,3
+630998,2020-09-05,112,CHC,Chicago Cubs,138,STL,St. Louis Cardinals,1,5
+631004,2020-09-05,109,AZ,Arizona Diamondbacks,137,SF,San Francisco Giants,3,4
+631044,2020-09-05,140,TEX,Texas Rangers,136,SEA,Seattle Mariners,3,5
+631115,2020-09-05,113,CIN,Cincinnati Reds,134,PIT,Pittsburgh Pirates,6,2
+631157,2020-09-05,135,SD,San Diego Padres,133,OAK,Oakland Athletics,4,8
+631228,2020-09-05,143,PHI,Philadelphia Phillies,121,NYM,New York Mets,1,5
+631264,2020-09-05,116,DET,Detroit Tigers,142,MIN,Minnesota Twins,3,4
+631328,2020-09-05,115,COL,Colorado Rockies,119,LAD,Los Angeles Dodgers,5,2
+631388,2020-09-05,117,HOU,Houston Astros,108,LAA,Los Angeles Angels,9,10
+631408,2020-09-05,145,CWS,Chicago White Sox,118,KC,Kansas City Royals,5,3
+631440,2020-09-05,108,LAA,Los Angeles Angels,117,HOU,Houston Astros,7,6
+631556,2020-09-05,158,MIL,Milwaukee Brewers,114,CLE,Cleveland Indians,3,4
+631607,2020-09-05,138,STL,St. Louis Cardinals,112,CHC,Chicago Cubs,4,2
+631625,2020-09-05,141,TOR,Toronto Blue Jays,111,BOS,Boston Red Sox,8,9
+631675,2020-09-05,147,NYY,New York Yankees,110,BAL,Baltimore Orioles,1,6
+630491,2020-09-06,120,WSH,Washington Nationals,144,ATL,Atlanta Braves,3,10
+630956,2020-09-06,146,MIA,Miami Marlins,139,TB,Tampa Bay Rays,4,5
+631005,2020-09-06,109,AZ,Arizona Diamondbacks,137,SF,San Francisco Giants,2,4
+631030,2020-09-06,140,TEX,Texas Rangers,136,SEA,Seattle Mariners,3,4
+631116,2020-09-06,113,CIN,Cincinnati Reds,134,PIT,Pittsburgh Pirates,2,3
+631158,2020-09-06,135,SD,San Diego Padres,133,OAK,Oakland Athletics,5,3
+631209,2020-09-06,143,PHI,Philadelphia Phillies,121,NYM,New York Mets,1,14
+631254,2020-09-06,116,DET,Detroit Tigers,142,MIN,Minnesota Twins,10,8
+631344,2020-09-06,115,COL,Colorado Rockies,119,LAD,Los Angeles Dodgers,7,6
+631359,2020-09-06,117,HOU,Houston Astros,108,LAA,Los Angeles Angels,5,9
+631407,2020-09-06,145,CWS,Chicago White Sox,118,KC,Kansas City Royals,8,2
+631557,2020-09-06,158,MIL,Milwaukee Brewers,114,CLE,Cleveland Indians,1,4
+631604,2020-09-06,138,STL,St. Louis Cardinals,112,CHC,Chicago Cubs,7,3
+631626,2020-09-06,141,TOR,Toronto Blue Jays,111,BOS,Boston Red Sox,10,8
+631676,2020-09-06,147,NYY,New York Yankees,110,BAL,Baltimore Orioles,1,5
+630415,2020-09-07,146,MIA,Miami Marlins,144,ATL,Atlanta Braves,5,4
+630857,2020-09-07,139,TB,Tampa Bay Rays,120,WSH,Washington Nationals,1,6
+630859,2020-09-07,147,NYY,New York Yankees,141,TOR,Toronto Blue Jays,7,12
+631006,2020-09-07,109,AZ,Arizona Diamondbacks,137,SF,San Francisco Giants,2,4
+631031,2020-09-07,140,TEX,Texas Rangers,136,SEA,Seattle Mariners,4,8
+631084,2020-09-07,115,COL,Colorado Rockies,135,SD,San Diego Padres,0,1
+631159,2020-09-07,117,HOU,Houston Astros,133,OAK,Oakland Athletics,0,6
+631225,2020-09-07,143,PHI,Philadelphia Phillies,121,NYM,New York Mets,9,8
+631255,2020-09-07,116,DET,Detroit Tigers,142,MIN,Minnesota Twins,2,6
+631558,2020-09-07,118,KC,Kansas City Royals,114,CLE,Cleveland Indians,2,5
+631605,2020-09-07,138,STL,St. Louis Cardinals,112,CHC,Chicago Cubs,1,5
+630220,2020-09-08,119,LAD,Los Angeles Dodgers,109,AZ,Arizona Diamondbacks,10,9
+630438,2020-09-08,146,MIA,Miami Marlins,144,ATL,Atlanta Braves,8,0
+630860,2020-09-08,147,NYY,New York Yankees,141,TOR,Toronto Blue Jays,1,2
+630867,2020-09-08,139,TB,Tampa Bay Rays,120,WSH,Washington Nationals,3,5
+630904,2020-09-08,108,LAA,Los Angeles Angels,140,TEX,Texas Rangers,1,7
+630983,2020-09-08,142,MIN,Minnesota Twins,138,STL,St. Louis Cardinals,7,3
+630984,2020-09-08,142,MIN,Minnesota Twins,138,STL,St. Louis Cardinals,4,6
+631007,2020-09-08,136,SEA,Seattle Mariners,137,SF,San Francisco Giants,5,6
+631071,2020-09-08,115,COL,Colorado Rockies,135,SD,San Diego Padres,5,14
+631096,2020-09-08,145,CWS,Chicago White Sox,134,PIT,Pittsburgh Pirates,4,5
+631149,2020-09-08,111,BOS,Boston Red Sox,143,PHI,Philadelphia Phillies,5,6
+631152,2020-09-08,111,BOS,Boston Red Sox,143,PHI,Philadelphia Phillies,5,2
+631160,2020-09-08,117,HOU,Houston Astros,133,OAK,Oakland Athletics,5,4
+631211,2020-09-08,110,BAL,Baltimore Orioles,121,NYM,New York Mets,11,2
+631429,2020-09-08,133,OAK,Oakland Athletics,117,HOU,Houston Astros,4,2
+631460,2020-09-08,158,MIL,Milwaukee Brewers,116,DET,Detroit Tigers,3,8
+631559,2020-09-08,118,KC,Kansas City Royals,114,CLE,Cleveland Indians,8,6
+631615,2020-09-08,113,CIN,Cincinnati Reds,112,CHC,Chicago Cubs,0,3
+630221,2020-09-09,119,LAD,Los Angeles Dodgers,109,AZ,Arizona Diamondbacks,6,4
+630439,2020-09-09,146,MIA,Miami Marlins,144,ATL,Atlanta Braves,9,29
+630864,2020-09-09,147,NYY,New York Yankees,141,TOR,Toronto Blue Jays,7,2
+630925,2020-09-09,108,LAA,Los Angeles Angels,140,TEX,Texas Rangers,3,7
+631008,2020-09-09,136,SEA,Seattle Mariners,137,SF,San Francisco Giants,1,10
+631056,2020-09-09,115,COL,Colorado Rockies,135,SD,San Diego Padres,3,5
+631100,2020-09-09,145,CWS,Chicago White Sox,134,PIT,Pittsburgh Pirates,8,1
+631161,2020-09-09,117,HOU,Houston Astros,133,OAK,Oakland Athletics,2,3
+631212,2020-09-09,110,BAL,Baltimore Orioles,121,NYM,New York Mets,6,7
+631461,2020-09-09,158,MIL,Milwaukee Brewers,116,DET,Detroit Tigers,19,0
+631560,2020-09-09,118,KC,Kansas City Royals,114,CLE,Cleveland Indians,3,0
+631616,2020-09-09,113,CIN,Cincinnati Reds,112,CHC,Chicago Cubs,3,0
+630223,2020-09-10,119,LAD,Los Angeles Dodgers,109,AZ,Arizona Diamondbacks,2,5
+630869,2020-09-10,144,ATL,Atlanta Braves,120,WSH,Washington Nationals,7,6
+630908,2020-09-10,108,LAA,Los Angeles Angels,140,TEX,Texas Rangers,6,2
+630957,2020-09-10,111,BOS,Boston Red Sox,139,TB,Tampa Bay Rays,4,3
+630994,2020-09-10,116,DET,Detroit Tigers,138,STL,St. Louis Cardinals,2,12
+630995,2020-09-10,116,DET,Detroit Tigers,138,STL,St. Louis Cardinals,6,3
+631072,2020-09-10,137,SF,San Francisco Giants,135,SD,San Diego Padres,1,6
+631162,2020-09-10,117,HOU,Houston Astros,133,OAK,Oakland Athletics,1,3
+631309,2020-09-10,143,PHI,Philadelphia Phillies,146,MIA,Miami Marlins,6,7
+631561,2020-09-10,118,KC,Kansas City Royals,114,CLE,Cleveland Indians,11,1
+631634,2020-09-10,113,CIN,Cincinnati Reds,112,CHC,Chicago Cubs,5,8
+630224,2020-09-11,136,SEA,Seattle Mariners,109,AZ,Arizona Diamondbacks,3,4
+630868,2020-09-11,121,NYM,New York Mets,141,TOR,Toronto Blue Jays,18,1
+630873,2020-09-11,144,ATL,Atlanta Braves,120,WSH,Washington Nationals,7,8
+630909,2020-09-11,133,OAK,Oakland Athletics,140,TEX,Texas Rangers,10,6
+630958,2020-09-11,111,BOS,Boston Red Sox,139,TB,Tampa Bay Rays,1,11
+630985,2020-09-11,113,CIN,Cincinnati Reds,138,STL,St. Louis Cardinals,3,1
+631183,2020-09-11,110,BAL,Baltimore Orioles,147,NYY,New York Yankees,1,10
+631184,2020-09-11,110,BAL,Baltimore Orioles,147,NYY,New York Yankees,0,6
+631256,2020-09-11,114,CLE,Cleveland Indians,142,MIN,Minnesota Twins,1,3
+631284,2020-09-11,112,CHC,Chicago Cubs,158,MIL,Milwaukee Brewers,0,1
+631310,2020-09-11,143,PHI,Philadelphia Phillies,146,MIA,Miami Marlins,11,0
+631318,2020-09-11,143,PHI,Philadelphia Phillies,146,MIA,Miami Marlins,3,5
+631399,2020-09-11,134,PIT,Pittsburgh Pirates,118,KC,Kansas City Royals,3,4
+631478,2020-09-11,116,DET,Detroit Tigers,145,CWS,Chicago White Sox,3,4
+631530,2020-09-11,108,LAA,Los Angeles Angels,115,COL,Colorado Rockies,4,8
+630225,2020-09-12,136,SEA,Seattle Mariners,109,AZ,Arizona Diamondbacks,7,3
+630870,2020-09-12,121,NYM,New York Mets,141,TOR,Toronto Blue Jays,2,3
+630877,2020-09-12,144,ATL,Atlanta Braves,120,WSH,Washington Nationals,2,1
+630910,2020-09-12,133,OAK,Oakland Athletics,140,TEX,Texas Rangers,2,5
+630932,2020-09-12,133,OAK,Oakland Athletics,140,TEX,Texas Rangers,10,1
+630959,2020-09-12,111,BOS,Boston Red Sox,139,TB,Tampa Bay Rays,4,5
+630988,2020-09-12,113,CIN,Cincinnati Reds,138,STL,St. Louis Cardinals,1,7
+631185,2020-09-12,110,BAL,Baltimore Orioles,147,NYY,New York Yankees,1,2
+631257,2020-09-12,114,CLE,Cleveland Indians,142,MIN,Minnesota Twins,4,8
+631285,2020-09-12,112,CHC,Chicago Cubs,158,MIL,Milwaukee Brewers,4,2
+631311,2020-09-12,143,PHI,Philadelphia Phillies,146,MIA,Miami Marlins,12,6
+631331,2020-09-12,117,HOU,Houston Astros,119,LAD,Los Angeles Dodgers,7,5
+631400,2020-09-12,134,PIT,Pittsburgh Pirates,118,KC,Kansas City Royals,4,7
+631495,2020-09-12,116,DET,Detroit Tigers,145,CWS,Chicago White Sox,0,14
+631531,2020-09-12,108,LAA,Los Angeles Angels,115,COL,Colorado Rockies,5,2
+630226,2020-09-13,136,SEA,Seattle Mariners,109,AZ,Arizona Diamondbacks,7,3
+630875,2020-09-13,121,NYM,New York Mets,141,TOR,Toronto Blue Jays,3,7
+630883,2020-09-13,144,ATL,Atlanta Braves,120,WSH,Washington Nationals,8,4
+630911,2020-09-13,133,OAK,Oakland Athletics,140,TEX,Texas Rangers,3,6
+630947,2020-09-13,111,BOS,Boston Red Sox,139,TB,Tampa Bay Rays,6,3
+630961,2020-09-13,113,CIN,Cincinnati Reds,138,STL,St. Louis Cardinals,10,5
+631058,2020-09-13,137,SF,San Francisco Giants,135,SD,San Diego Padres,1,3
+631060,2020-09-13,137,SF,San Francisco Giants,135,SD,San Diego Padres,0,6
+631187,2020-09-13,110,BAL,Baltimore Orioles,147,NYY,New York Yankees,1,3
+631259,2020-09-13,114,CLE,Cleveland Indians,142,MIN,Minnesota Twins,5,7
+631286,2020-09-13,112,CHC,Chicago Cubs,158,MIL,Milwaukee Brewers,12,0
+631312,2020-09-13,143,PHI,Philadelphia Phillies,146,MIA,Miami Marlins,1,2
+631320,2020-09-13,143,PHI,Philadelphia Phillies,146,MIA,Miami Marlins,1,8
+631332,2020-09-13,117,HOU,Houston Astros,119,LAD,Los Angeles Dodgers,1,8
+631401,2020-09-13,134,PIT,Pittsburgh Pirates,118,KC,Kansas City Royals,0,11
+631481,2020-09-13,116,DET,Detroit Tigers,145,CWS,Chicago White Sox,2,5
+631532,2020-09-13,108,LAA,Los Angeles Angels,115,COL,Colorado Rockies,5,3
+631053,2020-09-14,133,OAK,Oakland Athletics,136,SEA,Seattle Mariners,5,6
+631054,2020-09-14,133,OAK,Oakland Athletics,136,SEA,Seattle Mariners,9,0
+631061,2020-09-14,119,LAD,Los Angeles Dodgers,135,SD,San Diego Padres,2,7
+631282,2020-09-14,138,STL,St. Louis Cardinals,158,MIL,Milwaukee Brewers,1,2
+631288,2020-09-14,138,STL,St. Louis Cardinals,158,MIL,Milwaukee Brewers,3,2
+631321,2020-09-14,143,PHI,Philadelphia Phillies,146,MIA,Miami Marlins,2,6
+631482,2020-09-14,142,MIN,Minnesota Twins,145,CWS,Chicago White Sox,1,3
+631588,2020-09-14,134,PIT,Pittsburgh Pirates,113,CIN,Cincinnati Reds,1,3
+631590,2020-09-14,134,PIT,Pittsburgh Pirates,113,CIN,Cincinnati Reds,4,9
+631677,2020-09-14,144,ATL,Atlanta Braves,110,BAL,Baltimore Orioles,1,14
+630936,2020-09-15,120,WSH,Washington Nationals,139,TB,Tampa Bay Rays,1,6
+631062,2020-09-15,119,LAD,Los Angeles Dodgers,135,SD,San Diego Padres,3,1
+631144,2020-09-15,121,NYM,New York Mets,143,PHI,Philadelphia Phillies,1,4
+631195,2020-09-15,141,TOR,Toronto Blue Jays,147,NYY,New York Yankees,6,20
+631263,2020-09-15,138,STL,St. Louis Cardinals,158,MIL,Milwaukee Brewers,3,18
+631314,2020-09-15,111,BOS,Boston Red Sox,146,MIA,Miami Marlins,2,0
+631360,2020-09-15,109,AZ,Arizona Diamondbacks,108,LAA,Los Angeles Angels,9,8
+631433,2020-09-15,140,TEX,Texas Rangers,117,HOU,Houston Astros,1,4
+631462,2020-09-15,118,KC,Kansas City Royals,116,DET,Detroit Tigers,0,6
+631483,2020-09-15,142,MIN,Minnesota Twins,145,CWS,Chicago White Sox,2,6
+631520,2020-09-15,133,OAK,Oakland Athletics,115,COL,Colorado Rockies,1,3
+631574,2020-09-15,134,PIT,Pittsburgh Pirates,113,CIN,Cincinnati Reds,1,4
+631618,2020-09-15,114,CLE,Cleveland Indians,112,CHC,Chicago Cubs,5,6
+631680,2020-09-15,144,ATL,Atlanta Braves,110,BAL,Baltimore Orioles,5,1
+630937,2020-09-16,120,WSH,Washington Nationals,139,TB,Tampa Bay Rays,4,2
+631032,2020-09-16,137,SF,San Francisco Giants,136,SEA,Seattle Mariners,9,3
+631063,2020-09-16,119,LAD,Los Angeles Dodgers,135,SD,San Diego Padres,7,5
+631119,2020-09-16,121,NYM,New York Mets,143,PHI,Philadelphia Phillies,5,4
+631189,2020-09-16,141,TOR,Toronto Blue Jays,147,NYY,New York Yankees,2,13
+631265,2020-09-16,138,STL,St. Louis Cardinals,158,MIL,Milwaukee Brewers,4,2
+631289,2020-09-16,138,STL,St. Louis Cardinals,158,MIL,Milwaukee Brewers,0,6
+631315,2020-09-16,111,BOS,Boston Red Sox,146,MIA,Miami Marlins,4,8
+631361,2020-09-16,109,AZ,Arizona Diamondbacks,108,LAA,Los Angeles Angels,9,6
+631434,2020-09-16,140,TEX,Texas Rangers,117,HOU,Houston Astros,1,0
+631463,2020-09-16,118,KC,Kansas City Royals,116,DET,Detroit Tigers,4,0
+631484,2020-09-16,142,MIN,Minnesota Twins,145,CWS,Chicago White Sox,5,1
+631509,2020-09-16,133,OAK,Oakland Athletics,115,COL,Colorado Rockies,3,1
+631575,2020-09-16,134,PIT,Pittsburgh Pirates,113,CIN,Cincinnati Reds,0,1
+631619,2020-09-16,114,CLE,Cleveland Indians,112,CHC,Chicago Cubs,2,3
+631659,2020-09-16,144,ATL,Atlanta Braves,110,BAL,Baltimore Orioles,1,5
+630953,2020-09-17,110,BAL,Baltimore Orioles,139,TB,Tampa Bay Rays,6,10
+631034,2020-09-17,137,SF,San Francisco Giants,136,SEA,Seattle Mariners,6,4
+631101,2020-09-17,138,STL,St. Louis Cardinals,134,PIT,Pittsburgh Pirates,1,5
+631117,2020-09-17,121,NYM,New York Mets,143,PHI,Philadelphia Phillies,10,6
+631190,2020-09-17,141,TOR,Toronto Blue Jays,147,NYY,New York Yankees,7,10
+631313,2020-09-17,111,BOS,Boston Red Sox,146,MIA,Miami Marlins,5,3
+631362,2020-09-17,109,AZ,Arizona Diamondbacks,108,LAA,Los Angeles Angels,3,7
+631435,2020-09-17,140,TEX,Texas Rangers,117,HOU,Houston Astros,1,2
+631464,2020-09-17,114,CLE,Cleveland Indians,116,DET,Detroit Tigers,10,3
+631485,2020-09-17,142,MIN,Minnesota Twins,145,CWS,Chicago White Sox,3,4
+631510,2020-09-17,119,LAD,Los Angeles Dodgers,115,COL,Colorado Rockies,9,3
+631660,2020-09-17,139,TB,Tampa Bay Rays,110,BAL,Baltimore Orioles,3,1
+630907,2020-09-18,143,PHI,Philadelphia Phillies,141,TOR,Toronto Blue Jays,7,0
+630987,2020-09-18,134,PIT,Pittsburgh Pirates,138,STL,St. Louis Cardinals,2,7
+631040,2020-09-18,135,SD,San Diego Padres,136,SEA,Seattle Mariners,6,1
+631102,2020-09-18,138,STL,St. Louis Cardinals,134,PIT,Pittsburgh Pirates,6,5
+631122,2020-09-18,141,TOR,Toronto Blue Jays,143,PHI,Philadelphia Phillies,7,8
+631163,2020-09-18,137,SF,San Francisco Giants,133,OAK,Oakland Athletics,0,6
+631213,2020-09-18,144,ATL,Atlanta Braves,121,NYM,New York Mets,15,2
+631266,2020-09-18,118,KC,Kansas City Royals,158,MIL,Milwaukee Brewers,5,9
+631316,2020-09-18,120,WSH,Washington Nationals,146,MIA,Miami Marlins,5,0
+631342,2020-09-18,120,WSH,Washington Nationals,146,MIA,Miami Marlins,3,14
+631367,2020-09-18,140,TEX,Texas Rangers,108,LAA,Los Angeles Angels,2,6
+631436,2020-09-18,109,AZ,Arizona Diamondbacks,117,HOU,Houston Astros,6,3
+631465,2020-09-18,114,CLE,Cleveland Indians,116,DET,Detroit Tigers,1,0
+631511,2020-09-18,119,LAD,Los Angeles Dodgers,115,COL,Colorado Rockies,15,6
+631576,2020-09-18,145,CWS,Chicago White Sox,113,CIN,Cincinnati Reds,1,7
+631627,2020-09-18,147,NYY,New York Yankees,111,BOS,Boston Red Sox,6,5
+631629,2020-09-18,142,MIN,Minnesota Twins,112,CHC,Chicago Cubs,0,1
+631661,2020-09-18,139,TB,Tampa Bay Rays,110,BAL,Baltimore Orioles,2,1
+631036,2020-09-19,135,SD,San Diego Padres,136,SEA,Seattle Mariners,1,4
+631123,2020-09-19,141,TOR,Toronto Blue Jays,143,PHI,Philadelphia Phillies,1,3
+631147,2020-09-19,138,STL,St. Louis Cardinals,134,PIT,Pittsburgh Pirates,5,4
+631164,2020-09-19,137,SF,San Francisco Giants,133,OAK,Oakland Athletics,0,6
+631214,2020-09-19,144,ATL,Atlanta Braves,121,NYM,New York Mets,2,7
+631267,2020-09-19,118,KC,Kansas City Royals,158,MIL,Milwaukee Brewers,0,5
+631317,2020-09-19,120,WSH,Washington Nationals,146,MIA,Miami Marlins,3,7
+631372,2020-09-19,140,TEX,Texas Rangers,108,LAA,Los Angeles Angels,3,4
+631437,2020-09-19,109,AZ,Arizona Diamondbacks,117,HOU,Houston Astros,2,3
+631466,2020-09-19,114,CLE,Cleveland Indians,116,DET,Detroit Tigers,2,5
+631512,2020-09-19,119,LAD,Los Angeles Dodgers,115,COL,Colorado Rockies,6,1
+631577,2020-09-19,145,CWS,Chicago White Sox,113,CIN,Cincinnati Reds,5,0
+631628,2020-09-19,147,NYY,New York Yankees,111,BOS,Boston Red Sox,8,0
+631632,2020-09-19,142,MIN,Minnesota Twins,112,CHC,Chicago Cubs,8,1
+631662,2020-09-19,139,TB,Tampa Bay Rays,110,BAL,Baltimore Orioles,3,1
+631037,2020-09-20,135,SD,San Diego Padres,136,SEA,Seattle Mariners,7,4
+631086,2020-09-20,138,STL,St. Louis Cardinals,134,PIT,Pittsburgh Pirates,2,1
+631128,2020-09-20,141,TOR,Toronto Blue Jays,143,PHI,Philadelphia Phillies,6,3
+631166,2020-09-20,137,SF,San Francisco Giants,133,OAK,Oakland Athletics,14,2
+631215,2020-09-20,144,ATL,Atlanta Braves,121,NYM,New York Mets,7,0
+631268,2020-09-20,118,KC,Kansas City Royals,158,MIL,Milwaukee Brewers,3,5
+631305,2020-09-20,120,WSH,Washington Nationals,146,MIA,Miami Marlins,1,2
+631329,2020-09-20,120,WSH,Washington Nationals,146,MIA,Miami Marlins,15,0
+631375,2020-09-20,140,TEX,Texas Rangers,108,LAA,Los Angeles Angels,7,2
+631424,2020-09-20,109,AZ,Arizona Diamondbacks,117,HOU,Houston Astros,2,3
+631454,2020-09-20,114,CLE,Cleveland Indians,116,DET,Detroit Tigers,7,4
+631519,2020-09-20,119,LAD,Los Angeles Dodgers,115,COL,Colorado Rockies,3,6
+631578,2020-09-20,145,CWS,Chicago White Sox,113,CIN,Cincinnati Reds,3,7
+631617,2020-09-20,142,MIN,Minnesota Twins,112,CHC,Chicago Cubs,4,0
+631635,2020-09-20,147,NYY,New York Yankees,111,BOS,Boston Red Sox,2,10
+631672,2020-09-20,139,TB,Tampa Bay Rays,110,BAL,Baltimore Orioles,1,2
+630440,2020-09-21,146,MIA,Miami Marlins,144,ATL,Atlanta Braves,4,5
+630876,2020-09-21,147,NYY,New York Yankees,141,TOR,Toronto Blue Jays,5,11
+630884,2020-09-21,143,PHI,Philadelphia Phillies,120,WSH,Washington Nationals,1,5
+631009,2020-09-21,115,COL,Colorado Rockies,137,SF,San Francisco Giants,7,2
+631038,2020-09-21,117,HOU,Houston Astros,136,SEA,Seattle Mariners,1,6
+631087,2020-09-21,112,CHC,Chicago Cubs,134,PIT,Pittsburgh Pirates,5,0
+631216,2020-09-21,139,TB,Tampa Bay Rays,121,NYM,New York Mets,2,1
+631376,2020-09-21,140,TEX,Texas Rangers,108,LAA,Los Angeles Angels,5,8
+631402,2020-09-21,138,STL,St. Louis Cardinals,118,KC,Kansas City Royals,1,4
+631562,2020-09-21,145,CWS,Chicago White Sox,114,CLE,Cleveland Indians,4,7
+631579,2020-09-21,158,MIL,Milwaukee Brewers,113,CIN,Cincinnati Reds,3,6
+630243,2020-09-22,140,TEX,Texas Rangers,109,AZ,Arizona Diamondbacks,0,7
+630385,2020-09-22,146,MIA,Miami Marlins,144,ATL,Atlanta Braves,1,11
+630881,2020-09-22,147,NYY,New York Yankees,141,TOR,Toronto Blue Jays,12,1
+630888,2020-09-22,143,PHI,Philadelphia Phillies,120,WSH,Washington Nationals,1,5
+630896,2020-09-22,143,PHI,Philadelphia Phillies,120,WSH,Washington Nationals,7,8
+631010,2020-09-22,115,COL,Colorado Rockies,137,SF,San Francisco Giants,2,5
+631039,2020-09-22,117,HOU,Houston Astros,136,SEA,Seattle Mariners,6,1
+631064,2020-09-22,108,LAA,Los Angeles Angels,135,SD,San Diego Padres,4,2
+631088,2020-09-22,112,CHC,Chicago Cubs,134,PIT,Pittsburgh Pirates,2,3
+631217,2020-09-22,139,TB,Tampa Bay Rays,121,NYM,New York Mets,2,5
+631251,2020-09-22,116,DET,Detroit Tigers,142,MIN,Minnesota Twins,4,5
+631333,2020-09-22,133,OAK,Oakland Athletics,119,LAD,Los Angeles Dodgers,2,7
+631411,2020-09-22,138,STL,St. Louis Cardinals,118,KC,Kansas City Royals,5,0
+631550,2020-09-22,145,CWS,Chicago White Sox,114,CLE,Cleveland Indians,3,5
+631580,2020-09-22,158,MIL,Milwaukee Brewers,113,CIN,Cincinnati Reds,3,2
+631636,2020-09-22,110,BAL,Baltimore Orioles,111,BOS,Boston Red Sox,3,8
+630263,2020-09-23,140,TEX,Texas Rangers,109,AZ,Arizona Diamondbacks,3,7
+630554,2020-09-23,146,MIA,Miami Marlins,144,ATL,Atlanta Braves,4,9
+630885,2020-09-23,147,NYY,New York Yankees,141,TOR,Toronto Blue Jays,1,14
+630892,2020-09-23,143,PHI,Philadelphia Phillies,120,WSH,Washington Nationals,12,3
+631011,2020-09-23,115,COL,Colorado Rockies,137,SF,San Francisco Giants,2,7
+631035,2020-09-23,117,HOU,Houston Astros,136,SEA,Seattle Mariners,2,3
+631065,2020-09-23,108,LAA,Los Angeles Angels,135,SD,San Diego Padres,5,2
+631089,2020-09-23,112,CHC,Chicago Cubs,134,PIT,Pittsburgh Pirates,1,2
+631218,2020-09-23,139,TB,Tampa Bay Rays,121,NYM,New York Mets,8,5
+631250,2020-09-23,116,DET,Detroit Tigers,142,MIN,Minnesota Twins,6,7
+631334,2020-09-23,133,OAK,Oakland Athletics,119,LAD,Los Angeles Dodgers,6,4
+631380,2020-09-23,138,STL,St. Louis Cardinals,118,KC,Kansas City Royals,3,12
+631534,2020-09-23,145,CWS,Chicago White Sox,114,CLE,Cleveland Indians,2,3
+631583,2020-09-23,158,MIL,Milwaukee Brewers,113,CIN,Cincinnati Reds,1,6
+631637,2020-09-23,110,BAL,Baltimore Orioles,111,BOS,Boston Red Sox,1,9
+630887,2020-09-24,147,NYY,New York Yankees,141,TOR,Toronto Blue Jays,1,4
+630893,2020-09-24,121,NYM,New York Mets,120,WSH,Washington Nationals,3,2
+630912,2020-09-24,117,HOU,Houston Astros,140,TEX,Texas Rangers,12,4
+630975,2020-09-24,158,MIL,Milwaukee Brewers,138,STL,St. Louis Cardinals,2,4
+631012,2020-09-24,115,COL,Colorado Rockies,137,SF,San Francisco Giants,5,4
+631099,2020-09-24,112,CHC,Chicago Cubs,134,PIT,Pittsburgh Pirates,0,7
+631335,2020-09-24,133,OAK,Oakland Athletics,119,LAD,Los Angeles Dodgers,1,5
+631398,2020-09-24,116,DET,Detroit Tigers,118,KC,Kansas City Royals,7,8
+631549,2020-09-24,145,CWS,Chicago White Sox,114,CLE,Cleveland Indians,4,5
+631640,2020-09-24,110,BAL,Baltimore Orioles,111,BOS,Boston Red Sox,13,1
+631685,2020-09-24,146,MIA,Miami Marlins,144,ATL,Atlanta Braves,4,2
+630203,2020-09-25,115,COL,Colorado Rockies,109,AZ,Arizona Diamondbacks,5,11
+630270,2020-09-25,115,COL,Colorado Rockies,109,AZ,Arizona Diamondbacks,0,4
+630569,2020-09-25,111,BOS,Boston Red Sox,144,ATL,Atlanta Braves,7,8
+630889,2020-09-25,110,BAL,Baltimore Orioles,141,TOR,Toronto Blue Jays,5,10
+630913,2020-09-25,117,HOU,Houston Astros,140,TEX,Texas Rangers,4,5
+630938,2020-09-25,143,PHI,Philadelphia Phillies,139,TB,Tampa Bay Rays,4,6
+630963,2020-09-25,158,MIL,Milwaukee Brewers,138,STL,St. Louis Cardinals,3,0
+631013,2020-09-25,135,SD,San Diego Padres,137,SF,San Francisco Giants,4,5
+631059,2020-09-25,137,SF,San Francisco Giants,135,SD,San Diego Padres,5,6
+631167,2020-09-25,136,SEA,Seattle Mariners,133,OAK,Oakland Athletics,1,3
+631191,2020-09-25,146,MIA,Miami Marlins,147,NYY,New York Yankees,4,3
+631246,2020-09-25,113,CIN,Cincinnati Reds,142,MIN,Minnesota Twins,7,2
+631292,2020-09-25,138,STL,St. Louis Cardinals,158,MIL,Milwaukee Brewers,9,1
+631336,2020-09-25,108,LAA,Los Angeles Angels,119,LAD,Los Angeles Dodgers,5,9
+631383,2020-09-25,116,DET,Detroit Tigers,118,KC,Kansas City Royals,2,3
+631486,2020-09-25,112,CHC,Chicago Cubs,145,CWS,Chicago White Sox,10,0
+631536,2020-09-25,134,PIT,Pittsburgh Pirates,114,CLE,Cleveland Indians,3,4
+630271,2020-09-26,115,COL,Colorado Rockies,109,AZ,Arizona Diamondbacks,10,3
+630570,2020-09-26,111,BOS,Boston Red Sox,144,ATL,Atlanta Braves,8,2
+630891,2020-09-26,110,BAL,Baltimore Orioles,141,TOR,Toronto Blue Jays,2,5
+630894,2020-09-26,121,NYM,New York Mets,120,WSH,Washington Nationals,3,5
+630895,2020-09-26,121,NYM,New York Mets,120,WSH,Washington Nationals,3,4
+630914,2020-09-26,117,HOU,Houston Astros,140,TEX,Texas Rangers,1,6
+630939,2020-09-26,143,PHI,Philadelphia Phillies,139,TB,Tampa Bay Rays,3,4
+630964,2020-09-26,158,MIL,Milwaukee Brewers,138,STL,St. Louis Cardinals,3,0
+631016,2020-09-26,135,SD,San Diego Padres,137,SF,San Francisco Giants,6,2
+631055,2020-09-26,133,OAK,Oakland Athletics,136,SEA,Seattle Mariners,3,12
+631169,2020-09-26,136,SEA,Seattle Mariners,133,OAK,Oakland Athletics,5,1
+631193,2020-09-26,146,MIA,Miami Marlins,147,NYY,New York Yankees,4,11
+631245,2020-09-26,113,CIN,Cincinnati Reds,142,MIN,Minnesota Twins,3,7
+631337,2020-09-26,108,LAA,Los Angeles Angels,119,LAD,Los Angeles Dodgers,6,7
+631385,2020-09-26,116,DET,Detroit Tigers,118,KC,Kansas City Royals,4,3
+631487,2020-09-26,112,CHC,Chicago Cubs,145,CWS,Chicago White Sox,5,9
+631537,2020-09-26,134,PIT,Pittsburgh Pirates,114,CLE,Cleveland Indians,8,0
+630202,2020-09-27,115,COL,Colorado Rockies,109,AZ,Arizona Diamondbacks,3,11
+630573,2020-09-27,111,BOS,Boston Red Sox,144,ATL,Atlanta Braves,9,1
+630854,2020-09-27,121,NYM,New York Mets,120,WSH,Washington Nationals,5,15
+630858,2020-09-27,110,BAL,Baltimore Orioles,141,TOR,Toronto Blue Jays,7,5
+630915,2020-09-27,117,HOU,Houston Astros,140,TEX,Texas Rangers,4,8
+630945,2020-09-27,143,PHI,Philadelphia Phillies,139,TB,Tampa Bay Rays,0,5
+630965,2020-09-27,158,MIL,Milwaukee Brewers,138,STL,St. Louis Cardinals,2,5
+631002,2020-09-27,135,SD,San Diego Padres,137,SF,San Francisco Giants,5,4
+631155,2020-09-27,136,SEA,Seattle Mariners,133,OAK,Oakland Athletics,2,6
+631188,2020-09-27,146,MIA,Miami Marlins,147,NYY,New York Yankees,5,0
+631244,2020-09-27,113,CIN,Cincinnati Reds,142,MIN,Minnesota Twins,5,3
+631338,2020-09-27,108,LAA,Los Angeles Angels,119,LAD,Los Angeles Dodgers,0,5
+631386,2020-09-27,116,DET,Detroit Tigers,118,KC,Kansas City Royals,1,3
+631488,2020-09-27,112,CHC,Chicago Cubs,145,CWS,Chicago White Sox,10,8
+631538,2020-09-27,134,PIT,Pittsburgh Pirates,114,CLE,Cleveland Indians,6,8
